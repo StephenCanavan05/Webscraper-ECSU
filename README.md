@@ -1,1 +1,1 @@
-This is Stephen Canavans, Work on an Eastern Connecticut State University Office Hour Webscrapper along with class time web Scrapper.
+This is Stephen Canavan's, Work on an Eastern Connecticut State University Office Hour Webscraper along with class time web Scraper.
