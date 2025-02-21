@@ -28,7 +28,7 @@ ANT,345,01,MWF,09:00 am-09:50 am,WEBB 215,"Williamson, E (P)"
 ANT,364,01,TR,11:00 am-12:15 pm,SCIENC 116,"Shepard-Torres, R (P)"
 ANT,365,01,TR,11:00 am-12:15 pm,SCIENC 432,"Leiss, A (P)"
 ANT,400,01,W,04:00 pm-06:45 pm,WEBB 317,"Leiss, A (P)"
-ANT,480,01, ,TBA,TBA,"Staff, * (P)"
+ANT,480,01, ,TBA,TBA,TBA
 ANT,490,01, ,TBA,TBA,"Leiss, A (P)"
 ART,110,01,MW,09:00 am-11:45 am,FAIC 328,"Guarino, B (P)"
 ART,110,02,TR,09:30 am-12:15 pm,FAIC 326,"McKee, M (P)"
@@ -75,7 +75,7 @@ ART,480,03, ,TBA,TBA,"Li, L (P)"
 ART,480,04, ,TBA,TBA,"Greene, R (P)"
 ART,480,05, ,TBA,TBA,"Chen, T (P)"
 ART,480,06, ,TBA,TBA,"Doyle, M (P)"
-ART,480,07, ,TBA,TBA,"Kim, S (P)"
+ART,480,07, ,TBA,TBA,TBA
 ART,480,08, ,TBA,TBA,"Kim, S (P)"
 ART,480,09, ,TBA,TBA,"Chen, T (P)"
 ART,480,10, ,TBA,TBA,"Liu, Q (P)"
@@ -84,11 +84,15 @@ ART,480,12, ,TBA,TBA,"Li, L (P)"
 ART,480,13, ,TBA,TBA,"Doyle, M (P)"
 ART,480,14, ,TBA,TBA,"Petrikovsky, H (P)"
 ART,480,15, ,TBA,TBA,"Rahmanifar, A (P)"
-ART,480,16, ,TBA,TBA,"Rahmanifar, A (P)"
+ART,480,16, ,TBA,TBA,TBA
 ART,480,17, ,TBA,TBA,"Greene, R (P)"
 ART,480,18, ,TBA,TBA,"Kim, S (P)"
 ART,480,19, ,TBA,TBA,"Li, L (P)"
 ART,480,20, ,TBA,TBA,"Greene, R (P)"
+ART,480,21, ,TBA,TBA,"Li, L (P)"
+ART,480,22, ,TBA,TBA,"Greene, R (P)"
+ART,480,23, ,TBA,TBA,TBA
+ART,480,24, ,TBA,TBA,"Drew, T (P)"
 ART,485,01,MW,04:00 pm-06:45 pm,FAIC 323,"Li, L (P), Greene, R , Rahmanifar, A"
 ART,485,01,MW,04:00 pm-06:45 pm,FAIC 122,"Li, L (P), Greene, R , Rahmanifar, A"
 ART,485,01,MW,04:00 pm-06:45 pm,FAIC 247,"Li, L (P), Greene, R , Rahmanifar, A"
@@ -109,7 +113,7 @@ BIO,120,01,M,02:00 pm-04:50 pm,SCIENC 331,"Hulvey, J (P)"
 BIO,140,01,MWF,09:00 am-09:50 am,SCIENC 104,"Laux, D (P)"
 BIO,140,01A,W,02:00 pm-04:50 pm,SCIENC 334,"Laux, D (P)"
 BIO,140,01B,R,09:30 am-12:20 pm,SCIENC 334,"Murdoch, B (P)"
-BIO,180,01, ,TBA,TBA,"Staff, * (P)"
+BIO,180,01, ,TBA,TBA,TBA
 BIO,200,01,TR,09:30 am-10:45 am,SCIENC 416,"Wasielewski, T (P)"
 BIO,200,02,TR,11:00 am-12:15 pm,SCIENC 416,"Wasielewski, T (P)"
 BIO,204,01,TR,11:00 am-12:15 pm,SCIENC 320,"Lucin, K (P)"
@@ -126,6 +130,7 @@ BIO,230,01,M,02:00 pm-04:50 pm,SCIENC 335,"Groth, A (P)"
 BIO,240,02,MWF,10:00 am-10:50 am,SCIENC 231,"Mattingly, B (P)"
 BIO,240,02,T,11:00 am-01:50 pm,SCIENC 331,"Mattingly, B (P)"
 BIO,280,01, ,TBA,TBA,"Lucin, K (P)"
+BIO,280,02, ,TBA,TBA,"Idjadi, J (P)"
 BIO,301,01X,T,04:00 pm-06:45 pm,SCIENC 116,"Cowles, E (P)"
 BIO,302,01X,T,09:30 am-11:20 am,SCIENC 341,"Murdoch, B (P)"
 BIO,302,02X,T,12:30 pm-02:20 pm,SCIENC 341,"Murdoch, B (P)"
@@ -153,6 +158,9 @@ BIO,380,06, ,TBA,TBA,"Epp, K (P)"
 BIO,380,07, ,TBA,TBA,"Graham, M (P)"
 BIO,380,08, ,TBA,TBA,"Hulvey, J (P)"
 BIO,380,09, ,TBA,TBA,"Murdoch, B (P)"
+BIO,380,10, ,TBA,TBA,"Connolly, B (P)"
+BIO,380,11, ,TBA,TBA,"Laux, D (P)"
+BIO,380,12, ,TBA,TBA,"Idjadi, J (P)"
 BIO,424,01,MWF,10:00 am-10:50 am,SCIENC 416,"Cowles, E (P)"
 BIO,424,01,T,09:30 am-12:20 pm,SCIENC 335,"Cowles, E (P)"
 BIO,438,01,MWF,01:00 pm-01:50 pm,SCIENC 416,"Connolly, B (P)"
@@ -169,6 +177,9 @@ BIO,480,03, ,TBA,TBA,"Graham, M (P)"
 BIO,480,04, ,TBA,TBA,"Epp, K (P)"
 BIO,480,05, ,TBA,TBA,"Lucin, K (P)"
 BIO,480,06, ,TBA,TBA,"Hulvey, J (P)"
+BIO,480,07, ,TBA,TBA,"Murdoch, B (P)"
+BIO,480,08, ,TBA,TBA,"Laux, D (P)"
+BIO,480,09, ,TBA,TBA,"Connolly, B (P)"
 BIO,488,01, ,TBA,TBA,TBA
 BIO,490,01, ,TBA,TBA,"Laux, D (P)"
 BIO,490,02, ,TBA,TBA,"Murdoch, B (P)"
@@ -253,7 +264,7 @@ BIS,449,01,TR,12:30 pm-01:45 pm,WEBB 407,"Kunene, N (P)"
 BIS,449,02,TR,02:00 pm-03:15 pm,WEBB 407,"Kunene, N (P)"
 BIS,461,01,MW,07:00 pm-08:15 pm,WEBB 407,"Citurs, A (P)"
 BIS,480,01, ,TBA,TBA,"Citurs, A (P)"
-BIS,490,01,M,07:00 pm-08:15 pm,WEBB 307,"Staff, * (P)"
+BIS,490,01,M,07:00 pm-08:15 pm,WEBB 307,TBA
 CAS,201,E25, ,TBA,TBA,"Couture-Palmerino, P (P)"
 CAS,222,E25, ,TBA,ONLINE,"Couture-Palmerino, P (P)"
 CHE,211,01,MWF,09:00 am-09:50 am,SCIENC 117,"He, K (P)"
@@ -307,7 +318,7 @@ COM,230,03,TR,09:30 am-10:45 am,COMBLD 108,"Curtis, S (P)"
 COM,245,01,T,04:00 pm-06:45 pm,COMBLD 226,"Zatowski, J (P)"
 COM,290,01, ,TBA,TBA,"Utterback, A (P)"
 COM,291,01, ,TBA,TBA,"Zatowski, J (P)"
-COM,291,02, ,TBA,TBA,"Zatowski, J (P)"
+COM,291,02, ,TBA,TBA,TBA
 COM,292,01, ,TBA,TBA,TBA
 COM,300,02,TR,12:30 pm-01:45 pm,FAIC 307,"Utterback, A (P)"
 COM,301,01,MWF,12:00 pm-12:50 pm,FAIC 115,"Osterndorf, W (P)"
@@ -323,6 +334,7 @@ COM,425,01,W,04:00 pm-06:45 pm,COMBLD 114B,"Utterback, A (P)"
 COM,480,01, ,TBA,TBA,"Utterback, A (P)"
 COM,480,02, ,TBA,TBA,"Kang, M (P)"
 COM,480,03, ,TBA,TBA,"Utterback, A (P)"
+COM,480,04, ,TBA,TBA,"Flood, R (P)"
 COM,490,01, ,TBA,TBA,"Cobb, J (P)"
 COM,490,02, ,TBA,TBA,"Flood, R (P)"
 COM,490,03, ,TBA,TBA,"Kang, M (P)"
@@ -331,7 +343,7 @@ COM,490,05, ,TBA,TBA,"Day, B (P)"
 COM,490,06, ,TBA,TBA,"Utterback, A (P)"
 COM,490,07, ,TBA,TBA,"Osterndorf, W (P)"
 COM,490,08, ,TBA,TBA,"Zatowski, J (P)"
-COM,491,01, ,TBA,TBA,"Staff, * (P)"
+COM,491,01, ,TBA,TBA,TBA
 CFT,100,01,F,12:00 pm-02:45 pm,FAIC 117,"Pellegrini, D (P)"
 CFT,100,02,F,12:00 pm-02:45 pm,FAIC 118,"Morgan, K (P)"
 CFT,205,01,MWF,10:00 am-11:10 am,COMBLD 226,"Flood, R (P)"
@@ -379,10 +391,11 @@ CRM,475,01V,M,08:00 am-08:50 am,WEBB 215,"Severance, T (P)"
 CRM,480,01, ,TBA,TBA,"Pesta, R (P)"
 CRM,480,02, ,TBA,TBA,"Kurti, M (P)"
 CRM,480,03, ,TBA,TBA,"Lugo, W (P)"
+CRM,480,04, ,TBA,TBA,"Severance, T (P)"
 CRM,490,01, ,TBA,TBA,"Severance, T (P)"
 CRM,490,02, ,TBA,TBA,"Severance, T (P)"
-DNC,395,01,W,02:00 pm-03:30 pm,FAIC 219,"Bright-Holland, A (P)"
-DNC,480,01, ,TBA,TBA,"Staff, * (P)"
+DNC,395,01,W,02:00 pm-03:30 pm,FAIC 219,TBA
+DNC,480,01, ,TBA,TBA,TBA
 DSC,501,E25, ,TBA,ONLINE,"Davis, M (P)"
 DSC,503,E25, ,TBA,ONLINE,"Liu, X (P)"
 DSC,503,E26, ,TBA,ONLINE,"Liu, X (P)"
@@ -405,14 +418,14 @@ ECE,490,01, ,TBA,TBA,TBA
 ECE,501,01X,W,04:00 pm-06:45 pm,CECE 175,"Rezai, N (P)"
 ECE,505,01X,M,04:00 pm-06:45 pm,CECE 175,"Lee, K (P)"
 ECE,506,01X,M,04:00 pm-06:45 pm,CECE 167,"LaPorte, K (P)"
-ECE,514,01, ,TBA,TBA,"Picard, J (P)"
+ECE,514,01, ,TBA,TBA,TBA
 ECE,516,01, ,TBA,TBA,"Bouley, T (P)"
 ECE,565,01,MTWRF,08:00 am-03:30 pm,TBA,"Peacock, J (P)"
 ECE,566,01, ,TBA,TBA,"Dunnack, S (P)"
 ECE,696,01, ,TBA,TBA,"Swaminathan, S (P)"
 ECO,100,01,TR,12:30 pm-01:45 pm,COMBLD 108,"Montemerlo, J (P)"
-ECO,100,02,MWF,01:00 pm-01:50 pm,COMBLD 201,"Ferrero, K (P)"
-ECO,100,03,MWF,02:00 pm-02:50 pm,COMBLD 201,"Ferrero, K (P)"
+ECO,100,02,MWF,01:00 pm-01:50 pm,COMBLD 201,"Karrenberg, J (P)"
+ECO,100,03,MWF,02:00 pm-02:50 pm,COMBLD 201,"Karrenberg, J (P)"
 ECO,200,01,MWF,11:00 am-11:50 am,COMBLD 109,"Ndiaye, M (P)"
 ECO,200,02,MWF,10:00 am-10:50 am,GODDAR 203,"Cunningham, B (P)"
 ECO,200,03,TR,09:30 am-10:45 am,GODDAR 201,"Forte, W (P)"
@@ -439,7 +452,7 @@ ECO,480,02, ,TBA,TBA,"Clifford, M (P)"
 ECO,480,03, ,TBA,TBA,"Clifford, M (P)"
 ECO,480,04, ,TBA,TBA,"Clifford, M (P)"
 ECO,480,05, ,TBA,TBA,"Clifford, M (P)"
-ECO,490,01, ,TBA,TBA,"Staff, * (P)"
+ECO,490,01, ,TBA,TBA,TBA
 ECO,492,01, ,TBA,TBA,TBA
 EDU,200,01,TR,11:00 am-12:15 pm,SCIENC 117,"Roberts, T (P)"
 EDU,200,02,TR,02:00 pm-03:15 pm,CECE 167,"Lee, K (P)"
@@ -459,7 +472,7 @@ EDU,412,01,T,04:00 pm-06:45 pm,WEBB 215,"Cook, K (P)"
 EDU,417,01,M,12:00 pm-02:45 pm,WEBB 113,"Richards, S (P)"
 EDU,425,01X,T,04:00 pm-06:45 pm,SCIENC 432,"Rodriguez, L (P)"
 EDU,425,02X,M,07:00 pm-09:45 pm,COMBLD 108,"Fabrizi, M (P)"
-EDU,450,01, ,TBA,TBA,"Staff, * (P)"
+EDU,450,01, ,TBA,TBA,TBA
 EDU,451,01, ,TBA,TBA,TBA
 EDU,465,01X,M,07:00 pm-09:45 pm,WEBB 113,"Richards, S (P)"
 EDU,465,02X,T,07:00 pm-09:45 pm,WEBB 213,"LaPorte, K (P)"
@@ -468,6 +481,7 @@ EDU,471,01,MTWRF,08:00 am-03:30 pm,TBA,"Peacock, J (P)"
 EDU,480,01, ,TBA,TBA,"Fabrizi, M (P)"
 EDU,480,02, ,TBA,TBA,"Moorehead, T (P)"
 EDU,480,03, ,TBA,TBA,"Richards, S (P)"
+EDU,480,04, ,TBA,TBA,"Richards, S (P)"
 EDU,490,01, ,TBA,TBA,"Ruddy, J (P)"
 EDU,501,01, ,TBA,TBA,"LaMarche, L (P)"
 EDU,502,01, ,TBA,TBA,"Espinoza, A (P)"
@@ -496,8 +510,8 @@ EDU,582,H01,R,04:00 pm-06:45 pm,WEBB 215,"Roberts, T (P)"
 EDU,612,E25, ,TBA,TBA,"Lee, K (P)"
 EDU,632,E25, ,TBA,TBA,"Moorehead, T (P)"
 EDU,680,E25, ,TBA,ONLINE,"Moorehead, T (P)"
-EDU,692,01,MTWRF,08:00 am-03:30 pm,TBA,"Caron, L (P)"
-EDU,692,02,MTWRF,08:00 am-03:30 pm,TBA,"Caron, L (P)"
+EDU,692,01,MTWRF,08:00 am-03:30 pm,TBA,TBA
+EDU,692,02,MTWRF,08:00 am-03:30 pm,TBA,TBA
 EDU,694,01,MTWRF,08:00 am-03:30 pm,TBA,"Caron, L (P)"
 EDU,694,02,MTWRF,08:00 am-03:30 pm,TBA,"Caron, L (P)"
 EDU,695,01, ,TBA,TBA,TBA
@@ -574,9 +588,10 @@ ENG,462,01,T,04:00 pm-06:45 pm,WEBB 213,"Torockio, C (P)"
 ENG,462,02,W,04:00 pm-06:45 pm,WEBB 213,"Clermont-Ferrand, M (P)"
 ENG,480,01, ,TBA,TBA,"Donaghy, D (P)"
 ENG,480,02, ,TBA,TBA,"Clermont-Ferrand, M (P)"
+ENG,480,03, ,TBA,TBA,"Chirico, M (P)"
 ENG,481,01, ,TBA,TBA,"Chirico, M (P)"
 ENG,485,01, ,TBA,TBA,TBA
-ENG,491,01, ,TBA,TBA,"Staff, * (P)"
+ENG,491,01, ,TBA,TBA,TBA
 ENG,492,01, ,TBA,TBA,TBA
 ENG,493,01, ,TBA,TBA,"Torockio, C (P)"
 ENG,493,02, ,TBA,TBA,"Speicher, A (P)"
@@ -666,7 +681,7 @@ FIN,245,06,MWF,10:00 am-10:50 am,GODDAR 202,"Kyei, I (P)"
 FIN,335,01,M,04:00 pm-06:45 pm,GODDAR 203,"Kyei, I (P)"
 FIN,347,01,MWF,01:00 pm-01:50 pm,WEBB 210,"Ryen, S (P)"
 FIN,350,01,T,04:00 pm-06:45 pm,COMBLD 218,"Days-Luketich, P (P)"
-FIN,438,01,W,07:00 pm-09:45 pm,GODDAR 200,"Kamble, V (P)"
+FIN,438,01,W,07:00 pm-09:45 pm,GODDAR 200,"Clifford, M (P)"
 FIN,445,01,TR,11:00 am-12:15 pm,COMBLD 109,"Liang, L (P)"
 FIN,445,02,TR,09:30 am-10:45 am,COMBLD 109,"Liang, L (P)"
 FIN,446,01,TR,02:00 pm-03:15 pm,GODDAR 200,"Liang, L (P)"
@@ -723,11 +738,11 @@ HPE,362,01,R,09:30 am-10:30 am,SPORT 219,"Switchenko, K (P)"
 HPE,362,01,R,10:30 am-12:15 pm,SPORT 201/GYM,"Switchenko, K (P)"
 HPE,475,01,MTWRF,08:00 am-03:30 pm,TBA,"Robert, D (P)"
 HPE,476,01,R,04:00 pm-06:45 pm,CECE 167,"Robert, D (P)"
-HPE,480,01, ,TBA,TBA,"Staff, * (P)"
+HPE,480,01, ,TBA,TBA,TBA
 HPE,490,01, ,TBA,TBA,"Robert, D (P)"
 HPE,491,01, ,TBA,TBA,TBA
-HPE,492,01, ,TBA,TBA,"Staff, * (P)"
-HSC,209,01X,M,04:00 pm-06:45 pm,GODDAR 200,"Carroll, S (P)"
+HPE,492,01, ,TBA,TBA,TBA
+HSC,209,01X,M,04:00 pm-06:45 pm,GODDAR 216,"Carroll, S (P)"
 HSC,209,02X,TR,04:00 pm-05:15 pm,GODDAR 208,"Clements, S (P)"
 HSC,210,01,MWF,11:00 am-11:50 am,COMBLD 107,"Canavan, P (P)"
 HSC,215,01,TR,12:30 pm-01:45 pm,GODDAR 117,"Smith, E (P)"
@@ -745,9 +760,10 @@ HSC,225,02,TR,08:00 am-09:15 am,GODDAR 208,"Beever, J (P)"
 HSC,225,03,MWF,01:00 pm-01:50 pm,GODDAR 216,"Dzurec, L (P)"
 HSC,225,04,MWF,11:00 am-11:50 am,GODDAR 203,"Dzurec, L (P)"
 HSC,235,01,MWF,01:00 pm-01:50 pm,GODDAR 117,"Bissonnette, A (P)"
-HSC,280,01, ,TBA,TBA,"Staff, * (P)"
+HSC,280,01, ,TBA,TBA,TBA
 HSC,290,01, ,TBA,TBA,TBA
 HSC,291,01, ,TBA,TBA,"Porebska, B (P)"
+HSC,291,02, ,TBA,TBA,"Smith, E (P)"
 HSC,302,01X,TR,09:30 am-10:45 am,GODDAR 223,"Carroll, S (P)"
 HSC,308,01,MWF,09:00 am-09:50 am,GODDAR 200,"Bataille, A (P)"
 HSC,318,01,MWF,10:00 am-10:50 am,GODDAR 223,"Canavan, P (P)"
@@ -777,7 +793,7 @@ HSC,391,01, ,TBA,TBA,"Canavan, P (P)"
 HSC,391,02, ,TBA,TBA,"Carroll, S (P)"
 HSC,391,03, ,TBA,TBA,"Bane, E (P)"
 HSC,391,04, ,TBA,TBA,"Smith, E (P)"
-HSC,391,05, ,TBA,TBA,"Porebska, B (P)"
+HSC,391,05, ,TBA,TBA,TBA
 HSC,400,01,MWF,12:00 pm-01:10 pm,SCIENC 115,"Walters, S (P)"
 HSC,404,01,MWF,11:00 am-11:50 am,GODDAR 208,"Nsiah, Y (P)"
 HSC,408,01,TR,09:30 am-10:45 am,GODDAR 208,"Beever, J (P)"
@@ -791,11 +807,11 @@ HSC,480,01, ,TBA,TBA,"Canavan, P (P)"
 HSC,480,02, ,TBA,TBA,"Canavan, P (P)"
 HSC,480,03, ,TBA,TBA,"Carroll, S (P)"
 HSC,480,04, ,TBA,TBA,"Carroll, S (P)"
-HSC,480,05, ,TBA,TBA,"Carroll, S (P)"
+HSC,480,05, ,TBA,TBA,TBA
 HSC,480,06, ,TBA,TBA,"Carroll, S (P)"
 HSC,480,07, ,TBA,TBA,"Walters, S (P)"
 HSC,480,08, ,TBA,TBA,"Walters, S (P)"
-HSC,490,01, ,TBA,TBA,"Staff, * (P)"
+HSC,490,01, ,TBA,TBA,"Carroll, S (P)"
 HSC,491,01, ,TBA,TBA,"Dzurec, D (P)"
 HSC,491,02, ,TBA,TBA,"Porebska, B (P)"
 HSC,491,03, ,TBA,TBA,"Carroll, S (P)"
@@ -828,6 +844,8 @@ HIS,480,01, ,TBA,TBA,"Davis, B (P)"
 HIS,480,02, ,TBA,TBA,"Moore, S (P)"
 HIS,480,03, ,TBA,TBA,"Moore, S (P)"
 HIS,480,04, ,TBA,TBA,"Balcerski, T (P)"
+HIS,480,05, ,TBA,TBA,"Close, S (P)"
+HIS,481,01, ,TBA,TBA,"Frye, D (P)"
 HIS,490,01, ,TBA,TBA,TBA
 HIS,491,01, ,TBA,TBA,"Moore, S (P)"
 HIS,491,02, ,TBA,TBA,"Moore, S (P)"
@@ -940,21 +958,21 @@ MAT,480,02, ,TBA,TBA,"Osei Bonsu, K (P)"
 MAT,480,03, ,TBA,TBA,"Johnson, P (P)"
 MAT,490,01, ,TBA,TBA,"Sarikhani Khorami, M (P)"
 MAT,491,01, ,TBA,TBA,TBA
-MSC,132,01,R,11:00 am-11:50 am,TBA,"FitzPatrick, D (P)"
-MSC,132,02,F,11:15 am-12:05 pm,TBA,"FitzPatrick, D (P)"
+MSC,132,01,R,11:00 am-11:50 am,TBA,TBA
+MSC,132,02,F,11:15 am-12:05 pm,TBA,TBA
 MSC,132,03,W,01:00 pm-01:50 pm,LIBRAR 266,"Sholes, Z (P)"
-MSC,146,01,T,01:00 pm-03:00 pm,TBA,"Howard, R (P)"
+MSC,146,01,T,01:00 pm-03:00 pm,TBA,TBA
 MSC,146,02,W,02:00 pm-04:00 pm,LIBRAR 266,"Sholes, Z (P)"
 MSC,253,01,W,01:25 pm-03:25 pm,TBA,"Thompson, A (P)"
 MSC,253,01,F,01:00 pm-05:00 pm,TBA,"Thompson, A (P)"
-MSC,298,01,F,07:00 am-09:00 am,TBA,"Allen, S (P)"
-MSC,298,01,F,01:00 pm-05:00 pm,TBA,"Allen, S (P)"
-MSA,114,01,W,02:30 pm-03:20 pm,TBA,"Gartland, J (P)"
-MSA,114,01,R,12:30 pm-01:20 pm,TBA,"Gartland, J (P)"
+MSC,298,01,F,07:00 am-09:00 am,TBA,TBA
+MSC,298,01,F,01:00 pm-05:00 pm,TBA,TBA
+MSA,114,01,W,02:30 pm-03:20 pm,TBA,TBA
+MSA,114,01,R,12:30 pm-01:20 pm,TBA,TBA
 MSA,124,01,W,02:30 pm-03:20 pm,TBA,TBA
 MSA,124,01,R,02:00 pm-03:15 pm,TBA,TBA
 MSA,124,01,R,03:30 pm-07:00 pm,TBA,TBA
-MSA,201,01,T,05:00 pm-08:00 pm,TBA,"Chandler, J (P)"
+MSA,201,01,T,05:00 pm-08:00 pm,TBA,TBA
 MSA,236,01,W,03:35 pm-06:35 pm,TBA,TBA
 MSA,236,01,R,03:30 pm-07:00 pm,TBA,TBA
 MSA,246,01,W,03:30 pm-06:30 pm,TBA,TBA
@@ -990,13 +1008,13 @@ MUS,356,01, ,TBA,TBA,TBA
 MUS,356,02, ,TBA,TBA,TBA
 MUS,356,03, ,TBA,TBA,TBA
 MUS,356,04, ,TBA,TBA,TBA
-MUS,356,05, ,TBA,TBA,"Howard, C (P)"
-MUS,356,06, ,TBA,TBA,"Howard, C (P)"
+MUS,356,05, ,TBA,TBA,TBA
+MUS,356,06, ,TBA,TBA,TBA
 MUS,356,07, ,TBA,TBA,TBA
 MUS,356,08, ,TBA,TBA,TBA
 MUS,356,09, ,TBA,TBA,"Toner, A (P)"
 MUS,356,10, ,TBA,TBA,TBA
-MUS,356,11, ,TBA,TBA,"Delaney, E (P)"
+MUS,356,11, ,TBA,TBA,TBA
 MUS,356,12, ,TBA,TBA,"Delaney, E (P)"
 MUS,356,13, ,TBA,TBA,TBA
 MUS,356,14, ,TBA,TBA,TBA
@@ -1004,11 +1022,11 @@ MUS,356,15, ,TBA,TBA,TBA
 MUS,356,16, ,TBA,TBA,"Cornicello, A (P)"
 MUS,356,17, ,TBA,TBA,TBA
 MUS,356,18, ,TBA,TBA,TBA
-MUS,356,19, ,TBA,TBA,"Bronson, M (P)"
+MUS,356,19, ,TBA,TBA,TBA
 MUS,356,20, ,TBA,TBA,"Calissi, J (P)"
 MUS,356,21, ,TBA,TBA,"Calissi, R (P)"
 MUS,356,22, ,TBA,TBA,"Hwang, O (P)"
-MUS,356,23, ,TBA,TBA,"Thomas, J (P)"
+MUS,356,23, ,TBA,TBA,TBA
 MUS,356,24, ,TBA,TBA,"Thomas, J (P)"
 MUS,356,25, ,TBA,TBA,TBA
 MUS,356,26, ,TBA,TBA,TBA
@@ -1020,9 +1038,9 @@ MUS,356,31, ,TBA,TBA,"Washburn, S (P)"
 MUS,356,32, ,TBA,TBA,"Washburn, S (P)"
 MUS,356,33, ,TBA,TBA,"Riggs, E (P)"
 MUS,356,34, ,TBA,TBA,TBA
-MUS,356,35, ,TBA,TBA,"Cornicello, A (P)"
+MUS,356,35, ,TBA,TBA,TBA
 MUS,356,36, ,TBA,TBA,TBA
-MUS,356,37, ,TBA,TBA,"Ballena, D (P)"
+MUS,356,37, ,TBA,TBA,TBA
 MUS,356,38, ,TBA,TBA,TBA
 MUS,356,39, ,TBA,TBA,"Ballena, D (P)"
 MUS,356,40, ,TBA,TBA,"Ballena, D (P)"
@@ -1030,17 +1048,18 @@ MUS,356,41, ,TBA,TBA,"Bronson, M (P)"
 MUS,372,01,MWF,01:00 pm-01:50 pm,FAIC 243,"Cornicello, A (P)"
 MUS,395,01, ,TBA,TBA,"Riggs, E (P)"
 MUS,395,02, ,TBA,TBA,"Hwang, O (P)"
+MUS,395,03, ,TBA,TBA,"Delaney, E (P)"
 MUS,456,01, ,TBA,TBA,TBA
 MUS,456,02, ,TBA,TBA,TBA
 MUS,456,03, ,TBA,TBA,TBA
 MUS,456,04, ,TBA,TBA,TBA
-MUS,456,05, ,TBA,TBA,"Howard, C (P)"
-MUS,456,06, ,TBA,TBA,"Howard, C (P)"
+MUS,456,05, ,TBA,TBA,TBA
+MUS,456,06, ,TBA,TBA,TBA
 MUS,456,07, ,TBA,TBA,TBA
 MUS,456,08, ,TBA,TBA,TBA
 MUS,456,09, ,TBA,TBA,TBA
 MUS,456,10, ,TBA,TBA,TBA
-MUS,456,11, ,TBA,TBA,"Delaney, E (P)"
+MUS,456,11, ,TBA,TBA,TBA
 MUS,456,12, ,TBA,TBA,"Delaney, E (P)"
 MUS,456,13, ,TBA,TBA,TBA
 MUS,456,14, ,TBA,TBA,TBA
@@ -1049,19 +1068,19 @@ MUS,456,16, ,TBA,TBA,TBA
 MUS,456,17, ,TBA,TBA,TBA
 MUS,456,18, ,TBA,TBA,TBA
 MUS,456,19, ,TBA,TBA,TBA
-MUS,456,20, ,TBA,TBA,"Calissi, J (P)"
+MUS,456,20, ,TBA,TBA,TBA
 MUS,456,21, ,TBA,TBA,TBA
 MUS,456,22, ,TBA,TBA,"Hwang, O (P)"
-MUS,456,23, ,TBA,TBA,"Thomas, J (P)"
-MUS,456,24, ,TBA,TBA,"Thomas, J (P)"
+MUS,456,23, ,TBA,TBA,TBA
+MUS,456,24, ,TBA,TBA,TBA
 MUS,456,25, ,TBA,TBA,TBA
 MUS,456,26, ,TBA,TBA,TBA
 MUS,456,27, ,TBA,TBA,TBA
 MUS,456,28, ,TBA,TBA,TBA
 MUS,456,29, ,TBA,TBA,TBA
 MUS,456,30, ,TBA,TBA,TBA
-MUS,456,31, ,TBA,TBA,"Washburn, S (P)"
-MUS,456,32, ,TBA,TBA,"Washburn, S (P)"
+MUS,456,31, ,TBA,TBA,TBA
+MUS,456,32, ,TBA,TBA,TBA
 MUS,456,33, ,TBA,TBA,TBA
 MUS,456,34, ,TBA,TBA,"Riggs, E (P)"
 MUS,480,01, ,TBA,TBA,"Cochran, T (P)"
@@ -1072,7 +1091,7 @@ MUS,480,05, ,TBA,TBA,"Cochran, T (P)"
 MUS,480,06, ,TBA,TBA,"Calissi, J (P)"
 MUS,480,07, ,TBA,TBA,"Belles, D (P)"
 MUS,480,08, ,TBA,TBA,"Belles, D (P)"
-MUS,495,01, ,TBA,TBA,"Staff, * (P)"
+MUS,495,01, ,TBA,TBA,TBA
 NSE,300,01, ,TBA,TBA,"Drewry, C (P)"
 NUR,205,01,TR,04:00 pm-05:15 pm,GODDAR 117,"Dotson, T (P)"
 NUR,205,02,TR,02:00 pm-03:15 pm,GODDAR 117,"Dotson, T (P)"
@@ -1107,7 +1126,7 @@ PHS,105,01,TR,02:00 pm-03:15 pm,SCIENC 431,"Pazameta, Z (P)"
 PHY,205,01,TR,12:30 pm-01:45 pm,SCIENC 431,"Pazameta, Z (P)"
 PHY,205,01A,M,02:00 pm-03:50 pm,SCIENC 403,"Pazameta, Z (P)"
 PHY,205,01B,R,02:00 pm-03:50 pm,SCIENC 403,"Kerr, M (P)"
-PHY,480,01, ,TBA,TBA,"Staff, * (P)"
+PHY,480,01, ,TBA,TBA,TBA
 PSC,100,01,MWF,09:00 am-09:50 am,WEBB 110,"Easton, W (P)"
 PSC,201,01,TR,09:30 am-10:45 am,WEBB 113,"Broscious, C (P)"
 PSC,201,02,TR,12:30 pm-01:45 pm,WEBB 113,"Broscious, C (P)"
@@ -1123,7 +1142,8 @@ PSC,365,01X,TR,04:00 pm-05:15 pm,GODDAR 201,"Verrastro, N (P)"
 PSC,400,01,MWF,01:00 pm-01:50 pm,WEBB 115,"Krassas, N (P)"
 PSC,460,01,T,04:00 pm-06:45 pm,WEBB 115,"Mendoza-Botelho, M (P)"
 PSC,480,01, ,TBA,TBA,"Krassas, N (P)"
-PSC,494,01, ,TBA,TBA,"Krassas, N (P)"
+PSC,480,02, ,TBA,TBA,"Mendoza-Botelho, M (P)"
+PSC,494,01, ,TBA,TBA,TBA
 PSC,495,01V, ,TBA,TBA,"Krassas, N (P)"
 PSC,498,01, ,TBA,TBA,"Mendoza-Botelho, M (P)"
 PSY,100,01,MWF,10:00 am-10:50 am,WEBB 110,"Salters-Pedneault, K (P)"
@@ -1191,7 +1211,7 @@ PSY,490,01, ,TBA,TBA,"Keyes, M (P)"
 PSY,490,02, ,TBA,TBA,"Scisco, J (P)"
 PSY,490,03, ,TBA,TBA,"Leszczynski, J (P)"
 PSY,490,04, ,TBA,TBA,"Lee, P (P)"
-PSY,490,05, ,TBA,TBA,"Leszczynski, J (P)"
+PSY,490,05, ,TBA,TBA,TBA
 PSY,490,06, ,TBA,TBA,"Bachiochi, P (P)"
 PSY,490,07, ,TBA,TBA,"Salters-Pedneault, K (P)"
 PSY,490,08, ,TBA,TBA,"Krebs, C (P)"
@@ -1217,7 +1237,7 @@ PSY,496,02V,F,09:00 am-09:50 am,WEBB 115,"Salters-Pedneault, K (P)"
 PSY,497,01, ,TBA,TBA,"Bachiochi, P (P)"
 PSY,498,01, ,TBA,TBA,TBA
 PBH,206,01,MWF,11:00 am-11:50 am,GODDAR 201,"Walters, S (P)"
-PBH,209,01X,M,04:00 pm-06:45 pm,GODDAR 200,"Carroll, S (P)"
+PBH,209,01X,M,04:00 pm-06:45 pm,GODDAR 216,"Carroll, S (P)"
 PBH,209,02X,TR,04:00 pm-05:15 pm,GODDAR 208,"Clements, S (P)"
 PBH,228,01,TR,12:30 pm-01:45 pm,GODDAR 223,"Serrano, M (P)"
 PBH,228,02,TR,04:00 pm-05:15 pm,GODDAR 202,"Serrano, M (P)"
@@ -1287,6 +1307,7 @@ SOC,492,01, ,TBA,TBA,"Simon, N (P)"
 SOC,492,02, ,TBA,TBA,"Parsons, N (P)"
 SOC,492,03, ,TBA,TBA,"Simon, N (P)"
 SOC,493,01, ,TBA,TBA,"Simon, N (P)"
+SOC,493,02, ,TBA,TBA,"Simon, N (P)"
 SPA,111,01,MWF,11:00 am-11:50 am,WEBB 112,"Vijayasekar, J (P)"
 SPA,111,02,MWF,09:00 am-09:50 am,SCIENC 134,"Parera, M (P)"
 SPA,111,03,MW,05:30 pm-06:45 pm,SCIENC 134,"Jendrewski, R (P)"
@@ -1305,13 +1326,13 @@ THE,226,01, ,TBA,TBA,"Sokolovskaya, A (P)"
 THE,227,01, ,TBA,TBA,"Wadecki, J (P)"
 THE,227,02, ,TBA,TBA,"Morgan, K (P)"
 THE,227,03, ,TBA,TBA,"Welles, R (P)"
-THE,227,04, ,TBA,TBA,"Wadecki, J (P)"
-THE,227,05, ,TBA,TBA,"Morgan, K (P)"
+THE,227,04, ,TBA,TBA,TBA
+THE,227,05, ,TBA,TBA,TBA
 THE,227,06, ,TBA,TBA,"Welles, R (P)"
 THE,227,07, ,TBA,TBA,"Sokolovskaya, A (P)"
-THE,227,08, ,TBA,TBA,"Sokolovskaya, A (P)"
+THE,227,08, ,TBA,TBA,TBA
 THE,228,01, ,TBA,TBA,"Pellegrini, D (P)"
-THE,228,02, ,TBA,TBA,"Bright-Holland, A (P)"
+THE,228,02, ,TBA,TBA,TBA
 THE,265,01,TR,11:00 am-12:50 pm,FAIC 115,"Pellegrini, D (P)"
 THE,272,01,TR,02:00 pm-03:15 pm,FAIC 215,"Cobb, J (P)"
 THE,276,01,TR,04:00 pm-05:15 pm,FAIC 118,"Golebiewski, T (P)"
@@ -1323,7 +1344,7 @@ THE,280,01,TR,09:30 am-10:45 am,FAIC 243,"O'Brien, M (P)"
 THE,281,01,W,04:00 pm-06:45 pm,FAIC 243,"Houldcroft, T (P)"
 THE,308,01X,M,04:00 pm-06:45 pm,FAIC 115,"Flood, R (P)"
 THE,365,01,TR,12:30 pm-01:45 pm,FAIC 219,"Cobb, J (P)"
-THE,392,01, ,TBA,TBA,"Staff, * (P)"
+THE,392,01, ,TBA,TBA,TBA
 THE,474,01,TR,04:00 pm-05:15 pm,FAIC 219,"Bright-Holland, A (P)"
 THE,475,01, ,TBA,TBA,"Sokolovskaya, A (P), Bright-Holland, A , Cobb, J"
 THE,480,01, ,TBA,TBA,"Cobb, J (P)"
@@ -1345,6 +1366,6 @@ WST,310,01X,M,07:00 pm-09:45 pm,SCIENC 116,"Westberry, B (P)"
 WST,315,01X,MWF,12:00 pm-12:50 pm,WEBB 317,"Cousins, A (P)"
 WST,480,01, ,TBA,TBA,TBA
 WST,481,01, ,TBA,TBA,TBA
-WST,490,01, ,TBA,TBA,TBA
+WST,490,01, ,TBA,TBA,"Nightingale, S (P)"
 WST,491,01, ,TBA,TBA,TBA
 WLC,492,01, ,TBA,TBA,TBA
