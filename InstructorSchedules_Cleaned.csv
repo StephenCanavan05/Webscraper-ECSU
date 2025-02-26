@@ -1,395 +1,395 @@
-Instructor,Time
-"Abbatemarco, A","['11:00 am-12:15 pm', '12:30 pm-01:45 pm']"
-"Aconfora, N",['04:00 pm-06:45 pm']
-"Ahmadi, S","['07:00 pm-09:50 pm', '04:00 pm-06:50 pm']"
-"Aidoo, A","['10:00 am-11:50 am', '02:00 pm-03:15 pm', '09:30 am-10:45 am', '02:00 pm-02:50 pm', '12:30 pm-01:45 pm']"
-"Albini, E",['04:00 pm-06:45 pm']
-"Alexander, J",['09:30 am-10:45 am']
-"Alkhamaiesh, S","['05:30 pm-06:45 pm', '07:00 pm-08:15 pm']"
-"Allen, E",['08:00 am-09:50 am']
-"Ammari, M","['04:00 pm-06:45 pm', '07:00 pm-09:45 pm']"
-"Anderson, G",['09:00 am-09:50 am']
-"Armstrong, N",['10:00 am-10:50 am']
-"Ashton, F",['08:00 am-03:30 pm']
-"Avent, A","['12:00 pm-12:50 pm', '10:00 am-10:50 am']"
-"Azzaro, E",['07:00 pm-09:45 pm']
-"Babar, S","['12:00 pm-12:50 pm', '11:00 am-11:50 am']"
-"Bachiochi, P","['11:00 am-12:15 pm', '04:00 pm-05:15 pm', '02:00 pm-03:15 pm']"
-"Bacholle, M","['11:00 am-11:50 am', '12:00 pm-02:45 pm']"
-"Balcerski, T",['04:00 pm-06:45 pm']
-"Ballena, D","['07:00 pm-08:20 pm', '10:00 am-10:50 am', '11:00 am-11:50 am']"
-"Balough, T","['08:00 am-08:50 am', '09:00 am-09:50 am']"
-"Bane, E",['08:00 am-10:50 am']
-"Bartone, K",['09:30 am-12:15 pm']
-"Bataille, A","['01:00 pm-01:50 pm', '09:00 am-09:50 am', '08:00 am-10:50 am', '11:00 am-11:50 am', '12:30 pm-03:20 pm']"
-"Beebe, J",['05:30 pm-09:45 pm']
-"Beeby, C",['04:00 pm-05:15 pm']
-"Beever, J","['09:30 am-10:45 am', '08:00 am-09:15 am']"
-"Belles, D","['05:30 pm-06:45 pm', '03:00 pm-03:50 pm']"
-"Bisantz, J",['09:00 am-11:45 am']
-"Bissonnette, A","['02:00 pm-02:50 pm', '01:00 pm-01:50 pm']"
-"Blain, J",[]
-"Blancaflor, S","['12:30 pm-01:45 pm', '02:00 pm-03:15 pm']"
-"Bondok, A","['11:00 am-11:50 am', '10:00 am-10:50 am', '09:00 am-09:50 am']"
-"Bouley, T","['09:30 am-12:15 pm', '04:00 pm-06:45 pm', '02:00 pm-03:15 pm']"
-"Breslin, D","['04:00 pm-05:15 pm', '02:00 pm-03:15 pm']"
-"Bright-Holland, A",['04:00 pm-05:15 pm']
-"Bronson, M",[]
-"Broscious, C","['09:30 am-10:45 am', '12:30 pm-01:45 pm']"
-"Brown, S",['04:00 pm-06:45 pm']
-"Brunelle, K","['08:00 am-08:50 am', '09:00 am-09:50 am']"
-"Buck, W","['02:00 pm-03:15 pm', '04:00 pm-05:15 pm', '09:30 am-10:45 am', '11:00 am-12:15 pm']"
-"Burns, N",['11:00 am-12:15 pm']
-"Busi, J",[]
-"Bussiere, J",['04:00 pm-05:15 pm']
-"Calissi, J","['10:00 am-10:50 am', '02:00 pm-03:15 pm', '03:30 pm-04:50 pm', '11:00 am-11:50 am', '12:30 pm-01:45 pm']"
-"Calissi, R","['09:30 am-10:45 am', '11:00 am-12:15 pm']"
-"Canavan, P","['10:00 am-10:50 am', '03:00 pm-05:50 pm', '08:00 am-10:50 am', '11:00 am-11:50 am', '12:30 pm-03:20 pm']"
-"Candler, J",['07:00 pm-09:50 pm']
-"Capalbo, H",['04:00 pm-06:45 pm']
-"Carenen, C","['09:30 am-10:45 am', '11:00 am-12:15 pm']"
-"Cariddi, K",['04:00 pm-05:50 pm']
-"Carlson, H",['04:00 pm-05:50 pm']
-"Carlson, R",['04:00 pm-06:45 pm']
-"Caron, L",['08:00 am-03:30 pm']
-"Carroll, S","['09:30 am-10:45 am', '11:00 am-12:15 pm', '04:00 pm-06:45 pm']"
-"Cassidy, S",['11:00 am-11:50 am']
-"Castro, N",['08:00 am-09:15 am']
-"Chadwick, J",['12:30 pm-01:45 pm']
-"Chan, K",[]
-"Chatterton, C","['09:30 am-12:15 pm', '08:00 am-09:15 am', '07:00 pm-08:15 pm', '09:00 am-09:50 am']"
-"Chen, T","['12:30 pm-03:15 pm', '12:00 pm-02:45 pm', '09:30 am-12:15 pm']"
-"Chirakul-Madden, P","['11:00 am-01:50 pm', '02:00 pm-04:50 pm']"
-"Chirico, M","['04:00 pm-06:45 pm', '01:00 pm-01:50 pm']"
-"Chirico, M",['11:00 am-11:50 am']
-"Diller, J",['11:00 am-11:50 am']
-"Doyle, M",['11:00 am-11:50 am']
-"Christopher, M",['04:00 pm-06:45 pm']
-"Citurs, A","['04:00 pm-06:45 pm', '02:00 pm-03:15 pm', '11:00 am-12:15 pm', '07:00 pm-08:15 pm']"
-"Clements, S","['09:30 am-10:45 am', '04:00 pm-05:15 pm']"
-"Clermont-Ferrand, M","['04:00 pm-06:45 pm', '02:00 pm-03:15 pm', '04:00 pm-05:15 pm', '12:30 pm-01:45 pm']"
-"Clifford, M","['09:30 am-10:45 am', '08:00 am-09:15 am', '07:00 pm-09:45 pm']"
-"Close, S","['02:00 pm-03:15 pm', '09:30 am-10:45 am', '08:00 am-09:15 am', '12:30 pm-01:45 pm']"
-"Cobb, J","['04:00 pm-06:45 pm', '02:00 pm-03:15 pm', '09:30 am-10:45 am', '12:30 pm-01:45 pm']"
-"Cochran, T","['09:30 am-10:45 am', '03:00 pm-03:50 pm']"
-"Coffey, K","['02:00 pm-02:50 pm', '10:00 am-10:50 am', '01:00 pm-01:50 pm', '09:00 am-09:50 am']"
-"Collins, G",['07:00 pm-09:45 pm']
-"Congdon, V",['09:30 am-10:45 am']
-"Connolly, B","['01:00 pm-01:50 pm', '11:00 am-11:50 am', '09:30 am-12:20 pm', '02:00 pm-04:50 pm']"
-"Cook, K",['04:00 pm-06:45 pm']
-"Cordon, L","['02:00 pm-03:15 pm', '09:30 am-10:45 am', '08:00 am-09:15 am', '12:30 pm-01:45 pm']"
-"Cornicello, A","['04:00 pm-05:30 pm', '11:00 am-11:50 am', '01:00 pm-01:50 pm']"
-"Cote, A","['02:00 pm-02:50 pm', '11:00 am-12:30 pm', '09:00 am-10:30 am', '01:00 pm-01:50 pm']"
-"Cousins, A","['10:00 am-10:50 am', '01:00 pm-01:50 pm', '08:00 am-09:10 am', '12:00 pm-12:50 pm']"
-"Couture-Palmerino, P",[]
-"Cowles, E","['04:00 pm-06:45 pm', '10:00 am-10:50 am', '09:30 am-12:20 pm']"
-"Cox, P",['07:00 pm-09:45 pm']
-"Cruz, D",[]
-"Cunningham, B","['12:00 pm-12:50 pm', '10:00 am-10:50 am', '11:00 am-11:50 am']"
-"Cunningham, W","['09:30 am-10:45 am', '11:00 am-12:15 pm', '01:00 pm-01:50 pm', '12:30 pm-03:20 pm']"
-"Cunningham, W",['05:30 pm-06:15 pm']
-"Drzewiecki, P",['05:30 pm-06:15 pm']
-"Curtis, S","['09:30 am-10:45 am', '11:00 am-11:50 am']"
-"Dahmani, F",[]
-"Dale, D","['12:00 pm-12:50 pm', '08:00 am-09:15 am', '11:00 am-12:15 pm', '11:00 am-11:50 am']"
-"Dale, K",['08:00 am-09:15 am']
-"Dancik, G","['09:30 am-10:45 am', '02:00 pm-03:15 pm']"
-"Davis, B","['10:00 am-11:10 am', '01:00 pm-01:50 pm', '09:00 am-09:50 am', '02:00 pm-02:50 pm']"
-"Davis, M",[]
-"Day, B","['09:30 am-10:45 am', '11:00 am-12:15 pm', '02:00 pm-02:50 pm', '02:00 pm-03:50 pm']"
-"Days-Luketich, P",['04:00 pm-06:45 pm']
-"DeLima, L","['11:00 am-12:15 pm', '12:30 pm-01:45 pm']"
-"DeRosa, S","['04:00 pm-06:45 pm', '02:00 pm-03:15 pm']"
-"Decker, G",['07:00 pm-09:45 pm']
-"Del Rio, J","['10:00 am-10:50 am', '09:00 am-09:50 am']"
-"Delaney, E","['12:30 pm-01:45 pm', '02:00 pm-03:15 pm']"
-"Dexter, R",['07:00 pm-09:45 pm']
-"DiFranco, A",['04:00 pm-06:45 pm']
-"Diller, J","['08:00 am-08:50 am', '09:00 am-09:50 am']"
-"Donaghy, D","['11:00 am-12:15 pm', '12:30 pm-01:45 pm', '02:00 pm-03:15 pm']"
-"Donohue, K","['09:30 am-10:45 am', '08:00 am-09:15 am']"
-"Dotson, T","['04:00 pm-05:15 pm', '02:00 pm-03:15 pm']"
-"Dowdell, D",[]
-"Doyle, M",['01:00 pm-02:50 pm']
-"Drew, T",['09:30 am-12:15 pm']
-"Drewry, C",[]
-"Drewry, T",[]
-"Drzewiecki, P","['12:00 pm-12:50 pm', '11:00 am-11:50 am', '02:00 pm-04:50 pm', '09:00 am-09:50 am']"
-"Dunnack, S",['08:00 am-03:30 pm']
-"Dziavit, K",['04:00 pm-06:45 pm']
-"Dzurec, D","['02:00 pm-04:50 pm', '08:00 am-08:50 am']"
-"Dzurec, L","['11:00 am-11:50 am', '12:30 pm-01:45 pm', '01:00 pm-01:50 pm']"
-"Easton, W","['12:30 pm-01:45 pm', '09:00 am-09:50 am']"
-"Echols, C","['11:00 am-12:15 pm', '12:30 pm-01:45 pm']"
-"Eckenroth, G","['04:00 pm-05:15 pm', '02:00 pm-03:15 pm']"
-"Elfouly, R","['11:00 am-12:15 pm', '12:30 pm-01:45 pm']"
-"Elia, A","['12:00 pm-02:45 pm', '09:00 am-11:45 am']"
-"Epp, K",['02:00 pm-04:50 pm']
-"Erik-Soussi, A",['04:00 pm-06:45 pm']
-"Erwin, C","['09:30 am-10:45 am', '11:00 am-12:15 pm', '07:00 pm-09:45 pm', '02:00 pm-03:15 pm']"
-"Espinoza, A",['08:00 am-03:30 pm']
-"Eves, K",['04:00 pm-05:15 pm']
-"Fabrizi, M",['07:00 pm-09:45 pm']
-"Ferraro, L",['04:00 pm-06:45 pm']
-"Ferruci, S","['09:30 am-10:45 am', '11:00 am-12:15 pm']"
-"Fister, K","['02:00 pm-02:50 pm', '04:00 pm-05:50 pm']"
-"Flood, R","['04:00 pm-06:45 pm', '10:00 am-11:10 am', '09:00 am-09:50 am']"
-"Forte, W","['09:30 am-10:45 am', '11:00 am-12:15 pm']"
-"Foy, L","['11:00 am-12:15 pm', '12:30 pm-01:45 pm']"
-"Frain, M","['04:00 pm-06:45 pm', '07:00 pm-09:45 pm']"
-"Franco, B","['02:00 pm-03:50 pm', '12:30 pm-01:45 pm']"
-"Fresco-Hawes, C",['04:00 pm-06:45 pm']
-"Freund, E",['04:00 pm-06:45 pm']
-"Frye, D","['04:00 pm-06:45 pm', '07:00 pm-09:45 pm', '02:00 pm-03:15 pm', '04:00 pm-05:15 pm', '11:00 am-12:15 pm']"
-"Fugere, M","['10:00 am-10:50 am', '01:00 pm-01:50 pm', '09:00 am-09:50 am']"
-"Fulton, S",['05:30 pm-06:45 pm']
-"Gageonea, M","['02:00 pm-03:50 pm', '04:00 pm-05:50 pm']"
-"Galvez, D",['07:00 pm-09:45 pm']
-"Gao, K","['10:00 am-10:50 am', '04:00 pm-05:15 pm', '02:00 pm-02:50 pm', '11:00 am-11:50 am']"
-"Garcia, M","['11:00 am-11:50 am', '11:00 am-12:15 pm']"
-"Geer, S",[]
-"Girasoli, A",['07:00 pm-08:50 pm']
-"Golebiewski, T","['04:00 pm-05:15 pm', '04:00 pm-06:45 pm']"
-"Goodman, D","['09:30 am-10:45 am', '11:00 am-12:15 pm']"
-"Goyette, L",[]
-"Graham, M","['11:00 am-01:50 pm', '12:00 pm-12:50 pm', '01:00 pm-01:50 pm']"
-"Grandhi, S",['12:30 pm-01:45 pm']
-"Green, B",['04:00 pm-06:45 pm']
-"Greene, R","['04:00 pm-06:45 pm', '12:00 pm-02:45 pm']"
-"Grosjean, B","['11:00 am-12:15 pm', '07:00 pm-09:45 pm']"
-"Groth, A","['11:00 am-11:50 am', '10:00 am-10:50 am', '02:00 pm-04:50 pm']"
-"Guarino, B",['09:00 am-11:45 am']
-"Guild, C",['09:30 am-12:15 pm']
-"Guo, M","['04:00 pm-06:45 pm', '02:00 pm-03:15 pm', '09:30 am-10:45 am', '11:00 am-12:15 pm']"
-"Gyure, M","['09:30 am-11:20 am', '12:30 pm-02:20 pm', '04:00 pm-05:50 pm']"
-"Hall, M",['04:00 pm-05:15 pm']
-"Hall, S",['04:00 pm-06:45 pm']
-"He, K","['10:00 am-10:50 am', '01:00 pm-01:50 pm', '09:00 am-09:50 am']"
-"Heenehan, M","['12:00 pm-12:50 pm', '10:00 am-10:50 am']"
-"Henry, J",['04:00 pm-06:45 pm']
-"Holland, J","['10:00 am-10:50 am', '12:00 pm-02:45 pm', '09:00 am-09:50 am']"
-"Houldcroft, T",['04:00 pm-06:45 pm']
-"Hulvey, J","['11:00 am-11:50 am', '02:00 pm-04:50 pm', '09:00 am-09:50 am']"
-"Hwang, O","['11:00 am-11:50 am', '09:00 am-09:50 am']"
-"Hyatt, D","['09:30 am-10:45 am', '02:00 pm-04:50 pm']"
-"Idjadi, J",[]
-"Islam, S","['04:00 pm-05:15 pm', '02:00 pm-05:50 pm', '05:30 pm-06:45 pm', '12:00 pm-12:50 pm']"
-"Jacobs, M","['05:30 pm-06:45 pm', '04:00 pm-06:45 pm']"
-"Jahan, I","['11:00 am-11:50 am', '02:00 pm-03:15 pm']"
-"Jaros, S",['04:00 pm-05:15 pm']
-"Jendrewski, R",['05:30 pm-06:45 pm']
-"Jeon, J",[]
-"Johnson, D",['07:00 pm-09:45 pm']
-"Johnson, J","['10:00 am-10:50 am', '09:00 am-09:50 am']"
-"Johnson, P","['01:00 pm-01:50 pm', '07:00 pm-08:15 pm', '02:00 pm-02:50 pm', '04:00 pm-05:50 pm']"
-"Johnson, S","['11:00 am-11:50 am', '01:00 pm-01:50 pm', '11:00 am-12:40 pm']"
-"Joiner, K","['04:00 pm-06:50 pm', '08:00 am-10:50 am']"
-"Kane, G","['12:00 pm-12:50 pm', '10:00 am-10:50 am', '01:00 pm-01:50 pm']"
-"Kang, M","['04:00 pm-06:45 pm', '02:00 pm-03:15 pm']"
-"Karrenberg, J","['02:00 pm-02:50 pm', '01:00 pm-01:50 pm']"
-"Keane, D",['04:00 pm-06:45 pm']
-"Kerr, M","['09:30 am-10:45 am', '02:00 pm-03:50 pm', '11:00 am-12:00 pm']"
-"Keyes, M","['02:00 pm-02:50 pm', '11:00 am-11:50 am', '12:00 pm-01:10 pm']"
-"Khade, V",['07:00 pm-09:45 pm']
-"Khow, M","['09:30 am-10:45 am', '08:00 am-09:15 am']"
-"Kim, S","['12:30 pm-03:15 pm', '04:00 pm-06:45 pm']"
-"Kolek, S","['11:00 am-12:50 pm', '08:00 am-09:50 am', '02:00 pm-03:50 pm']"
-"Koza, D","['07:00 pm-09:50 pm', '10:00 am-10:50 am']"
-"Krassas, N","['11:00 am-11:50 am', '01:00 pm-01:50 pm']"
-"Krebs, C","['10:00 am-10:50 am', '12:30 pm-01:20 pm', '01:00 pm-01:50 pm', '09:00 am-09:50 am', '02:00 pm-02:50 pm', '11:00 am-11:50 am']"
-"Kunene, N","['09:30 am-10:45 am', '12:30 pm-01:45 pm', '02:00 pm-03:15 pm']"
-"Kurti, M","['11:00 am-12:50 pm', '02:00 pm-03:50 pm', '04:00 pm-06:45 pm']"
-"Kwaku, K",['04:00 pm-06:45 pm']
-"Kyei, I","['11:00 am-11:50 am', '04:00 pm-06:45 pm', '10:00 am-10:50 am', '11:00 am-12:15 pm']"
-"Kyle, K",['08:00 am-10:50 am']
-"LaMarche, L",[]
-"LaPorte, K","['04:00 pm-06:45 pm', '07:00 pm-09:45 pm']"
-"Ladd, J","['02:00 pm-02:50 pm', '01:00 pm-01:50 pm']"
-"Lanagan-Leitzel, L","['12:00 pm-12:50 pm', '11:00 am-11:50 am']"
-"Larose, C","['02:00 pm-02:50 pm', '11:00 am-11:50 am', '10:00 am-10:50 am', '01:00 pm-01:50 pm']"
-"Laux, D","['11:00 am-11:50 am', '02:00 pm-04:50 pm', '09:00 am-09:50 am']"
-"Lavoie, M",['09:30 am-10:45 am']
-"Lee, K","['04:00 pm-06:45 pm', '02:00 pm-03:15 pm']"
-"Lee, P","['04:00 pm-05:15 pm', '04:00 pm-04:50 pm', '11:00 am-12:15 pm', '12:30 pm-01:45 pm']"
-"Leiss, A","['11:00 am-12:15 pm', '04:00 pm-06:45 pm', '02:00 pm-03:15 pm']"
-"Leszczynski, J","['09:00 am-09:50 am', '12:00 pm-12:50 pm', '11:00 am-11:50 am', '08:00 am-08:50 am']"
-"Leszczynski, J",['10:00 am-10:50 am']
-"Vasquez-O'Brien, T",['10:00 am-10:50 am']
-"Lewis, J",['12:30 pm-03:15 pm']
-"Li, L",['09:00 am-11:45 am']
-"Li, L",['04:00 pm-06:45 pm']
-"Greene, R",['04:00 pm-06:45 pm']
-"Rahmanifar, A",['04:00 pm-06:45 pm']
-"Liang, L","['09:30 am-10:45 am', '11:00 am-12:15 pm', '02:00 pm-03:15 pm']"
-"Liu, Q","['12:30 pm-03:15 pm', '04:00 pm-06:45 pm', '12:00 pm-02:45 pm']"
-"Liu, X","['04:00 pm-06:45 pm', '12:00 pm-02:45 pm']"
-"Long, E",['10:00 am-10:50 am']
-"Lucin, K","['10:00 am-10:50 am', '11:00 am-12:15 pm', '12:30 pm-01:45 pm', '02:00 pm-04:50 pm']"
-"Lugo, W","['04:00 pm-06:45 pm', '07:00 pm-09:45 pm']"
-"Luxenberg, H","['11:00 am-12:15 pm', '02:00 pm-03:40 pm', '02:00 pm-03:15 pm']"
-"Madenjian Wybieracki, K","['12:00 pm-12:50 pm', '11:00 am-11:50 am']"
-"Mama, R","['05:30 pm-06:45 pm', '04:00 pm-05:15 pm', '12:30 pm-01:45 pm', '02:00 pm-03:15 pm']"
-"Manfredi, E","['10:30 am-12:15 pm', '12:30 pm-01:45 pm', '09:30 am-10:30 am']"
-"Marrett, C",[]
-"Matthews-Armstead, E","['08:00 am-10:45 am', '12:30 pm-03:15 pm']"
-"Mattingly, B","['11:00 am-01:50 pm', '10:00 am-10:50 am']"
-"Mattingly, B",['09:00 am-10:50 am']
-"Epp, K",['09:00 am-10:50 am']
-"Idjadi, J",['09:00 am-10:50 am']
-"McCarty, G","['10:00 am-10:50 am', '09:00 am-09:50 am']"
-"McKee, M",['09:30 am-12:15 pm']
-"McNeil, K","['11:00 am-12:40 pm', '09:30 am-10:45 am', '09:00 am-10:40 am', '11:00 am-12:15 pm', '12:30 pm-01:45 pm']"
-"Mendoza-Botelho, M","['09:30 am-10:45 am', '04:00 pm-06:45 pm', '02:00 pm-03:15 pm']"
-"Metcalf, M","['05:30 pm-06:45 pm', '01:00 pm-03:50 pm', '04:00 pm-05:15 pm']"
-"Michimi, A","['10:00 am-10:50 am', '09:00 am-09:50 am']"
-"Misiko, C",['04:00 pm-06:45 pm']
-"Montemerlo, J","['09:30 am-10:45 am', '12:30 pm-01:45 pm']"
-"Mooney, M",[]
-"Moore, S","['11:00 am-12:10 pm', '01:00 pm-01:50 pm', '09:00 am-09:50 am']"
-"Moorehead, T",[]
-"Moran, R",['09:00 am-11:45 am']
-"Morgan, K",['12:00 pm-02:45 pm']
-"Moylan, W","['05:30 pm-06:45 pm', '04:00 pm-05:15 pm']"
-"Murdoch, B","['09:30 am-11:20 am', '12:30 pm-02:20 pm', '09:30 am-12:20 pm']"
-"Murphy, J",['10:00 am-10:50 am']
-"Nadeau, C",['04:00 pm-05:15 pm']
-"Nardella, S","['12:30 pm-01:45 pm', '02:00 pm-03:15 pm']"
-"Nathan, S","['11:00 am-11:50 am', '10:00 am-10:50 am', '09:00 am-09:50 am']"
-"Ndiaye, M","['12:00 pm-12:50 pm', '11:00 am-11:50 am', '01:00 pm-01:50 pm', '09:00 am-09:50 am']"
-"Nichols, S",['04:00 pm-06:45 pm']
-"Nightingale, S","['08:00 am-10:45 am', '12:30 pm-03:15 pm', '11:00 am-11:50 am']"
-"Norval, N","['04:00 pm-06:45 pm', '02:00 pm-03:15 pm']"
-"Nsiah, Y",['11:00 am-11:50 am']
-"O'Brien, M",['09:30 am-10:45 am']
-"O'Neal, F","['02:00 pm-02:50 pm', '01:00 pm-01:50 pm', '03:00 pm-03:50 pm']"
-"Oakley, B","['09:30 am-10:45 am', '11:00 am-12:15 pm']"
-"Oh, N","['09:30 am-10:45 am', '12:30 pm-01:45 pm']"
-"Onye, Y","['12:30 pm-01:45 pm', '02:00 pm-03:15 pm']"
-"Opie, D",['04:00 pm-06:45 pm']
-"Osei Bonsu, K","['10:00 am-10:50 am', '09:00 am-09:50 am', '02:00 pm-02:50 pm', '11:00 am-11:50 am', '12:00 pm-12:50 pm']"
-"Osterndorf, W","['09:00 am-09:50 am', '09:30 am-10:45 am', '12:00 pm-12:50 pm', '11:00 am-12:15 pm']"
-"Ostwald, J","['04:00 pm-05:15 pm', '12:30 pm-01:45 pm']"
-"Otero, M","['02:00 pm-03:15 pm', '09:30 am-10:45 am', '08:00 am-09:15 am', '12:30 pm-01:45 pm']"
-"Pakdil, F","['04:00 pm-06:45 pm', '08:00 am-08:50 am']"
-"Parcinski, A","['11:00 am-01:50 pm', '02:00 pm-04:50 pm']"
-"Parera, M","['12:00 pm-12:50 pm', '09:00 am-09:50 am']"
-"Parsons, N","['09:30 am-10:45 am', '02:00 pm-03:50 pm', '11:00 am-12:50 pm']"
-"Pasini, J","['09:30 am-10:45 am', '08:00 am-09:15 am']"
-"Pazameta, Z","['02:00 pm-03:50 pm', '12:30 pm-01:45 pm', '02:00 pm-03:15 pm']"
-"Peacock, J",['08:00 am-03:30 pm']
-"Pellegrini, D","['11:00 am-12:50 pm', '12:00 pm-02:45 pm', '04:00 pm-04:50 pm']"
-"Pena Alicea, G",['11:00 am-12:15 pm']
-"Perry, K","['11:00 am-11:50 am', '10:00 am-10:50 am']"
-"Pesta, R","['12:00 pm-12:50 pm', '11:00 am-11:50 am', '10:00 am-10:50 am']"
-"Peteros, R",['04:00 pm-06:45 pm']
-"Petrikovsky, H",['01:00 pm-02:50 pm']
-"Pimental, C",['12:30 pm-03:15 pm']
-"Pinckney, S","['09:30 am-10:45 am', '11:00 am-12:15 pm']"
-"Porebska, B","['12:00 pm-02:50 pm', '04:00 pm-06:50 pm', '09:00 am-11:50 am']"
-"Pozdnyakova, Z","['11:00 am-11:50 am', '08:00 am-08:50 am', '09:00 am-09:50 am']"
-"Quick, B","['04:00 pm-05:40 pm', '04:00 pm-05:15 pm']"
-"Rahmanifar, A","['12:00 pm-02:45 pm', '09:00 am-11:45 am']"
-"Reay, S","['08:00 am-08:50 am', '09:00 am-09:50 am']"
-"Reynolds, J","['12:00 pm-12:50 pm', '11:00 am-11:50 am']"
-"Rezai, N",['04:00 pm-06:45 pm']
-"Richards, S","['04:00 pm-06:45 pm', '07:00 pm-09:45 pm', '12:00 pm-02:45 pm']"
-"Riggs, E",['05:30 pm-06:45 pm']
-"Rijs, J",['04:00 pm-06:45 pm']
-"Robert, D","['08:00 am-03:30 pm', '04:00 pm-06:45 pm', '09:30 am-10:45 am', '11:00 am-12:15 pm']"
-"Roberts, T","['11:00 am-12:15 pm', '04:00 pm-06:45 pm']"
-"Rochon, R",['09:00 am-09:50 am']
-"Rodriguez, D","['08:00 am-10:45 am', '12:30 pm-03:15 pm']"
-"Rodriguez, L","['11:00 am-12:15 pm', '04:00 pm-06:45 pm', '02:00 pm-03:15 pm']"
-"Rosiene, J","['10:00 am-10:50 am', '09:00 am-09:50 am', '04:00 pm-05:15 pm', '11:00 am-11:50 am']"
-"Rowett, C","['04:00 pm-06:45 pm', '07:00 pm-09:45 pm']"
-"RuJoub, M","['09:30 am-10:45 am', '11:00 am-12:15 pm']"
-"Ruddy, J",[]
-"Rukgaber, M","['02:00 pm-02:50 pm', '11:00 am-12:15 pm']"
-"Ryen, S","['12:00 pm-12:50 pm', '01:00 pm-01:50 pm']"
-"Saenz Cambra, C",['11:00 am-11:50 am']
-"Salters-Pedneault, K","['10:00 am-10:50 am', '09:00 am-09:50 am', '02:00 pm-02:50 pm', '11:00 am-11:50 am']"
-"Sandeen, J",['04:00 pm-06:45 pm']
-"Sanford, L","['05:30 pm-06:45 pm', '07:00 pm-08:15 pm']"
-"Saponaro, J",['04:00 pm-06:45 pm']
-"Sarikhani Khorami, M","['11:00 am-12:15 pm', '12:30 pm-01:45 pm', '01:00 pm-01:50 pm']"
-"Schaller, J","['11:00 am-12:15 pm', '04:00 pm-06:45 pm', '02:00 pm-03:15 pm']"
-"Scisco, J","['09:30 am-10:45 am', '11:00 am-12:15 pm', '02:00 pm-03:15 pm']"
-"Serrano, M","['04:00 pm-05:15 pm', '12:30 pm-01:45 pm']"
-"Severance, T","['08:00 am-08:50 am', '09:00 am-09:50 am']"
-"Shende, C",['04:00 pm-05:15 pm']
-"Shepard-Torres, R","['09:30 am-10:45 am', '11:00 am-12:15 pm']"
-"Sholes, Z","['01:00 pm-01:50 pm', '02:00 pm-04:00 pm']"
-"Simon, N","['09:00 am-09:50 am', '02:00 pm-03:15 pm', '09:30 am-10:45 am', '11:00 am-12:50 pm']"
-"Slutsky, D",['04:00 pm-05:15 pm']
-"Smith, E","['12:00 pm-12:50 pm', '01:00 pm-03:50 pm', '11:00 am-12:15 pm', '12:30 pm-01:45 pm']"
-"Sokolovskaya, A","['04:00 pm-05:15 pm', '12:30 pm-01:45 pm']"
-"Sokolovskaya, A",[]
-"Bright-Holland, A",[]
-"Cobb, J",[]
-"Soleymanpour, R",['04:00 pm-05:15 pm']
-"Speicher, A","['11:00 am-11:50 am', '01:00 pm-01:50 pm']"
-"Stanton, M","['08:00 am-10:45 am', '12:30 pm-03:15 pm', '11:00 am-11:50 am']"
-"Stocker, K",['09:00 am-09:50 am']
-"Stoloff, D","['04:00 pm-06:45 pm', '07:00 pm-09:45 pm']"
-"Swaminathan, S",['09:30 am-12:15 pm']
-"Swanson, S","['07:00 pm-09:50 pm', '04:00 pm-06:50 pm']"
-"Swetzoff, S","['12:30 pm-01:45 pm', '02:00 pm-03:15 pm']"
-"Swift, P","['09:30 am-10:45 am', '02:00 pm-03:15 pm']"
-"Switchenko, D","['08:00 am-09:15 am', '04:00 pm-05:15 pm']"
-"Switchenko, K","['10:30 am-12:15 pm', '09:30 am-10:30 am']"
-"Synnott, C",['09:00 am-09:50 am']
-"Szymkiewicz, R","['11:00 am-12:15 pm', '12:30 pm-01:45 pm', '01:00 pm-02:40 pm']"
-"Tackett, M",['08:00 am-10:50 am']
-"Tarricone, D",['05:30 pm-06:45 pm']
-"Tasneem, S","['11:00 am-12:15 pm', '04:00 pm-06:45 pm', '02:00 pm-03:15 pm']"
-"Taylor, M","['11:00 am-11:50 am', '09:00 am-09:50 am']"
-"Terry, B","['09:30 am-10:45 am', '08:00 am-09:15 am']"
-"Thapa, G",['02:00 pm-04:50 pm']
-"Thomas, J",[]
-"Thompson, A","['01:00 pm-05:00 pm', '01:25 pm-03:25 pm']"
-"Toczylowski, B",['12:00 pm-02:45 pm']
-"Toedt, J","['02:00 pm-04:50 pm', '01:00 pm-01:50 pm']"
-"Tomanelli, J",['08:00 am-09:15 am']
-"Toner, A",[]
-"Torockio, C","['04:00 pm-06:45 pm', '02:00 pm-03:15 pm']"
-"Tracy, J",['08:00 am-09:15 am']
-"Tran, L",['05:30 pm-07:15 pm']
-"Trubey, P",['12:30 pm-03:15 pm']
-"Turgeon, K",[]
-"Utterback, A","['09:30 am-10:45 am', '04:00 pm-06:45 pm', '12:30 pm-01:45 pm']"
-"Vail, M",['04:00 pm-06:45 pm']
-"Vasquez-O'Brien, T","['09:30 am-10:45 am', '04:00 pm-05:15 pm', '12:30 pm-01:45 pm']"
-"Veerappan, V","['10:00 am-10:50 am', '09:00 am-09:50 am', '12:00 pm-12:50 pm', '09:30 am-12:20 pm']"
-"Verrastro, N","['11:00 am-11:50 am', '04:00 pm-05:15 pm']"
-"Vijayasekar, J",['11:00 am-11:50 am']
-"Villanueva, E","['12:00 pm-12:50 pm', '08:00 am-08:50 am']"
-"Vo, B",[]
-"Vogt, D",['04:00 pm-06:45 pm']
-"Volkman, V","['10:00 am-10:50 am', '09:00 am-09:50 am']"
-"Wadecki, J",[]
-"Walters, S","['11:00 am-11:50 am', '12:00 pm-01:10 pm', '10:00 am-10:50 am']"
-"Ward, K",['09:00 am-09:50 am']
-"Ward, K",['01:00 pm-01:50 pm']
-"Heenehan, M",['01:00 pm-01:50 pm']
-"Washburn, S",[]
-"Wasielewski, T","['09:30 am-10:45 am', '11:00 am-12:15 pm']"
-"Watkins, K",['07:00 pm-09:30 pm']
-"D'Aleo, J",['07:00 pm-09:30 pm']
-"Weir, L","['11:00 am-12:15 pm', '12:30 pm-01:45 pm']"
-"Welles, R",[]
-"Weselcouch, C",['04:00 pm-06:45 pm']
-"Westberry, B","['04:00 pm-06:45 pm', '07:00 pm-09:45 pm']"
-"White, J","['04:00 pm-06:45 pm', '07:00 pm-09:45 pm']"
-"Whitehead, B","['08:00 am-08:50 am', '09:00 am-09:50 am']"
-"Williamson, E","['08:00 am-08:50 am', '09:00 am-09:50 am']"
-"Wintner, J",['05:30 pm-06:45 pm']
-"Woodmansee, K",['04:00 pm-06:45 pm']
-"Wray, M",['04:00 pm-06:45 pm']
-"Wu, S","['09:30 am-10:45 am', '04:00 pm-05:15 pm']"
-"Yankov, C","['10:00 am-10:50 am', '09:00 am-09:50 am', '12:00 pm-12:50 pm', '11:00 am-11:50 am', '08:00 am-08:50 am']"
-"Youngblood, J","['12:00 pm-12:50 pm', '04:00 pm-05:15 pm', '02:00 pm-03:15 pm']"
-"Zablonski, M",['04:00 pm-06:45 pm']
-"Zatowski, J",['04:00 pm-06:45 pm']
-"Zimmitti, L",['08:00 am-03:30 pm']
-"de Sousa, D",['04:00 pm-06:45 pm']
-"de Wilde, A","['04:00 pm-06:45 pm', '10:00 am-10:50 am', '09:00 am-09:50 am', '02:00 pm-02:50 pm', '12:00 pm-12:50 pm']"
+Instructor,Schedule
+"Abbatemarco, A","TR(11:00 am-12:15 pm, 12:30 pm-01:45 pm)"
+"Aconfora, N",M(04:00 pm-06:45 pm)
+"Ahmadi, S","T(04:00 pm-06:50 pm, 07:00 pm-09:50 pm)"
+"Aidoo, A","TR(02:00 pm-03:15 pm, 09:30 am-10:45 am, 12:30 pm-01:45 pm), W(02:00 pm-02:50 pm, 10:00 am-11:50 am)"
+"Albini, E",M(04:00 pm-06:45 pm)
+"Alexander, J",TR(09:30 am-10:45 am)
+"Alkhamaiesh, S","TR(05:30 pm-06:45 pm, 07:00 pm-08:15 pm)"
+"Allen, E",TR(08:00 am-09:50 am)
+"Ammari, M","T(04:00 pm-06:45 pm, 07:00 pm-09:45 pm)"
+"Anderson, G",MWF(09:00 am-09:50 am)
+"Armstrong, N"," (TBA), MWF(10:00 am-10:50 am)"
+"Ashton, F"," (TBA), MTWRF(08:00 am-03:30 pm)"
+"Avent, A","MWF(10:00 am-10:50 am, 12:00 pm-12:50 pm)"
+"Azzaro, E","M(07:00 pm-09:45 pm), T(07:00 pm-09:45 pm)"
+"Babar, S","MWF(11:00 am-11:50 am, 12:00 pm-12:50 pm)"
+"Bachiochi, P"," (TBA), MW(04:00 pm-05:15 pm), TR(02:00 pm-03:15 pm, 11:00 am-12:15 pm)"
+"Bacholle, M","M(12:00 pm-02:45 pm), MWF(11:00 am-11:50 am), W(12:00 pm-02:45 pm)"
+"Balcerski, T"," (TBA), W(04:00 pm-06:45 pm)"
+"Ballena, D"," (TBA), MWF(10:00 am-10:50 am, 11:00 am-11:50 am), T(07:00 pm-08:20 pm)"
+"Balough, T","MWF(08:00 am-08:50 am, 09:00 am-09:50 am)"
+"Bane, E"," (TBA), R(08:00 am-10:50 am)"
+"Bartone, K",T(09:30 am-12:15 pm)
+"Bataille, A"," (TBA), MWF(01:00 pm-01:50 pm, 09:00 am-09:50 am, 11:00 am-11:50 am), R(08:00 am-10:50 am, 12:30 pm-03:20 pm)"
+"Beebe, J"," (TBA), TR(05:30 pm-09:45 pm)"
+"Beeby, C",TR(04:00 pm-05:15 pm)
+"Beever, J","TR(08:00 am-09:15 am, 09:30 am-10:45 am)"
+"Belles, D"," (TBA), MW(05:30 pm-06:45 pm), WF(03:00 pm-03:50 pm)"
+"Bisantz, J",W(09:00 am-11:45 am)
+"Bissonnette, A","MWF(01:00 pm-01:50 pm, 02:00 pm-02:50 pm)"
+"Blain, J", (TBA)
+"Blancaflor, S","TR(02:00 pm-03:15 pm, 12:30 pm-01:45 pm)"
+"Bondok, A","MWF(09:00 am-09:50 am, 10:00 am-10:50 am, 11:00 am-11:50 am)"
+"Bouley, T"," (TBA), R(09:30 am-12:15 pm), T(04:00 pm-06:45 pm), TR(02:00 pm-03:15 pm)"
+"Breslin, D","TR(02:00 pm-03:15 pm, 04:00 pm-05:15 pm)"
+"Bright-Holland, A",TR(04:00 pm-05:15 pm)
+"Bronson, M", (TBA)
+"Broscious, C"," (TBA), TR(09:30 am-10:45 am, 12:30 pm-01:45 pm)"
+"Brown, S",R(04:00 pm-06:45 pm)
+"Brunelle, K","MWF(09:00 am-09:50 am), W(08:00 am-08:50 am)"
+"Buck, W"," (TBA), TR(02:00 pm-03:15 pm, 04:00 pm-05:15 pm, 09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Burns, N",TR(11:00 am-12:15 pm)
+"Busi, J", (TBA)
+"Bussiere, J",TR(04:00 pm-05:15 pm)
+"Calissi, J"," (TBA), F(03:30 pm-04:50 pm, 10:00 am-10:50 am), M(10:00 am-10:50 am), MWF(11:00 am-11:50 am), TR(02:00 pm-03:15 pm, 12:30 pm-01:45 pm), W(10:00 am-10:50 am)"
+"Calissi, R"," (TBA), TR(09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Canavan, P"," (TBA), M(03:00 pm-05:50 pm), MWF(10:00 am-10:50 am, 11:00 am-11:50 am), T(08:00 am-10:50 am, 12:30 pm-03:20 pm)"
+"Candler, J","M(07:00 pm-09:50 pm), T(07:00 pm-09:50 pm)"
+"Capalbo, H"," (TBA), R(04:00 pm-06:45 pm)"
+"Carenen, C","TR(09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Cariddi, K",MW(04:00 pm-05:50 pm)
+"Carlson, H","R(04:00 pm-05:50 pm), T(04:00 pm-05:50 pm), W(04:00 pm-05:50 pm)"
+"Carlson, R",M(04:00 pm-06:45 pm)
+"Carroll, S"," (TBA), M(04:00 pm-06:45 pm), TR(09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Cassidy, S",MWF(11:00 am-11:50 am)
+"Castro, N",TR(08:00 am-09:15 am)
+"Chadwick, J",TR(12:30 pm-01:45 pm)
+"Chan, K", (TBA)
+"Chatterton, C","M(07:00 pm-08:15 pm), MWF(09:00 am-09:50 am), R(08:00 am-09:15 am, 09:30 am-12:15 pm)"
+"Chen, T"," (TBA), M(12:00 pm-02:45 pm), TR(09:30 am-12:15 pm, 12:30 pm-03:15 pm)"
+"Chirakul-Madden, P","R(02:00 pm-04:50 pm, 11:00 am-01:50 pm)"
+"Chirico, M"," (TBA), M(04:00 pm-06:45 pm), MWF(01:00 pm-01:50 pm)"
+"Chirico, M",MWF(11:00 am-11:50 am)
+"Diller, J",MWF(11:00 am-11:50 am)
+"Doyle, M",MWF(11:00 am-11:50 am)
+"Christopher, M",W(04:00 pm-06:45 pm)
+"Citurs, A"," (TBA), M(04:00 pm-06:45 pm), MF(02:00 pm-03:15 pm), MW(07:00 pm-08:15 pm), TR(11:00 am-12:15 pm)"
+"Clements, S","TR(04:00 pm-05:15 pm, 09:30 am-10:45 am)"
+"Clermont-Ferrand, M"," (TBA), TR(02:00 pm-03:15 pm, 04:00 pm-05:15 pm, 12:30 pm-01:45 pm), W(04:00 pm-06:45 pm)"
+"Clifford, M"," (TBA), TR(08:00 am-09:15 am, 09:30 am-10:45 am), W(07:00 pm-09:45 pm)"
+"Close, S"," (TBA), TR(02:00 pm-03:15 pm, 08:00 am-09:15 am, 09:30 am-10:45 am, 12:30 pm-01:45 pm)"
+"Cobb, J"," (TBA), T(04:00 pm-06:45 pm), TR(02:00 pm-03:15 pm, 09:30 am-10:45 am, 12:30 pm-01:45 pm)"
+"Cochran, T"," (TBA), TR(09:30 am-10:45 am), W(03:00 pm-03:50 pm)"
+"Coffey, K","F(01:00 pm-01:50 pm, 10:00 am-10:50 am), MWF(02:00 pm-02:50 pm, 09:00 am-09:50 am)"
+"Collins, G",R(07:00 pm-09:45 pm)
+"Congdon, V",TR(09:30 am-10:45 am)
+"Connolly, B"," (TBA), MWF(01:00 pm-01:50 pm, 11:00 am-11:50 am), R(02:00 pm-04:50 pm, 09:30 am-12:20 pm)"
+"Cook, K",T(04:00 pm-06:45 pm)
+"Cordon, L"," (TBA), TR(02:00 pm-03:15 pm, 08:00 am-09:15 am, 09:30 am-10:45 am, 12:30 pm-01:45 pm)"
+"Cornicello, A"," (TBA), M(04:00 pm-05:30 pm), MWF(01:00 pm-01:50 pm, 11:00 am-11:50 am)"
+"Cote, A","MW(09:00 am-10:30 am), MWF(01:00 pm-01:50 pm, 02:00 pm-02:50 pm), WF(11:00 am-12:30 pm)"
+"Cousins, A"," (TBA), MWF(01:00 pm-01:50 pm, 08:00 am-09:10 am, 12:00 pm-12:50 pm), W(10:00 am-10:50 am)"
+"Couture-Palmerino, P", (TBA)
+"Cowles, E","MWF(10:00 am-10:50 am), T(04:00 pm-06:45 pm, 09:30 am-12:20 pm)"
+"Cox, P",W(07:00 pm-09:45 pm)
+"Cruz, D", (TBA)
+"Cunningham, B","MWF(10:00 am-10:50 am, 11:00 am-11:50 am, 12:00 pm-12:50 pm)"
+"Cunningham, W","T(12:30 pm-03:20 pm), TR(09:30 am-10:45 am, 11:00 am-12:15 pm), W(01:00 pm-01:50 pm)"
+"Cunningham, W"," (TBA), T(05:30 pm-06:15 pm)"
+"Drzewiecki, P"," (TBA), T(05:30 pm-06:15 pm)"
+"Curtis, S","MWF(11:00 am-11:50 am), TR(09:30 am-10:45 am)"
+"Dahmani, F", (TBA)
+"Dale, D","MWF(11:00 am-11:50 am, 12:00 pm-12:50 pm), TR(08:00 am-09:15 am, 11:00 am-12:15 pm)"
+"Dale, K",TR(08:00 am-09:15 am)
+"Dancik, G"," (TBA), TR(02:00 pm-03:15 pm, 09:30 am-10:45 am)"
+"Davis, B"," (TBA), MWF(01:00 pm-01:50 pm, 02:00 pm-02:50 pm, 09:00 am-09:50 am, 10:00 am-11:10 am)"
+"Davis, M", (TBA)
+"Day, B"," (TBA), M(02:00 pm-02:50 pm), TR(02:00 pm-03:50 pm, 09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Days-Luketich, P",T(04:00 pm-06:45 pm)
+"DeLima, L","TR(11:00 am-12:15 pm, 12:30 pm-01:45 pm)"
+"DeRosa, S"," (TBA), TR(02:00 pm-03:15 pm), W(04:00 pm-06:45 pm)"
+"Decker, G",T(07:00 pm-09:45 pm)
+"Del Rio, J","MWF(09:00 am-09:50 am, 10:00 am-10:50 am)"
+"Delaney, E"," (TBA), R(12:30 pm-01:45 pm), TR(02:00 pm-03:15 pm)"
+"Dexter, R"," (TBA), W(07:00 pm-09:45 pm)"
+"DiFranco, A","M(04:00 pm-06:45 pm), W(04:00 pm-06:45 pm)"
+"Diller, J"," (TBA), M(09:00 am-09:50 am), MWF(08:00 am-08:50 am)"
+"Donaghy, D"," (TBA), TR(02:00 pm-03:15 pm, 11:00 am-12:15 pm, 12:30 pm-01:45 pm)"
+"Donohue, K","TR(08:00 am-09:15 am, 09:30 am-10:45 am)"
+"Dotson, T","TR(02:00 pm-03:15 pm, 04:00 pm-05:15 pm)"
+"Dowdell, D", (TBA)
+"Doyle, M"," (TBA), WF(01:00 pm-02:50 pm)"
+"Drew, T"," (TBA), TR(09:30 am-12:15 pm)"
+"Drewry, C", (TBA)
+"Drewry, T", (TBA)
+"Drzewiecki, P","M(02:00 pm-04:50 pm), MWF(09:00 am-09:50 am, 11:00 am-11:50 am), W(12:00 pm-12:50 pm)"
+"Dunnack, S"," (TBA), MTWRF(08:00 am-03:30 pm)"
+"Dziavit, K",M(04:00 pm-06:45 pm)
+"Dzurec, D"," (TBA), M(02:00 pm-04:50 pm), MWF(08:00 am-08:50 am)"
+"Dzurec, L","MWF(01:00 pm-01:50 pm, 11:00 am-11:50 am), TR(12:30 pm-01:45 pm)"
+"Easton, W","MWF(09:00 am-09:50 am), TR(12:30 pm-01:45 pm)"
+"Echols, C","TR(11:00 am-12:15 pm, 12:30 pm-01:45 pm)"
+"Eckenroth, G","R(04:00 pm-05:15 pm), TR(02:00 pm-03:15 pm)"
+"Elfouly, R","TR(11:00 am-12:15 pm, 12:30 pm-01:45 pm)"
+"Elia, A","M(12:00 pm-02:45 pm), MW(09:00 am-11:45 am)"
+"Epp, K"," (TBA), M(02:00 pm-04:50 pm), W(02:00 pm-04:50 pm)"
+"Erik-Soussi, A",M(04:00 pm-06:45 pm)
+"Erwin, C","T(07:00 pm-09:45 pm), TR(02:00 pm-03:15 pm, 09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Espinoza, A"," (TBA), MTWRF(08:00 am-03:30 pm)"
+"Eves, K",TR(04:00 pm-05:15 pm)
+"Fabrizi, M"," (TBA), M(07:00 pm-09:45 pm)"
+"Ferraro, L"," (TBA), M(04:00 pm-06:45 pm)"
+"Ferruci, S"," (TBA), TR(09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Fister, K","MW(04:00 pm-05:50 pm), MWF(02:00 pm-02:50 pm)"
+"Flood, R"," (TBA), M(04:00 pm-06:45 pm), MWF(09:00 am-09:50 am, 10:00 am-11:10 am)"
+"Forte, W","TR(09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Foy, L","TR(11:00 am-12:15 pm, 12:30 pm-01:45 pm)"
+"Frain, M","W(04:00 pm-06:45 pm, 07:00 pm-09:45 pm)"
+"Franco, B","TR(02:00 pm-03:50 pm, 12:30 pm-01:45 pm)"
+"Fresco-Hawes, C",W(04:00 pm-06:45 pm)
+"Freund, E","T(04:00 pm-06:45 pm), W(04:00 pm-06:45 pm)"
+"Frye, D"," (TBA), TR(02:00 pm-03:15 pm, 04:00 pm-05:15 pm, 11:00 am-12:15 pm), W(04:00 pm-06:45 pm, 07:00 pm-09:45 pm)"
+"Fugere, M"," (TBA), MWF(01:00 pm-01:50 pm, 09:00 am-09:50 am, 10:00 am-10:50 am)"
+"Fulton, S",TR(05:30 pm-06:45 pm)
+"Gageonea, M","TR(02:00 pm-03:50 pm, 04:00 pm-05:50 pm)"
+"Galvez, D"," (TBA), W(07:00 pm-09:45 pm)"
+"Gao, K"," (TBA), MW(04:00 pm-05:15 pm), MWF(02:00 pm-02:50 pm, 10:00 am-10:50 am, 11:00 am-11:50 am)"
+"Garcia, M","MWF(11:00 am-11:50 am), TR(11:00 am-12:15 pm)"
+"Geer, S", (TBA)
+"Girasoli, A",MW(07:00 pm-08:50 pm)
+"Golebiewski, T"," (TBA), M(04:00 pm-06:45 pm), TR(04:00 pm-05:15 pm)"
+"Goodman, D","TR(09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Goyette, L", (TBA)
+"Graham, M"," (TBA), MWF(01:00 pm-01:50 pm, 12:00 pm-12:50 pm), R(11:00 am-01:50 pm)"
+"Grandhi, S"," (TBA), TR(12:30 pm-01:45 pm)"
+"Green, B",M(04:00 pm-06:45 pm)
+"Greene, R"," (TBA), F(12:00 pm-02:45 pm), TR(04:00 pm-06:45 pm, 12:00 pm-02:45 pm)"
+"Grosjean, B","T(07:00 pm-09:45 pm), TR(11:00 am-12:15 pm)"
+"Groth, A"," (TBA), M(02:00 pm-04:50 pm), MWF(10:00 am-10:50 am, 11:00 am-11:50 am)"
+"Guarino, B",MW(09:00 am-11:45 am)
+"Guild, C",TR(09:30 am-12:15 pm)
+"Guo, M"," (TBA), TR(02:00 pm-03:15 pm, 09:30 am-10:45 am, 11:00 am-12:15 pm), W(04:00 pm-06:45 pm)"
+"Gyure, M"," (TBA), R(04:00 pm-05:50 pm, 09:30 am-11:20 am, 12:30 pm-02:20 pm)"
+"Hall, M",TR(04:00 pm-05:15 pm)
+"Hall, S",W(04:00 pm-06:45 pm)
+"He, K"," (TBA), MWF(01:00 pm-01:50 pm, 09:00 am-09:50 am, 10:00 am-10:50 am)"
+"Heenehan, M"," (TBA), MWF(10:00 am-10:50 am, 12:00 pm-12:50 pm)"
+"Henry, J","M(04:00 pm-06:45 pm), T(04:00 pm-06:45 pm)"
+"Holland, J","M(09:00 am-09:50 am), MWF(10:00 am-10:50 am), WF(12:00 pm-02:45 pm)"
+"Houldcroft, T",W(04:00 pm-06:45 pm)
+"Hulvey, J"," (TBA), M(02:00 pm-04:50 pm), MWF(09:00 am-09:50 am, 11:00 am-11:50 am), W(02:00 pm-04:50 pm)"
+"Hwang, O"," (TBA), MWF(09:00 am-09:50 am, 11:00 am-11:50 am)"
+"Hyatt, D"," (TBA), R(02:00 pm-04:50 pm), T(02:00 pm-04:50 pm), TR(09:30 am-10:45 am), W(02:00 pm-04:50 pm)"
+"Idjadi, J", (TBA)
+"Islam, S"," (TBA), F(02:00 pm-05:50 pm), MW(04:00 pm-05:15 pm, 05:30 pm-06:45 pm), MWF(12:00 pm-12:50 pm)"
+"Jacobs, M","M(04:00 pm-06:45 pm), TR(05:30 pm-06:45 pm)"
+"Jahan, I","MWF(11:00 am-11:50 am), TR(02:00 pm-03:15 pm)"
+"Jaros, S","M(04:00 pm-05:15 pm), W(04:00 pm-05:15 pm)"
+"Jendrewski, R",MW(05:30 pm-06:45 pm)
+"Jeon, J", (TBA)
+"Johnson, D",T(07:00 pm-09:45 pm)
+"Johnson, J","MWF(09:00 am-09:50 am, 10:00 am-10:50 am)"
+"Johnson, P"," (TBA), M(02:00 pm-02:50 pm), MWF(01:00 pm-01:50 pm), TR(04:00 pm-05:50 pm, 07:00 pm-08:15 pm)"
+"Johnson, S","MF(11:00 am-12:40 pm), MWF(01:00 pm-01:50 pm), W(11:00 am-11:50 am)"
+"Joiner, K","T(04:00 pm-06:50 pm), W(08:00 am-10:50 am)"
+"Kane, G"," (TBA), MWF(01:00 pm-01:50 pm, 10:00 am-10:50 am, 12:00 pm-12:50 pm)"
+"Kang, M"," (TBA), TR(02:00 pm-03:15 pm), W(04:00 pm-06:45 pm)"
+"Karrenberg, J","MWF(01:00 pm-01:50 pm, 02:00 pm-02:50 pm)"
+"Keane, D",T(04:00 pm-06:45 pm)
+"Kerr, M","R(02:00 pm-03:50 pm, 11:00 am-12:00 pm), T(11:00 am-12:00 pm), TR(09:30 am-10:45 am)"
+"Keyes, M"," (TBA), MWF(02:00 pm-02:50 pm, 11:00 am-11:50 am, 12:00 pm-01:10 pm)"
+"Khade, V",W(07:00 pm-09:45 pm)
+"Khow, M","TR(08:00 am-09:15 am, 09:30 am-10:45 am)"
+"Kim, S"," (TBA), TR(04:00 pm-06:45 pm, 12:30 pm-03:15 pm)"
+"Kolek, S"," (TBA), TR(02:00 pm-03:50 pm, 08:00 am-09:50 am, 11:00 am-12:50 pm)"
+"Koza, D","M(07:00 pm-09:50 pm), MWF(10:00 am-10:50 am)"
+"Krassas, N"," (TBA), MWF(01:00 pm-01:50 pm, 11:00 am-11:50 am)"
+"Krebs, C"," (TBA), M(02:00 pm-02:50 pm), MWF(01:00 pm-01:50 pm, 09:00 am-09:50 am, 10:00 am-10:50 am, 11:00 am-11:50 am), R(12:30 pm-01:20 pm)"
+"Kunene, N","TR(02:00 pm-03:15 pm, 09:30 am-10:45 am, 12:30 pm-01:45 pm)"
+"Kurti, M"," (TBA), R(04:00 pm-06:45 pm), TR(02:00 pm-03:50 pm, 11:00 am-12:50 pm)"
+"Kwaku, K",T(04:00 pm-06:45 pm)
+"Kyei, I","M(04:00 pm-06:45 pm), MWF(10:00 am-10:50 am, 11:00 am-11:50 am), TR(11:00 am-12:15 pm)"
+"Kyle, K"," (TBA), F(08:00 am-10:50 am), T(08:00 am-10:50 am)"
+"LaMarche, L", (TBA)
+"LaPorte, K","M(04:00 pm-06:45 pm), T(07:00 pm-09:45 pm)"
+"Ladd, J","MW(02:00 pm-02:50 pm), MWF(01:00 pm-01:50 pm)"
+"Lanagan-Leitzel, L"," (TBA), MWF(11:00 am-11:50 am, 12:00 pm-12:50 pm)"
+"Larose, C","MWF(01:00 pm-01:50 pm, 02:00 pm-02:50 pm, 10:00 am-10:50 am, 11:00 am-11:50 am)"
+"Laux, D"," (TBA), M(02:00 pm-04:50 pm), MWF(09:00 am-09:50 am, 11:00 am-11:50 am), W(02:00 pm-04:50 pm)"
+"Lavoie, M",TR(09:30 am-10:45 am)
+"Lee, K"," (TBA), M(04:00 pm-06:45 pm), TR(02:00 pm-03:15 pm)"
+"Lee, P"," (TBA), M(04:00 pm-04:50 pm), TR(04:00 pm-05:15 pm, 11:00 am-12:15 pm, 12:30 pm-01:45 pm)"
+"Leiss, A"," (TBA), TR(02:00 pm-03:15 pm, 11:00 am-12:15 pm), W(04:00 pm-06:45 pm)"
+"Leszczynski, J"," (TBA), MWF(08:00 am-08:50 am, 09:00 am-09:50 am, 11:00 am-11:50 am, 12:00 pm-12:50 pm)"
+"Leszczynski, J",M(10:00 am-10:50 am)
+"Vasquez-O'Brien, T",M(10:00 am-10:50 am)
+"Lewis, J",T(12:30 pm-03:15 pm)
+"Li, L"," (TBA), MW(09:00 am-11:45 am)"
+"Li, L",MW(04:00 pm-06:45 pm)
+"Greene, R",MW(04:00 pm-06:45 pm)
+"Rahmanifar, A",MW(04:00 pm-06:45 pm)
+"Liang, L","TR(02:00 pm-03:15 pm, 09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Liu, Q"," (TBA), M(12:00 pm-02:45 pm), TR(04:00 pm-06:45 pm, 12:30 pm-03:15 pm)"
+"Liu, X"," (TBA), F(12:00 pm-02:45 pm), R(04:00 pm-06:45 pm)"
+"Long, E",MWF(10:00 am-10:50 am)
+"Lucin, K"," (TBA), M(02:00 pm-04:50 pm), MWF(10:00 am-10:50 am), TR(11:00 am-12:15 pm, 12:30 pm-01:45 pm)"
+"Lugo, W"," (TBA), W(04:00 pm-06:45 pm, 07:00 pm-09:45 pm)"
+"Luxenberg, H","M(02:00 pm-03:40 pm), TR(02:00 pm-03:15 pm, 11:00 am-12:15 pm)"
+"Madenjian Wybieracki, K","MWF(11:00 am-11:50 am, 12:00 pm-12:50 pm)"
+"Mama, R","TR(02:00 pm-03:15 pm, 04:00 pm-05:15 pm, 05:30 pm-06:45 pm, 12:30 pm-01:45 pm)"
+"Manfredi, E","T(09:30 am-10:30 am, 10:30 am-12:15 pm), TR(12:30 pm-01:45 pm)"
+"Marrett, C", (TBA)
+"Matthews-Armstead, E","T(08:00 am-10:45 am, 12:30 pm-03:15 pm)"
+"Mattingly, B"," (TBA), MWF(10:00 am-10:50 am), T(11:00 am-01:50 pm)"
+"Mattingly, B"," (TBA), T(09:00 am-10:50 am)"
+"Epp, K"," (TBA), T(09:00 am-10:50 am)"
+"Idjadi, J"," (TBA), T(09:00 am-10:50 am)"
+"McCarty, G","MWF(09:00 am-09:50 am, 10:00 am-10:50 am)"
+"McKee, M",TR(09:30 am-12:15 pm)
+"McNeil, K","TR(09:30 am-10:45 am, 11:00 am-12:15 pm, 12:30 pm-01:45 pm), W(09:00 am-10:40 am, 11:00 am-12:40 pm)"
+"Mendoza-Botelho, M"," (TBA), T(04:00 pm-06:45 pm), TR(02:00 pm-03:15 pm, 09:30 am-10:45 am)"
+"Metcalf, M"," (TBA), M(01:00 pm-03:50 pm), MW(04:00 pm-05:15 pm, 05:30 pm-06:45 pm), W(01:00 pm-03:50 pm)"
+"Michimi, A","MWF(09:00 am-09:50 am, 10:00 am-10:50 am)"
+"Misiko, C","M(04:00 pm-06:45 pm), T(04:00 pm-06:45 pm)"
+"Montemerlo, J","TR(09:30 am-10:45 am, 12:30 pm-01:45 pm)"
+"Mooney, M", (TBA)
+"Moore, S"," (TBA), MWF(01:00 pm-01:50 pm, 09:00 am-09:50 am, 11:00 am-12:10 pm)"
+"Moorehead, T", (TBA)
+"Moran, R",MW(09:00 am-11:45 am)
+"Morgan, K"," (TBA), F(12:00 pm-02:45 pm)"
+"Moylan, W","MW(04:00 pm-05:15 pm, 05:30 pm-06:45 pm)"
+"Murdoch, B"," (TBA), R(09:30 am-12:20 pm), T(09:30 am-11:20 am, 12:30 pm-02:20 pm)"
+"Murphy, J",MWF(10:00 am-10:50 am)
+"Nadeau, C",MW(04:00 pm-05:15 pm)
+"Nardella, S","TR(02:00 pm-03:15 pm, 12:30 pm-01:45 pm)"
+"Nathan, S","MWF(09:00 am-09:50 am, 10:00 am-10:50 am, 11:00 am-11:50 am)"
+"Ndiaye, M","MWF(01:00 pm-01:50 pm, 09:00 am-09:50 am, 11:00 am-11:50 am, 12:00 pm-12:50 pm)"
+"Nichols, S",W(04:00 pm-06:45 pm)
+"Nightingale, S"," (TBA), R(08:00 am-10:45 am, 11:00 am-11:50 am, 12:30 pm-03:15 pm), T(08:00 am-10:45 am)"
+"Norval, N","T(04:00 pm-06:45 pm), TR(02:00 pm-03:15 pm)"
+"Nsiah, Y",MWF(11:00 am-11:50 am)
+"O'Brien, M",TR(09:30 am-10:45 am)
+"O'Neal, F","M(03:00 pm-03:50 pm), MWF(01:00 pm-01:50 pm, 02:00 pm-02:50 pm)"
+"Oakley, B"," (TBA), TR(09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Oh, N"," (TBA), TR(09:30 am-10:45 am, 12:30 pm-01:45 pm)"
+"Onye, Y","TR(02:00 pm-03:15 pm, 12:30 pm-01:45 pm)"
+"Opie, D",TR(04:00 pm-06:45 pm)
+"Osei Bonsu, K"," (TBA), M(10:00 am-10:50 am), MWF(02:00 pm-02:50 pm, 09:00 am-09:50 am, 11:00 am-11:50 am), W(12:00 pm-12:50 pm)"
+"Osterndorf, W"," (TBA), MWF(09:00 am-09:50 am, 12:00 pm-12:50 pm), TR(09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Ostwald, J","TR(04:00 pm-05:15 pm, 12:30 pm-01:45 pm)"
+"Otero, M"," (TBA), TR(02:00 pm-03:15 pm, 08:00 am-09:15 am, 09:30 am-10:45 am, 12:30 pm-01:45 pm)"
+"Pakdil, F"," (TBA), MWF(08:00 am-08:50 am), W(04:00 pm-06:45 pm)"
+"Parcinski, A","M(02:00 pm-04:50 pm, 11:00 am-01:50 pm)"
+"Parera, M","MWF(09:00 am-09:50 am, 12:00 pm-12:50 pm)"
+"Parsons, N"," (TBA), TR(02:00 pm-03:50 pm, 09:30 am-10:45 am, 11:00 am-12:50 pm)"
+"Pasini, J","TR(08:00 am-09:15 am, 09:30 am-10:45 am)"
+"Pazameta, Z","M(02:00 pm-03:50 pm), TR(02:00 pm-03:15 pm, 12:30 pm-01:45 pm)"
+"Peacock, J"," (TBA), MTWRF(08:00 am-03:30 pm)"
+"Pellegrini, D"," (TBA), F(12:00 pm-02:45 pm), M(04:00 pm-04:50 pm), TR(11:00 am-12:50 pm)"
+"Pena Alicea, G",TR(11:00 am-12:15 pm)
+"Perry, K","MWF(10:00 am-10:50 am, 11:00 am-11:50 am)"
+"Pesta, R"," (TBA), MWF(10:00 am-10:50 am, 11:00 am-11:50 am, 12:00 pm-12:50 pm)"
+"Peteros, R",W(04:00 pm-06:45 pm)
+"Petrikovsky, H"," (TBA), MW(01:00 pm-02:50 pm)"
+"Pimental, C",T(12:30 pm-03:15 pm)
+"Pinckney, S","TR(09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Porebska, B"," (TBA), M(04:00 pm-06:50 pm), W(09:00 am-11:50 am, 12:00 pm-02:50 pm)"
+"Pozdnyakova, Z","M(09:00 am-09:50 am), MWF(08:00 am-08:50 am, 11:00 am-11:50 am)"
+"Quick, B","TR(04:00 pm-05:15 pm), W(04:00 pm-05:40 pm)"
+"Rahmanifar, A"," (TBA), MW(09:00 am-11:45 am, 12:00 pm-02:45 pm)"
+"Reay, S","MWF(08:00 am-08:50 am, 09:00 am-09:50 am)"
+"Reynolds, J","MWF(11:00 am-11:50 am, 12:00 pm-12:50 pm)"
+"Rezai, N",W(04:00 pm-06:45 pm)
+"Richards, S"," (TBA), M(07:00 pm-09:45 pm, 12:00 pm-02:45 pm), W(04:00 pm-06:45 pm)"
+"Riggs, E"," (TBA), R(05:30 pm-06:45 pm)"
+"Rijs, J",T(04:00 pm-06:45 pm)
+"Robert, D"," (TBA), MTWRF(08:00 am-03:30 pm), R(04:00 pm-06:45 pm), TR(09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Roberts, T"," (TBA), R(04:00 pm-06:45 pm), TR(11:00 am-12:15 pm)"
+"Robinson, M",MTWRF(08:00 am-03:30 pm)
+"Rochon, R",MWF(09:00 am-09:50 am)
+"Rodriguez, D","T(08:00 am-10:45 am, 12:30 pm-03:15 pm)"
+"Rodriguez, L"," (TBA), T(04:00 pm-06:45 pm), TR(02:00 pm-03:15 pm, 11:00 am-12:15 pm)"
+"Rosiene, J"," (TBA), MW(04:00 pm-05:15 pm), MWF(09:00 am-09:50 am, 10:00 am-10:50 am, 11:00 am-11:50 am)"
+"Rowett, C","T(04:00 pm-06:45 pm, 07:00 pm-09:45 pm)"
+"RuJoub, M","TR(09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Ruddy, J", (TBA)
+"Rukgaber, M","MWF(02:00 pm-02:50 pm), TR(11:00 am-12:15 pm)"
+"Ryen, S","MWF(01:00 pm-01:50 pm, 12:00 pm-12:50 pm)"
+"Saenz Cambra, C",MWF(11:00 am-11:50 am)
+"Salters-Pedneault, K"," (TBA), F(09:00 am-09:50 am), MWF(02:00 pm-02:50 pm, 10:00 am-10:50 am, 11:00 am-11:50 am)"
+"Sandeen, J",T(04:00 pm-06:45 pm)
+"Sanford, L","TR(05:30 pm-06:45 pm, 07:00 pm-08:15 pm)"
+"Saponaro, J",M(04:00 pm-06:45 pm)
+"Sarikhani Khorami, M"," (TBA), M(01:00 pm-01:50 pm), TR(11:00 am-12:15 pm, 12:30 pm-01:45 pm)"
+"Schaller, J","TR(02:00 pm-03:15 pm, 11:00 am-12:15 pm), W(04:00 pm-06:45 pm)"
+"Scisco, J"," (TBA), TR(02:00 pm-03:15 pm, 09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Serrano, M","TR(04:00 pm-05:15 pm, 12:30 pm-01:45 pm)"
+"Severance, T"," (TBA), M(08:00 am-08:50 am), MWF(09:00 am-09:50 am)"
+"Shende, C",MW(04:00 pm-05:15 pm)
+"Shepard-Torres, R","TR(09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Sholes, Z","W(01:00 pm-01:50 pm, 02:00 pm-04:00 pm)"
+"Simon, N"," (TBA), TR(02:00 pm-03:15 pm, 09:30 am-10:45 am, 11:00 am-12:50 pm), W(09:00 am-09:50 am)"
+"Slutsky, D",MW(04:00 pm-05:15 pm)
+"Smith, E"," (TBA), M(01:00 pm-03:50 pm), MWF(12:00 pm-12:50 pm), TR(11:00 am-12:15 pm, 12:30 pm-01:45 pm)"
+"Sokolovskaya, A"," (TBA), TR(04:00 pm-05:15 pm, 12:30 pm-01:45 pm)"
+"Sokolovskaya, A", (TBA)
+"Bright-Holland, A", (TBA)
+"Cobb, J", (TBA)
+"Soleymanpour, R",TR(04:00 pm-05:15 pm)
+"Speicher, A"," (TBA), MWF(01:00 pm-01:50 pm, 11:00 am-11:50 am)"
+"Stanton, M"," (TBA), R(08:00 am-10:45 am, 11:00 am-11:50 am, 12:30 pm-03:15 pm), T(12:30 pm-03:15 pm)"
+"Stocker, K"," (TBA), MWF(09:00 am-09:50 am)"
+"Stoloff, D"," (TBA), W(04:00 pm-06:45 pm, 07:00 pm-09:45 pm)"
+"Swaminathan, S"," (TBA), T(09:30 am-12:15 pm)"
+"Swanson, S","W(04:00 pm-06:50 pm, 07:00 pm-09:50 pm)"
+"Swetzoff, S","TR(02:00 pm-03:15 pm, 12:30 pm-01:45 pm)"
+"Swift, P","TR(02:00 pm-03:15 pm, 09:30 am-10:45 am)"
+"Switchenko, D","TR(04:00 pm-05:15 pm, 08:00 am-09:15 am)"
+"Switchenko, K","R(09:30 am-10:30 am, 10:30 am-12:15 pm)"
+"Synnott, C",MWF(09:00 am-09:50 am)
+"Szymkiewicz, R","TR(11:00 am-12:15 pm, 12:30 pm-01:45 pm), W(01:00 pm-02:40 pm)"
+"Tackett, M","F(08:00 am-10:50 am), M(08:00 am-10:50 am)"
+"Tarricone, D",MW(05:30 pm-06:45 pm)
+"Tasneem, S"," (TBA), R(04:00 pm-06:45 pm), TR(02:00 pm-03:15 pm, 11:00 am-12:15 pm)"
+"Taylor, M","MWF(09:00 am-09:50 am, 11:00 am-11:50 am)"
+"Terry, B","TR(08:00 am-09:15 am, 09:30 am-10:45 am)"
+"Thapa, G"," (TBA), F(02:00 pm-04:50 pm)"
+"Thomas, J", (TBA)
+"Thompson, A","F(01:00 pm-05:00 pm), W(01:25 pm-03:25 pm)"
+"Toczylowski, B",WF(12:00 pm-02:45 pm)
+"Toedt, J"," (TBA), MWF(01:00 pm-01:50 pm), T(02:00 pm-04:50 pm)"
+"Tomanelli, J",TR(08:00 am-09:15 am)
+"Toner, A", (TBA)
+"Torockio, C"," (TBA), T(04:00 pm-06:45 pm), TR(02:00 pm-03:15 pm), W(04:00 pm-06:45 pm)"
+"Tracy, J","R(08:00 am-09:15 am), T(08:00 am-09:15 am)"
+"Tran, L","T(05:30 pm-07:15 pm), W(05:30 pm-07:15 pm)"
+"Trubey, P",R(12:30 pm-03:15 pm)
+"Turgeon, K", (TBA)
+"Utterback, A"," (TBA), TR(09:30 am-10:45 am, 12:30 pm-01:45 pm), W(04:00 pm-06:45 pm)"
+"Vail, M"," (TBA), T(04:00 pm-06:45 pm)"
+"Vasquez-O'Brien, T"," (TBA), TR(04:00 pm-05:15 pm, 09:30 am-10:45 am, 12:30 pm-01:45 pm)"
+"Veerappan, V"," (TBA), MWF(09:00 am-09:50 am, 10:00 am-10:50 am, 12:00 pm-12:50 pm), R(09:30 am-12:20 pm)"
+"Verrastro, N","MWF(11:00 am-11:50 am), TR(04:00 pm-05:15 pm)"
+"Vijayasekar, J"," (TBA), MWF(11:00 am-11:50 am)"
+"Villanueva, E"," (TBA), MWF(08:00 am-08:50 am, 12:00 pm-12:50 pm)"
+"Vo, B", (TBA)
+"Vogt, D","R(04:00 pm-06:45 pm), W(04:00 pm-06:45 pm)"
+"Volkman, V","MWF(09:00 am-09:50 am, 10:00 am-10:50 am)"
+"Wadecki, J", (TBA)
+"Walters, S"," (TBA), MWF(10:00 am-10:50 am, 11:00 am-11:50 am, 12:00 pm-01:10 pm)"
+"Ward, K",MWF(09:00 am-09:50 am)
+"Ward, K",MWF(01:00 pm-01:50 pm)
+"Heenehan, M",MWF(01:00 pm-01:50 pm)
+"Washburn, S", (TBA)
+"Wasielewski, T","TR(09:30 am-10:45 am, 11:00 am-12:15 pm)"
+"Watkins, K",W(07:00 pm-09:30 pm)
+"D'Aleo, J",W(07:00 pm-09:30 pm)
+"Weir, L","TR(11:00 am-12:15 pm, 12:30 pm-01:45 pm)"
+"Welles, R", (TBA)
+"Weselcouch, C",M(04:00 pm-06:45 pm)
+"Westberry, B","M(04:00 pm-06:45 pm, 07:00 pm-09:45 pm)"
+"White, J","T(04:00 pm-06:45 pm), W(07:00 pm-09:45 pm)"
+"Whitehead, B","MWF(08:00 am-08:50 am, 09:00 am-09:50 am)"
+"Williamson, E","MWF(08:00 am-08:50 am, 09:00 am-09:50 am)"
+"Wintner, J",TR(05:30 pm-06:45 pm)
+"Woodmansee, K",W(04:00 pm-06:45 pm)
+"Wray, M",T(04:00 pm-06:45 pm)
+"Wu, S","TR(04:00 pm-05:15 pm, 09:30 am-10:45 am)"
+"Yankov, C","MWF(09:00 am-09:50 am, 10:00 am-10:50 am, 11:00 am-11:50 am), W(08:00 am-08:50 am, 12:00 pm-12:50 pm)"
+"Youngblood, J","MF(02:00 pm-03:15 pm), MW(04:00 pm-05:15 pm), MWF(12:00 pm-12:50 pm)"
+"Zablonski, M",R(04:00 pm-06:45 pm)
+"Zatowski, J"," (TBA), T(04:00 pm-06:45 pm)"
+"Zimmitti, L",MTWRF(08:00 am-03:30 pm)
+"de Sousa, D",TR(04:00 pm-06:45 pm)
+"de Wilde, A","M(04:00 pm-06:45 pm), MWF(02:00 pm-02:50 pm, 09:00 am-09:50 am, 10:00 am-10:50 am, 12:00 pm-12:50 pm)"
