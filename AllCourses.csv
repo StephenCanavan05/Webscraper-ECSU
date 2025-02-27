@@ -343,6 +343,7 @@ COM,490,05, ,TBA,TBA,"Day, B (P)"
 COM,490,06, ,TBA,TBA,"Utterback, A (P)"
 COM,490,07, ,TBA,TBA,"Osterndorf, W (P)"
 COM,490,08, ,TBA,TBA,"Zatowski, J (P)"
+COM,490,09, ,TBA,TBA,"Sokolovskaya, A (P)"
 COM,491,01, ,TBA,TBA,TBA
 CFT,100,01,F,12:00 pm-02:45 pm,FAIC 117,"Pellegrini, D (P)"
 CFT,100,02,F,12:00 pm-02:45 pm,FAIC 118,"Morgan, K (P)"
@@ -738,7 +739,7 @@ HPE,362,01,R,09:30 am-10:30 am,SPORT 219,"Switchenko, K (P)"
 HPE,362,01,R,10:30 am-12:15 pm,SPORT 201/GYM,"Switchenko, K (P)"
 HPE,475,01,MTWRF,08:00 am-03:30 pm,TBA,"Robert, D (P)"
 HPE,476,01,R,04:00 pm-06:45 pm,CECE 167,"Robert, D (P)"
-HPE,480,01, ,TBA,TBA,TBA
+HPE,480,01, ,TBA,TBA,"Rowett, C (P)"
 HPE,490,01, ,TBA,TBA,"Robert, D (P)"
 HPE,491,01, ,TBA,TBA,TBA
 HPE,492,01, ,TBA,TBA,TBA
