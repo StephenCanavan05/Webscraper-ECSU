@@ -1,1133 +1,1233 @@
-Instructor,Sub,Crse,Day,Time
-misikoc,ACC,201,T,04:00 pm-06:45 pm
-guom,ACC,201,TR,09:30 am-10:45 am
-guom,ACC,201,TR,11:00 am-12:15 pm
-misikoc,ACC,202,M,04:00 pm-06:45 pm
-guom,ACC,301,TR,02:00 pm-03:15 pm
-foyl,ACC,302,TR,11:00 am-12:15 pm
-guom,ACC,303,W,04:00 pm-06:45 pm
-rujoubm,ACC,311,TR,09:30 am-10:45 am
-capalboh,ACC,410,R,04:00 pm-06:45 pm
-vailm,ACC,411,T,04:00 pm-06:45 pm
-greenb,ACC,412,M,04:00 pm-06:45 pm
-foyl,ACC,416,TR,12:30 pm-01:45 pm
-rujoubm,ACC,420,TR,11:00 am-12:15 pm
-vailm,ACC,520, ,TBA
-capalboh,ACC,531, ,TBA
-shepard-torresr,ANT,106,TR,09:30 am-10:45 am
-leissa,ANT,125,TR,02:00 pm-03:15 pm
-couture-palmerinop,ANT,201, ,TBA
-leissa,ANT,221, ,TBA
-couture-palmerinop,ANT,222, ,TBA
-carrolls,ANT,302,TR,09:30 am-10:45 am
-williamsone,ANT,337,MWF,08:00 am-08:50 am
-williamsone,ANT,345,MWF,09:00 am-09:50 am
-shepard-torresr,ANT,364,TR,11:00 am-12:15 pm
-leissa,ANT,365,TR,11:00 am-12:15 pm
-leissa,ANT,400,W,04:00 pm-06:45 pm
-leissa,ANT,490, ,TBA
-guarinob,ART,110,MW,09:00 am-11:45 am
-mckeem,ART,110,TR,09:30 am-12:15 pm
-eliaa,ART,111,MW,09:00 am-11:45 am
-greener,ART,111,TR,12:00 pm-02:45 pm
-opied,ART,122,TR,04:00 pm-06:45 pm
-chent,ART,124,TR,09:30 am-12:15 pm
-pinckneys,ART,140,TR,09:30 am-10:45 am
-francob,ART,140,TR,12:30 pm-01:45 pm
-beebyc,ART,140,TR,04:00 pm-05:15 pm
-liuq,ART,202,TR,04:00 pm-06:45 pm
-moranr,ART,202,MW,09:00 am-11:45 am
-guildc,ART,202,TR,09:30 am-12:15 pm
-liuq,ART,205,TR,12:30 pm-03:15 pm
-cariddik,ART,212,MW,04:00 pm-05:50 pm
-francob,ART,212,TR,02:00 pm-03:50 pm
-kims,ART,213,TR,04:00 pm-06:45 pm
-bisantzj,ART,214,W,09:00 am-11:45 am
-rahmanifara,ART,215,MW,09:00 am-11:45 am
-desousad,ART,217,TR,04:00 pm-06:45 pm
-liuq,ART,219,M,12:00 pm-02:45 pm
-bartonek,ART,219,T,09:30 am-12:15 pm
-toczylowskib,ART,230,WF,12:00 pm-02:45 pm
-petrikovskyh,ART,233,MW,01:00 pm-02:50 pm
-greener,ART,235,F,12:00 pm-02:45 pm
-eliaa,ART,235,M,12:00 pm-02:45 pm
-wintnerj,ART,250,TR,05:30 pm-06:45 pm
-rahmanifara,ART,308,MW,09:00 am-11:45 am
-pinckneys,ART,313,TR,11:00 am-12:15 pm
-greener,ART,315,TR,04:00 pm-06:45 pm
-chent,ART,327,M,12:00 pm-02:45 pm
-chent,ART,329,TR,12:30 pm-03:15 pm
-hollandj,ART,332,WF,12:00 pm-02:45 pm
-drewt,ART,342,TR,09:30 am-12:15 pm
-lil,ART,343,MW,09:00 am-11:45 am
-rahmanifara,ART,352,MW,12:00 pm-02:45 pm
-doylem,ART,401,WF,01:00 pm-02:50 pm
-kims,ART,436,TR,12:30 pm-03:15 pm
-rahmanifara,ART,470,MW,12:00 pm-02:45 pm
-chent,ART,480, ,TBA
-lil,ART,480, ,TBA
-greener,ART,480, ,TBA
-doylem,ART,480, ,TBA
-kims,ART,480, ,TBA
-liuq,ART,480, ,TBA
-petrikovskyh,ART,480, ,TBA
-rahmanifara,ART,480, ,TBA
-drewt,ART,480, ,TBA
-lil,ART,485,MW,04:00 pm-06:45 pm
-greener,ART,485,MW,04:00 pm-06:45 pm
-rahmanifara,ART,485,MW,04:00 pm-06:45 pm
-doylem,ART,486, ,TBA
-chent,ART,487, ,TBA
-rahmanifara,ART,490, ,TBA
-chent,ART,490, ,TBA
-doylem,ART,490, ,TBA
-kerrm,AST,214,TR,09:30 am-10:45 am
-kerrm,AST,214,T,11:00 am-12:00 pm
-kerrm,AST,214,R,11:00 am-12:00 pm
-hulveyj,BIO,120,MWF,11:00 am-11:50 am
-hulveyj,BIO,120,M,02:00 pm-04:50 pm
-lauxd,BIO,140,MWF,09:00 am-09:50 am
-lauxd,BIO,140,W,02:00 pm-04:50 pm
-murdochb,BIO,140,R,09:30 am-12:20 pm
-wasielewskit,BIO,200,TR,09:30 am-10:45 am
-wasielewskit,BIO,200,TR,11:00 am-12:15 pm
-lucink,BIO,204,TR,11:00 am-12:15 pm
-lucink,BIO,204,TR,12:30 pm-01:45 pm
-pasinij,BIO,204,TR,08:00 am-09:15 am
-pasinij,BIO,204,TR,09:30 am-10:45 am
-jacobsm,BIO,204,M,04:00 pm-06:45 pm
-jacobsm,BIO,204,TR,05:30 pm-06:45 pm
-grotha,BIO,210,MWF,10:00 am-10:50 am
-connollyb,BIO,222,MWF,11:00 am-11:50 am
-connollyb,BIO,222,R,09:30 am-12:20 pm
-grotha,BIO,230,MWF,11:00 am-11:50 am
-grotha,BIO,230,M,02:00 pm-04:50 pm
-mattinglyb,BIO,240,MWF,10:00 am-10:50 am
-mattinglyb,BIO,240,T,11:00 am-01:50 pm
-lucink,BIO,280, ,TBA
-idjadij,BIO,280, ,TBA
-cowlese,BIO,301,T,04:00 pm-06:45 pm
-murdochb,BIO,302,T,09:30 am-11:20 am
-murdochb,BIO,302,T,12:30 pm-02:20 pm
-veerappanv,BIO,304,MWF,09:00 am-09:50 am
-veerappanv,BIO,304,MWF,10:00 am-10:50 am
-grahamm,BIO,305,MWF,01:00 pm-01:50 pm
-kwakuk,BIO,305,T,04:00 pm-06:45 pm
-gyurem,BIO,314,R,09:30 am-11:20 am
-gyurem,BIO,314,R,12:30 pm-02:20 pm
-gyurem,BIO,314,R,04:00 pm-05:50 pm
-mattinglyb,BIO,319,T,09:00 am-10:50 am
-eppk,BIO,319,T,09:00 am-10:50 am
-idjadij,BIO,319,T,09:00 am-10:50 am
-mattinglyb,BIO,320, ,TBA
-eppk,BIO,320, ,TBA
-idjadij,BIO,320, ,TBA
-hulveyj,BIO,334,MWF,09:00 am-09:50 am
-hulveyj,BIO,334,W,02:00 pm-04:50 pm
-grahamm,BIO,336,MWF,12:00 pm-12:50 pm
-grahamm,BIO,336,R,11:00 am-01:50 pm
-lucink,BIO,350,MWF,10:00 am-10:50 am
-lucink,BIO,350,M,02:00 pm-04:50 pm
-lucink,BIO,380, ,TBA
-grotha,BIO,380, ,TBA
-connollyb,BIO,380, ,TBA
-grahamm,BIO,380, ,TBA
-eppk,BIO,380, ,TBA
-hulveyj,BIO,380, ,TBA
-murdochb,BIO,380, ,TBA
-lauxd,BIO,380, ,TBA
-idjadij,BIO,380, ,TBA
-cowlese,BIO,424,MWF,10:00 am-10:50 am
-cowlese,BIO,424,T,09:30 am-12:20 pm
-connollyb,BIO,438,MWF,01:00 pm-01:50 pm
-connollyb,BIO,438,R,02:00 pm-04:50 pm
-veerappanv,BIO,460,MWF,12:00 pm-12:50 pm
-veerappanv,BIO,460,R,09:30 am-12:20 pm
-lauxd,BIO,462,MWF,11:00 am-11:50 am
-lauxd,BIO,462,M,02:00 pm-04:50 pm
-eppk,BIO,466,M,02:00 pm-04:50 pm
-eppk,BIO,466,W,02:00 pm-04:50 pm
-lucink,BIO,480, ,TBA
-veerappanv,BIO,480, ,TBA
-grahamm,BIO,480, ,TBA
-eppk,BIO,480, ,TBA
-hulveyj,BIO,480, ,TBA
-murdochb,BIO,480, ,TBA
-lauxd,BIO,480, ,TBA
-connollyb,BIO,480, ,TBA
-lauxd,BIO,490, ,TBA
-murdochb,BIO,490, ,TBA
-grotha,BIO,490, ,TBA
-lucink,BIO,490, ,TBA
-mattinglyb,BIO,490, ,TBA
-connollyb,BIO,490, ,TBA
-gyurem,BIO,490, ,TBA
-murdochb,BIO,491, ,TBA
-veerappanv,BIO,491, ,TBA
-lucink,BIO,491, ,TBA
-hulveyj,BIO,491, ,TBA
-perryk,BUS,201,MWF,10:00 am-10:50 am
-erwinc,BUS,201,TR,09:30 am-10:45 am
-erwinc,BUS,201,TR,11:00 am-12:15 pm
-synnottc,BUS,201,MWF,09:00 am-09:50 am
-norvaln,BUS,201,T,04:00 pm-06:45 pm
-perryk,BUS,201,MWF,11:00 am-11:50 am
-norvaln,BUS,201,TR,02:00 pm-03:15 pm
-aventa,BUS,225,MWF,12:00 pm-12:50 pm
-halls,BUS,225,W,04:00 pm-06:45 pm
-aventa,BUS,225,MWF,10:00 am-10:50 am
-nardellas,BUS,225,TR,12:30 pm-01:45 pm
-nardellas,BUS,225,TR,02:00 pm-03:15 pm
-grosjeanb,BUS,225,TR,11:00 am-12:15 pm
-chattertonc,BUS,240,MWF,09:00 am-09:50 am
-dewildea,BUS,250,M,04:00 pm-06:45 pm
-dewildea,BUS,250,MWF,10:00 am-10:50 am
-dewildea,BUS,301,MWF,09:00 am-09:50 am
-buckw,BUS,301,TR,09:30 am-10:45 am
-buckw,BUS,301,TR,11:00 am-12:15 pm
-dewildea,BUS,301,MWF,12:00 pm-12:50 pm
-villanuevae,BUS,307,MWF,12:00 pm-12:50 pm
-moylanw,BUS,321,MW,04:00 pm-05:15 pm
-moylanw,BUS,325,MW,05:30 pm-06:45 pm
-grosjeanb,BUS,326,T,07:00 pm-09:45 pm
-kangm,BUS,327,TR,02:00 pm-03:15 pm
-erwinc,BUS,331,T,07:00 pm-09:45 pm
-ferrarol,BUS,333,M,04:00 pm-06:45 pm
-chattertonc,BUS,340,R,09:30 am-12:15 pm
-kaneg,BUS,342,MWF,12:00 pm-12:50 pm
-kaneg,BUS,342,MWF,10:00 am-10:50 am
-buckw,BUS,351,TR,02:00 pm-03:15 pm
-buckw,BUS,351,TR,04:00 pm-05:15 pm
-pakdilf,BUS,410,W,04:00 pm-06:45 pm
-kaneg,BUS,411,MWF,01:00 pm-01:50 pm
-grandhis,BUS,428,TR,12:30 pm-01:45 pm
-kangm,BUS,429,W,04:00 pm-06:45 pm
-ohn,BUS,431,TR,12:30 pm-01:45 pm
-ohn,BUS,431,TR,09:30 am-10:45 am
-erwinc,BUS,431,TR,02:00 pm-03:15 pm
-deckerg,BUS,436,T,07:00 pm-09:45 pm
-villanuevae,BUS,450,MWF,08:00 am-08:50 am
-pakdilf,BUS,480, ,TBA
-buckw,BUS,480, ,TBA
-villanuevae,BUS,480, ,TBA
-kaneg,BUS,480, ,TBA
-grandhis,BUS,480, ,TBA
-chattertonc,BUS,490,M,07:00 pm-08:15 pm
-chattertonc,BUS,490,R,08:00 am-09:15 am
-pakdilf,BUS,492, ,TBA
-grandhis,BUS,492, ,TBA
-donohuek,BIS,205,TR,08:00 am-09:15 am
-reays,BIS,205,MWF,08:00 am-08:50 am
-reays,BIS,205,MWF,09:00 am-09:50 am
-kunenen,BIS,205,TR,09:30 am-10:45 am
-dexterr,BIS,205,W,07:00 pm-09:45 pm
-albinie,BIS,362,M,04:00 pm-06:45 pm
-donohuek,BIS,365,TR,09:30 am-10:45 am
-alkhamaieshs,BIS,370,TR,05:30 pm-06:45 pm
-alkhamaieshs,BIS,370,TR,07:00 pm-08:15 pm
-citursa,BIS,373,MF,02:00 pm-03:15 pm
-citursa,BIS,379,M,04:00 pm-06:45 pm
-schallerj,BIS,442,W,04:00 pm-06:45 pm
-johnsond,BIS,447,T,07:00 pm-09:45 pm
-citursa,BIS,447,TR,11:00 am-12:15 pm
-kunenen,BIS,449,TR,12:30 pm-01:45 pm
-kunenen,BIS,449,TR,02:00 pm-03:15 pm
-citursa,BIS,461,MW,07:00 pm-08:15 pm
-citursa,BIS,480, ,TBA
-couture-palmerinop,CAS,201, ,TBA
-couture-palmerinop,CAS,222, ,TBA
-hek,CHE,211,MWF,09:00 am-09:50 am
-hek,CHE,211,MWF,10:00 am-10:50 am
-hek,CHE,211,MWF,01:00 pm-01:50 pm
-islams,CHE,211,MW,04:00 pm-05:15 pm
-islams,CHE,211,MW,05:30 pm-06:45 pm
-parcinskia,CHE,213,M,11:00 am-01:50 pm
-parcinskia,CHE,213,M,02:00 pm-04:50 pm
-ahmadis,CHE,213,T,04:00 pm-06:50 pm
-ahmadis,CHE,213,T,07:00 pm-09:50 pm
-swansons,CHE,213,W,04:00 pm-06:50 pm
-chirakul-maddenp,CHE,213,R,11:00 am-01:50 pm
-chirakul-maddenp,CHE,213,R,02:00 pm-04:50 pm
-kozad,CHE,213,M,07:00 pm-09:50 pm
-swansons,CHE,213,W,07:00 pm-09:50 pm
-kozad,CHE,217,MWF,10:00 am-10:50 am
-candlerj,CHE,217,T,07:00 pm-09:50 pm
-candlerj,CHE,217,M,07:00 pm-09:50 pm
-toedtj,CHE,318,MWF,01:00 pm-01:50 pm
-toedtj,CHE,319,T,02:00 pm-04:50 pm
-islams,CHE,425,MWF,12:00 pm-12:50 pm
-islams,CHE,425,F,02:00 pm-05:50 pm
-toedtj,CHE,480, ,TBA
-hek,CHE,480, ,TBA
-toedtj,CHE,490, ,TBA
-islams,CHE,492, ,TBA
-murphyj,COM,100,MWF,10:00 am-10:50 am
-curtiss,COM,101,MWF,11:00 am-11:50 am
-utterbacka,COM,120,TR,09:30 am-10:45 am
-ammarim,COM,220,T,07:00 pm-09:45 pm
-carlsonr,COM,220,M,04:00 pm-06:45 pm
-ammarim,COM,220,T,04:00 pm-06:45 pm
-dayb,COM,220,TR,11:00 am-12:15 pm
-freunde,COM,230,T,04:00 pm-06:45 pm
-freunde,COM,230,W,04:00 pm-06:45 pm
-curtiss,COM,230,TR,09:30 am-10:45 am
-zatowskij,COM,245,T,04:00 pm-06:45 pm
-utterbacka,COM,290, ,TBA
-zatowskij,COM,291, ,TBA
-utterbacka,COM,300,TR,12:30 pm-01:45 pm
-osterndorfw,COM,301,MWF,12:00 pm-12:50 pm
-osterndorfw,COM,330,MWF,09:00 am-09:50 am
-dayb,COM,357,TR,09:30 am-10:45 am
-dayb,COM,380,TR,02:00 pm-03:50 pm
-osterndorfw,COM,400,TR,09:30 am-10:45 am
-osterndorfw,COM,403,TR,11:00 am-12:15 pm
-aconforan,COM,410,M,04:00 pm-06:45 pm
-utterbacka,COM,425,W,04:00 pm-06:45 pm
-utterbacka,COM,480, ,TBA
-kangm,COM,480, ,TBA
-floodr,COM,480, ,TBA
-cobbj,COM,490, ,TBA
-floodr,COM,490, ,TBA
-kangm,COM,490, ,TBA
-jeonj,COM,490, ,TBA
-dayb,COM,490, ,TBA
-utterbacka,COM,490, ,TBA
-osterndorfw,COM,490, ,TBA
-zatowskij,COM,490, ,TBA
-sokolovskayaa,COM,490, ,TBA
-pellegrinid,CFT,100,F,12:00 pm-02:45 pm
-morgank,CFT,100,F,12:00 pm-02:45 pm
-floodr,CFT,205,MWF,10:00 am-11:10 am
-dayb,CFT,401,M,02:00 pm-02:50 pm
-tasneems,CSC,180,TR,11:00 am-12:15 pm
-jahani,CSC,202,TR,02:00 pm-03:15 pm
-onyey,CSC,205,TR,12:30 pm-01:45 pm
-onyey,CSC,205,TR,02:00 pm-03:15 pm
-johnsonj,CSC,210,MWF,09:00 am-09:50 am
-bondoka,CSC,210,MWF,11:00 am-11:50 am
-johnsonj,CSC,210,MWF,10:00 am-10:50 am
-lavoiem,CSC,212,TR,09:30 am-10:45 am
-castron,CSC,215,TR,08:00 am-09:15 am
-rosienej,CSC,230,MWF,11:00 am-11:50 am
-jahani,CSC,231,MWF,11:00 am-11:50 am
-weselcouchc,CSC,249,M,04:00 pm-06:45 pm
-bondoka,CSC,251,MWF,09:00 am-09:50 am
-bondoka,CSC,251,MWF,10:00 am-10:50 am
-gaok,CSC,270,MWF,10:00 am-10:50 am
-gaok,CSC,270,MWF,02:00 pm-02:50 pm
-dancikg,CSC,314,TR,02:00 pm-03:15 pm
-rosienej,CSC,335,MWF,10:00 am-10:50 am
-rosienej,CSC,335,MWF,09:00 am-09:50 am
-rosienej,CSC,340,MW,04:00 pm-05:15 pm
-elfoulyr,CSC,360,TR,11:00 am-12:15 pm
-shendec,CSC,360,MW,04:00 pm-05:15 pm
-soleymanpourr,CSC,360,TR,04:00 pm-05:15 pm
-elfoulyr,CSC,360,TR,12:30 pm-01:45 pm
-tasneems,CSC,440,TR,02:00 pm-03:15 pm
-tasneems,CSC,440,R,04:00 pm-06:45 pm
-gaok,CSC,445,MWF,11:00 am-11:50 am
-gaok,CSC,445,MW,04:00 pm-05:15 pm
-dancikg,CSC,450,TR,09:30 am-10:45 am
-rosienej,CSC,480, ,TBA
-tasneems,CSC,485, ,TBA
-dancikg,CSC,490, ,TBA
-marrettc,CED,300, ,TBA
-kurtim,CRM,210,R,04:00 pm-06:45 pm
-pestar,CRM,320,MWF,11:00 am-11:50 am
-pestar,CRM,320,MWF,12:00 pm-12:50 pm
-pestar,CRM,410,MWF,10:00 am-10:50 am
-lugow,CRM,450,W,04:00 pm-06:45 pm
-lugow,CRM,450,W,07:00 pm-09:45 pm
-severancet,CRM,475,M,08:00 am-08:50 am
-pestar,CRM,480, ,TBA
-kurtim,CRM,480, ,TBA
-lugow,CRM,480, ,TBA
-severancet,CRM,480, ,TBA
-severancet,CRM,490, ,TBA
-davism,DSC,501, ,TBA
-liux,DSC,503, ,TBA
-davism,DSC,504, ,TBA
-busij,DSC,505, ,TBA
-turgeonk,DSC,508, ,TBA
-bouleyt,ECE,215,TR,02:00 pm-03:15 pm
-drewryt,ECE,301, ,TBA
-swaminathans,ECE,330,T,09:30 am-12:15 pm
-bouleyt,ECE,355,R,09:30 am-12:15 pm
-bouleyt,ECE,400,T,04:00 pm-06:45 pm
-swaminathans,ECE,401, ,TBA
-laportek,ECE,405,M,04:00 pm-06:45 pm
-rezain,ECE,410,W,04:00 pm-06:45 pm
-leek,ECE,420,M,04:00 pm-06:45 pm
-dunnacks,ECE,445,MTWRF,08:00 am-03:30 pm
-bouleyt,ECE,480, ,TBA
-rezain,ECE,501,W,04:00 pm-06:45 pm
-leek,ECE,505,M,04:00 pm-06:45 pm
-laportek,ECE,506,M,04:00 pm-06:45 pm
-bouleyt,ECE,516, ,TBA
-peacockj,ECE,565,MTWRF,08:00 am-03:30 pm
-dunnacks,ECE,566, ,TBA
-swaminathans,ECE,696, ,TBA
-montemerloj,ECO,100,TR,12:30 pm-01:45 pm
-karrenbergj,ECO,100,MWF,01:00 pm-01:50 pm
-karrenbergj,ECO,100,MWF,02:00 pm-02:50 pm
-ndiayem,ECO,200,MWF,11:00 am-11:50 am
-cunninghamb,ECO,200,MWF,10:00 am-10:50 am
-fortew,ECO,200,TR,09:30 am-10:45 am
-fortew,ECO,200,TR,11:00 am-12:15 pm
-ndiayem,ECO,201,MWF,12:00 pm-12:50 pm
-ndiayem,ECO,201,MWF,01:00 pm-01:50 pm
-volkmanv,ECO,201,MWF,09:00 am-09:50 am
-montemerloj,ECO,201,TR,09:30 am-10:45 am
-goodmand,ECO,201,TR,11:00 am-12:15 pm
-eckenrothg,ECO,201,TR,02:00 pm-03:15 pm
-saponaroj,ECO,201,M,04:00 pm-06:45 pm
-weirl,ECO,215,TR,11:00 am-12:15 pm
-weirl,ECO,215,TR,12:30 pm-01:45 pm
-ndiayem,ECO,301,MWF,09:00 am-09:50 am
-volkmanv,ECO,305,MWF,10:00 am-10:50 am
-cunninghamb,ECO,325,MWF,12:00 pm-12:50 pm
-cunninghamb,ECO,325,MWF,11:00 am-11:50 am
-goodmand,ECO,331,TR,09:30 am-10:45 am
-cliffordm,ECO,479,TR,09:30 am-10:45 am
-peterosr,ECO,479,W,04:00 pm-06:45 pm
-cliffordm,ECO,479,TR,08:00 am-09:15 am
-cliffordm,ECO,480, ,TBA
-robertst,EDU,200,TR,11:00 am-12:15 pm
-leek,EDU,200,TR,02:00 pm-03:15 pm
-rodriguezl,EDU,222,TR,11:00 am-12:15 pm
-tomanellij,EDU,222,TR,08:00 am-09:15 am
-galvezd,EDU,222,W,07:00 pm-09:45 pm
-drewryt,EDU,301, ,TBA
-whitej,EDU,357,T,04:00 pm-06:45 pm
-stoloffd,EDU,357,W,04:00 pm-06:45 pm
-liux,EDU,357,R,04:00 pm-06:45 pm
-rodriguezl,EDU,357,TR,02:00 pm-03:15 pm
-drewryt,EDU,401, ,TBA
-liux,EDU,404,F,12:00 pm-02:45 pm
-zablonskim,EDU,405,R,04:00 pm-06:45 pm
-dziavitk,EDU,410,M,04:00 pm-06:45 pm
-cookk,EDU,412,T,04:00 pm-06:45 pm
-richardss,EDU,417,M,12:00 pm-02:45 pm
-rodriguezl,EDU,425,T,04:00 pm-06:45 pm
-fabrizim,EDU,425,M,07:00 pm-09:45 pm
-richardss,EDU,465,M,07:00 pm-09:45 pm
-laportek,EDU,465,T,07:00 pm-09:45 pm
-zimmittil,EDU,470,MTWRF,08:00 am-03:30 pm
-peacockj,EDU,471,MTWRF,08:00 am-03:30 pm
-fabrizim,EDU,480, ,TBA
-mooreheadt,EDU,480, ,TBA
-richardss,EDU,480, ,TBA
-ruddyj,EDU,490, ,TBA
-lamarchel,EDU,501, ,TBA
-espinozaa,EDU,502, ,TBA
-galvezd,EDU,505, ,TBA
-dziavitk,EDU,510,M,04:00 pm-06:45 pm
-stoloffd,EDU,511, ,TBA
-richardss,EDU,516,W,04:00 pm-06:45 pm
-peacockj,EDU,521, ,TBA
-ashtonf,EDU,523, ,TBA
-rodriguezl,EDU,525,T,04:00 pm-06:45 pm
-fabrizim,EDU,525,M,07:00 pm-09:45 pm
-stoloffd,EDU,555, ,TBA
-richardss,EDU,565,M,07:00 pm-09:45 pm
-laportek,EDU,565,T,07:00 pm-09:45 pm
-ashtonf,EDU,571,MTWRF,08:00 am-03:30 pm
-espinozaa,EDU,573,MTWRF,08:00 am-03:30 pm
-robertst,EDU,582, ,TBA
-robertst,EDU,582,R,04:00 pm-06:45 pm
-leek,EDU,612, ,TBA
-mooreheadt,EDU,632, ,TBA
-mooreheadt,EDU,680, ,TBA
-robinsonm,EDU,694,MTWRF,08:00 am-03:30 pm
-rodriguezl,EDU,696, ,TBA
-galvezd,EDU,696, ,TBA
-vijayasekarj,EDU,696, ,TBA
-cruzd,EDU,696, ,TBA
-stoloffd,EDU,696, ,TBA
-fabrizim,EDU,696, ,TBA
-richardss,EDU,696, ,TBA
-bouleyt,EDU,696, ,TBA
-swaminathans,EDU,697, ,TBA
-oterom,ENG,100,TR,08:00 am-09:15 am
-oterom,ENG,100,TR,09:30 am-10:45 am
-johnsons,ENG,100,MWF,01:00 pm-01:50 pm
-szymkiewiczr,ENG,100,TR,11:00 am-12:15 pm
-cassidys,ENG,100,MWF,11:00 am-11:50 am
-evesk,ENG,100,TR,04:00 pm-05:15 pm
-reynoldsj,ENG,100,MWF,12:00 pm-12:50 pm
-reynoldsj,ENG,100,MWF,11:00 am-11:50 am
-longe,ENG,100,MWF,10:00 am-10:50 am
-congdonv,ENG,100,TR,09:30 am-10:45 am
-luxenbergh,ENG,100,TR,11:00 am-12:15 pm
-mcneilk,ENG,100P,TR,09:30 am-10:45 am
-mcneilk,ENG,100P,W,09:00 am-10:40 am
-mcneilk,ENG,100P,TR,11:00 am-12:15 pm
-mcneilk,ENG,100P,W,11:00 am-12:40 pm
-luxenbergh,ENG,100P,M,02:00 pm-03:40 pm
-luxenbergh,ENG,100P,TR,02:00 pm-03:15 pm
-quickb,ENG,100P,TR,04:00 pm-05:15 pm
-quickb,ENG,100P,W,04:00 pm-05:40 pm
-szymkiewiczr,ENG,100P,TR,12:30 pm-01:45 pm
-szymkiewiczr,ENG,100P,W,01:00 pm-02:40 pm
-johnsons,ENG,100P,MF,11:00 am-12:40 pm
-johnsons,ENG,100P,W,11:00 am-11:50 am
-mamar,ENG,125,TR,04:00 pm-05:15 pm
-mamar,ENG,125,TR,02:00 pm-03:15 pm
-clermont-ferrandm,ENG,177,TR,12:30 pm-01:45 pm
-ferrucis,ENG,190,TR,09:30 am-10:45 am
-ferrucis,ENG,190,TR,11:00 am-12:15 pm
-taylorm,ENG,201,MWF,11:00 am-11:50 am
-youngbloodj,ENG,201,MWF,12:00 pm-12:50 pm
-terryb,ENG,205,TR,08:00 am-09:15 am
-taylorm,ENG,205,MWF,09:00 am-09:50 am
-terryb,ENG,205,TR,09:30 am-10:45 am
-derosas,ENG,207,TR,02:00 pm-03:15 pm
-mcneilk,ENG,215,TR,12:30 pm-01:45 pm
-speichera,ENG,223,MWF,11:00 am-11:50 am
-mamar,ENG,225,TR,05:30 pm-06:45 pm
-donaghyd,ENG,238,TR,02:00 pm-03:15 pm
-delrioj,ENG,241,MWF,09:00 am-09:50 am
-delrioj,ENG,241,MWF,10:00 am-10:50 am
-clermont-ferrandm,ENG,241,TR,02:00 pm-03:15 pm
-floodr,ENG,255,MWF,09:00 am-09:50 am
-chiricom,ENG,257,MWF,01:00 pm-01:50 pm
-abbatemarcoa,ENG,260,TR,12:30 pm-01:45 pm
-abbatemarcoa,ENG,260,TR,11:00 am-12:15 pm
-rochonr,ENG,260,MWF,09:00 am-09:50 am
-torockioc,ENG,301,TR,02:00 pm-03:15 pm
-donaghyd,ENG,302,TR,11:00 am-12:15 pm
-floodr,ENG,308,M,04:00 pm-06:45 pm
-speichera,ENG,328,MWF,01:00 pm-01:50 pm
-youngbloodj,ENG,330,MF,02:00 pm-03:15 pm
-clermont-ferrandm,ENG,337,TR,04:00 pm-05:15 pm
-oterom,ENG,338,TR,12:30 pm-01:45 pm
-oterom,ENG,341,TR,02:00 pm-03:15 pm
-mamar,ENG,353,TR,12:30 pm-01:45 pm
-torockioc,ENG,372,W,04:00 pm-06:45 pm
-derosas,ENG,380,W,04:00 pm-06:45 pm
-donaghyd,ENG,382,TR,12:30 pm-01:45 pm
-chiricom,ENG,461,M,04:00 pm-06:45 pm
-torockioc,ENG,462,T,04:00 pm-06:45 pm
-clermont-ferrandm,ENG,462,W,04:00 pm-06:45 pm
-donaghyd,ENG,480, ,TBA
-clermont-ferrandm,ENG,480, ,TBA
-chiricom,ENG,480, ,TBA
-chiricom,ENG,481, ,TBA
-torockioc,ENG,493, ,TBA
-speichera,ENG,493, ,TBA
-donaghyd,ENG,493, ,TBA
-derosas,ENG,493, ,TBA
-clermont-ferrandm,ENG,494, ,TBA
-oterom,ENG,494, ,TBA
-derosas,ENG,494, ,TBA
-chiricom,ENG,494, ,TBA
-donaghyd,ENG,495, ,TBA
-clermont-ferrandm,ENG,495, ,TBA
-speichera,ENG,495, ,TBA
-ferrucis,ENG,495, ,TBA
-speichera,ENG,499, ,TBA
-clermont-ferrandm,ENG,499, ,TBA
-ferrucis,ENG,499, ,TBA
-torockioc,ENG,499, ,TBA
-derosas,ENG,499, ,TBA
-cunninghamw,EES,104,TR,09:30 am-10:45 am
-oakleyb,EES,104,TR,11:00 am-12:15 pm
-tranl,EES,112,W,05:30 pm-07:15 pm
-tranl,EES,112,T,05:30 pm-07:15 pm
-drzewieckip,EES,130,MWF,09:00 am-09:50 am
-drzewieckip,EES,130,M,02:00 pm-04:50 pm
-sandeenj,EES,200,T,04:00 pm-06:45 pm
-nathans,EES,200,MWF,11:00 am-11:50 am
-delimal,EES,204,TR,12:30 pm-01:45 pm
-delimal,EES,204,TR,11:00 am-12:15 pm
-nathans,EES,205,MWF,10:00 am-10:50 am
-khadev,EES,205,W,07:00 pm-09:45 pm
-carlsonh,EES,207,R,04:00 pm-05:50 pm
-carlsonh,EES,207,T,04:00 pm-05:50 pm
-carlsonh,EES,207,W,04:00 pm-05:50 pm
-hyattd,EES,224,TR,09:30 am-10:45 am
-hyattd,EES,224,W,02:00 pm-04:50 pm
-hyattd,EES,224,T,02:00 pm-04:50 pm
-cunninghamw,EES,271,T,05:30 pm-06:15 pm
-drzewieckip,EES,271,T,05:30 pm-06:15 pm
-cunninghamw,EES,271, ,TBA
-drzewieckip,EES,271, ,TBA
-metcalfm,EES,300,MW,05:30 pm-06:45 pm
-metcalfm,EES,301,W,01:00 pm-03:50 pm
-metcalfm,EES,322,MW,04:00 pm-05:15 pm
-metcalfm,EES,322,M,01:00 pm-03:50 pm
-nicholss,EES,323,W,04:00 pm-06:45 pm
-cunninghamw,EES,330,TR,11:00 am-12:15 pm
-cunninghamw,EES,330,T,12:30 pm-03:20 pm
-cunninghamw,EES,333,W,01:00 pm-01:50 pm
-hyattd,EES,392, ,TBA
-nathans,EES,402,MWF,09:00 am-09:50 am
-hyattd,EES,441,R,02:00 pm-04:50 pm
-oakleyb,EES,456,TR,09:30 am-10:45 am
-metcalfm,EES,480, ,TBA
-oakleyb,EES,480, ,TBA
-oakleyb,EES,491, ,TBA
-chadwickj,EHS,210,TR,12:30 pm-01:45 pm
-erik-soussia,FLM,219,M,04:00 pm-06:45 pm
-ammarim,FLM,220,T,07:00 pm-09:45 pm
-carlsonr,FLM,220,M,04:00 pm-06:45 pm
-ammarim,FLM,220,T,04:00 pm-06:45 pm
-dayb,FLM,220,TR,11:00 am-12:15 pm
-bachollem,FLM,223,M,12:00 pm-02:45 pm
-bachollem,FLM,223,W,12:00 pm-02:45 pm
-collinsg,FLM,321,R,07:00 pm-09:45 pm
-dayb,FLM,380,TR,02:00 pm-03:50 pm
-kyeii,FIN,245,MWF,11:00 am-11:50 am
-ryens,FIN,245,MWF,12:00 pm-12:50 pm
-kyeii,FIN,245,TR,11:00 am-12:15 pm
-kyeii,FIN,245,MWF,10:00 am-10:50 am
-kyeii,FIN,335,M,04:00 pm-06:45 pm
-ryens,FIN,347,MWF,01:00 pm-01:50 pm
-days-luketichp,FIN,350,T,04:00 pm-06:45 pm
-cliffordm,FIN,438,W,07:00 pm-09:45 pm
-liangl,FIN,445,TR,11:00 am-12:15 pm
-liangl,FIN,445,TR,09:30 am-10:45 am
-liangl,FIN,446,TR,02:00 pm-03:15 pm
-cliffordm,FIN,462,TR,09:30 am-10:45 am
-peterosr,FIN,462,W,04:00 pm-06:45 pm
-cliffordm,FIN,462,TR,08:00 am-09:15 am
-eckenrothg,FIN,490,R,04:00 pm-05:15 pm
-bachollem,FRE,120,MWF,11:00 am-11:50 am
-bachollem,FRE,223,M,12:00 pm-02:45 pm
-bachollem,FRE,223,W,12:00 pm-02:45 pm
-dahmanif,FRE,492, ,TBA
-michimia,GEO,100,MWF,10:00 am-10:50 am
-clementss,GEO,331,TR,09:30 am-10:45 am
-michimia,GEO,332,MWF,09:00 am-09:50 am
-difrancoa,HPE,104,M,04:00 pm-06:45 pm
-woodmanseek,HPE,104,W,04:00 pm-06:45 pm
-vogtd,HPE,104,R,04:00 pm-06:45 pm
-fresco-hawesc,HPE,104,W,04:00 pm-06:45 pm
-henryj,HPE,104,T,04:00 pm-06:45 pm
-robertd,HPE,104,TR,09:30 am-10:45 am
-robertd,HPE,104,TR,11:00 am-12:15 pm
-henryj,HPE,104,M,04:00 pm-06:45 pm
-vogtd,HPE,104,W,04:00 pm-06:45 pm
-dewildea,HPE,117,MWF,02:00 pm-02:50 pm
-sanfordl,HPE,127,TR,07:00 pm-08:15 pm
-madenjianwybierackik,HPE,140,MWF,11:00 am-11:50 am
-madenjianwybierackik,HPE,140,MWF,12:00 pm-12:50 pm
-sanfordl,HPE,140,TR,05:30 pm-06:45 pm
-khowm,HPE,141,TR,09:30 am-10:45 am
-khowm,HPE,143,TR,08:00 am-09:15 am
-difrancoa,HPE,201,W,04:00 pm-06:45 pm
-frainm,HPE,210,W,04:00 pm-06:45 pm
-manfredie,HPE,210,TR,12:30 pm-01:45 pm
-frainm,HPE,210,W,07:00 pm-09:45 pm
-coxp,HPE,310,W,07:00 pm-09:45 pm
-tracyj,HPE,326,T,08:00 am-09:15 am
-tracyj,HPE,326,R,08:00 am-09:15 am
-rowettc,HPE,327,T,04:00 pm-06:45 pm
-switchenkod,HPE,328,TR,04:00 pm-05:15 pm
-switchenkod,HPE,329,TR,08:00 am-09:15 am
-rowettc,HPE,340,T,07:00 pm-09:45 pm
-manfredie,HPE,361,T,09:30 am-10:30 am
-manfredie,HPE,361,T,10:30 am-12:15 pm
-switchenkok,HPE,362,R,09:30 am-10:30 am
-switchenkok,HPE,362,R,10:30 am-12:15 pm
-robertd,HPE,475,MTWRF,08:00 am-03:30 pm
-robertd,HPE,476,R,04:00 pm-06:45 pm
-rowettc,HPE,480, ,TBA
-robertd,HPE,490, ,TBA
-carrolls,HSC,209,M,04:00 pm-06:45 pm
-clementss,HSC,209,TR,04:00 pm-05:15 pm
-canavanp,HSC,210,MWF,11:00 am-11:50 am
-smithe,HSC,215,TR,12:30 pm-01:45 pm
-porebskab,HSC,215,W,09:00 am-11:50 am
-porebskab,HSC,215,W,12:00 pm-02:50 pm
-kylek,HSC,215,T,08:00 am-10:50 am
-banee,HSC,215,R,08:00 am-10:50 am
-porebskab,HSC,215,M,04:00 pm-06:50 pm
-smithe,HSC,215,M,01:00 pm-03:50 pm
-kylek,HSC,215,F,08:00 am-10:50 am
-smithe,HSC,215,MWF,12:00 pm-12:50 pm
-smithe,HSC,215,TR,11:00 am-12:15 pm
-dzurecl,HSC,225,TR,12:30 pm-01:45 pm
-beeverj,HSC,225,TR,08:00 am-09:15 am
-dzurecl,HSC,225,MWF,01:00 pm-01:50 pm
-dzurecl,HSC,225,MWF,11:00 am-11:50 am
-bissonnettea,HSC,235,MWF,01:00 pm-01:50 pm
-porebskab,HSC,291, ,TBA
-smithe,HSC,291, ,TBA
-carrolls,HSC,302,TR,09:30 am-10:45 am
-bataillea,HSC,308,MWF,09:00 am-09:50 am
-canavanp,HSC,318,MWF,10:00 am-10:50 am
-canavanp,HSC,318,T,12:30 pm-03:20 pm
-canavanp,HSC,318,T,08:00 am-10:50 am
-cotea,HSC,318,MWF,01:00 pm-01:50 pm
-tackettm,HSC,318,M,08:00 am-10:50 am
-canavanp,HSC,318,M,03:00 pm-05:50 pm
-cotea,HSC,318,MWF,02:00 pm-02:50 pm
-joinerk,HSC,318,W,08:00 am-10:50 am
-joinerk,HSC,318,T,04:00 pm-06:50 pm
-bataillea,HSC,319,MWF,11:00 am-11:50 am
-bataillea,HSC,319,R,12:30 pm-03:20 pm
-bataillea,HSC,319,R,08:00 am-10:50 am
-bataillea,HSC,319,MWF,01:00 pm-01:50 pm
-tackettm,HSC,319,F,08:00 am-10:50 am
-thapag,HSC,319,F,02:00 pm-04:50 pm
-daled,HSC,320,MWF,12:00 pm-12:50 pm
-daled,HSC,332,TR,11:00 am-12:15 pm
-daled,HSC,342,TR,08:00 am-09:15 am
-andersong,HSC,356,MWF,09:00 am-09:50 am
-alexanderj,HSC,370,TR,09:30 am-10:45 am
-walterss,HSC,380, ,TBA
-bataillea,HSC,380, ,TBA
-carrolls,HSC,390, ,TBA
-canavanp,HSC,391, ,TBA
-carrolls,HSC,391, ,TBA
-banee,HSC,391, ,TBA
-smithe,HSC,391, ,TBA
-walterss,HSC,400,MWF,12:00 pm-01:10 pm
-nsiahy,HSC,404,MWF,11:00 am-11:50 am
-beeverj,HSC,408,TR,09:30 am-10:45 am
-dzurecd,HSC,425,MWF,08:00 am-08:50 am
-dzurecd,HSC,425,M,02:00 pm-04:50 pm
-bissonnettea,HSC,438,MWF,02:00 pm-02:50 pm
-blancaflors,HSC,438,TR,12:30 pm-01:45 pm
-beebej,HSC,444,TR,05:30 pm-09:45 pm
-daled,HSC,450,MWF,11:00 am-11:50 am
-canavanp,HSC,480, ,TBA
-carrolls,HSC,480, ,TBA
-walterss,HSC,480, ,TBA
-carrolls,HSC,490, ,TBA
-dzurecd,HSC,491, ,TBA
-porebskab,HSC,491, ,TBA
-carrolls,HSC,491, ,TBA
-beebej,HSC,491, ,TBA
-kylek,HSC,491, ,TBA
-thapag,HSC,491, ,TBA
-carenenc,HIS,101,TR,09:30 am-10:45 am
-davisb,HIS,116,MWF,09:00 am-09:50 am
-davisb,HIS,116,MWF,01:00 pm-01:50 pm
-closes,HIS,120,TR,08:00 am-09:15 am
-closes,HIS,120,TR,02:00 pm-03:15 pm
-closes,HIS,121,TR,12:30 pm-01:45 pm
-davisb,HIS,200,MWF,10:00 am-11:10 am
-fryed,HIS,230,TR,11:00 am-12:15 pm
-fryed,HIS,230,W,04:00 pm-06:45 pm
-fryed,HIS,230,TR,04:00 pm-05:15 pm
-moores,HIS,231,MWF,09:00 am-09:50 am
-saenzcambrac,HIS,255,MWF,11:00 am-11:50 am
-fryed,HIS,267,W,07:00 pm-09:45 pm
-closes,HIS,322,TR,09:30 am-10:45 am
-balcerskit,HIS,325,W,04:00 pm-06:45 pm
-moores,HIS,337,MWF,01:00 pm-01:50 pm
-ostwaldj,HIS,362,TR,04:00 pm-05:15 pm
-fryed,HIS,365,TR,02:00 pm-03:15 pm
-davisb,HIS,373,MWF,02:00 pm-02:50 pm
-carenenc,HIS,379,TR,11:00 am-12:15 pm
-ostwaldj,HIS,386,TR,12:30 pm-01:45 pm
-moores,HIS,406,MWF,11:00 am-12:10 pm
-davisb,HIS,480, ,TBA
-moores,HIS,480, ,TBA
-balcerskit,HIS,480, ,TBA
-closes,HIS,480, ,TBA
-fryed,HIS,481, ,TBA
-moores,HIS,491, ,TBA
-fryed,HIS,491, ,TBA
-cobbj,HON,361,T,04:00 pm-06:45 pm
-youngbloodj,HON,361,MW,04:00 pm-05:15 pm
-fugerem,HON,362,MWF,01:00 pm-01:50 pm
-cochrant,HON,375,W,03:00 pm-03:50 pm
-gaok,HON,488, ,TBA
-krebsc,HON,488, ,TBA
-moores,HON,488, ,TBA
-guom,HON,488, ,TBA
-morgank,HON,488, ,TBA
-grotha,HON,488, ,TBA
-carrolls,HON,488, ,TBA
-brosciousc,HON,488, ,TBA
-dancikg,HON,488, ,TBA
-torockioc,HON,488, ,TBA
-greener,HON,488, ,TBA
-speichera,HON,488, ,TBA
-heenehanm,HON,488, ,TBA
-metcalfm,HON,488, ,TBA
-tasneems,HON,488, ,TBA
-vasquez-o'brient,HON,488, ,TBA
-bataillea,HON,488, ,TBA
-pakdilf,HON,488, ,TBA
-drewryc,IIP,200, ,TBA
-drewryc,IIP,300, ,TBA
-drewryc,ISP,300, ,TBA
-drewryc,ISP,301, ,TBA
-erik-soussia,LAS,219,M,04:00 pm-06:45 pm
-calissij,LAC,100,TR,12:30 pm-01:45 pm
-drzewieckip,LAC,100,MWF,11:00 am-11:50 am
-hollandj,LAC,100,MWF,10:00 am-10:50 am
-calissij,LAC,101,M,10:00 am-10:50 am
-drzewieckip,LAC,101,W,12:00 pm-12:50 pm
-hollandj,LAC,101,M,09:00 am-09:50 am
-pellegrinid,LAC,101,M,04:00 pm-04:50 pm
-chiricom,LAC,200,MWF,11:00 am-11:50 am
-dillerj,LAC,200,MWF,11:00 am-11:50 am
-doylem,LAC,200,MWF,11:00 am-11:50 am
-wardk,LAC,200,MWF,01:00 pm-01:50 pm
-heenehanm,LAC,200,MWF,01:00 pm-01:50 pm
-o'nealf,LAC,200,MWF,01:00 pm-01:50 pm
-stoloffd,LAC,400,W,07:00 pm-09:45 pm
-whitej,LAP,430,W,07:00 pm-09:45 pm
-dowdelld,MGT,502, ,TBA
-ferrarol,MGT,505, ,TBA
-ohn,MGT,506, ,TBA
-grandhis,MGT,508, ,TBA
-whiteheadb,MAT,099,MWF,09:00 am-09:50 am
-wus,MAT,099,TR,04:00 pm-05:15 pm
-fisterk,MAT,099,MWF,02:00 pm-02:50 pm
-whiteheadb,MAT,135,MWF,08:00 am-08:50 am
-oseibonsuk,MAT,135,MWF,02:00 pm-02:50 pm
-wus,MAT,135,TR,09:30 am-10:45 am
-pozdnyakovaz,MAT,135P,MWF,08:00 am-08:50 am
-pozdnyakovaz,MAT,135P,M,09:00 am-09:50 am
-coffeyk,MAT,135P,MWF,09:00 am-09:50 am
-coffeyk,MAT,135P,F,10:00 am-10:50 am
-allene,MAT,135P,TR,08:00 am-09:50 am
-coffeyk,MAT,135P,MWF,02:00 pm-02:50 pm
-coffeyk,MAT,135P,F,01:00 pm-01:50 pm
-fisterk,MAT,135P,MW,04:00 pm-05:50 pm
-gageoneam,MAT,135P,TR,02:00 pm-03:50 pm
-gageoneam,MAT,135P,TR,04:00 pm-05:50 pm
-brunellek,MAT,139P,MWF,09:00 am-09:50 am
-brunellek,MAT,139P,W,08:00 am-08:50 am
-johnsonp,MAT,139P,TR,04:00 pm-05:50 pm
-jaross,MAT,140,M,04:00 pm-05:15 pm
-jaross,MAT,140,W,04:00 pm-05:15 pm
-oseibonsuk,MAT,155,MWF,09:00 am-09:50 am
-oseibonsuk,MAT,155,M,10:00 am-10:50 am
-laddj,MAT,155P,MWF,01:00 pm-01:50 pm
-laddj,MAT,155P,MW,02:00 pm-02:50 pm
-aidooa,MAT,155P,TR,09:30 am-10:45 am
-aidooa,MAT,155P,W,10:00 am-11:50 am
-larosec,MAT,216,MWF,02:00 pm-02:50 pm
-larosec,MAT,216,MWF,01:00 pm-01:50 pm
-pozdnyakovaz,MAT,216,MWF,11:00 am-11:50 am
-dalek,MAT,216,TR,08:00 am-09:15 am
-bussierej,MAT,216,TR,04:00 pm-05:15 pm
-larosec,MAT,217,MWF,10:00 am-10:50 am
-heenehanm,MAT,230,MWF,10:00 am-10:50 am
-aidooa,MAT,230,TR,12:30 pm-01:45 pm
-yankovc,MAT,243,MWF,09:00 am-09:50 am
-yankovc,MAT,243,W,08:00 am-08:50 am
-sarikhanikhoramim,MAT,243,M,01:00 pm-01:50 pm
-sarikhanikhoramim,MAT,243,TR,11:00 am-12:15 pm
-yankovc,MAT,243,MWF,11:00 am-11:50 am
-yankovc,MAT,243,W,12:00 pm-12:50 pm
-oseibonsuk,MAT,244,MWF,11:00 am-11:50 am
-oseibonsuk,MAT,244,W,12:00 pm-12:50 pm
-johnsonp,MAT,315,MWF,01:00 pm-01:50 pm
-johnsonp,MAT,315,M,02:00 pm-02:50 pm
-heenehanm,MAT,320,MWF,12:00 pm-12:50 pm
-aidooa,MAT,340,TR,02:00 pm-03:15 pm
-aidooa,MAT,340,W,02:00 pm-02:50 pm
-wardk,MAT,341,MWF,09:00 am-09:50 am
-larosec,MAT,343,MWF,11:00 am-11:50 am
-sarikhanikhoramim,MAT,355,TR,12:30 pm-01:45 pm
-johnsonp,MAT,362,TR,07:00 pm-08:15 pm
-yankovc,MAT,421,MWF,10:00 am-10:50 am
-sarikhanikhoramim,MAT,480, ,TBA
-oseibonsuk,MAT,480, ,TBA
-johnsonp,MAT,480, ,TBA
-sarikhanikhoramim,MAT,490, ,TBA
-sholesz,MSC,132,W,01:00 pm-01:50 pm
-sholesz,MSC,146,W,02:00 pm-04:00 pm
-thompsona,MSC,253,W,01:25 pm-03:25 pm
-thompsona,MSC,253,F,01:00 pm-05:00 pm
-balought,MUS,100,MWF,08:00 am-08:50 am
-balought,MUS,100,MWF,09:00 am-09:50 am
-bellesd,MUS,103,MW,05:30 pm-06:45 pm
-watkinsk,MUS,107,W,07:00 pm-09:30 pm
-d'aleoj,MUS,107,W,07:00 pm-09:30 pm
-bellesd,MUS,113,WF,03:00 pm-03:50 pm
-calissij,MUS,113,F,03:30 pm-04:50 pm
-cornicelloa,MUS,113,M,04:00 pm-05:30 pm
-riggse,MUS,113,R,05:30 pm-06:45 pm
-ballenad,MUS,113,T,07:00 pm-08:20 pm
-o'nealf,MUS,113,M,03:00 pm-03:50 pm
-delaneye,MUS,113,R,12:30 pm-01:45 pm
-calissir,MUS,114,TR,09:30 am-10:45 am
-calissir,MUS,114,TR,11:00 am-12:15 pm
-ballenad,MUS,114,MWF,10:00 am-10:50 am
-ballenad,MUS,114,MWF,11:00 am-11:50 am
-delaneye,MUS,118,TR,02:00 pm-03:15 pm
-calissij,MUS,120,TR,02:00 pm-03:15 pm
-o'nealf,MUS,160,MWF,02:00 pm-02:50 pm
-cornicelloa,MUS,205,MWF,11:00 am-11:50 am
-hwango,MUS,214,MWF,09:00 am-09:50 am
-calissij,MUS,215,W,10:00 am-10:50 am
-calissij,MUS,215,F,10:00 am-10:50 am
-calissij,MUS,234,MWF,11:00 am-11:50 am
-cochrant,MUS,236,TR,09:30 am-10:45 am
-echolsc,MUS,250,TR,11:00 am-12:15 pm
-echolsc,MUS,250,TR,12:30 pm-01:45 pm
-hwango,MUS,330,MWF,11:00 am-11:50 am
-tonera,MUS,356, ,TBA
-delaneye,MUS,356, ,TBA
-cornicelloa,MUS,356, ,TBA
-calissij,MUS,356, ,TBA
-calissir,MUS,356, ,TBA
-hwango,MUS,356, ,TBA
-thomasj,MUS,356, ,TBA
-washburns,MUS,356, ,TBA
-riggse,MUS,356, ,TBA
-ballenad,MUS,356, ,TBA
-bronsonm,MUS,356, ,TBA
-cornicelloa,MUS,372,MWF,01:00 pm-01:50 pm
-riggse,MUS,395, ,TBA
-hwango,MUS,395, ,TBA
-delaneye,MUS,395, ,TBA
-delaneye,MUS,456, ,TBA
-hwango,MUS,456, ,TBA
-riggse,MUS,456, ,TBA
-cochrant,MUS,480, ,TBA
-bellesd,MUS,480, ,TBA
-calissij,MUS,480, ,TBA
-riggse,MUS,480, ,TBA
-drewryc,NSE,300, ,TBA
-dotsont,NUR,205,TR,04:00 pm-05:15 pm
-dotsont,NUR,205,TR,02:00 pm-03:15 pm
-cotea,NUR,372,MW,09:00 am-10:30 am
-cotea,NUR,403,WF,11:00 am-12:30 pm
-nadeauc,NUR,424,MW,04:00 pm-05:15 pm
-blainj,NUR,424, ,TBA
-geers,NUR,424, ,TBA
-mooneym,NUR,424, ,TBA
-goyettel,NUR,424, ,TBA
-schallerj,OSC,260,TR,11:00 am-12:15 pm
-wraym,OSC,260,T,04:00 pm-06:45 pm
-pakdilf,OSC,260,MWF,08:00 am-08:50 am
-schallerj,OSC,360,TR,02:00 pm-03:15 pm
-bachiochip,ORG,696, ,TBA
-dexterr,ORG,696, ,TBA
-vob,ORG,696, ,TBA
-ohn,ORG,696, ,TBA
-rukgaberm,PHI,120,MWF,02:00 pm-02:50 pm
-verrastron,PHI,120,MWF,11:00 am-11:50 am
-swiftp,PHI,210,TR,09:30 am-10:45 am
-stockerk,PHI,215,MWF,09:00 am-09:50 am
-slutskyd,PHI,220,MW,04:00 pm-05:15 pm
-rukgaberm,PHI,330,TR,11:00 am-12:15 pm
-swiftp,PHI,340,TR,02:00 pm-03:15 pm
-verrastron,PHI,365,TR,04:00 pm-05:15 pm
-stockerk,PHI,480, ,TBA
-krassasn,PHI,480, ,TBA
-mendoza-botelhom,PHI,498, ,TBA
-pazametaz,PHS,105,TR,02:00 pm-03:15 pm
-pazametaz,PHY,205,TR,12:30 pm-01:45 pm
-pazametaz,PHY,205,M,02:00 pm-03:50 pm
-kerrm,PHY,205,R,02:00 pm-03:50 pm
-eastonw,PSC,100,MWF,09:00 am-09:50 am
-brosciousc,PSC,201,TR,09:30 am-10:45 am
-brosciousc,PSC,201,TR,12:30 pm-01:45 pm
-mendoza-botelhom,PSC,208,TR,09:30 am-10:45 am
-mendoza-botelhom,PSC,208,TR,02:00 pm-03:15 pm
-garciam,PSC,211,MWF,11:00 am-11:50 am
-swetzoffs,PSC,217,TR,12:30 pm-01:45 pm
-eastonw,PSC,300,TR,12:30 pm-01:45 pm
-swetzoffs,PSC,310,TR,02:00 pm-03:15 pm
-krassasn,PSC,325,MWF,11:00 am-11:50 am
-garciam,PSC,350,TR,11:00 am-12:15 pm
-verrastron,PSC,365,TR,04:00 pm-05:15 pm
-krassasn,PSC,400,MWF,01:00 pm-01:50 pm
-mendoza-botelhom,PSC,460,T,04:00 pm-06:45 pm
-krassasn,PSC,480, ,TBA
-mendoza-botelhom,PSC,480, ,TBA
-krassasn,PSC,495, ,TBA
-mendoza-botelhom,PSC,498, ,TBA
-salters-pedneaultk,PSY,100,MWF,10:00 am-10:50 am
-salters-pedneaultk,PSY,100,MWF,11:00 am-11:50 am
-hallm,PSY,100,TR,04:00 pm-05:15 pm
-dillerj,PSY,101,M,09:00 am-09:50 am
-krebsc,PSY,101,R,12:30 pm-01:20 pm
-fugerem,PSY,202,MWF,09:00 am-09:50 am
-fugerem,PSY,202,MWF,10:00 am-10:50 am
-christopherm,PSY,203,W,04:00 pm-06:45 pm
-krebsc,PSY,205,MWF,09:00 am-09:50 am
-krebsc,PSY,205,MWF,10:00 am-10:50 am
-tarriconed,PSY,206,MW,05:30 pm-06:45 pm
-vasquez-o'brient,PSY,206,TR,09:30 am-10:45 am
-fultons,PSY,206,TR,05:30 pm-06:45 pm
-leszczynskij,PSY,210,MWF,11:00 am-11:50 am
-keyesm,PSY,212,MWF,02:00 pm-02:50 pm
-keyesm,PSY,212,MWF,11:00 am-11:50 am
-cousinsa,PSY,227,MWF,08:00 am-09:10 am
-koleks,PSY,227,TR,08:00 am-09:50 am
-koleks,PSY,227,TR,11:00 am-12:50 pm
-krebsc,PSY,246,MWF,11:00 am-11:50 am
-keyesm,PSY,247,MWF,12:00 pm-01:10 pm
-girasolia,PSY,247,MW,07:00 pm-08:50 pm
-koleks,PSY,247,TR,02:00 pm-03:50 pm
-leep,PSY,302,TR,11:00 am-12:15 pm
-leep,PSY,302,TR,12:30 pm-01:45 pm
-bachiochip,PSY,303,TR,11:00 am-12:15 pm
-bachiochip,PSY,305,TR,02:00 pm-03:15 pm
-lanagan-leitzell,PSY,306,MWF,11:00 am-11:50 am
-leszczynskij,PSY,314,MWF,08:00 am-08:50 am
-leszczynskij,PSY,314,MWF,09:00 am-09:50 am
-cousinsa,PSY,315,MWF,12:00 pm-12:50 pm
-lanagan-leitzell,PSY,318,MWF,12:00 pm-12:50 pm
-cousinsa,PSY,319,MWF,01:00 pm-01:50 pm
-bachiochip,PSY,327,MW,04:00 pm-05:15 pm
-bachiochip,PSY,327, ,TBA
-vasquez-o'brient,PSY,327,TR,04:00 pm-05:15 pm
-vasquez-o'brient,PSY,327, ,TBA
-sciscoj,PSY,327,TR,09:30 am-10:45 am
-sciscoj,PSY,327, ,TBA
-cousinsa,PSY,390,W,10:00 am-10:50 am
-krebsc,PSY,390,M,02:00 pm-02:50 pm
-krebsc,PSY,407,MWF,01:00 pm-01:50 pm
-cordonl,PSY,409,TR,08:00 am-09:15 am
-cordonl,PSY,409,TR,09:30 am-10:45 am
-leep,PSY,410,TR,04:00 pm-05:15 pm
-dillerj,PSY,417,MWF,08:00 am-08:50 am
-sciscoj,PSY,418,TR,02:00 pm-03:15 pm
-cordonl,PSY,419,TR,12:30 pm-01:45 pm
-cordonl,PSY,419,TR,02:00 pm-03:15 pm
-vasquez-o'brient,PSY,434,TR,12:30 pm-01:45 pm
-leszczynskij,PSY,435,MWF,12:00 pm-12:50 pm
-salters-pedneaultk,PSY,450,MWF,02:00 pm-02:50 pm
-sciscoj,PSY,460,TR,11:00 am-12:15 pm
-leszczynskij,PSY,471,M,10:00 am-10:50 am
-vasquez-o'brient,PSY,471,M,10:00 am-10:50 am
-dillerj,PSY,480, ,TBA
-bachiochip,PSY,480, ,TBA
-lanagan-leitzell,PSY,480, ,TBA
-koleks,PSY,480, ,TBA
-cordonl,PSY,480, ,TBA
-keyesm,PSY,490, ,TBA
-sciscoj,PSY,490, ,TBA
-leszczynskij,PSY,490, ,TBA
-leep,PSY,490, ,TBA
-bachiochip,PSY,490, ,TBA
-salters-pedneaultk,PSY,490, ,TBA
-krebsc,PSY,490, ,TBA
-koleks,PSY,490, ,TBA
-fugerem,PSY,490, ,TBA
-cousinsa,PSY,490, ,TBA
-leszczynskij,PSY,491, ,TBA
-sciscoj,PSY,491, ,TBA
-dillerj,PSY,491, ,TBA
-salters-pedneaultk,PSY,491, ,TBA
-lanagan-leitzell,PSY,491, ,TBA
-koleks,PSY,491, ,TBA
-leep,PSY,491, ,TBA
-cousinsa,PSY,491, ,TBA
-fugerem,PSY,491, ,TBA
-krebsc,PSY,491, ,TBA
-vasquez-o'brient,PSY,491, ,TBA
-leep,PSY,496,M,04:00 pm-04:50 pm
-salters-pedneaultk,PSY,496,F,09:00 am-09:50 am
-bachiochip,PSY,497, ,TBA
-walterss,PBH,206,MWF,11:00 am-11:50 am
-carrolls,PBH,209,M,04:00 pm-06:45 pm
-clementss,PBH,209,TR,04:00 pm-05:15 pm
-serranom,PBH,228,TR,12:30 pm-01:45 pm
-serranom,PBH,228,TR,04:00 pm-05:15 pm
-cowlese,PBH,301,T,04:00 pm-06:45 pm
-murdochb,PBH,302,T,09:30 am-11:20 am
-murdochb,PBH,302,T,12:30 pm-02:20 pm
-walterss,PBH,330,MWF,10:00 am-10:50 am
-carrolls,PBH,350,TR,11:00 am-12:15 pm
-blancaflors,PBH,440,TR,02:00 pm-03:15 pm
-carrolls,PBH,494, ,TBA
-walterss,PBH,494, ,TBA
-trubeyp,SWK,200,R,12:30 pm-03:15 pm
-nightingales,SWK,300,R,12:30 pm-03:15 pm
-stantonm,SWK,300,T,12:30 pm-03:15 pm
-stantonm,SWK,312,R,12:30 pm-03:15 pm
-rodriguezd,SWK,312,T,12:30 pm-03:15 pm
-rodriguezd,SWK,320,T,08:00 am-10:45 am
-matthews-armsteade,SWK,320,T,08:00 am-10:45 am
-stantonm,SWK,333,R,08:00 am-10:45 am
-stantonm,SWK,333,R,11:00 am-11:50 am
-nightingales,SWK,333,R,08:00 am-10:45 am
-nightingales,SWK,333,R,11:00 am-11:50 am
-rijsj,SWK,360,T,04:00 pm-06:45 pm
-nightingales,SWK,420,T,08:00 am-10:45 am
-keaned,SWK,420,T,04:00 pm-06:45 pm
-matthews-armsteade,SWK,450,T,12:30 pm-03:15 pm
-lewisj,SWK,450,T,12:30 pm-03:15 pm
-pimentalc,SWK,450,T,12:30 pm-03:15 pm
-nightingales,SWK,480, ,TBA
-stantonm,SWK,480, ,TBA
-simonn,SOC,100,TR,02:00 pm-03:15 pm
-babars,SOC,100,MWF,11:00 am-11:50 am
-babars,SOC,100,MWF,12:00 pm-12:50 pm
-mccartyg,SOC,100,MWF,09:00 am-09:50 am
-mccartyg,SOC,100,MWF,10:00 am-10:50 am
-breslind,SOC,100,TR,04:00 pm-05:15 pm
-simonn,SOC,201,W,09:00 am-09:50 am
-azzaroe,SOC,220,T,07:00 pm-09:45 pm
-burnsn,SOC,240,TR,11:00 am-12:15 pm
-breslind,SOC,250,TR,02:00 pm-03:15 pm
-simonn,SOC,300,TR,09:30 am-10:45 am
-severancet,SOC,307,MWF,09:00 am-09:50 am
-westberryb,SOC,310,M,07:00 pm-09:45 pm
-parsonsn,SOC,311,TR,09:30 am-10:45 am
-westberryb,SOC,318,M,04:00 pm-06:45 pm
-azzaroe,SOC,325,M,07:00 pm-09:45 pm
-browns,SOC,346,R,04:00 pm-06:45 pm
-kurtim,SOC,350,TR,02:00 pm-03:50 pm
-kurtim,SOC,350,TR,11:00 am-12:50 pm
-parsonsn,SOC,351,TR,11:00 am-12:50 pm
-parsonsn,SOC,351,TR,02:00 pm-03:50 pm
-simonn,SOC,400,TR,11:00 am-12:50 pm
-simonn,SOC,480, ,TBA
-pestar,SOC,480, ,TBA
-lugow,SOC,480, ,TBA
-simonn,SOC,490, ,TBA
-simonn,SOC,491, ,TBA
-simonn,SOC,492, ,TBA
-parsonsn,SOC,492, ,TBA
-simonn,SOC,493, ,TBA
-vijayasekarj,SPA,111,MWF,11:00 am-11:50 am
-pareram,SPA,111,MWF,09:00 am-09:50 am
-jendrewskir,SPA,111,MW,05:30 pm-06:45 pm
-armstrongn,SPA,211,MWF,10:00 am-10:50 am
-erik-soussia,SPA,219,M,04:00 pm-06:45 pm
-pareram,SPA,311,MWF,12:00 pm-12:50 pm
-penaaliceag,SPA,404,TR,11:00 am-12:15 pm
-armstrongn,SPA,490, ,TBA
-chank,SPA,492, ,TBA
-vijayasekarj,SPA,492, ,TBA
-cobbj,THE,174,TR,09:30 am-10:45 am
-sokolovskayaa,THE,226, ,TBA
-wadeckij,THE,227, ,TBA
-morgank,THE,227, ,TBA
-wellesr,THE,227, ,TBA
-sokolovskayaa,THE,227, ,TBA
-pellegrinid,THE,228, ,TBA
-pellegrinid,THE,265,TR,11:00 am-12:50 pm
-cobbj,THE,272,TR,02:00 pm-03:15 pm
-golebiewskit,THE,276,TR,04:00 pm-05:15 pm
-golebiewskit,THE,277,M,04:00 pm-06:45 pm
-sokolovskayaa,THE,278,TR,04:00 pm-05:15 pm
-sokolovskayaa,THE,279,TR,12:30 pm-01:45 pm
-o'brienm,THE,280,TR,09:30 am-10:45 am
-houldcroftt,THE,281,W,04:00 pm-06:45 pm
-floodr,THE,308,M,04:00 pm-06:45 pm
-cobbj,THE,365,TR,12:30 pm-01:45 pm
-bright-hollanda,THE,474,TR,04:00 pm-05:15 pm
-sokolovskayaa,THE,475, ,TBA
-bright-hollanda,THE,475, ,TBA
-cobbj,THE,475, ,TBA
-cobbj,THE,480, ,TBA
-morgank,THE,480, ,TBA
-golebiewskit,THE,480, ,TBA
-floodr,THE,480, ,TBA
-pellegrinid,THE,480, ,TBA
-sokolovskayaa,THE,480, ,TBA
-golebiewskit,THE,481, ,TBA
-morgank,THE,495, ,TBA
-burnsn,WST,240,TR,11:00 am-12:15 pm
-abbatemarcoa,WST,260,TR,12:30 pm-01:45 pm
-abbatemarcoa,WST,260,TR,11:00 am-12:15 pm
-rochonr,WST,260,MWF,09:00 am-09:50 am
-westberryb,WST,310,M,07:00 pm-09:45 pm
-cousinsa,WST,315,MWF,12:00 pm-12:50 pm
-nightingales,WST,490, ,TBA
+Instructor,Sub,Crse,Sec,Day,Time,Room
+misikoc,ACC,201,01,T,04:00 pm-06:45 pm,GODDAR 223
+guom,ACC,201,02,TR,09:30 am-10:45 am,SCIENC 137
+guom,ACC,201,03,TR,11:00 am-12:15 pm,SCIENC 137
+misikoc,ACC,202,01,M,04:00 pm-06:45 pm,WEBB 216
+guom,ACC,301,01,TR,02:00 pm-03:15 pm,GODDAR 216
+foyl,ACC,302,01,TR,11:00 am-12:15 pm,SCIENC 132
+guom,ACC,303,01,W,04:00 pm-06:45 pm,WEBB 315
+rujoubm,ACC,311,01,TR,09:30 am-10:45 am,SCIENC 115
+capalboh,ACC,410,01,R,04:00 pm-06:45 pm,WEBB 113
+vailm,ACC,411,01,T,04:00 pm-06:45 pm,WEBB 113
+greenb,ACC,412,01,M,04:00 pm-06:45 pm,WEBB 315
+foyl,ACC,416,01,TR,12:30 pm-01:45 pm,SCIENC 132
+rujoubm,ACC,420,01,TR,11:00 am-12:15 pm,SCIENC 115
+vailm,ACC,520,E25, ,TBA,TBA
+capalboh,ACC,531,E25, ,TBA,TBA
+shepard-torresr,ANT,106,01,TR,09:30 am-10:45 am,WEBB 110
+leissa,ANT,125,01,TR,02:00 pm-03:15 pm,WEBB 112
+couture-palmerinop,ANT,201,E25, ,TBA,ONLINE
+leissa,ANT,221,E25, ,TBA,ONLINE
+couture-palmerinop,ANT,222,E25, ,TBA,ONLINE
+carrolls,ANT,302,01X,TR,09:30 am-10:45 am,GODDAR 223
+williamsone,ANT,337,01,MWF,08:00 am-08:50 am,WEBB 214
+williamsone,ANT,345,01,MWF,09:00 am-09:50 am,WEBB 215
+shepard-torresr,ANT,364,01,TR,11:00 am-12:15 pm,SCIENC 116
+leissa,ANT,365,01,TR,11:00 am-12:15 pm,SCIENC 432
+leissa,ANT,400,01,W,04:00 pm-06:45 pm,WEBB 317
+leissa,ANT,490,01, ,TBA,TBA
+guarinob,ART,110,01,MW,09:00 am-11:45 am,FAIC 328
+mckeem,ART,110,02,TR,09:30 am-12:15 pm,FAIC 326
+eliaa,ART,111,01,MW,09:00 am-11:45 am,FAIC 125
+greener,ART,111,02,TR,12:00 pm-02:45 pm,FAIC 125
+opied,ART,122,01,TR,04:00 pm-06:45 pm,FAIC 327
+chent,ART,124,01,TR,09:30 am-12:15 pm,FAIC 327
+pinckneys,ART,140,01,TR,09:30 am-10:45 am,FAIC 305
+francob,ART,140,02,TR,12:30 pm-01:45 pm,FAIC 305
+beebyc,ART,140,03,TR,04:00 pm-05:15 pm,FAIC 305
+liuq,ART,202,01,TR,04:00 pm-06:45 pm,FAIC 331
+moranr,ART,202,02,MW,09:00 am-11:45 am,FAIC 331
+guildc,ART,202,03,TR,09:30 am-12:15 pm,FAIC 331
+liuq,ART,205,01,TR,12:30 pm-03:15 pm,FAIC 331
+cariddik,ART,212,01,MW,04:00 pm-05:50 pm,FAIC 305
+francob,ART,212,02,TR,02:00 pm-03:50 pm,FAIC 305
+kims,ART,213,01,TR,04:00 pm-06:45 pm,FAIC 330
+bisantzj,ART,214,01,W,09:00 am-11:45 am,FAIC 330
+rahmanifara,ART,215,01X,MW,09:00 am-11:45 am,FAIC 323
+desousad,ART,217,01,TR,04:00 pm-06:45 pm,FAIC 125
+liuq,ART,219,01,M,12:00 pm-02:45 pm,FAIC 326
+bartonek,ART,219,02,T,09:30 am-12:15 pm,FAIC 328
+bartonek,ART,219,02,T,09:30 am-12:15 pm,FAIC 323
+toczylowskib,ART,230,01,WF,12:00 pm-02:45 pm,FAIC 247
+petrikovskyh,ART,233,01,MW,01:00 pm-02:50 pm,FAIC 115
+greener,ART,235,01,F,12:00 pm-02:45 pm,FAIC 125
+eliaa,ART,235,03,M,12:00 pm-02:45 pm,FAIC 125
+wintnerj,ART,250,01,TR,05:30 pm-06:45 pm,FAIC 305
+rahmanifara,ART,308,01X,MW,09:00 am-11:45 am,FAIC 323
+pinckneys,ART,313,01,TR,11:00 am-12:15 pm,FAIC 305
+greener,ART,315,01,TR,04:00 pm-06:45 pm,FAIC 122
+chent,ART,327,01,M,12:00 pm-02:45 pm,FAIC 330
+chent,ART,329,01,TR,12:30 pm-03:15 pm,FAIC 327
+hollandj,ART,332,01,WF,12:00 pm-02:45 pm,FAIC 330
+drewt,ART,342,01,TR,09:30 am-12:15 pm,FAIC 330
+lil,ART,343,01,MW,09:00 am-11:45 am,FAIC 327
+rahmanifara,ART,352,01X,MW,12:00 pm-02:45 pm,FAIC 331
+doylem,ART,401,01,WF,01:00 pm-02:50 pm,FAIC 305
+kims,ART,436,01,TR,12:30 pm-03:15 pm,FAIC 330
+rahmanifara,ART,470,01X,MW,12:00 pm-02:45 pm,FAIC 331
+chent,ART,480,01, ,TBA,TBA
+lil,ART,480,02, ,TBA,TBA
+lil,ART,480,03, ,TBA,TBA
+greener,ART,480,04, ,TBA,TBA
+chent,ART,480,05, ,TBA,TBA
+doylem,ART,480,06, ,TBA,TBA
+kims,ART,480,08, ,TBA,TBA
+chent,ART,480,09, ,TBA,TBA
+liuq,ART,480,10, ,TBA,TBA
+doylem,ART,480,11, ,TBA,TBA
+lil,ART,480,12, ,TBA,TBA
+doylem,ART,480,13, ,TBA,TBA
+petrikovskyh,ART,480,14, ,TBA,TBA
+rahmanifara,ART,480,15, ,TBA,TBA
+greener,ART,480,17, ,TBA,TBA
+kims,ART,480,18, ,TBA,TBA
+lil,ART,480,19, ,TBA,TBA
+greener,ART,480,20, ,TBA,TBA
+lil,ART,480,21, ,TBA,TBA
+greener,ART,480,22, ,TBA,TBA
+drewt,ART,480,24, ,TBA,TBA
+lil,ART,485,01,MW,04:00 pm-06:45 pm,FAIC 323
+greener,ART,485,01,MW,04:00 pm-06:45 pm,FAIC 323
+rahmanifara,ART,485,01,MW,04:00 pm-06:45 pm,FAIC 323
+lil,ART,485,01,MW,04:00 pm-06:45 pm,FAIC 122
+greener,ART,485,01,MW,04:00 pm-06:45 pm,FAIC 122
+rahmanifara,ART,485,01,MW,04:00 pm-06:45 pm,FAIC 122
+lil,ART,485,01,MW,04:00 pm-06:45 pm,FAIC 247
+greener,ART,485,01,MW,04:00 pm-06:45 pm,FAIC 247
+rahmanifara,ART,485,01,MW,04:00 pm-06:45 pm,FAIC 247
+doylem,ART,486,01, ,TBA,TBA
+chent,ART,487,01, ,TBA,TBA
+rahmanifara,ART,490,01, ,TBA,TBA
+chent,ART,490,02, ,TBA,TBA
+doylem,ART,490,03, ,TBA,TBA
+kerrm,AST,214,01,TR,09:30 am-10:45 am,PLANET PLT
+kerrm,AST,214,01A,T,11:00 am-12:00 pm,PLANET PLT
+kerrm,AST,214,01B,R,11:00 am-12:00 pm,PLANET PLT
+hulveyj,BIO,120,01,MWF,11:00 am-11:50 am,SCIENC 231
+hulveyj,BIO,120,01,M,02:00 pm-04:50 pm,SCIENC 331
+lauxd,BIO,140,01,MWF,09:00 am-09:50 am,SCIENC 104
+lauxd,BIO,140,01A,W,02:00 pm-04:50 pm,SCIENC 334
+murdochb,BIO,140,01B,R,09:30 am-12:20 pm,SCIENC 334
+wasielewskit,BIO,200,01,TR,09:30 am-10:45 am,SCIENC 416
+wasielewskit,BIO,200,02,TR,11:00 am-12:15 pm,SCIENC 416
+lucink,BIO,204,01,TR,11:00 am-12:15 pm,SCIENC 320
+lucink,BIO,204,02,TR,12:30 pm-01:45 pm,SCIENC 320
+pasinij,BIO,204,03,TR,08:00 am-09:15 am,SCIENC 320
+pasinij,BIO,204,04,TR,09:30 am-10:45 am,SCIENC 320
+jacobsm,BIO,204,05,M,04:00 pm-06:45 pm,SCIENC 320
+jacobsm,BIO,204,06,TR,05:30 pm-06:45 pm,SCIENC 320
+grotha,BIO,210,01,MWF,10:00 am-10:50 am,SCIENC 134
+connollyb,BIO,222,01,MWF,11:00 am-11:50 am,SCIENC 416
+connollyb,BIO,222,01,R,09:30 am-12:20 pm,SCIENC 318
+grotha,BIO,230,01,MWF,11:00 am-11:50 am,SCIENC 134
+grotha,BIO,230,01,M,02:00 pm-04:50 pm,SCIENC 335
+mattinglyb,BIO,240,02,MWF,10:00 am-10:50 am,SCIENC 231
+mattinglyb,BIO,240,02,T,11:00 am-01:50 pm,SCIENC 331
+lucink,BIO,280,01, ,TBA,TBA
+idjadij,BIO,280,02, ,TBA,TBA
+cowlese,BIO,301,01X,T,04:00 pm-06:45 pm,SCIENC 116
+murdochb,BIO,302,01X,T,09:30 am-11:20 am,SCIENC 341
+murdochb,BIO,302,02X,T,12:30 pm-02:20 pm,SCIENC 341
+veerappanv,BIO,304,01,MWF,09:00 am-09:50 am,SCIENC 137
+veerappanv,BIO,304,02,MWF,10:00 am-10:50 am,SCIENC 137
+grahamm,BIO,305,01,MWF,01:00 pm-01:50 pm,SCIENC 104
+kwakuk,BIO,305,02,T,04:00 pm-06:45 pm,SCIENC 104
+gyurem,BIO,314,01,R,09:30 am-11:20 am,SCIENC 331
+gyurem,BIO,314,02,R,12:30 pm-02:20 pm,SCIENC 331
+gyurem,BIO,314,03,R,04:00 pm-05:50 pm,SCIENC 331
+mattinglyb,BIO,319,01,T,09:00 am-10:50 am,SCIENC 331
+eppk,BIO,319,01,T,09:00 am-10:50 am,SCIENC 331
+idjadij,BIO,319,01,T,09:00 am-10:50 am,SCIENC 331
+mattinglyb,BIO,320,01, ,TBA,TBA
+eppk,BIO,320,01, ,TBA,TBA
+idjadij,BIO,320,01, ,TBA,TBA
+hulveyj,BIO,334,01,MWF,09:00 am-09:50 am,SCIENC 231
+hulveyj,BIO,334,01,W,02:00 pm-04:50 pm,SCIENC 341
+grahamm,BIO,336,01,MWF,12:00 pm-12:50 pm,SCIENC 432
+grahamm,BIO,336,01,R,11:00 am-01:50 pm,SCIENC 333
+lucink,BIO,350,01,MWF,10:00 am-10:50 am,SCIENC 432
+lucink,BIO,350,01A,M,02:00 pm-04:50 pm,SCIENC 315
+lucink,BIO,380,01, ,TBA,TBA
+grotha,BIO,380,02, ,TBA,TBA
+connollyb,BIO,380,03, ,TBA,TBA
+grahamm,BIO,380,04, ,TBA,TBA
+connollyb,BIO,380,05, ,TBA,TBA
+eppk,BIO,380,06, ,TBA,TBA
+grahamm,BIO,380,07, ,TBA,TBA
+hulveyj,BIO,380,08, ,TBA,TBA
+murdochb,BIO,380,09, ,TBA,TBA
+connollyb,BIO,380,10, ,TBA,TBA
+lauxd,BIO,380,11, ,TBA,TBA
+idjadij,BIO,380,12, ,TBA,TBA
+cowlese,BIO,424,01,MWF,10:00 am-10:50 am,SCIENC 416
+cowlese,BIO,424,01,T,09:30 am-12:20 pm,SCIENC 335
+connollyb,BIO,438,01,MWF,01:00 pm-01:50 pm,SCIENC 416
+connollyb,BIO,438,01,R,02:00 pm-04:50 pm,SCIENC 318
+veerappanv,BIO,460,01,MWF,12:00 pm-12:50 pm,SCIENC 416
+veerappanv,BIO,460,01,R,09:30 am-12:20 pm,SCIENC 335
+lauxd,BIO,462,01,MWF,11:00 am-11:50 am,SCIENC 432
+lauxd,BIO,462,01,M,02:00 pm-04:50 pm,SCIENC 334
+eppk,BIO,466,01,M,02:00 pm-04:50 pm,SCIENC 416
+eppk,BIO,466,02,W,02:00 pm-04:50 pm,SCIENC 416
+lucink,BIO,480,01, ,TBA,TBA
+veerappanv,BIO,480,02, ,TBA,TBA
+grahamm,BIO,480,03, ,TBA,TBA
+eppk,BIO,480,04, ,TBA,TBA
+lucink,BIO,480,05, ,TBA,TBA
+hulveyj,BIO,480,06, ,TBA,TBA
+murdochb,BIO,480,07, ,TBA,TBA
+lauxd,BIO,480,08, ,TBA,TBA
+connollyb,BIO,480,09, ,TBA,TBA
+lauxd,BIO,490,01, ,TBA,TBA
+murdochb,BIO,490,02, ,TBA,TBA
+grotha,BIO,490,03, ,TBA,TBA
+murdochb,BIO,490,04, ,TBA,TBA
+lucink,BIO,490,05, ,TBA,TBA
+mattinglyb,BIO,490,06, ,TBA,TBA
+connollyb,BIO,490,07, ,TBA,TBA
+gyurem,BIO,490,08, ,TBA,TBA
+murdochb,BIO,491,01, ,TBA,TBA
+murdochb,BIO,491,02, ,TBA,TBA
+veerappanv,BIO,491,03, ,TBA,TBA
+lucink,BIO,491,04, ,TBA,TBA
+hulveyj,BIO,491,05, ,TBA,TBA
+perryk,BUS,201,01,MWF,10:00 am-10:50 am,COMBLD 218
+erwinc,BUS,201,02,TR,09:30 am-10:45 am,COMBLD 218
+erwinc,BUS,201,03,TR,11:00 am-12:15 pm,COMBLD 218
+synnottc,BUS,201,04,MWF,09:00 am-09:50 am,COMBLD 108
+norvaln,BUS,201,05,T,04:00 pm-06:45 pm,GODDAR 203
+perryk,BUS,201,06,MWF,11:00 am-11:50 am,COMBLD 218
+norvaln,BUS,201,07,TR,02:00 pm-03:15 pm,COMBLD 218
+aventa,BUS,225,01,MWF,12:00 pm-12:50 pm,COMBLD 109
+halls,BUS,225,02,W,04:00 pm-06:45 pm,COMBLD 201
+aventa,BUS,225,03,MWF,10:00 am-10:50 am,COMBLD 108
+nardellas,BUS,225,04,TR,12:30 pm-01:45 pm,COMBLD 107
+nardellas,BUS,225,05,TR,02:00 pm-03:15 pm,COMBLD 107
+grosjeanb,BUS,225,06,TR,11:00 am-12:15 pm,COMBLD 107
+chattertonc,BUS,240,01,MWF,09:00 am-09:50 am,COMBLD 201
+dewildea,BUS,250,01,M,04:00 pm-06:45 pm,COMBLD 218
+dewildea,BUS,250,02,MWF,10:00 am-10:50 am,COMBLD 109
+dewildea,BUS,301,01,MWF,09:00 am-09:50 am,COMBLD 109
+buckw,BUS,301,02,TR,09:30 am-10:45 am,GODDAR 200
+buckw,BUS,301,03,TR,11:00 am-12:15 pm,GODDAR 200
+dewildea,BUS,301,04,MWF,12:00 pm-12:50 pm,COMBLD 108
+villanuevae,BUS,307,01,MWF,12:00 pm-12:50 pm,COMBLD 218
+moylanw,BUS,321,01,MW,04:00 pm-05:15 pm,COMBLD 109
+moylanw,BUS,325,01,MW,05:30 pm-06:45 pm,COMBLD 109
+grosjeanb,BUS,326,01,T,07:00 pm-09:45 pm,COMBLD 218
+kangm,BUS,327,01,TR,02:00 pm-03:15 pm,SCIENC 234
+erwinc,BUS,331,01,T,07:00 pm-09:45 pm,COMBLD 108
+ferrarol,BUS,333,01,M,04:00 pm-06:45 pm,COMBLD 201
+chattertonc,BUS,340,01,R,09:30 am-12:15 pm,COMBLD 201
+kaneg,BUS,342,01,MWF,12:00 pm-12:50 pm,COMBLD 107
+kaneg,BUS,342,02,MWF,10:00 am-10:50 am,COMBLD 201
+buckw,BUS,351,01,TR,02:00 pm-03:15 pm,COMBLD 201
+buckw,BUS,351,02,TR,04:00 pm-05:15 pm,COMBLD 108
+pakdilf,BUS,410,01,W,04:00 pm-06:45 pm,WEBB 314
+kaneg,BUS,411,01,MWF,01:00 pm-01:50 pm,COMBLD 107
+grandhis,BUS,428,01,TR,12:30 pm-01:45 pm,SCIENC 234
+kangm,BUS,429,01,W,04:00 pm-06:45 pm,SCIENC 234
+ohn,BUS,431,01,TR,12:30 pm-01:45 pm,COMBLD 218
+ohn,BUS,431,02,TR,09:30 am-10:45 am,GODDAR 202
+erwinc,BUS,431,03,TR,02:00 pm-03:15 pm,GODDAR 201
+deckerg,BUS,436,01,T,07:00 pm-09:45 pm,COMBLD 109
+villanuevae,BUS,450,01,MWF,08:00 am-08:50 am,COMBLD 218
+pakdilf,BUS,480,01, ,TBA,TBA
+pakdilf,BUS,480,02, ,TBA,TBA
+buckw,BUS,480,03, ,TBA,TBA
+villanuevae,BUS,480,04, ,TBA,TBA
+kaneg,BUS,480,05, ,TBA,TBA
+grandhis,BUS,480,06, ,TBA,TBA
+chattertonc,BUS,490,01V,M,07:00 pm-08:15 pm,COMBLD 201
+chattertonc,BUS,490,02V,R,08:00 am-09:15 am,COMBLD 201
+pakdilf,BUS,492,01, ,TBA,TBA
+grandhis,BUS,492,02, ,TBA,TBA
+donohuek,BIS,205,01,TR,08:00 am-09:15 am,WEBB 307
+reays,BIS,205,02,MWF,08:00 am-08:50 am,WEBB 307
+reays,BIS,205,03,MWF,09:00 am-09:50 am,WEBB 307
+kunenen,BIS,205,04,TR,09:30 am-10:45 am,WEBB 307
+dexterr,BIS,205,05,W,07:00 pm-09:45 pm,WEBB 307
+albinie,BIS,362,01,M,04:00 pm-06:45 pm,WEBB 307
+donohuek,BIS,365,01,TR,09:30 am-10:45 am,WEBB 407
+alkhamaieshs,BIS,370,01,TR,05:30 pm-06:45 pm,WEBB 307
+alkhamaieshs,BIS,370,02,TR,07:00 pm-08:15 pm,WEBB 307
+citursa,BIS,373,01,MF,02:00 pm-03:15 pm,WEBB 407
+citursa,BIS,379,01,M,04:00 pm-06:45 pm,WEBB 407
+schallerj,BIS,442,01,W,04:00 pm-06:45 pm,SCIENC 115
+johnsond,BIS,447,01,T,07:00 pm-09:45 pm,WEBB 407
+citursa,BIS,447,02,TR,11:00 am-12:15 pm,WEBB 407
+kunenen,BIS,449,01,TR,12:30 pm-01:45 pm,WEBB 407
+kunenen,BIS,449,02,TR,02:00 pm-03:15 pm,WEBB 407
+citursa,BIS,461,01,MW,07:00 pm-08:15 pm,WEBB 407
+citursa,BIS,480,01, ,TBA,TBA
+couture-palmerinop,CAS,201,E25, ,TBA,TBA
+couture-palmerinop,CAS,222,E25, ,TBA,ONLINE
+hek,CHE,211,01,MWF,09:00 am-09:50 am,SCIENC 117
+hek,CHE,211,02,MWF,10:00 am-10:50 am,SCIENC 117
+hek,CHE,211,03,MWF,01:00 pm-01:50 pm,SCIENC 117
+islams,CHE,211,04,MW,04:00 pm-05:15 pm,SCIENC 117
+islams,CHE,211,05,MW,05:30 pm-06:45 pm,SCIENC 117
+parcinskia,CHE,213,01,M,11:00 am-01:50 pm,SCIENC 440
+parcinskia,CHE,213,02,M,02:00 pm-04:50 pm,SCIENC 440
+ahmadis,CHE,213,03,T,04:00 pm-06:50 pm,SCIENC 440
+ahmadis,CHE,213,04,T,07:00 pm-09:50 pm,SCIENC 440
+swansons,CHE,213,05,W,04:00 pm-06:50 pm,SCIENC 440
+chirakul-maddenp,CHE,213,06,R,11:00 am-01:50 pm,SCIENC 440
+chirakul-maddenp,CHE,213,07,R,02:00 pm-04:50 pm,SCIENC 440
+kozad,CHE,213,08,M,07:00 pm-09:50 pm,SCIENC 440
+swansons,CHE,213,09,W,07:00 pm-09:50 pm,SCIENC 440
+kozad,CHE,217,01,MWF,10:00 am-10:50 am,SCIENC 104
+candlerj,CHE,217,01A,T,07:00 pm-09:50 pm,SCIENC 441
+candlerj,CHE,217,01B,M,07:00 pm-09:50 pm,SCIENC 441
+toedtj,CHE,318,01,MWF,01:00 pm-01:50 pm,SCIENC 432
+toedtj,CHE,319,01,T,02:00 pm-04:50 pm,SCIENC 434
+islams,CHE,425,01,MWF,12:00 pm-12:50 pm,SCIENC 231
+islams,CHE,425,01A,F,02:00 pm-05:50 pm,SCIENC 434
+toedtj,CHE,480,01, ,TBA,TBA
+hek,CHE,480,02, ,TBA,TBA
+hek,CHE,480,03, ,TBA,TBA
+toedtj,CHE,490,01, ,TBA,TBA
+islams,CHE,492,01, ,TBA,TBA
+murphyj,COM,100,02,MWF,10:00 am-10:50 am,COMBLD 107
+curtiss,COM,101,01,MWF,11:00 am-11:50 am,FAIC 115
+utterbacka,COM,120,01,TR,09:30 am-10:45 am,COMBLD 114A
+utterbacka,COM,120,01,TR,09:30 am-10:45 am,COMBLD 114D
+utterbacka,COM,120,01,TR,09:30 am-10:45 am,COMBLD 114B
+ammarim,COM,220,01X,T,07:00 pm-09:45 pm,COMBLD 114A
+ammarim,COM,220,01X,T,07:00 pm-09:45 pm,COMBLD 114D
+ammarim,COM,220,01X,T,07:00 pm-09:45 pm,COMBLD 114B
+carlsonr,COM,220,02X,M,04:00 pm-06:45 pm,COMBLD 114A
+carlsonr,COM,220,02X,M,04:00 pm-06:45 pm,COMBLD 114D
+carlsonr,COM,220,02X,M,04:00 pm-06:45 pm,COMBLD 114B
+ammarim,COM,220,03X,T,04:00 pm-06:45 pm,COMBLD 114A
+ammarim,COM,220,03X,T,04:00 pm-06:45 pm,COMBLD 114D
+ammarim,COM,220,03X,T,04:00 pm-06:45 pm,COMBLD 114B
+dayb,COM,220,04X,TR,11:00 am-12:15 pm,COMBLD 114A
+dayb,COM,220,04X,TR,11:00 am-12:15 pm,COMBLD 114D
+dayb,COM,220,04X,TR,11:00 am-12:15 pm,COMBLD 114B
+freunde,COM,230,01,T,04:00 pm-06:45 pm,COMBLD 109
+freunde,COM,230,02,W,04:00 pm-06:45 pm,COMBLD 218
+curtiss,COM,230,03,TR,09:30 am-10:45 am,COMBLD 108
+zatowskij,COM,245,01,T,04:00 pm-06:45 pm,COMBLD 226
+utterbacka,COM,290,01, ,TBA,TBA
+zatowskij,COM,291,01, ,TBA,TBA
+utterbacka,COM,300,02,TR,12:30 pm-01:45 pm,FAIC 307
+osterndorfw,COM,301,01,MWF,12:00 pm-12:50 pm,FAIC 115
+osterndorfw,COM,330,01,MWF,09:00 am-09:50 am,FAIC 307
+dayb,COM,357,01,TR,09:30 am-10:45 am,COMBLD 226
+dayb,COM,380,01X,TR,02:00 pm-03:50 pm,FAIC 115
+osterndorfw,COM,400,01,TR,09:30 am-10:45 am,FAIC 307
+osterndorfw,COM,403,01,TR,11:00 am-12:15 pm,FAIC 307
+aconforan,COM,410,01,M,04:00 pm-06:45 pm,COMBLD 107
+utterbacka,COM,425,01,W,04:00 pm-06:45 pm,COMBLD 114A
+utterbacka,COM,425,01,W,04:00 pm-06:45 pm,COMBLD 114D
+utterbacka,COM,425,01,W,04:00 pm-06:45 pm,COMBLD 114B
+utterbacka,COM,480,01, ,TBA,TBA
+kangm,COM,480,02, ,TBA,TBA
+utterbacka,COM,480,03, ,TBA,TBA
+floodr,COM,480,04, ,TBA,TBA
+cobbj,COM,490,01, ,TBA,TBA
+floodr,COM,490,02, ,TBA,TBA
+kangm,COM,490,03, ,TBA,TBA
+jeonj,COM,490,04, ,TBA,TBA
+dayb,COM,490,05, ,TBA,TBA
+utterbacka,COM,490,06, ,TBA,TBA
+osterndorfw,COM,490,07, ,TBA,TBA
+zatowskij,COM,490,08, ,TBA,TBA
+sokolovskayaa,COM,490,09, ,TBA,TBA
+pellegrinid,CFT,100,01,F,12:00 pm-02:45 pm,FAIC 117
+morgank,CFT,100,02,F,12:00 pm-02:45 pm,FAIC 118
+floodr,CFT,205,01,MWF,10:00 am-11:10 am,COMBLD 226
+dayb,CFT,401,01,M,02:00 pm-02:50 pm,COMBLD 226
+tasneems,CSC,180,01,TR,11:00 am-12:15 pm,SCIENC 138
+jahani,CSC,202,01,TR,02:00 pm-03:15 pm,SCIENC 135
+onyey,CSC,205,01,TR,12:30 pm-01:45 pm,SCIENC 133
+onyey,CSC,205,02,TR,02:00 pm-03:15 pm,SCIENC 133
+johnsonj,CSC,210,01,MWF,09:00 am-09:50 am,SCIENC 138
+bondoka,CSC,210,02,MWF,11:00 am-11:50 am,SCIENC 133
+johnsonj,CSC,210,03,MWF,10:00 am-10:50 am,SCIENC 139
+lavoiem,CSC,212,01,TR,09:30 am-10:45 am,SCIENC 135
+castron,CSC,215,01,TR,08:00 am-09:15 am,SCIENC 135
+rosienej,CSC,230,01,MWF,11:00 am-11:50 am,SCIENC 135
+jahani,CSC,231,01,MWF,11:00 am-11:50 am,SCIENC 139
+weselcouchc,CSC,249,01,M,04:00 pm-06:45 pm,SCIENC 135
+bondoka,CSC,251,01,MWF,09:00 am-09:50 am,SCIENC 135
+bondoka,CSC,251,02,MWF,10:00 am-10:50 am,SCIENC 135
+gaok,CSC,270,01,MWF,10:00 am-10:50 am,SCIENC 138
+gaok,CSC,270,02,MWF,02:00 pm-02:50 pm,SCIENC 138
+dancikg,CSC,314,01,TR,02:00 pm-03:15 pm,SCIENC 138
+rosienej,CSC,335,01,MWF,10:00 am-10:50 am,SCIENC 133
+rosienej,CSC,335,02,MWF,09:00 am-09:50 am,SCIENC 139
+rosienej,CSC,340,01,MW,04:00 pm-05:15 pm,SCIENC 139
+elfoulyr,CSC,360,01,TR,11:00 am-12:15 pm,SCIENC 135
+shendec,CSC,360,02,MW,04:00 pm-05:15 pm,SCIENC 133
+soleymanpourr,CSC,360,03,TR,04:00 pm-05:15 pm,SCIENC 135
+elfoulyr,CSC,360,04,TR,12:30 pm-01:45 pm,SCIENC 138
+tasneems,CSC,440,01,TR,02:00 pm-03:15 pm,SCIENC 139
+tasneems,CSC,440,02,R,04:00 pm-06:45 pm,SCIENC 138
+gaok,CSC,445,01,MWF,11:00 am-11:50 am,SCIENC 138
+gaok,CSC,445,02,MW,04:00 pm-05:15 pm,SCIENC 138
+dancikg,CSC,450,01,TR,09:30 am-10:45 am,SCIENC 138
+rosienej,CSC,480,01, ,TBA,TBA
+tasneems,CSC,485,01, ,TBA,TBA
+dancikg,CSC,490,01, ,TBA,TBA
+marrettc,CED,300,01, ,TBA,TBA
+kurtim,CRM,210,01,R,04:00 pm-06:45 pm,GODDAR 223
+pestar,CRM,320,01,MWF,11:00 am-11:50 am,WEBB 313
+pestar,CRM,320,02,MWF,12:00 pm-12:50 pm,WEBB 313
+pestar,CRM,410,01,MWF,10:00 am-10:50 am,WEBB 313
+lugow,CRM,450,01,W,04:00 pm-06:45 pm,WEBB 313
+lugow,CRM,450,02,W,07:00 pm-09:45 pm,WEBB 313
+severancet,CRM,475,01V,M,08:00 am-08:50 am,WEBB 215
+pestar,CRM,480,01, ,TBA,TBA
+kurtim,CRM,480,02, ,TBA,TBA
+lugow,CRM,480,03, ,TBA,TBA
+severancet,CRM,480,04, ,TBA,TBA
+severancet,CRM,490,01, ,TBA,TBA
+severancet,CRM,490,02, ,TBA,TBA
+davism,DSC,501,E25, ,TBA,ONLINE
+liux,DSC,503,E25, ,TBA,ONLINE
+liux,DSC,503,E26, ,TBA,ONLINE
+davism,DSC,504,E25, ,TBA,ONLINE
+busij,DSC,505,E25, ,TBA,ONLINE
+turgeonk,DSC,508,E25, ,TBA,ONLINE
+bouleyt,ECE,215,01,TR,02:00 pm-03:15 pm,CECE 170
+drewryt,ECE,301,01, ,TBA,TBA
+swaminathans,ECE,330,01,T,09:30 am-12:15 pm,CECE 175
+bouleyt,ECE,355,01,R,09:30 am-12:15 pm,CECE 175
+bouleyt,ECE,400,01,T,04:00 pm-06:45 pm,CECE 175
+swaminathans,ECE,401,01, ,TBA,TBA
+laportek,ECE,405,01X,M,04:00 pm-06:45 pm,CECE 167
+rezain,ECE,410,01X,W,04:00 pm-06:45 pm,CECE 175
+leek,ECE,420,01X,M,04:00 pm-06:45 pm,CECE 175
+dunnacks,ECE,445,01,MTWRF,08:00 am-03:30 pm,TBA
+bouleyt,ECE,480,01, ,TBA,TBA
+rezain,ECE,501,01X,W,04:00 pm-06:45 pm,CECE 175
+leek,ECE,505,01X,M,04:00 pm-06:45 pm,CECE 175
+laportek,ECE,506,01X,M,04:00 pm-06:45 pm,CECE 167
+bouleyt,ECE,516,01, ,TBA,TBA
+peacockj,ECE,565,01,MTWRF,08:00 am-03:30 pm,TBA
+dunnacks,ECE,566,01, ,TBA,TBA
+swaminathans,ECE,696,01, ,TBA,TBA
+montemerloj,ECO,100,01,TR,12:30 pm-01:45 pm,COMBLD 108
+karrenbergj,ECO,100,02,MWF,01:00 pm-01:50 pm,COMBLD 201
+karrenbergj,ECO,100,03,MWF,02:00 pm-02:50 pm,COMBLD 201
+ndiayem,ECO,200,01,MWF,11:00 am-11:50 am,COMBLD 109
+cunninghamb,ECO,200,02,MWF,10:00 am-10:50 am,GODDAR 203
+fortew,ECO,200,03,TR,09:30 am-10:45 am,GODDAR 201
+fortew,ECO,200,04,TR,11:00 am-12:15 pm,GODDAR 201
+ndiayem,ECO,201,01,MWF,12:00 pm-12:50 pm,GODDAR 203
+ndiayem,ECO,201,02,MWF,01:00 pm-01:50 pm,GODDAR 203
+volkmanv,ECO,201,03,MWF,09:00 am-09:50 am,GODDAR 201
+montemerloj,ECO,201,04,TR,09:30 am-10:45 am,GODDAR 216
+goodmand,ECO,201,05,TR,11:00 am-12:15 pm,GODDAR 216
+eckenrothg,ECO,201,06,TR,02:00 pm-03:15 pm,GODDAR 203
+saponaroj,ECO,201,07,M,04:00 pm-06:45 pm,GODDAR 208
+weirl,ECO,215,01,TR,11:00 am-12:15 pm,SCIENC 238
+weirl,ECO,215,02,TR,12:30 pm-01:45 pm,SCIENC 238
+ndiayem,ECO,301,01,MWF,09:00 am-09:50 am,GODDAR 223
+volkmanv,ECO,305,01,MWF,10:00 am-10:50 am,WEBB 307
+cunninghamb,ECO,325,01,MWF,12:00 pm-12:50 pm,COMBLD 201
+cunninghamb,ECO,325,02,MWF,11:00 am-11:50 am,COMBLD 201
+goodmand,ECO,331,01,TR,09:30 am-10:45 am,COMBLD 107
+cliffordm,ECO,479,01X,TR,09:30 am-10:45 am,GODDAR 203
+peterosr,ECO,479,02X,W,04:00 pm-06:45 pm,COMBLD 108
+cliffordm,ECO,479,03X,TR,08:00 am-09:15 am,GODDAR 203
+cliffordm,ECO,480,01, ,TBA,TBA
+cliffordm,ECO,480,02, ,TBA,TBA
+cliffordm,ECO,480,03, ,TBA,TBA
+cliffordm,ECO,480,04, ,TBA,TBA
+cliffordm,ECO,480,05, ,TBA,TBA
+robertst,EDU,200,01,TR,11:00 am-12:15 pm,SCIENC 117
+leek,EDU,200,02,TR,02:00 pm-03:15 pm,CECE 167
+rodriguezl,EDU,222,01,TR,11:00 am-12:15 pm,CECE 170
+tomanellij,EDU,222,02,TR,08:00 am-09:15 am,WEBB 317
+galvezd,EDU,222,03,W,07:00 pm-09:45 pm,CECE 167
+drewryt,EDU,301,01, ,TBA,TBA
+whitej,EDU,357,01,T,04:00 pm-06:45 pm,WEBB 210
+stoloffd,EDU,357,02,W,04:00 pm-06:45 pm,WEBB 210
+liux,EDU,357,03,R,04:00 pm-06:45 pm,WEBB 210
+rodriguezl,EDU,357,04,TR,02:00 pm-03:15 pm,COMBLD 108
+drewryt,EDU,401,01, ,TBA,TBA
+liux,EDU,404,01,F,12:00 pm-02:45 pm,WEBB 113
+zablonskim,EDU,405,01,R,04:00 pm-06:45 pm,WEBB 212
+dziavitk,EDU,410,01X,M,04:00 pm-06:45 pm,WEBB 215
+cookk,EDU,412,01,T,04:00 pm-06:45 pm,WEBB 215
+richardss,EDU,417,01,M,12:00 pm-02:45 pm,WEBB 113
+rodriguezl,EDU,425,01X,T,04:00 pm-06:45 pm,SCIENC 432
+fabrizim,EDU,425,02X,M,07:00 pm-09:45 pm,COMBLD 108
+richardss,EDU,465,01X,M,07:00 pm-09:45 pm,WEBB 113
+laportek,EDU,465,02X,T,07:00 pm-09:45 pm,WEBB 213
+zimmittil,EDU,470,01,MTWRF,08:00 am-03:30 pm,TBA
+peacockj,EDU,471,01,MTWRF,08:00 am-03:30 pm,TBA
+fabrizim,EDU,480,01, ,TBA,TBA
+mooreheadt,EDU,480,02, ,TBA,TBA
+richardss,EDU,480,03, ,TBA,TBA
+richardss,EDU,480,04, ,TBA,TBA
+ruddyj,EDU,490,01, ,TBA,TBA
+lamarchel,EDU,501,01, ,TBA,TBA
+espinozaa,EDU,502,01, ,TBA,TBA
+galvezd,EDU,505,E25, ,TBA,TBA
+dziavitk,EDU,510,01X,M,04:00 pm-06:45 pm,WEBB 215
+stoloffd,EDU,511,E25, ,TBA,ONLINE
+richardss,EDU,516,01,W,04:00 pm-06:45 pm,WEBB 113
+peacockj,EDU,521,01, ,TBA,TBA
+ashtonf,EDU,523,01, ,TBA,TBA
+rodriguezl,EDU,525,01X,T,04:00 pm-06:45 pm,SCIENC 432
+fabrizim,EDU,525,02X,M,07:00 pm-09:45 pm,COMBLD 108
+stoloffd,EDU,555,E25, ,TBA,ONLINE
+richardss,EDU,565,01X,M,07:00 pm-09:45 pm,WEBB 113
+laportek,EDU,565,02X,T,07:00 pm-09:45 pm,WEBB 213
+ashtonf,EDU,571,01,MTWRF,08:00 am-03:30 pm,TBA
+espinozaa,EDU,573,01,MTWRF,08:00 am-03:30 pm,TBA
+robertst,EDU,582,H01, ,TBA,ONLINE
+robertst,EDU,582,H01,R,04:00 pm-06:45 pm,WEBB 215
+leek,EDU,612,E25, ,TBA,TBA
+mooreheadt,EDU,632,E25, ,TBA,TBA
+mooreheadt,EDU,680,E25, ,TBA,ONLINE
+robinsonm,EDU,694,01,MTWRF,08:00 am-03:30 pm,TBA
+robinsonm,EDU,694,02,MTWRF,08:00 am-03:30 pm,TBA
+rodriguezl,EDU,696,01, ,TBA,TBA
+galvezd,EDU,696,02, ,TBA,TBA
+vijayasekarj,EDU,696,03, ,TBA,TBA
+cruzd,EDU,696,04, ,TBA,TBA
+stoloffd,EDU,696,05, ,TBA,TBA
+fabrizim,EDU,696,06, ,TBA,TBA
+richardss,EDU,696,07, ,TBA,TBA
+bouleyt,EDU,696,08, ,TBA,TBA
+swaminathans,EDU,697,E25, ,TBA,ONLINE
+oterom,ENG,100,01,TR,08:00 am-09:15 am,WEBB 206
+oterom,ENG,100,02,TR,09:30 am-10:45 am,WEBB 206
+johnsons,ENG,100,03,MWF,01:00 pm-01:50 pm,WEBB 206
+szymkiewiczr,ENG,100,04,TR,11:00 am-12:15 pm,SCIENC 233
+cassidys,ENG,100,05,MWF,11:00 am-11:50 am,WEBB 206
+evesk,ENG,100,06,TR,04:00 pm-05:15 pm,WEBB 206
+reynoldsj,ENG,100,07,MWF,12:00 pm-12:50 pm,WEBB 206
+reynoldsj,ENG,100,08,MWF,11:00 am-11:50 am,SCIENC 233
+longe,ENG,100,09,MWF,10:00 am-10:50 am,WEBB 206
+congdonv,ENG,100,10,TR,09:30 am-10:45 am,SCIENC 233
+luxenbergh,ENG,100,11,TR,11:00 am-12:15 pm,SCIENC 133
+mcneilk,ENG,100P,01,TR,09:30 am-10:45 am,WEBB 316
+mcneilk,ENG,100P,01,W,09:00 am-10:40 am,WEBB 316
+mcneilk,ENG,100P,02,TR,11:00 am-12:15 pm,WEBB 316
+mcneilk,ENG,100P,02,W,11:00 am-12:40 pm,WEBB 316
+luxenbergh,ENG,100P,03,M,02:00 pm-03:40 pm,WEBB 316
+luxenbergh,ENG,100P,03,TR,02:00 pm-03:15 pm,WEBB 316
+quickb,ENG,100P,04,TR,04:00 pm-05:15 pm,WEBB 316
+quickb,ENG,100P,04,W,04:00 pm-05:40 pm,WEBB 316
+szymkiewiczr,ENG,100P,05,TR,12:30 pm-01:45 pm,WEBB 316
+szymkiewiczr,ENG,100P,05,W,01:00 pm-02:40 pm,WEBB 316
+johnsons,ENG,100P,06,MF,11:00 am-12:40 pm,WEBB 307
+johnsons,ENG,100P,06,W,11:00 am-11:50 am,WEBB 307
+mamar,ENG,125,01,TR,04:00 pm-05:15 pm,WEBB 216
+mamar,ENG,125,02,TR,02:00 pm-03:15 pm,WEBB 210
+clermont-ferrandm,ENG,177,01,TR,12:30 pm-01:45 pm,WEBB 212
+ferrucis,ENG,190,01,TR,09:30 am-10:45 am,SCIENC 134
+ferrucis,ENG,190,02,TR,11:00 am-12:15 pm,WEBB 213
+taylorm,ENG,201,01,MWF,11:00 am-11:50 am,WEBB 114
+youngbloodj,ENG,201,02,MWF,12:00 pm-12:50 pm,WEBB 114
+terryb,ENG,205,01,TR,08:00 am-09:15 am,WEBB 112
+taylorm,ENG,205,02,MWF,09:00 am-09:50 am,LIBRAR 266
+terryb,ENG,205,03,TR,09:30 am-10:45 am,WEBB 112
+derosas,ENG,207,01,TR,02:00 pm-03:15 pm,WEBB 115
+mcneilk,ENG,215,01,TR,12:30 pm-01:45 pm,COMBLD 201
+speichera,ENG,223,02,MWF,11:00 am-11:50 am,WEBB 214
+mamar,ENG,225,01,TR,05:30 pm-06:45 pm,WEBB 216
+donaghyd,ENG,238,01,TR,02:00 pm-03:15 pm,WEBB 206
+delrioj,ENG,241,01,MWF,09:00 am-09:50 am,WEBB 213
+delrioj,ENG,241,02,MWF,10:00 am-10:50 am,WEBB 213
+clermont-ferrandm,ENG,241,03,TR,02:00 pm-03:15 pm,WEBB 212
+floodr,ENG,255,01,MWF,09:00 am-09:50 am,COMBLD 218
+chiricom,ENG,257,01,MWF,01:00 pm-01:50 pm,WEBB 313
+abbatemarcoa,ENG,260,01X,TR,12:30 pm-01:45 pm,GODDAR 208
+abbatemarcoa,ENG,260,02X,TR,11:00 am-12:15 pm,GODDAR 208
+rochonr,ENG,260,03X,MWF,09:00 am-09:50 am,WEBB 113
+torockioc,ENG,301,01,TR,02:00 pm-03:15 pm,LIBRAR 266
+donaghyd,ENG,302,01,TR,11:00 am-12:15 pm,SCIENC 134
+floodr,ENG,308,01X,M,04:00 pm-06:45 pm,FAIC 115
+speichera,ENG,328,01,MWF,01:00 pm-01:50 pm,WEBB 215
+youngbloodj,ENG,330,01,MF,02:00 pm-03:15 pm,WEBB 114
+clermont-ferrandm,ENG,337,01,TR,04:00 pm-05:15 pm,WEBB 114
+oterom,ENG,338,01,TR,12:30 pm-01:45 pm,SCIENC 416
+oterom,ENG,341,01,TR,02:00 pm-03:15 pm,SCIENC 416
+mamar,ENG,353,01,TR,12:30 pm-01:45 pm,SCIENC 231
+torockioc,ENG,372,01,W,04:00 pm-06:45 pm,WEBB 112
+derosas,ENG,380,01,W,04:00 pm-06:45 pm,WEBB 115
+donaghyd,ENG,382,01,TR,12:30 pm-01:45 pm,SCIENC 134
+chiricom,ENG,461,01,M,04:00 pm-06:45 pm,COMBLD 219
+torockioc,ENG,462,01,T,04:00 pm-06:45 pm,WEBB 213
+clermont-ferrandm,ENG,462,02,W,04:00 pm-06:45 pm,WEBB 213
+donaghyd,ENG,480,01, ,TBA,TBA
+clermont-ferrandm,ENG,480,02, ,TBA,TBA
+chiricom,ENG,480,03, ,TBA,TBA
+chiricom,ENG,481,01, ,TBA,TBA
+torockioc,ENG,493,01, ,TBA,TBA
+speichera,ENG,493,02, ,TBA,TBA
+donaghyd,ENG,493,03, ,TBA,TBA
+derosas,ENG,493,04, ,TBA,TBA
+clermont-ferrandm,ENG,494,01, ,TBA,TBA
+oterom,ENG,494,02, ,TBA,TBA
+derosas,ENG,494,03, ,TBA,TBA
+clermont-ferrandm,ENG,494,04, ,TBA,TBA
+chiricom,ENG,494,05, ,TBA,TBA
+donaghyd,ENG,495,01, ,TBA,TBA
+clermont-ferrandm,ENG,495,02, ,TBA,TBA
+donaghyd,ENG,495,03, ,TBA,TBA
+speichera,ENG,495,04, ,TBA,TBA
+ferrucis,ENG,495,05, ,TBA,TBA
+speichera,ENG,499,01, ,TBA,TBA
+clermont-ferrandm,ENG,499,02, ,TBA,TBA
+ferrucis,ENG,499,03, ,TBA,TBA
+torockioc,ENG,499,04, ,TBA,TBA
+derosas,ENG,499,05, ,TBA,TBA
+cunninghamw,EES,104,01,TR,09:30 am-10:45 am,SCIENC 236
+oakleyb,EES,104,02,TR,11:00 am-12:15 pm,SCIENC 215
+tranl,EES,112,01,W,05:30 pm-07:15 pm,SCIENC 236
+tranl,EES,112,02,T,05:30 pm-07:15 pm,SCIENC 215
+drzewieckip,EES,130,01,MWF,09:00 am-09:50 am,SCIENC 216
+drzewieckip,EES,130,01,M,02:00 pm-04:50 pm,SCIENC 216
+sandeenj,EES,200,01,T,04:00 pm-06:45 pm,SCIENC 236
+nathans,EES,200,02,MWF,11:00 am-11:50 am,SCIENC 236
+delimal,EES,204,01,TR,12:30 pm-01:45 pm,SCIENC 236
+delimal,EES,204,02,TR,11:00 am-12:15 pm,SCIENC 236
+nathans,EES,205,01,MWF,10:00 am-10:50 am,SCIENC 236
+khadev,EES,205,02,W,07:00 pm-09:45 pm,SCIENC 114
+carlsonh,EES,207,01,R,04:00 pm-05:50 pm,SCIENC 417
+carlsonh,EES,207,02,T,04:00 pm-05:50 pm,SCIENC 417
+carlsonh,EES,207,03,W,04:00 pm-05:50 pm,SCIENC 417
+hyattd,EES,224,01,TR,09:30 am-10:45 am,SCIENC 215
+hyattd,EES,224,01A,W,02:00 pm-04:50 pm,SCIENC 219
+hyattd,EES,224,01A,W,02:00 pm-04:50 pm,SCIENC 215
+hyattd,EES,224,01B,T,02:00 pm-04:50 pm,SCIENC 219
+hyattd,EES,224,01B,T,02:00 pm-04:50 pm,SCIENC 215
+cunninghamw,EES,271,H01,T,05:30 pm-06:15 pm,SCIENC 232
+drzewieckip,EES,271,H01,T,05:30 pm-06:15 pm,SCIENC 232
+cunninghamw,EES,271,H01, ,TBA,ONLINE
+drzewieckip,EES,271,H01, ,TBA,ONLINE
+metcalfm,EES,300,01,MW,05:30 pm-06:45 pm,SCIENC 215
+metcalfm,EES,301,01,W,01:00 pm-03:50 pm,SCIENC 233
+metcalfm,EES,322,01,MW,04:00 pm-05:15 pm,SCIENC 202
+metcalfm,EES,322,01,M,01:00 pm-03:50 pm,SCIENC 202
+nicholss,EES,323,01,W,04:00 pm-06:45 pm,SCIENC 233
+cunninghamw,EES,330,01,TR,11:00 am-12:15 pm,SCIENC 232
+cunninghamw,EES,330,01,T,12:30 pm-03:20 pm,SCIENC 232
+cunninghamw,EES,333,01,W,01:00 pm-01:50 pm,SCIENC 232
+hyattd,EES,392,01, ,TBA,TBA
+nathans,EES,402,01,MWF,09:00 am-09:50 am,SCIENC 236
+nathans,EES,402,01,MWF,09:00 am-09:50 am,SCIENC 219
+hyattd,EES,441,01,R,02:00 pm-04:50 pm,SCIENC 219
+oakleyb,EES,456,01,TR,09:30 am-10:45 am,SCIENC 216
+metcalfm,EES,480,01, ,TBA,TBA
+metcalfm,EES,480,02, ,TBA,TBA
+metcalfm,EES,480,03, ,TBA,TBA
+oakleyb,EES,480,04, ,TBA,TBA
+oakleyb,EES,491,01, ,TBA,TBA
+chadwickj,EHS,210,01,TR,12:30 pm-01:45 pm,SCIENC 202
+erik-soussia,FLM,219,01X,M,04:00 pm-06:45 pm,WEBB 112
+ammarim,FLM,220,01X,T,07:00 pm-09:45 pm,COMBLD 114D
+carlsonr,FLM,220,02X,M,04:00 pm-06:45 pm,COMBLD 114D
+ammarim,FLM,220,03X,T,04:00 pm-06:45 pm,COMBLD 114D
+dayb,FLM,220,04X,TR,11:00 am-12:15 pm,COMBLD 114D
+bachollem,FLM,223,01X,M,12:00 pm-02:45 pm,GODDAR 200
+bachollem,FLM,223,02X,W,12:00 pm-02:45 pm,GODDAR 200
+collinsg,FLM,321,01,R,07:00 pm-09:45 pm,COMBLD 107
+dayb,FLM,380,01X,TR,02:00 pm-03:50 pm,FAIC 115
+kyeii,FIN,245,01,MWF,11:00 am-11:50 am,GODDAR 202
+ryens,FIN,245,02,MWF,12:00 pm-12:50 pm,GODDAR 202
+kyeii,FIN,245,03,TR,11:00 am-12:15 pm,GODDAR 203
+kyeii,FIN,245,06,MWF,10:00 am-10:50 am,GODDAR 202
+kyeii,FIN,335,01,M,04:00 pm-06:45 pm,GODDAR 203
+ryens,FIN,347,01,MWF,01:00 pm-01:50 pm,WEBB 210
+days-luketichp,FIN,350,01,T,04:00 pm-06:45 pm,COMBLD 218
+cliffordm,FIN,438,01,W,07:00 pm-09:45 pm,GODDAR 200
+liangl,FIN,445,01,TR,11:00 am-12:15 pm,COMBLD 109
+liangl,FIN,445,02,TR,09:30 am-10:45 am,COMBLD 109
+liangl,FIN,446,01,TR,02:00 pm-03:15 pm,GODDAR 200
+cliffordm,FIN,462,01X,TR,09:30 am-10:45 am,GODDAR 203
+peterosr,FIN,462,02X,W,04:00 pm-06:45 pm,COMBLD 108
+cliffordm,FIN,462,03X,TR,08:00 am-09:15 am,GODDAR 203
+eckenrothg,FIN,490,01V,R,04:00 pm-05:15 pm,COMBLD 218
+bachollem,FRE,120,01,MWF,11:00 am-11:50 am,GODDAR 200
+bachollem,FRE,223,01X,M,12:00 pm-02:45 pm,GODDAR 200
+bachollem,FRE,223,02X,W,12:00 pm-02:45 pm,GODDAR 200
+dahmanif,FRE,492,01, ,TBA,TBA
+dahmanif,FRE,492,02, ,TBA,TBA
+michimia,GEO,100,01,MWF,10:00 am-10:50 am,GODDAR 201
+clementss,GEO,331,01,TR,09:30 am-10:45 am,LIBRAR 436
+michimia,GEO,332,01,MWF,09:00 am-09:50 am,GODDAR 208
+difrancoa,HPE,104,01,M,04:00 pm-06:45 pm,GODDAR 201
+woodmanseek,HPE,104,02,W,04:00 pm-06:45 pm,GODDAR 202
+vogtd,HPE,104,03,R,04:00 pm-06:45 pm,GODDAR 200
+fresco-hawesc,HPE,104,04,W,04:00 pm-06:45 pm,GODDAR 201
+henryj,HPE,104,05,T,04:00 pm-06:45 pm,GODDAR 200
+robertd,HPE,104,06,TR,09:30 am-10:45 am,CECE 167
+robertd,HPE,104,07,TR,11:00 am-12:15 pm,CECE 167
+henryj,HPE,104,08,M,04:00 pm-06:45 pm,GODDAR 202
+vogtd,HPE,104,09,W,04:00 pm-06:45 pm,GODDAR 203
+dewildea,HPE,117,01,MWF,02:00 pm-02:50 pm,GODDAR 201
+sanfordl,HPE,127,01,TR,07:00 pm-08:15 pm,SPORT 104
+madenjianwybierackik,HPE,140,01,MWF,11:00 am-11:50 am,FAIC 219
+madenjianwybierackik,HPE,140,02,MWF,11:00 am-11:50 am,FAIC 219
+madenjianwybierackik,HPE,140,03,MWF,12:00 pm-12:50 pm,FAIC 219
+madenjianwybierackik,HPE,140,04,MWF,12:00 pm-12:50 pm,FAIC 219
+sanfordl,HPE,140,05,TR,05:30 pm-06:45 pm,SPORT 104
+sanfordl,HPE,140,06,TR,05:30 pm-06:45 pm,SPORT 104
+khowm,HPE,141,01,TR,09:30 am-10:45 am,SPORT 104
+khowm,HPE,143,01,TR,08:00 am-09:15 am,SPORT 104
+difrancoa,HPE,201,01,W,04:00 pm-06:45 pm,GODDAR 208
+difrancoa,HPE,201,02,W,04:00 pm-06:45 pm,GODDAR 208
+frainm,HPE,210,01,W,04:00 pm-06:45 pm,GODDAR 216
+manfredie,HPE,210,02,TR,12:30 pm-01:45 pm,GODDAR 216
+frainm,HPE,210,03,W,07:00 pm-09:45 pm,GODDAR 216
+coxp,HPE,310,01,W,07:00 pm-09:45 pm,GODDAR 208
+tracyj,HPE,326,01,T,08:00 am-09:15 am,SPORT 219
+tracyj,HPE,326,01,R,08:00 am-09:15 am,FAIC 219
+rowettc,HPE,327,01,T,04:00 pm-06:45 pm,CECE 170
+switchenkod,HPE,328,01,TR,04:00 pm-05:15 pm,SPORT 221
+switchenkod,HPE,329,01,TR,08:00 am-09:15 am,SPORT 221
+rowettc,HPE,340,01,T,07:00 pm-09:45 pm,CECE 170
+manfredie,HPE,361,01,T,09:30 am-10:30 am,SPORT 219
+manfredie,HPE,361,01,T,10:30 am-12:15 pm,SPORT 201/GYM
+switchenkok,HPE,362,01,R,09:30 am-10:30 am,SPORT 219
+switchenkok,HPE,362,01,R,10:30 am-12:15 pm,SPORT 201/GYM
+robertd,HPE,475,01,MTWRF,08:00 am-03:30 pm,TBA
+robertd,HPE,476,01,R,04:00 pm-06:45 pm,CECE 167
+rowettc,HPE,480,01, ,TBA,TBA
+robertd,HPE,490,01, ,TBA,TBA
+carrolls,HSC,209,01X,M,04:00 pm-06:45 pm,GODDAR 216
+clementss,HSC,209,02X,TR,04:00 pm-05:15 pm,GODDAR 208
+canavanp,HSC,210,01,MWF,11:00 am-11:50 am,COMBLD 107
+smithe,HSC,215,01,TR,12:30 pm-01:45 pm,GODDAR 117
+porebskab,HSC,215,01A,W,09:00 am-11:50 am,SCIENC 237
+porebskab,HSC,215,01B,W,12:00 pm-02:50 pm,SCIENC 237
+kylek,HSC,215,01C,T,08:00 am-10:50 am,SCIENC 237
+banee,HSC,215,01D,R,08:00 am-10:50 am,SCIENC 237
+porebskab,HSC,215,01E,M,04:00 pm-06:50 pm,SCIENC 237
+smithe,HSC,215,01F,M,01:00 pm-03:50 pm,SCIENC 237
+kylek,HSC,215,01G,F,08:00 am-10:50 am,SCIENC 237
+smithe,HSC,215,02,MWF,12:00 pm-12:50 pm,GODDAR 216
+smithe,HSC,215,03,TR,11:00 am-12:15 pm,COMBLD 108
+dzurecl,HSC,225,01,TR,12:30 pm-01:45 pm,GODDAR 200
+beeverj,HSC,225,02,TR,08:00 am-09:15 am,GODDAR 208
+dzurecl,HSC,225,03,MWF,01:00 pm-01:50 pm,GODDAR 216
+dzurecl,HSC,225,04,MWF,11:00 am-11:50 am,GODDAR 203
+bissonnettea,HSC,235,01,MWF,01:00 pm-01:50 pm,GODDAR 117
+porebskab,HSC,291,01, ,TBA,TBA
+smithe,HSC,291,02, ,TBA,TBA
+carrolls,HSC,302,01X,TR,09:30 am-10:45 am,GODDAR 223
+bataillea,HSC,308,01,MWF,09:00 am-09:50 am,GODDAR 200
+canavanp,HSC,318,01,MWF,10:00 am-10:50 am,GODDAR 223
+canavanp,HSC,318,01A,T,12:30 pm-03:20 pm,GODDAR 127
+canavanp,HSC,318,01B,T,08:00 am-10:50 am,GODDAR 127
+cotea,HSC,318,02,MWF,01:00 pm-01:50 pm,GODDAR 208
+tackettm,HSC,318,02A,M,08:00 am-10:50 am,GODDAR 127
+canavanp,HSC,318,02B,M,03:00 pm-05:50 pm,GODDAR 127
+cotea,HSC,318,03,MWF,02:00 pm-02:50 pm,GODDAR 208
+joinerk,HSC,318,03A,W,08:00 am-10:50 am,GODDAR 127
+joinerk,HSC,318,03B,T,04:00 pm-06:50 pm,GODDAR 127
+bataillea,HSC,319,01,MWF,11:00 am-11:50 am,GODDAR 223
+bataillea,HSC,319,01A,R,12:30 pm-03:20 pm,GODDAR 127
+bataillea,HSC,319,01B,R,08:00 am-10:50 am,GODDAR 127
+bataillea,HSC,319,02,MWF,01:00 pm-01:50 pm,GODDAR 223
+tackettm,HSC,319,02A,F,08:00 am-10:50 am,GODDAR 127
+thapag,HSC,319,02B,F,02:00 pm-04:50 pm,GODDAR 127
+daled,HSC,320,01,MWF,12:00 pm-12:50 pm,GODDAR 117
+daled,HSC,332,01,TR,11:00 am-12:15 pm,GODDAR 117
+daled,HSC,342,01,TR,08:00 am-09:15 am,GODDAR 200
+andersong,HSC,356,01,MWF,09:00 am-09:50 am,SPORT 219
+alexanderj,HSC,370,01,TR,09:30 am-10:45 am,GODDAR 123
+walterss,HSC,380,01, ,TBA,TBA
+bataillea,HSC,380,02, ,TBA,TBA
+carrolls,HSC,390,01, ,TBA,TBA
+canavanp,HSC,391,01, ,TBA,TBA
+carrolls,HSC,391,02, ,TBA,TBA
+banee,HSC,391,03, ,TBA,TBA
+smithe,HSC,391,04, ,TBA,TBA
+walterss,HSC,400,01,MWF,12:00 pm-01:10 pm,SCIENC 115
+nsiahy,HSC,404,01,MWF,11:00 am-11:50 am,GODDAR 208
+beeverj,HSC,408,01,TR,09:30 am-10:45 am,GODDAR 208
+dzurecd,HSC,425,01,MWF,08:00 am-08:50 am,GODDAR 200
+dzurecd,HSC,425,01,M,02:00 pm-04:50 pm,SCIENC 341
+bissonnettea,HSC,438,01,MWF,02:00 pm-02:50 pm,GODDAR 117
+blancaflors,HSC,438,02,TR,12:30 pm-01:45 pm,GODDAR 201
+beebej,HSC,444,01,TR,05:30 pm-09:45 pm,GODDAR 123
+daled,HSC,450,01,MWF,11:00 am-11:50 am,GODDAR 117
+canavanp,HSC,480,01, ,TBA,TBA
+canavanp,HSC,480,02, ,TBA,TBA
+carrolls,HSC,480,03, ,TBA,TBA
+carrolls,HSC,480,04, ,TBA,TBA
+carrolls,HSC,480,06, ,TBA,TBA
+walterss,HSC,480,07, ,TBA,TBA
+walterss,HSC,480,08, ,TBA,TBA
+carrolls,HSC,490,01, ,TBA,TBA
+dzurecd,HSC,491,01, ,TBA,TBA
+porebskab,HSC,491,02, ,TBA,TBA
+carrolls,HSC,491,03, ,TBA,TBA
+beebej,HSC,491,04, ,TBA,TBA
+kylek,HSC,491,05, ,TBA,TBA
+thapag,HSC,491,06, ,TBA,TBA
+carenenc,HIS,101,01,TR,09:30 am-10:45 am,SCIENC 231
+davisb,HIS,116,01,MWF,09:00 am-09:50 am,LIBRAR 436
+davisb,HIS,116,02,MWF,01:00 pm-01:50 pm,LIBRAR 436
+closes,HIS,120,01,TR,08:00 am-09:15 am,WEBB 315
+closes,HIS,120,02,TR,02:00 pm-03:15 pm,WEBB 315
+closes,HIS,121,01,TR,12:30 pm-01:45 pm,WEBB 315
+davisb,HIS,200,01,MWF,10:00 am-11:10 am,LIBRAR 266
+fryed,HIS,230,01,TR,11:00 am-12:15 pm,WEBB 214
+fryed,HIS,230,02,W,04:00 pm-06:45 pm,WEBB 216
+fryed,HIS,230,03,TR,04:00 pm-05:15 pm,WEBB 214
+moores,HIS,231,01,MWF,09:00 am-09:50 am,FAIC 305
+saenzcambrac,HIS,255,01,MWF,11:00 am-11:50 am,WEBB 317
+fryed,HIS,267,01,W,07:00 pm-09:45 pm,WEBB 317
+closes,HIS,322,01,TR,09:30 am-10:45 am,WEBB 315
+balcerskit,HIS,325,01,W,04:00 pm-06:45 pm,WEBB 215
+moores,HIS,337,01,MWF,01:00 pm-01:50 pm,WEBB 315
+ostwaldj,HIS,362,01,TR,04:00 pm-05:15 pm,GODDAR 216
+fryed,HIS,365,02,TR,02:00 pm-03:15 pm,WEBB 113
+davisb,HIS,373,01,MWF,02:00 pm-02:50 pm,WEBB 212
+carenenc,HIS,379,01,TR,11:00 am-12:15 pm,LIBRAR 436
+ostwaldj,HIS,386,01,TR,12:30 pm-01:45 pm,WEBB 206
+moores,HIS,406,01,MWF,11:00 am-12:10 pm,WEBB 213
+davisb,HIS,480,01, ,TBA,TBA
+moores,HIS,480,02, ,TBA,TBA
+moores,HIS,480,03, ,TBA,TBA
+balcerskit,HIS,480,04, ,TBA,TBA
+closes,HIS,480,05, ,TBA,TBA
+fryed,HIS,481,01, ,TBA,TBA
+moores,HIS,491,01, ,TBA,TBA
+moores,HIS,491,02, ,TBA,TBA
+moores,HIS,491,03, ,TBA,TBA
+fryed,HIS,491,04, ,TBA,TBA
+cobbj,HON,361,01,T,04:00 pm-06:45 pm,FAIC 115
+youngbloodj,HON,361,02,MW,04:00 pm-05:15 pm,WEBB 114
+fugerem,HON,362,01,MWF,01:00 pm-01:50 pm,WEBB 213
+cochrant,HON,375,01,W,03:00 pm-03:50 pm,FAIC 115
+gaok,HON,488,01, ,TBA,TBA
+krebsc,HON,488,02, ,TBA,TBA
+moores,HON,488,03, ,TBA,TBA
+guom,HON,488,04, ,TBA,TBA
+morgank,HON,488,05, ,TBA,TBA
+grotha,HON,488,06, ,TBA,TBA
+carrolls,HON,488,07, ,TBA,TBA
+brosciousc,HON,488,08, ,TBA,TBA
+dancikg,HON,488,09, ,TBA,TBA
+dancikg,HON,488,10, ,TBA,TBA
+torockioc,HON,488,11, ,TBA,TBA
+greener,HON,488,12, ,TBA,TBA
+speichera,HON,488,13, ,TBA,TBA
+heenehanm,HON,488,14, ,TBA,TBA
+metcalfm,HON,488,15, ,TBA,TBA
+tasneems,HON,488,16, ,TBA,TBA
+vasquez-o'brient,HON,488,17, ,TBA,TBA
+bataillea,HON,488,18, ,TBA,TBA
+pakdilf,HON,488,19, ,TBA,TBA
+drewryc,IIP,200,01, ,TBA,TBA
+drewryc,IIP,300,01, ,TBA,TBA
+drewryc,IIP,300,02, ,TBA,TBA
+drewryc,ISP,300,01, ,TBA,TBA
+drewryc,ISP,301,01, ,TBA,TBA
+erik-soussia,LAS,219,01X,M,04:00 pm-06:45 pm,WEBB 112
+calissij,LAC,100,01,TR,12:30 pm-01:45 pm,FAIC 118
+drzewieckip,LAC,100,02,MWF,11:00 am-11:50 am,SCIENC 216
+hollandj,LAC,100,03,MWF,10:00 am-10:50 am,FAIC 118
+calissij,LAC,101,01,M,10:00 am-10:50 am,FAIC 115
+drzewieckip,LAC,101,02,W,12:00 pm-12:50 pm,SCIENC 216
+hollandj,LAC,101,03,M,09:00 am-09:50 am,FAIC 118
+pellegrinid,LAC,101,04,M,04:00 pm-04:50 pm,FAIC 118
+chiricom,LAC,200,01,MWF,11:00 am-11:50 am,GODDAR 216
+dillerj,LAC,200,01,MWF,11:00 am-11:50 am,GODDAR 216
+doylem,LAC,200,01,MWF,11:00 am-11:50 am,GODDAR 216
+wardk,LAC,200,02,MWF,01:00 pm-01:50 pm,SCIENC 134
+heenehanm,LAC,200,02,MWF,01:00 pm-01:50 pm,SCIENC 134
+o'nealf,LAC,200,03,MWF,01:00 pm-01:50 pm,FAIC 110
+stoloffd,LAC,400,01,W,07:00 pm-09:45 pm,WEBB 210
+whitej,LAP,430,01,W,07:00 pm-09:45 pm,WEBB 113
+dowdelld,MGT,502,E25, ,TBA,TBA
+dowdelld,MGT,502,E26, ,TBA,ONLINE
+ferrarol,MGT,505,E25, ,TBA,TBA
+ohn,MGT,506,E25, ,TBA,TBA
+grandhis,MGT,508,E25, ,TBA,TBA
+whiteheadb,MAT,099,01,MWF,09:00 am-09:50 am,SCIENC 234
+wus,MAT,099,02,TR,04:00 pm-05:15 pm,SCIENC 234
+fisterk,MAT,099,03,MWF,02:00 pm-02:50 pm,WEBB 314
+whiteheadb,MAT,135,01,MWF,08:00 am-08:50 am,SCIENC 132
+oseibonsuk,MAT,135,02,MWF,02:00 pm-02:50 pm,SCIENC 114
+wus,MAT,135,03,TR,09:30 am-10:45 am,SCIENC 132
+pozdnyakovaz,MAT,135P,01,MWF,08:00 am-08:50 am,GODDAR 203
+pozdnyakovaz,MAT,135P,01,M,09:00 am-09:50 am,GODDAR 203
+coffeyk,MAT,135P,02,MWF,09:00 am-09:50 am,WEBB 112
+coffeyk,MAT,135P,02,F,10:00 am-10:50 am,WEBB 112
+allene,MAT,135P,03,TR,08:00 am-09:50 am,SCIENC 117
+coffeyk,MAT,135P,04,MWF,02:00 pm-02:50 pm,SCIENC 137
+coffeyk,MAT,135P,04,F,01:00 pm-01:50 pm,SCIENC 137
+fisterk,MAT,135P,05,MW,04:00 pm-05:50 pm,SCIENC 132
+gageoneam,MAT,135P,06,TR,02:00 pm-03:50 pm,SCIENC 114
+gageoneam,MAT,135P,07,TR,04:00 pm-05:50 pm,SCIENC 117
+brunellek,MAT,139P,01,MWF,09:00 am-09:50 am,WEBB 114
+brunellek,MAT,139P,01,W,08:00 am-08:50 am,WEBB 114
+johnsonp,MAT,139P,02,TR,04:00 pm-05:50 pm,SCIENC 132
+jaross,MAT,140,01,M,04:00 pm-05:15 pm,SCIENC 238
+jaross,MAT,140,01,W,04:00 pm-05:15 pm,SCIENC 137
+oseibonsuk,MAT,155,01,MWF,09:00 am-09:50 am,SCIENC 116
+oseibonsuk,MAT,155,01,M,10:00 am-10:50 am,SCIENC 116
+laddj,MAT,155P,01,MWF,01:00 pm-01:50 pm,SCIENC 132
+laddj,MAT,155P,01,MW,02:00 pm-02:50 pm,SCIENC 132
+aidooa,MAT,155P,02,TR,09:30 am-10:45 am,SCIENC 114
+aidooa,MAT,155P,02,W,10:00 am-11:50 am,SCIENC 116
+larosec,MAT,216,01,MWF,02:00 pm-02:50 pm,SCIENC 234
+larosec,MAT,216,02,MWF,01:00 pm-01:50 pm,SCIENC 234
+pozdnyakovaz,MAT,216,03,MWF,11:00 am-11:50 am,SCIENC 234
+dalek,MAT,216,04,TR,08:00 am-09:15 am,SCIENC 234
+bussierej,MAT,216,05,TR,04:00 pm-05:15 pm,SCIENC 238
+larosec,MAT,217,01,MWF,10:00 am-10:50 am,SCIENC 234
+heenehanm,MAT,230,01,MWF,10:00 am-10:50 am,SCIENC 132
+aidooa,MAT,230,02,TR,12:30 pm-01:45 pm,SCIENC 116
+yankovc,MAT,243,01,MWF,09:00 am-09:50 am,SCIENC 114
+yankovc,MAT,243,01,W,08:00 am-08:50 am,SCIENC 114
+sarikhanikhoramim,MAT,243,02,M,01:00 pm-01:50 pm,SCIENC 137
+sarikhanikhoramim,MAT,243,02,TR,11:00 am-12:15 pm,SCIENC 114
+yankovc,MAT,243,03,MWF,11:00 am-11:50 am,SCIENC 114
+yankovc,MAT,243,03,W,12:00 pm-12:50 pm,SCIENC 114
+oseibonsuk,MAT,244,01,MWF,11:00 am-11:50 am,SCIENC 132
+oseibonsuk,MAT,244,01,W,12:00 pm-12:50 pm,SCIENC 116
+johnsonp,MAT,315,01,MWF,01:00 pm-01:50 pm,SCIENC 238
+johnsonp,MAT,315,01,M,02:00 pm-02:50 pm,SCIENC 238
+heenehanm,MAT,320,01,MWF,12:00 pm-12:50 pm,SCIENC 132
+aidooa,MAT,340,01,TR,02:00 pm-03:15 pm,SCIENC 132
+aidooa,MAT,340,01,W,02:00 pm-02:50 pm,SCIENC 238
+wardk,MAT,341,01,MWF,09:00 am-09:50 am,SCIENC 132
+larosec,MAT,343,01,MWF,11:00 am-11:50 am,SCIENC 238
+sarikhanikhoramim,MAT,355,01,TR,12:30 pm-01:45 pm,SCIENC 114
+johnsonp,MAT,362,01,TR,07:00 pm-08:15 pm,SCIENC 114
+yankovc,MAT,421,01,MWF,10:00 am-10:50 am,SCIENC 114
+sarikhanikhoramim,MAT,480,01, ,TBA,TBA
+oseibonsuk,MAT,480,02, ,TBA,TBA
+johnsonp,MAT,480,03, ,TBA,TBA
+sarikhanikhoramim,MAT,490,01, ,TBA,TBA
+sholesz,MSC,132,03,W,01:00 pm-01:50 pm,LIBRAR 266
+sholesz,MSC,146,02,W,02:00 pm-04:00 pm,LIBRAR 266
+thompsona,MSC,253,01,W,01:25 pm-03:25 pm,TBA
+thompsona,MSC,253,01,F,01:00 pm-05:00 pm,TBA
+balought,MUS,100,01,MWF,08:00 am-08:50 am,FAIC 110
+balought,MUS,100,02,MWF,09:00 am-09:50 am,FAIC 110
+bellesd,MUS,103,01,MW,05:30 pm-06:45 pm,FAIC 110
+watkinsk,MUS,107,01,W,07:00 pm-09:30 pm,FAIC 108
+d'aleoj,MUS,107,01,W,07:00 pm-09:30 pm,FAIC 108
+bellesd,MUS,113,01,WF,03:00 pm-03:50 pm,FAIC 110
+calissij,MUS,113,02,F,03:30 pm-04:50 pm,FAIC 108
+cornicelloa,MUS,113,03,M,04:00 pm-05:30 pm,FAIC 108
+riggse,MUS,113,04,R,05:30 pm-06:45 pm,FAIC 108
+ballenad,MUS,113,05,T,07:00 pm-08:20 pm,FAIC 110
+o'nealf,MUS,113,06,M,03:00 pm-03:50 pm,FAIC 108
+delaneye,MUS,113,08,R,12:30 pm-01:45 pm,FAIC 110
+calissir,MUS,114,01,TR,09:30 am-10:45 am,FAIC 212
+calissir,MUS,114,02,TR,11:00 am-12:15 pm,FAIC 212
+ballenad,MUS,114,03,MWF,10:00 am-10:50 am,FAIC 212
+ballenad,MUS,114,04,MWF,11:00 am-11:50 am,FAIC 212
+delaneye,MUS,118,01,TR,02:00 pm-03:15 pm,FAIC 108
+calissij,MUS,120,01,TR,02:00 pm-03:15 pm,FAIC 110
+o'nealf,MUS,160,01,MWF,02:00 pm-02:50 pm,FAIC 307
+cornicelloa,MUS,205,01,MWF,11:00 am-11:50 am,FAIC 108
+hwango,MUS,214,01,MWF,09:00 am-09:50 am,FAIC 212
+calissij,MUS,215,01,W,10:00 am-10:50 am,FAIC 108
+calissij,MUS,215,02,F,10:00 am-10:50 am,FAIC 108
+calissij,MUS,234,01,MWF,11:00 am-11:50 am,FAIC 305
+cochrant,MUS,236,01,TR,09:30 am-10:45 am,FAIC 108
+echolsc,MUS,250,01,TR,11:00 am-12:15 pm,FAIC 243
+echolsc,MUS,250,02,TR,12:30 pm-01:45 pm,FAIC 243
+hwango,MUS,330,01,MWF,11:00 am-11:50 am,FAIC 307
+tonera,MUS,356,09, ,TBA,TBA
+delaneye,MUS,356,12, ,TBA,TBA
+cornicelloa,MUS,356,16, ,TBA,TBA
+calissij,MUS,356,20, ,TBA,TBA
+calissir,MUS,356,21, ,TBA,TBA
+hwango,MUS,356,22, ,TBA,TBA
+thomasj,MUS,356,24, ,TBA,TBA
+washburns,MUS,356,31, ,TBA,TBA
+washburns,MUS,356,32, ,TBA,TBA
+riggse,MUS,356,33, ,TBA,TBA
+ballenad,MUS,356,39, ,TBA,TBA
+ballenad,MUS,356,40, ,TBA,TBA
+bronsonm,MUS,356,41, ,TBA,TBA
+cornicelloa,MUS,372,01,MWF,01:00 pm-01:50 pm,FAIC 243
+riggse,MUS,395,01, ,TBA,TBA
+hwango,MUS,395,02, ,TBA,TBA
+delaneye,MUS,395,03, ,TBA,TBA
+delaneye,MUS,456,12, ,TBA,TBA
+hwango,MUS,456,22, ,TBA,TBA
+riggse,MUS,456,34, ,TBA,TBA
+cochrant,MUS,480,01, ,TBA,TBA
+bellesd,MUS,480,02, ,TBA,TBA
+calissij,MUS,480,03, ,TBA,TBA
+riggse,MUS,480,04, ,TBA,TBA
+cochrant,MUS,480,05, ,TBA,TBA
+calissij,MUS,480,06, ,TBA,TBA
+bellesd,MUS,480,07, ,TBA,TBA
+bellesd,MUS,480,08, ,TBA,TBA
+drewryc,NSE,300,01, ,TBA,TBA
+dotsont,NUR,205,01,TR,04:00 pm-05:15 pm,GODDAR 117
+dotsont,NUR,205,02,TR,02:00 pm-03:15 pm,GODDAR 117
+cotea,NUR,372,01,MW,09:00 am-10:30 am,GODDAR 117
+cotea,NUR,403,01,WF,11:00 am-12:30 pm,SCIENC 137
+nadeauc,NUR,424,01,MW,04:00 pm-05:15 pm,GODDAR 117
+blainj,NUR,424,01A, ,TBA,TBA
+geers,NUR,424,01B, ,TBA,TBA
+mooneym,NUR,424,01C, ,TBA,TBA
+goyettel,NUR,424,01D, ,TBA,TBA
+schallerj,OSC,260,01,TR,11:00 am-12:15 pm,WEBB 212
+wraym,OSC,260,02,T,04:00 pm-06:45 pm,COMBLD 201
+pakdilf,OSC,260,03,MWF,08:00 am-08:50 am,COMBLD 201
+schallerj,OSC,360,01,TR,02:00 pm-03:15 pm,WEBB 307
+bachiochip,ORG,696,01, ,TBA,TBA
+dexterr,ORG,696,02, ,TBA,TBA
+vob,ORG,696,03, ,TBA,TBA
+ohn,ORG,696,04, ,TBA,TBA
+rukgaberm,PHI,120,01,MWF,02:00 pm-02:50 pm,LIBRAR 436
+verrastron,PHI,120,02,MWF,11:00 am-11:50 am,LIBRAR 436
+swiftp,PHI,210,01,TR,09:30 am-10:45 am,FAIC 115
+stockerk,PHI,215,01,MWF,09:00 am-09:50 am,WEBB 214
+slutskyd,PHI,220,01,MW,04:00 pm-05:15 pm,GODDAR 223
+rukgaberm,PHI,330,01,TR,11:00 am-12:15 pm,GODDAR 202
+swiftp,PHI,340,01,TR,02:00 pm-03:15 pm,LIBRAR 436
+verrastron,PHI,365,01X,TR,04:00 pm-05:15 pm,GODDAR 201
+stockerk,PHI,480,01, ,TBA,TBA
+stockerk,PHI,480,02, ,TBA,TBA
+krassasn,PHI,480,03, ,TBA,TBA
+mendoza-botelhom,PHI,498,01, ,TBA,TBA
+pazametaz,PHS,105,01,TR,02:00 pm-03:15 pm,SCIENC 431
+pazametaz,PHY,205,01,TR,12:30 pm-01:45 pm,SCIENC 431
+pazametaz,PHY,205,01A,M,02:00 pm-03:50 pm,SCIENC 403
+kerrm,PHY,205,01B,R,02:00 pm-03:50 pm,SCIENC 403
+eastonw,PSC,100,01,MWF,09:00 am-09:50 am,WEBB 110
+brosciousc,PSC,201,01,TR,09:30 am-10:45 am,WEBB 113
+brosciousc,PSC,201,02,TR,12:30 pm-01:45 pm,WEBB 113
+mendoza-botelhom,PSC,208,01,TR,09:30 am-10:45 am,WEBB 212
+mendoza-botelhom,PSC,208,02,TR,02:00 pm-03:15 pm,SCIENC 116
+garciam,PSC,211,01,MWF,11:00 am-11:50 am,SCIENC 117
+swetzoffs,PSC,217,01,TR,12:30 pm-01:45 pm,LIBRAR 436
+eastonw,PSC,300,01,TR,12:30 pm-01:45 pm,WEBB 112
+swetzoffs,PSC,310,01,TR,02:00 pm-03:15 pm,SCIENC 117
+krassasn,PSC,325,01,MWF,11:00 am-11:50 am,WEBB 210
+garciam,PSC,350,01,TR,11:00 am-12:15 pm,WEBB 113
+verrastron,PSC,365,01X,TR,04:00 pm-05:15 pm,GODDAR 201
+krassasn,PSC,400,01,MWF,01:00 pm-01:50 pm,WEBB 115
+mendoza-botelhom,PSC,460,01,T,04:00 pm-06:45 pm,WEBB 115
+krassasn,PSC,480,01, ,TBA,TBA
+mendoza-botelhom,PSC,480,02, ,TBA,TBA
+krassasn,PSC,495,01V, ,TBA,TBA
+mendoza-botelhom,PSC,498,01, ,TBA,TBA
+salters-pedneaultk,PSY,100,01,MWF,10:00 am-10:50 am,WEBB 110
+salters-pedneaultk,PSY,100,02,MWF,11:00 am-11:50 am,WEBB 110
+hallm,PSY,100,03,TR,04:00 pm-05:15 pm,WEBB 317
+dillerj,PSY,101,01,M,09:00 am-09:50 am,WEBB 216
+krebsc,PSY,101,02,R,12:30 pm-01:20 pm,SCIENC 117
+fugerem,PSY,202,01,MWF,09:00 am-09:50 am,WEBB 317
+fugerem,PSY,202,02,MWF,10:00 am-10:50 am,WEBB 317
+christopherm,PSY,203,01,W,04:00 pm-06:45 pm,SCIENC 116
+krebsc,PSY,205,01,MWF,09:00 am-09:50 am,WEBB 212
+krebsc,PSY,205,02,MWF,10:00 am-10:50 am,WEBB 212
+tarriconed,PSY,206,01,MW,05:30 pm-06:45 pm,WEBB 214
+vasquez-o'brient,PSY,206,02,TR,09:30 am-10:45 am,WEBB 216
+fultons,PSY,206,03,TR,05:30 pm-06:45 pm,WEBB 317
+leszczynskij,PSY,210,01,MWF,11:00 am-11:50 am,WEBB 216
+keyesm,PSY,212,01,MWF,02:00 pm-02:50 pm,COMBLD 108
+keyesm,PSY,212,02,MWF,11:00 am-11:50 am,COMBLD 108
+cousinsa,PSY,227,01,MWF,08:00 am-09:10 am,WEBB 314
+koleks,PSY,227,02,TR,08:00 am-09:50 am,WEBB 314
+koleks,PSY,227,03,TR,11:00 am-12:50 pm,WEBB 314
+krebsc,PSY,246,01,MWF,11:00 am-11:50 am,WEBB 314
+keyesm,PSY,247,01,MWF,12:00 pm-01:10 pm,WEBB 314
+girasolia,PSY,247,02,MW,07:00 pm-08:50 pm,WEBB 314
+koleks,PSY,247,03,TR,02:00 pm-03:50 pm,WEBB 314
+leep,PSY,302,01,TR,11:00 am-12:15 pm,WEBB 317
+leep,PSY,302,02,TR,12:30 pm-01:45 pm,WEBB 317
+bachiochip,PSY,303,01,TR,11:00 am-12:15 pm,WEBB 315
+bachiochip,PSY,305,01,TR,02:00 pm-03:15 pm,WEBB 216
+lanagan-leitzell,PSY,306,01,MWF,11:00 am-11:50 am,WEBB 315
+leszczynskij,PSY,314,01,MWF,08:00 am-08:50 am,WEBB 315
+leszczynskij,PSY,314,02,MWF,09:00 am-09:50 am,WEBB 315
+cousinsa,PSY,315,01X,MWF,12:00 pm-12:50 pm,WEBB 317
+lanagan-leitzell,PSY,318,01,MWF,12:00 pm-12:50 pm,WEBB 315
+cousinsa,PSY,319,01,MWF,01:00 pm-01:50 pm,WEBB 317
+bachiochip,PSY,327,01,MW,04:00 pm-05:15 pm,WEBB 206
+bachiochip,PSY,327,01, ,TBA,TBA
+vasquez-o'brient,PSY,327,02,TR,04:00 pm-05:15 pm,WEBB 314
+vasquez-o'brient,PSY,327,02, ,TBA,TBA
+sciscoj,PSY,327,03,TR,09:30 am-10:45 am,SCIENC 234
+sciscoj,PSY,327,03, ,TBA,TBA
+cousinsa,PSY,390,01,W,10:00 am-10:50 am,WEBB 407
+krebsc,PSY,390,02,M,02:00 pm-02:50 pm,SCIENC 115
+krebsc,PSY,407,01,MWF,01:00 pm-01:50 pm,WEBB 216
+cordonl,PSY,409,01,TR,08:00 am-09:15 am,WEBB 313
+cordonl,PSY,409,02,TR,09:30 am-10:45 am,WEBB 313
+leep,PSY,410,01,TR,04:00 pm-05:15 pm,WEBB 315
+dillerj,PSY,417,01,MWF,08:00 am-08:50 am,WEBB 216
+sciscoj,PSY,418,01,TR,02:00 pm-03:15 pm,WEBB 214
+cordonl,PSY,419,01,TR,12:30 pm-01:45 pm,WEBB 313
+cordonl,PSY,419,02,TR,02:00 pm-03:15 pm,WEBB 313
+vasquez-o'brient,PSY,434,01,TR,12:30 pm-01:45 pm,WEBB 216
+leszczynskij,PSY,435,01,MWF,12:00 pm-12:50 pm,WEBB 216
+salters-pedneaultk,PSY,450,01,MWF,02:00 pm-02:50 pm,WEBB 213
+sciscoj,PSY,460,01,TR,11:00 am-12:15 pm,WEBB 112
+leszczynskij,PSY,471,01,M,10:00 am-10:50 am,WEBB 216
+vasquez-o'brient,PSY,471,01,M,10:00 am-10:50 am,WEBB 216
+dillerj,PSY,480,01, ,TBA,TBA
+bachiochip,PSY,480,02, ,TBA,TBA
+bachiochip,PSY,480,03, ,TBA,TBA
+lanagan-leitzell,PSY,480,04, ,TBA,TBA
+koleks,PSY,480,05, ,TBA,TBA
+bachiochip,PSY,480,06, ,TBA,TBA
+cordonl,PSY,480,07, ,TBA,TBA
+keyesm,PSY,490,01, ,TBA,TBA
+sciscoj,PSY,490,02, ,TBA,TBA
+leszczynskij,PSY,490,03, ,TBA,TBA
+leep,PSY,490,04, ,TBA,TBA
+bachiochip,PSY,490,06, ,TBA,TBA
+salters-pedneaultk,PSY,490,07, ,TBA,TBA
+krebsc,PSY,490,08, ,TBA,TBA
+koleks,PSY,490,09, ,TBA,TBA
+fugerem,PSY,490,10, ,TBA,TBA
+cousinsa,PSY,490,11, ,TBA,TBA
+leszczynskij,PSY,491,01, ,TBA,TBA
+sciscoj,PSY,491,02, ,TBA,TBA
+leszczynskij,PSY,491,03, ,TBA,TBA
+dillerj,PSY,491,04, ,TBA,TBA
+salters-pedneaultk,PSY,491,05, ,TBA,TBA
+lanagan-leitzell,PSY,491,06, ,TBA,TBA
+koleks,PSY,491,07, ,TBA,TBA
+koleks,PSY,491,08, ,TBA,TBA
+sciscoj,PSY,491,09, ,TBA,TBA
+koleks,PSY,491,10, ,TBA,TBA
+leep,PSY,491,11, ,TBA,TBA
+cousinsa,PSY,491,12, ,TBA,TBA
+fugerem,PSY,491,13, ,TBA,TBA
+krebsc,PSY,491,14, ,TBA,TBA
+vasquez-o'brient,PSY,491,15, ,TBA,TBA
+leep,PSY,496,01V,M,04:00 pm-04:50 pm,WEBB 115
+salters-pedneaultk,PSY,496,02V,F,09:00 am-09:50 am,WEBB 115
+bachiochip,PSY,497,01, ,TBA,TBA
+walterss,PBH,206,01,MWF,11:00 am-11:50 am,GODDAR 201
+carrolls,PBH,209,01X,M,04:00 pm-06:45 pm,GODDAR 216
+clementss,PBH,209,02X,TR,04:00 pm-05:15 pm,GODDAR 208
+serranom,PBH,228,01,TR,12:30 pm-01:45 pm,GODDAR 223
+serranom,PBH,228,02,TR,04:00 pm-05:15 pm,GODDAR 202
+cowlese,PBH,301,01X,T,04:00 pm-06:45 pm,SCIENC 116
+murdochb,PBH,302,01X,T,09:30 am-11:20 am,SCIENC 341
+murdochb,PBH,302,02X,T,12:30 pm-02:20 pm,SCIENC 341
+walterss,PBH,330,01,MWF,10:00 am-10:50 am,GODDAR 208
+carrolls,PBH,350,01,TR,11:00 am-12:15 pm,GODDAR 223
+blancaflors,PBH,440,01,TR,02:00 pm-03:15 pm,GODDAR 208
+carrolls,PBH,494,01, ,TBA,TBA
+carrolls,PBH,494,02, ,TBA,TBA
+carrolls,PBH,494,03, ,TBA,TBA
+walterss,PBH,494,04, ,TBA,TBA
+trubeyp,SWK,200,01,R,12:30 pm-03:15 pm,SCIENC 137
+nightingales,SWK,300,01,R,12:30 pm-03:15 pm,WEBB 213
+stantonm,SWK,300,02,T,12:30 pm-03:15 pm,WEBB 215
+stantonm,SWK,312,01,R,12:30 pm-03:15 pm,WEBB 215
+rodriguezd,SWK,312,02,T,12:30 pm-03:15 pm,SCIENC 137
+rodriguezd,SWK,320,01,T,08:00 am-10:45 am,WEBB 114
+matthews-armsteade,SWK,320,02,T,08:00 am-10:45 am,WEBB 215
+stantonm,SWK,333,01,R,08:00 am-10:45 am,WEBB 215
+stantonm,SWK,333,01,R,11:00 am-11:50 am,WEBB 206
+nightingales,SWK,333,02,R,08:00 am-10:45 am,WEBB 213
+nightingales,SWK,333,02,R,11:00 am-11:50 am,SCIENC 234
+rijsj,SWK,360,01,T,04:00 pm-06:45 pm,LIBRAR 436
+nightingales,SWK,420,01,T,08:00 am-10:45 am,WEBB 213
+keaned,SWK,420,02,T,04:00 pm-06:45 pm,WEBB 112
+matthews-armsteade,SWK,450,01,T,12:30 pm-03:15 pm,WEBB 213
+lewisj,SWK,450,02,T,12:30 pm-03:15 pm,GODDAR 202
+pimentalc,SWK,450,03,T,12:30 pm-03:15 pm,GODDAR 204
+nightingales,SWK,480,01, ,TBA,TBA
+stantonm,SWK,480,02, ,TBA,TBA
+stantonm,SWK,480,03, ,TBA,TBA
+stantonm,SWK,480,04, ,TBA,TBA
+simonn,SOC,100,01,TR,02:00 pm-03:15 pm,WEBB 317
+babars,SOC,100,02,MWF,11:00 am-11:50 am,WEBB 212
+babars,SOC,100,03,MWF,12:00 pm-12:50 pm,WEBB 212
+mccartyg,SOC,100,04,MWF,09:00 am-09:50 am,GODDAR 216
+mccartyg,SOC,100,05,MWF,10:00 am-10:50 am,GODDAR 216
+breslind,SOC,100,06,TR,04:00 pm-05:15 pm,WEBB 313
+simonn,SOC,201,01,W,09:00 am-09:50 am,WEBB 216
+azzaroe,SOC,220,01,T,07:00 pm-09:45 pm,WEBB 214
+burnsn,SOC,240,01X,TR,11:00 am-12:15 pm,WEBB 313
+breslind,SOC,250,01,TR,02:00 pm-03:15 pm,COMBLD 109
+simonn,SOC,300,01,TR,09:30 am-10:45 am,WEBB 210
+severancet,SOC,307,01,MWF,09:00 am-09:50 am,WEBB 313
+westberryb,SOC,310,01X,M,07:00 pm-09:45 pm,SCIENC 116
+parsonsn,SOC,311,01,TR,09:30 am-10:45 am,WEBB 214
+westberryb,SOC,318,01,M,04:00 pm-06:45 pm,SCIENC 116
+azzaroe,SOC,325,01,M,07:00 pm-09:45 pm,WEBB 313
+browns,SOC,346,01,R,04:00 pm-06:45 pm,SCIENC 116
+kurtim,SOC,350,01,TR,02:00 pm-03:50 pm,GODDAR 223
+kurtim,SOC,350,02,TR,11:00 am-12:50 pm,WEBB 114
+parsonsn,SOC,351,01,TR,11:00 am-12:50 pm,WEBB 307
+parsonsn,SOC,351,02,TR,02:00 pm-03:50 pm,SCIENC 115
+simonn,SOC,400,01,TR,11:00 am-12:50 pm,WEBB 210
+simonn,SOC,480,01, ,TBA,TBA
+pestar,SOC,480,02, ,TBA,TBA
+lugow,SOC,480,03, ,TBA,TBA
+simonn,SOC,480,04, ,TBA,TBA
+lugow,SOC,480,05, ,TBA,TBA
+simonn,SOC,490,01, ,TBA,TBA
+simonn,SOC,490,02, ,TBA,TBA
+simonn,SOC,491,01, ,TBA,TBA
+simonn,SOC,491,02, ,TBA,TBA
+simonn,SOC,492,01, ,TBA,TBA
+parsonsn,SOC,492,02, ,TBA,TBA
+simonn,SOC,492,03, ,TBA,TBA
+simonn,SOC,493,01, ,TBA,TBA
+simonn,SOC,493,02, ,TBA,TBA
+vijayasekarj,SPA,111,01,MWF,11:00 am-11:50 am,WEBB 112
+pareram,SPA,111,02,MWF,09:00 am-09:50 am,SCIENC 134
+jendrewskir,SPA,111,03,MW,05:30 pm-06:45 pm,SCIENC 134
+armstrongn,SPA,211,01,MWF,10:00 am-10:50 am,WEBB 114
+erik-soussia,SPA,219,01X,M,04:00 pm-06:45 pm,WEBB 112
+pareram,SPA,311,01,MWF,12:00 pm-12:50 pm,GODDAR 201
+penaaliceag,SPA,404,01,TR,11:00 am-12:15 pm,SPORT 219
+armstrongn,SPA,490,01, ,TBA,TBA
+chank,SPA,492,01, ,TBA,TBA
+chank,SPA,492,02, ,TBA,TBA
+chank,SPA,492,03, ,TBA,TBA
+vijayasekarj,SPA,492,04, ,TBA,TBA
+cobbj,THE,174,01,TR,09:30 am-10:45 am,FAIC 219
+sokolovskayaa,THE,226,01, ,TBA,TBA
+wadeckij,THE,227,01, ,TBA,TBA
+morgank,THE,227,02, ,TBA,TBA
+wellesr,THE,227,03, ,TBA,TBA
+wellesr,THE,227,06, ,TBA,TBA
+sokolovskayaa,THE,227,07, ,TBA,TBA
+pellegrinid,THE,228,01, ,TBA,TBA
+pellegrinid,THE,265,01,TR,11:00 am-12:50 pm,FAIC 115
+cobbj,THE,272,01,TR,02:00 pm-03:15 pm,FAIC 215
+golebiewskit,THE,276,01,TR,04:00 pm-05:15 pm,FAIC 118
+golebiewskit,THE,277,01,M,04:00 pm-06:45 pm,WEBB 314
+sokolovskayaa,THE,278,01,TR,04:00 pm-05:15 pm,FAIC 251
+sokolovskayaa,THE,279,01,TR,12:30 pm-01:45 pm,COMBLD 109
+o'brienm,THE,280,01,TR,09:30 am-10:45 am,FAIC 117
+o'brienm,THE,280,01,TR,09:30 am-10:45 am,FAIC 243
+houldcroftt,THE,281,01,W,04:00 pm-06:45 pm,FAIC 243
+floodr,THE,308,01X,M,04:00 pm-06:45 pm,FAIC 115
+cobbj,THE,365,01,TR,12:30 pm-01:45 pm,FAIC 219
+bright-hollanda,THE,474,01,TR,04:00 pm-05:15 pm,FAIC 219
+sokolovskayaa,THE,475,01, ,TBA,TBA
+bright-hollanda,THE,475,01, ,TBA,TBA
+cobbj,THE,475,01, ,TBA,TBA
+cobbj,THE,480,01, ,TBA,TBA
+morgank,THE,480,02, ,TBA,TBA
+cobbj,THE,480,03, ,TBA,TBA
+morgank,THE,480,04, ,TBA,TBA
+golebiewskit,THE,480,05, ,TBA,TBA
+floodr,THE,480,06, ,TBA,TBA
+pellegrinid,THE,480,07, ,TBA,TBA
+pellegrinid,THE,480,08, ,TBA,TBA
+sokolovskayaa,THE,480,09, ,TBA,TBA
+golebiewskit,THE,481,01, ,TBA,TBA
+morgank,THE,495,01, ,TBA,TBA
+burnsn,WST,240,01X,TR,11:00 am-12:15 pm,WEBB 313
+abbatemarcoa,WST,260,01X,TR,12:30 pm-01:45 pm,GODDAR 208
+abbatemarcoa,WST,260,02X,TR,11:00 am-12:15 pm,GODDAR 208
+rochonr,WST,260,03X,MWF,09:00 am-09:50 am,WEBB 113
+westberryb,WST,310,01X,M,07:00 pm-09:45 pm,SCIENC 116
+cousinsa,WST,315,01X,MWF,12:00 pm-12:50 pm,WEBB 317
+nightingales,WST,490,01, ,TBA,TBA

@@ -1,1133 +1,1233 @@
-Instructor,Sub,Crse,Day,Time
-misikoc,ACC,201,T,"0400, 0645"
-guom,ACC,201,TR,"0930, 1045"
-guom,ACC,201,TR,"1100, 1215"
-misikoc,ACC,202,M,"0400, 0645"
-guom,ACC,301,TR,"0200, 0315"
-foyl,ACC,302,TR,"1100, 1215"
-guom,ACC,303,W,"0400, 0645"
-rujoubm,ACC,311,TR,"0930, 1045"
-capalboh,ACC,410,R,"0400, 0645"
-vailm,ACC,411,T,"0400, 0645"
-greenb,ACC,412,M,"0400, 0645"
-foyl,ACC,416,TR,"1230, 0145"
-rujoubm,ACC,420,TR,"1100, 1215"
-vailm,ACC,520, ,TBA
-capalboh,ACC,531, ,TBA
-shepard-torresr,ANT,106,TR,"0930, 1045"
-leissa,ANT,125,TR,"0200, 0315"
-couture-palmerinop,ANT,201, ,TBA
-leissa,ANT,221, ,TBA
-couture-palmerinop,ANT,222, ,TBA
-carrolls,ANT,302,TR,"0930, 1045"
-williamsone,ANT,337,MWF,"0800, 0850"
-williamsone,ANT,345,MWF,"0900, 0950"
-shepard-torresr,ANT,364,TR,"1100, 1215"
-leissa,ANT,365,TR,"1100, 1215"
-leissa,ANT,400,W,"0400, 0645"
-leissa,ANT,490, ,TBA
-guarinob,ART,110,MW,"0900, 1145"
-mckeem,ART,110,TR,"0930, 1215"
-eliaa,ART,111,MW,"0900, 1145"
-greener,ART,111,TR,"1200, 0245"
-opied,ART,122,TR,"0400, 0645"
-chent,ART,124,TR,"0930, 1215"
-pinckneys,ART,140,TR,"0930, 1045"
-francob,ART,140,TR,"1230, 0145"
-beebyc,ART,140,TR,"0400, 0515"
-liuq,ART,202,TR,"0400, 0645"
-moranr,ART,202,MW,"0900, 1145"
-guildc,ART,202,TR,"0930, 1215"
-liuq,ART,205,TR,"1230, 0315"
-cariddik,ART,212,MW,"0400, 0550"
-francob,ART,212,TR,"0200, 0350"
-kims,ART,213,TR,"0400, 0645"
-bisantzj,ART,214,W,"0900, 1145"
-rahmanifara,ART,215,MW,"0900, 1145"
-desousad,ART,217,TR,"0400, 0645"
-liuq,ART,219,M,"1200, 0245"
-bartonek,ART,219,T,"0930, 1215"
-toczylowskib,ART,230,WF,"1200, 0245"
-petrikovskyh,ART,233,MW,"0100, 0250"
-greener,ART,235,F,"1200, 0245"
-eliaa,ART,235,M,"1200, 0245"
-wintnerj,ART,250,TR,"0530, 0645"
-rahmanifara,ART,308,MW,"0900, 1145"
-pinckneys,ART,313,TR,"1100, 1215"
-greener,ART,315,TR,"0400, 0645"
-chent,ART,327,M,"1200, 0245"
-chent,ART,329,TR,"1230, 0315"
-hollandj,ART,332,WF,"1200, 0245"
-drewt,ART,342,TR,"0930, 1215"
-lil,ART,343,MW,"0900, 1145"
-rahmanifara,ART,352,MW,"1200, 0245"
-doylem,ART,401,WF,"0100, 0250"
-kims,ART,436,TR,"1230, 0315"
-rahmanifara,ART,470,MW,"1200, 0245"
-chent,ART,480, ,TBA
-lil,ART,480, ,TBA
-greener,ART,480, ,TBA
-doylem,ART,480, ,TBA
-kims,ART,480, ,TBA
-liuq,ART,480, ,TBA
-petrikovskyh,ART,480, ,TBA
-rahmanifara,ART,480, ,TBA
-drewt,ART,480, ,TBA
-lil,ART,485,MW,"0400, 0645"
-greener,ART,485,MW,"0400, 0645"
-rahmanifara,ART,485,MW,"0400, 0645"
-doylem,ART,486, ,TBA
-chent,ART,487, ,TBA
-rahmanifara,ART,490, ,TBA
-chent,ART,490, ,TBA
-doylem,ART,490, ,TBA
-kerrm,AST,214,TR,"0930, 1045"
-kerrm,AST,214,T,"1100, 1200"
-kerrm,AST,214,R,"1100, 1200"
-hulveyj,BIO,120,MWF,"1100, 1150"
-hulveyj,BIO,120,M,"0200, 0450"
-lauxd,BIO,140,MWF,"0900, 0950"
-lauxd,BIO,140,W,"0200, 0450"
-murdochb,BIO,140,R,"0930, 1220"
-wasielewskit,BIO,200,TR,"0930, 1045"
-wasielewskit,BIO,200,TR,"1100, 1215"
-lucink,BIO,204,TR,"1100, 1215"
-lucink,BIO,204,TR,"1230, 0145"
-pasinij,BIO,204,TR,"0800, 0915"
-pasinij,BIO,204,TR,"0930, 1045"
-jacobsm,BIO,204,M,"0400, 0645"
-jacobsm,BIO,204,TR,"0530, 0645"
-grotha,BIO,210,MWF,"1000, 1050"
-connollyb,BIO,222,MWF,"1100, 1150"
-connollyb,BIO,222,R,"0930, 1220"
-grotha,BIO,230,MWF,"1100, 1150"
-grotha,BIO,230,M,"0200, 0450"
-mattinglyb,BIO,240,MWF,"1000, 1050"
-mattinglyb,BIO,240,T,"1100, 0150"
-lucink,BIO,280, ,TBA
-idjadij,BIO,280, ,TBA
-cowlese,BIO,301,T,"0400, 0645"
-murdochb,BIO,302,T,"0930, 1120"
-murdochb,BIO,302,T,"1230, 0220"
-veerappanv,BIO,304,MWF,"0900, 0950"
-veerappanv,BIO,304,MWF,"1000, 1050"
-grahamm,BIO,305,MWF,"0100, 0150"
-kwakuk,BIO,305,T,"0400, 0645"
-gyurem,BIO,314,R,"0930, 1120"
-gyurem,BIO,314,R,"1230, 0220"
-gyurem,BIO,314,R,"0400, 0550"
-mattinglyb,BIO,319,T,"0900, 1050"
-eppk,BIO,319,T,"0900, 1050"
-idjadij,BIO,319,T,"0900, 1050"
-mattinglyb,BIO,320, ,TBA
-eppk,BIO,320, ,TBA
-idjadij,BIO,320, ,TBA
-hulveyj,BIO,334,MWF,"0900, 0950"
-hulveyj,BIO,334,W,"0200, 0450"
-grahamm,BIO,336,MWF,"1200, 1250"
-grahamm,BIO,336,R,"1100, 0150"
-lucink,BIO,350,MWF,"1000, 1050"
-lucink,BIO,350,M,"0200, 0450"
-lucink,BIO,380, ,TBA
-grotha,BIO,380, ,TBA
-connollyb,BIO,380, ,TBA
-grahamm,BIO,380, ,TBA
-eppk,BIO,380, ,TBA
-hulveyj,BIO,380, ,TBA
-murdochb,BIO,380, ,TBA
-lauxd,BIO,380, ,TBA
-idjadij,BIO,380, ,TBA
-cowlese,BIO,424,MWF,"1000, 1050"
-cowlese,BIO,424,T,"0930, 1220"
-connollyb,BIO,438,MWF,"0100, 0150"
-connollyb,BIO,438,R,"0200, 0450"
-veerappanv,BIO,460,MWF,"1200, 1250"
-veerappanv,BIO,460,R,"0930, 1220"
-lauxd,BIO,462,MWF,"1100, 1150"
-lauxd,BIO,462,M,"0200, 0450"
-eppk,BIO,466,M,"0200, 0450"
-eppk,BIO,466,W,"0200, 0450"
-lucink,BIO,480, ,TBA
-veerappanv,BIO,480, ,TBA
-grahamm,BIO,480, ,TBA
-eppk,BIO,480, ,TBA
-hulveyj,BIO,480, ,TBA
-murdochb,BIO,480, ,TBA
-lauxd,BIO,480, ,TBA
-connollyb,BIO,480, ,TBA
-lauxd,BIO,490, ,TBA
-murdochb,BIO,490, ,TBA
-grotha,BIO,490, ,TBA
-lucink,BIO,490, ,TBA
-mattinglyb,BIO,490, ,TBA
-connollyb,BIO,490, ,TBA
-gyurem,BIO,490, ,TBA
-murdochb,BIO,491, ,TBA
-veerappanv,BIO,491, ,TBA
-lucink,BIO,491, ,TBA
-hulveyj,BIO,491, ,TBA
-perryk,BUS,201,MWF,"1000, 1050"
-erwinc,BUS,201,TR,"0930, 1045"
-erwinc,BUS,201,TR,"1100, 1215"
-synnottc,BUS,201,MWF,"0900, 0950"
-norvaln,BUS,201,T,"0400, 0645"
-perryk,BUS,201,MWF,"1100, 1150"
-norvaln,BUS,201,TR,"0200, 0315"
-aventa,BUS,225,MWF,"1200, 1250"
-halls,BUS,225,W,"0400, 0645"
-aventa,BUS,225,MWF,"1000, 1050"
-nardellas,BUS,225,TR,"1230, 0145"
-nardellas,BUS,225,TR,"0200, 0315"
-grosjeanb,BUS,225,TR,"1100, 1215"
-chattertonc,BUS,240,MWF,"0900, 0950"
-dewildea,BUS,250,M,"0400, 0645"
-dewildea,BUS,250,MWF,"1000, 1050"
-dewildea,BUS,301,MWF,"0900, 0950"
-buckw,BUS,301,TR,"0930, 1045"
-buckw,BUS,301,TR,"1100, 1215"
-dewildea,BUS,301,MWF,"1200, 1250"
-villanuevae,BUS,307,MWF,"1200, 1250"
-moylanw,BUS,321,MW,"0400, 0515"
-moylanw,BUS,325,MW,"0530, 0645"
-grosjeanb,BUS,326,T,"0700, 0945"
-kangm,BUS,327,TR,"0200, 0315"
-erwinc,BUS,331,T,"0700, 0945"
-ferrarol,BUS,333,M,"0400, 0645"
-chattertonc,BUS,340,R,"0930, 1215"
-kaneg,BUS,342,MWF,"1200, 1250"
-kaneg,BUS,342,MWF,"1000, 1050"
-buckw,BUS,351,TR,"0200, 0315"
-buckw,BUS,351,TR,"0400, 0515"
-pakdilf,BUS,410,W,"0400, 0645"
-kaneg,BUS,411,MWF,"0100, 0150"
-grandhis,BUS,428,TR,"1230, 0145"
-kangm,BUS,429,W,"0400, 0645"
-ohn,BUS,431,TR,"1230, 0145"
-ohn,BUS,431,TR,"0930, 1045"
-erwinc,BUS,431,TR,"0200, 0315"
-deckerg,BUS,436,T,"0700, 0945"
-villanuevae,BUS,450,MWF,"0800, 0850"
-pakdilf,BUS,480, ,TBA
-buckw,BUS,480, ,TBA
-villanuevae,BUS,480, ,TBA
-kaneg,BUS,480, ,TBA
-grandhis,BUS,480, ,TBA
-chattertonc,BUS,490,M,"0700, 0815"
-chattertonc,BUS,490,R,"0800, 0915"
-pakdilf,BUS,492, ,TBA
-grandhis,BUS,492, ,TBA
-donohuek,BIS,205,TR,"0800, 0915"
-reays,BIS,205,MWF,"0800, 0850"
-reays,BIS,205,MWF,"0900, 0950"
-kunenen,BIS,205,TR,"0930, 1045"
-dexterr,BIS,205,W,"0700, 0945"
-albinie,BIS,362,M,"0400, 0645"
-donohuek,BIS,365,TR,"0930, 1045"
-alkhamaieshs,BIS,370,TR,"0530, 0645"
-alkhamaieshs,BIS,370,TR,"0700, 0815"
-citursa,BIS,373,MF,"0200, 0315"
-citursa,BIS,379,M,"0400, 0645"
-schallerj,BIS,442,W,"0400, 0645"
-johnsond,BIS,447,T,"0700, 0945"
-citursa,BIS,447,TR,"1100, 1215"
-kunenen,BIS,449,TR,"1230, 0145"
-kunenen,BIS,449,TR,"0200, 0315"
-citursa,BIS,461,MW,"0700, 0815"
-citursa,BIS,480, ,TBA
-couture-palmerinop,CAS,201, ,TBA
-couture-palmerinop,CAS,222, ,TBA
-hek,CHE,211,MWF,"0900, 0950"
-hek,CHE,211,MWF,"1000, 1050"
-hek,CHE,211,MWF,"0100, 0150"
-islams,CHE,211,MW,"0400, 0515"
-islams,CHE,211,MW,"0530, 0645"
-parcinskia,CHE,213,M,"1100, 0150"
-parcinskia,CHE,213,M,"0200, 0450"
-ahmadis,CHE,213,T,"0400, 0650"
-ahmadis,CHE,213,T,"0700, 0950"
-swansons,CHE,213,W,"0400, 0650"
-chirakul-maddenp,CHE,213,R,"1100, 0150"
-chirakul-maddenp,CHE,213,R,"0200, 0450"
-kozad,CHE,213,M,"0700, 0950"
-swansons,CHE,213,W,"0700, 0950"
-kozad,CHE,217,MWF,"1000, 1050"
-candlerj,CHE,217,T,"0700, 0950"
-candlerj,CHE,217,M,"0700, 0950"
-toedtj,CHE,318,MWF,"0100, 0150"
-toedtj,CHE,319,T,"0200, 0450"
-islams,CHE,425,MWF,"1200, 1250"
-islams,CHE,425,F,"0200, 0550"
-toedtj,CHE,480, ,TBA
-hek,CHE,480, ,TBA
-toedtj,CHE,490, ,TBA
-islams,CHE,492, ,TBA
-murphyj,COM,100,MWF,"1000, 1050"
-curtiss,COM,101,MWF,"1100, 1150"
-utterbacka,COM,120,TR,"0930, 1045"
-ammarim,COM,220,T,"0700, 0945"
-carlsonr,COM,220,M,"0400, 0645"
-ammarim,COM,220,T,"0400, 0645"
-dayb,COM,220,TR,"1100, 1215"
-freunde,COM,230,T,"0400, 0645"
-freunde,COM,230,W,"0400, 0645"
-curtiss,COM,230,TR,"0930, 1045"
-zatowskij,COM,245,T,"0400, 0645"
-utterbacka,COM,290, ,TBA
-zatowskij,COM,291, ,TBA
-utterbacka,COM,300,TR,"1230, 0145"
-osterndorfw,COM,301,MWF,"1200, 1250"
-osterndorfw,COM,330,MWF,"0900, 0950"
-dayb,COM,357,TR,"0930, 1045"
-dayb,COM,380,TR,"0200, 0350"
-osterndorfw,COM,400,TR,"0930, 1045"
-osterndorfw,COM,403,TR,"1100, 1215"
-aconforan,COM,410,M,"0400, 0645"
-utterbacka,COM,425,W,"0400, 0645"
-utterbacka,COM,480, ,TBA
-kangm,COM,480, ,TBA
-floodr,COM,480, ,TBA
-cobbj,COM,490, ,TBA
-floodr,COM,490, ,TBA
-kangm,COM,490, ,TBA
-jeonj,COM,490, ,TBA
-dayb,COM,490, ,TBA
-utterbacka,COM,490, ,TBA
-osterndorfw,COM,490, ,TBA
-zatowskij,COM,490, ,TBA
-sokolovskayaa,COM,490, ,TBA
-pellegrinid,CFT,100,F,"1200, 0245"
-morgank,CFT,100,F,"1200, 0245"
-floodr,CFT,205,MWF,"1000, 1110"
-dayb,CFT,401,M,"0200, 0250"
-tasneems,CSC,180,TR,"1100, 1215"
-jahani,CSC,202,TR,"0200, 0315"
-onyey,CSC,205,TR,"1230, 0145"
-onyey,CSC,205,TR,"0200, 0315"
-johnsonj,CSC,210,MWF,"0900, 0950"
-bondoka,CSC,210,MWF,"1100, 1150"
-johnsonj,CSC,210,MWF,"1000, 1050"
-lavoiem,CSC,212,TR,"0930, 1045"
-castron,CSC,215,TR,"0800, 0915"
-rosienej,CSC,230,MWF,"1100, 1150"
-jahani,CSC,231,MWF,"1100, 1150"
-weselcouchc,CSC,249,M,"0400, 0645"
-bondoka,CSC,251,MWF,"0900, 0950"
-bondoka,CSC,251,MWF,"1000, 1050"
-gaok,CSC,270,MWF,"1000, 1050"
-gaok,CSC,270,MWF,"0200, 0250"
-dancikg,CSC,314,TR,"0200, 0315"
-rosienej,CSC,335,MWF,"1000, 1050"
-rosienej,CSC,335,MWF,"0900, 0950"
-rosienej,CSC,340,MW,"0400, 0515"
-elfoulyr,CSC,360,TR,"1100, 1215"
-shendec,CSC,360,MW,"0400, 0515"
-soleymanpourr,CSC,360,TR,"0400, 0515"
-elfoulyr,CSC,360,TR,"1230, 0145"
-tasneems,CSC,440,TR,"0200, 0315"
-tasneems,CSC,440,R,"0400, 0645"
-gaok,CSC,445,MWF,"1100, 1150"
-gaok,CSC,445,MW,"0400, 0515"
-dancikg,CSC,450,TR,"0930, 1045"
-rosienej,CSC,480, ,TBA
-tasneems,CSC,485, ,TBA
-dancikg,CSC,490, ,TBA
-marrettc,CED,300, ,TBA
-kurtim,CRM,210,R,"0400, 0645"
-pestar,CRM,320,MWF,"1100, 1150"
-pestar,CRM,320,MWF,"1200, 1250"
-pestar,CRM,410,MWF,"1000, 1050"
-lugow,CRM,450,W,"0400, 0645"
-lugow,CRM,450,W,"0700, 0945"
-severancet,CRM,475,M,"0800, 0850"
-pestar,CRM,480, ,TBA
-kurtim,CRM,480, ,TBA
-lugow,CRM,480, ,TBA
-severancet,CRM,480, ,TBA
-severancet,CRM,490, ,TBA
-davism,DSC,501, ,TBA
-liux,DSC,503, ,TBA
-davism,DSC,504, ,TBA
-busij,DSC,505, ,TBA
-turgeonk,DSC,508, ,TBA
-bouleyt,ECE,215,TR,"0200, 0315"
-drewryt,ECE,301, ,TBA
-swaminathans,ECE,330,T,"0930, 1215"
-bouleyt,ECE,355,R,"0930, 1215"
-bouleyt,ECE,400,T,"0400, 0645"
-swaminathans,ECE,401, ,TBA
-laportek,ECE,405,M,"0400, 0645"
-rezain,ECE,410,W,"0400, 0645"
-leek,ECE,420,M,"0400, 0645"
-dunnacks,ECE,445,MTWRF,"0800, 0330"
-bouleyt,ECE,480, ,TBA
-rezain,ECE,501,W,"0400, 0645"
-leek,ECE,505,M,"0400, 0645"
-laportek,ECE,506,M,"0400, 0645"
-bouleyt,ECE,516, ,TBA
-peacockj,ECE,565,MTWRF,"0800, 0330"
-dunnacks,ECE,566, ,TBA
-swaminathans,ECE,696, ,TBA
-montemerloj,ECO,100,TR,"1230, 0145"
-karrenbergj,ECO,100,MWF,"0100, 0150"
-karrenbergj,ECO,100,MWF,"0200, 0250"
-ndiayem,ECO,200,MWF,"1100, 1150"
-cunninghamb,ECO,200,MWF,"1000, 1050"
-fortew,ECO,200,TR,"0930, 1045"
-fortew,ECO,200,TR,"1100, 1215"
-ndiayem,ECO,201,MWF,"1200, 1250"
-ndiayem,ECO,201,MWF,"0100, 0150"
-volkmanv,ECO,201,MWF,"0900, 0950"
-montemerloj,ECO,201,TR,"0930, 1045"
-goodmand,ECO,201,TR,"1100, 1215"
-eckenrothg,ECO,201,TR,"0200, 0315"
-saponaroj,ECO,201,M,"0400, 0645"
-weirl,ECO,215,TR,"1100, 1215"
-weirl,ECO,215,TR,"1230, 0145"
-ndiayem,ECO,301,MWF,"0900, 0950"
-volkmanv,ECO,305,MWF,"1000, 1050"
-cunninghamb,ECO,325,MWF,"1200, 1250"
-cunninghamb,ECO,325,MWF,"1100, 1150"
-goodmand,ECO,331,TR,"0930, 1045"
-cliffordm,ECO,479,TR,"0930, 1045"
-peterosr,ECO,479,W,"0400, 0645"
-cliffordm,ECO,479,TR,"0800, 0915"
-cliffordm,ECO,480, ,TBA
-robertst,EDU,200,TR,"1100, 1215"
-leek,EDU,200,TR,"0200, 0315"
-rodriguezl,EDU,222,TR,"1100, 1215"
-tomanellij,EDU,222,TR,"0800, 0915"
-galvezd,EDU,222,W,"0700, 0945"
-drewryt,EDU,301, ,TBA
-whitej,EDU,357,T,"0400, 0645"
-stoloffd,EDU,357,W,"0400, 0645"
-liux,EDU,357,R,"0400, 0645"
-rodriguezl,EDU,357,TR,"0200, 0315"
-drewryt,EDU,401, ,TBA
-liux,EDU,404,F,"1200, 0245"
-zablonskim,EDU,405,R,"0400, 0645"
-dziavitk,EDU,410,M,"0400, 0645"
-cookk,EDU,412,T,"0400, 0645"
-richardss,EDU,417,M,"1200, 0245"
-rodriguezl,EDU,425,T,"0400, 0645"
-fabrizim,EDU,425,M,"0700, 0945"
-richardss,EDU,465,M,"0700, 0945"
-laportek,EDU,465,T,"0700, 0945"
-zimmittil,EDU,470,MTWRF,"0800, 0330"
-peacockj,EDU,471,MTWRF,"0800, 0330"
-fabrizim,EDU,480, ,TBA
-mooreheadt,EDU,480, ,TBA
-richardss,EDU,480, ,TBA
-ruddyj,EDU,490, ,TBA
-lamarchel,EDU,501, ,TBA
-espinozaa,EDU,502, ,TBA
-galvezd,EDU,505, ,TBA
-dziavitk,EDU,510,M,"0400, 0645"
-stoloffd,EDU,511, ,TBA
-richardss,EDU,516,W,"0400, 0645"
-peacockj,EDU,521, ,TBA
-ashtonf,EDU,523, ,TBA
-rodriguezl,EDU,525,T,"0400, 0645"
-fabrizim,EDU,525,M,"0700, 0945"
-stoloffd,EDU,555, ,TBA
-richardss,EDU,565,M,"0700, 0945"
-laportek,EDU,565,T,"0700, 0945"
-ashtonf,EDU,571,MTWRF,"0800, 0330"
-espinozaa,EDU,573,MTWRF,"0800, 0330"
-robertst,EDU,582, ,TBA
-robertst,EDU,582,R,"0400, 0645"
-leek,EDU,612, ,TBA
-mooreheadt,EDU,632, ,TBA
-mooreheadt,EDU,680, ,TBA
-robinsonm,EDU,694,MTWRF,"0800, 0330"
-rodriguezl,EDU,696, ,TBA
-galvezd,EDU,696, ,TBA
-vijayasekarj,EDU,696, ,TBA
-cruzd,EDU,696, ,TBA
-stoloffd,EDU,696, ,TBA
-fabrizim,EDU,696, ,TBA
-richardss,EDU,696, ,TBA
-bouleyt,EDU,696, ,TBA
-swaminathans,EDU,697, ,TBA
-oterom,ENG,100,TR,"0800, 0915"
-oterom,ENG,100,TR,"0930, 1045"
-johnsons,ENG,100,MWF,"0100, 0150"
-szymkiewiczr,ENG,100,TR,"1100, 1215"
-cassidys,ENG,100,MWF,"1100, 1150"
-evesk,ENG,100,TR,"0400, 0515"
-reynoldsj,ENG,100,MWF,"1200, 1250"
-reynoldsj,ENG,100,MWF,"1100, 1150"
-longe,ENG,100,MWF,"1000, 1050"
-congdonv,ENG,100,TR,"0930, 1045"
-luxenbergh,ENG,100,TR,"1100, 1215"
-mcneilk,ENG,100P,TR,"0930, 1045"
-mcneilk,ENG,100P,W,"0900, 1040"
-mcneilk,ENG,100P,TR,"1100, 1215"
-mcneilk,ENG,100P,W,"1100, 1240"
-luxenbergh,ENG,100P,M,"0200, 0340"
-luxenbergh,ENG,100P,TR,"0200, 0315"
-quickb,ENG,100P,TR,"0400, 0515"
-quickb,ENG,100P,W,"0400, 0540"
-szymkiewiczr,ENG,100P,TR,"1230, 0145"
-szymkiewiczr,ENG,100P,W,"0100, 0240"
-johnsons,ENG,100P,MF,"1100, 1240"
-johnsons,ENG,100P,W,"1100, 1150"
-mamar,ENG,125,TR,"0400, 0515"
-mamar,ENG,125,TR,"0200, 0315"
-clermont-ferrandm,ENG,177,TR,"1230, 0145"
-ferrucis,ENG,190,TR,"0930, 1045"
-ferrucis,ENG,190,TR,"1100, 1215"
-taylorm,ENG,201,MWF,"1100, 1150"
-youngbloodj,ENG,201,MWF,"1200, 1250"
-terryb,ENG,205,TR,"0800, 0915"
-taylorm,ENG,205,MWF,"0900, 0950"
-terryb,ENG,205,TR,"0930, 1045"
-derosas,ENG,207,TR,"0200, 0315"
-mcneilk,ENG,215,TR,"1230, 0145"
-speichera,ENG,223,MWF,"1100, 1150"
-mamar,ENG,225,TR,"0530, 0645"
-donaghyd,ENG,238,TR,"0200, 0315"
-delrioj,ENG,241,MWF,"0900, 0950"
-delrioj,ENG,241,MWF,"1000, 1050"
-clermont-ferrandm,ENG,241,TR,"0200, 0315"
-floodr,ENG,255,MWF,"0900, 0950"
-chiricom,ENG,257,MWF,"0100, 0150"
-abbatemarcoa,ENG,260,TR,"1230, 0145"
-abbatemarcoa,ENG,260,TR,"1100, 1215"
-rochonr,ENG,260,MWF,"0900, 0950"
-torockioc,ENG,301,TR,"0200, 0315"
-donaghyd,ENG,302,TR,"1100, 1215"
-floodr,ENG,308,M,"0400, 0645"
-speichera,ENG,328,MWF,"0100, 0150"
-youngbloodj,ENG,330,MF,"0200, 0315"
-clermont-ferrandm,ENG,337,TR,"0400, 0515"
-oterom,ENG,338,TR,"1230, 0145"
-oterom,ENG,341,TR,"0200, 0315"
-mamar,ENG,353,TR,"1230, 0145"
-torockioc,ENG,372,W,"0400, 0645"
-derosas,ENG,380,W,"0400, 0645"
-donaghyd,ENG,382,TR,"1230, 0145"
-chiricom,ENG,461,M,"0400, 0645"
-torockioc,ENG,462,T,"0400, 0645"
-clermont-ferrandm,ENG,462,W,"0400, 0645"
-donaghyd,ENG,480, ,TBA
-clermont-ferrandm,ENG,480, ,TBA
-chiricom,ENG,480, ,TBA
-chiricom,ENG,481, ,TBA
-torockioc,ENG,493, ,TBA
-speichera,ENG,493, ,TBA
-donaghyd,ENG,493, ,TBA
-derosas,ENG,493, ,TBA
-clermont-ferrandm,ENG,494, ,TBA
-oterom,ENG,494, ,TBA
-derosas,ENG,494, ,TBA
-chiricom,ENG,494, ,TBA
-donaghyd,ENG,495, ,TBA
-clermont-ferrandm,ENG,495, ,TBA
-speichera,ENG,495, ,TBA
-ferrucis,ENG,495, ,TBA
-speichera,ENG,499, ,TBA
-clermont-ferrandm,ENG,499, ,TBA
-ferrucis,ENG,499, ,TBA
-torockioc,ENG,499, ,TBA
-derosas,ENG,499, ,TBA
-cunninghamw,EES,104,TR,"0930, 1045"
-oakleyb,EES,104,TR,"1100, 1215"
-tranl,EES,112,W,"0530, 0715"
-tranl,EES,112,T,"0530, 0715"
-drzewieckip,EES,130,MWF,"0900, 0950"
-drzewieckip,EES,130,M,"0200, 0450"
-sandeenj,EES,200,T,"0400, 0645"
-nathans,EES,200,MWF,"1100, 1150"
-delimal,EES,204,TR,"1230, 0145"
-delimal,EES,204,TR,"1100, 1215"
-nathans,EES,205,MWF,"1000, 1050"
-khadev,EES,205,W,"0700, 0945"
-carlsonh,EES,207,R,"0400, 0550"
-carlsonh,EES,207,T,"0400, 0550"
-carlsonh,EES,207,W,"0400, 0550"
-hyattd,EES,224,TR,"0930, 1045"
-hyattd,EES,224,W,"0200, 0450"
-hyattd,EES,224,T,"0200, 0450"
-cunninghamw,EES,271,T,"0530, 0615"
-drzewieckip,EES,271,T,"0530, 0615"
-cunninghamw,EES,271, ,TBA
-drzewieckip,EES,271, ,TBA
-metcalfm,EES,300,MW,"0530, 0645"
-metcalfm,EES,301,W,"0100, 0350"
-metcalfm,EES,322,MW,"0400, 0515"
-metcalfm,EES,322,M,"0100, 0350"
-nicholss,EES,323,W,"0400, 0645"
-cunninghamw,EES,330,TR,"1100, 1215"
-cunninghamw,EES,330,T,"1230, 0320"
-cunninghamw,EES,333,W,"0100, 0150"
-hyattd,EES,392, ,TBA
-nathans,EES,402,MWF,"0900, 0950"
-hyattd,EES,441,R,"0200, 0450"
-oakleyb,EES,456,TR,"0930, 1045"
-metcalfm,EES,480, ,TBA
-oakleyb,EES,480, ,TBA
-oakleyb,EES,491, ,TBA
-chadwickj,EHS,210,TR,"1230, 0145"
-erik-soussia,FLM,219,M,"0400, 0645"
-ammarim,FLM,220,T,"0700, 0945"
-carlsonr,FLM,220,M,"0400, 0645"
-ammarim,FLM,220,T,"0400, 0645"
-dayb,FLM,220,TR,"1100, 1215"
-bachollem,FLM,223,M,"1200, 0245"
-bachollem,FLM,223,W,"1200, 0245"
-collinsg,FLM,321,R,"0700, 0945"
-dayb,FLM,380,TR,"0200, 0350"
-kyeii,FIN,245,MWF,"1100, 1150"
-ryens,FIN,245,MWF,"1200, 1250"
-kyeii,FIN,245,TR,"1100, 1215"
-kyeii,FIN,245,MWF,"1000, 1050"
-kyeii,FIN,335,M,"0400, 0645"
-ryens,FIN,347,MWF,"0100, 0150"
-days-luketichp,FIN,350,T,"0400, 0645"
-cliffordm,FIN,438,W,"0700, 0945"
-liangl,FIN,445,TR,"1100, 1215"
-liangl,FIN,445,TR,"0930, 1045"
-liangl,FIN,446,TR,"0200, 0315"
-cliffordm,FIN,462,TR,"0930, 1045"
-peterosr,FIN,462,W,"0400, 0645"
-cliffordm,FIN,462,TR,"0800, 0915"
-eckenrothg,FIN,490,R,"0400, 0515"
-bachollem,FRE,120,MWF,"1100, 1150"
-bachollem,FRE,223,M,"1200, 0245"
-bachollem,FRE,223,W,"1200, 0245"
-dahmanif,FRE,492, ,TBA
-michimia,GEO,100,MWF,"1000, 1050"
-clementss,GEO,331,TR,"0930, 1045"
-michimia,GEO,332,MWF,"0900, 0950"
-difrancoa,HPE,104,M,"0400, 0645"
-woodmanseek,HPE,104,W,"0400, 0645"
-vogtd,HPE,104,R,"0400, 0645"
-fresco-hawesc,HPE,104,W,"0400, 0645"
-henryj,HPE,104,T,"0400, 0645"
-robertd,HPE,104,TR,"0930, 1045"
-robertd,HPE,104,TR,"1100, 1215"
-henryj,HPE,104,M,"0400, 0645"
-vogtd,HPE,104,W,"0400, 0645"
-dewildea,HPE,117,MWF,"0200, 0250"
-sanfordl,HPE,127,TR,"0700, 0815"
-madenjianwybierackik,HPE,140,MWF,"1100, 1150"
-madenjianwybierackik,HPE,140,MWF,"1200, 1250"
-sanfordl,HPE,140,TR,"0530, 0645"
-khowm,HPE,141,TR,"0930, 1045"
-khowm,HPE,143,TR,"0800, 0915"
-difrancoa,HPE,201,W,"0400, 0645"
-frainm,HPE,210,W,"0400, 0645"
-manfredie,HPE,210,TR,"1230, 0145"
-frainm,HPE,210,W,"0700, 0945"
-coxp,HPE,310,W,"0700, 0945"
-tracyj,HPE,326,T,"0800, 0915"
-tracyj,HPE,326,R,"0800, 0915"
-rowettc,HPE,327,T,"0400, 0645"
-switchenkod,HPE,328,TR,"0400, 0515"
-switchenkod,HPE,329,TR,"0800, 0915"
-rowettc,HPE,340,T,"0700, 0945"
-manfredie,HPE,361,T,"0930, 1030"
-manfredie,HPE,361,T,"1030, 1215"
-switchenkok,HPE,362,R,"0930, 1030"
-switchenkok,HPE,362,R,"1030, 1215"
-robertd,HPE,475,MTWRF,"0800, 0330"
-robertd,HPE,476,R,"0400, 0645"
-rowettc,HPE,480, ,TBA
-robertd,HPE,490, ,TBA
-carrolls,HSC,209,M,"0400, 0645"
-clementss,HSC,209,TR,"0400, 0515"
-canavanp,HSC,210,MWF,"1100, 1150"
-smithe,HSC,215,TR,"1230, 0145"
-porebskab,HSC,215,W,"0900, 1150"
-porebskab,HSC,215,W,"1200, 0250"
-kylek,HSC,215,T,"0800, 1050"
-banee,HSC,215,R,"0800, 1050"
-porebskab,HSC,215,M,"0400, 0650"
-smithe,HSC,215,M,"0100, 0350"
-kylek,HSC,215,F,"0800, 1050"
-smithe,HSC,215,MWF,"1200, 1250"
-smithe,HSC,215,TR,"1100, 1215"
-dzurecl,HSC,225,TR,"1230, 0145"
-beeverj,HSC,225,TR,"0800, 0915"
-dzurecl,HSC,225,MWF,"0100, 0150"
-dzurecl,HSC,225,MWF,"1100, 1150"
-bissonnettea,HSC,235,MWF,"0100, 0150"
-porebskab,HSC,291, ,TBA
-smithe,HSC,291, ,TBA
-carrolls,HSC,302,TR,"0930, 1045"
-bataillea,HSC,308,MWF,"0900, 0950"
-canavanp,HSC,318,MWF,"1000, 1050"
-canavanp,HSC,318,T,"1230, 0320"
-canavanp,HSC,318,T,"0800, 1050"
-cotea,HSC,318,MWF,"0100, 0150"
-tackettm,HSC,318,M,"0800, 1050"
-canavanp,HSC,318,M,"0300, 0550"
-cotea,HSC,318,MWF,"0200, 0250"
-joinerk,HSC,318,W,"0800, 1050"
-joinerk,HSC,318,T,"0400, 0650"
-bataillea,HSC,319,MWF,"1100, 1150"
-bataillea,HSC,319,R,"1230, 0320"
-bataillea,HSC,319,R,"0800, 1050"
-bataillea,HSC,319,MWF,"0100, 0150"
-tackettm,HSC,319,F,"0800, 1050"
-thapag,HSC,319,F,"0200, 0450"
-daled,HSC,320,MWF,"1200, 1250"
-daled,HSC,332,TR,"1100, 1215"
-daled,HSC,342,TR,"0800, 0915"
-andersong,HSC,356,MWF,"0900, 0950"
-alexanderj,HSC,370,TR,"0930, 1045"
-walterss,HSC,380, ,TBA
-bataillea,HSC,380, ,TBA
-carrolls,HSC,390, ,TBA
-canavanp,HSC,391, ,TBA
-carrolls,HSC,391, ,TBA
-banee,HSC,391, ,TBA
-smithe,HSC,391, ,TBA
-walterss,HSC,400,MWF,"1200, 0110"
-nsiahy,HSC,404,MWF,"1100, 1150"
-beeverj,HSC,408,TR,"0930, 1045"
-dzurecd,HSC,425,MWF,"0800, 0850"
-dzurecd,HSC,425,M,"0200, 0450"
-bissonnettea,HSC,438,MWF,"0200, 0250"
-blancaflors,HSC,438,TR,"1230, 0145"
-beebej,HSC,444,TR,"0530, 0945"
-daled,HSC,450,MWF,"1100, 1150"
-canavanp,HSC,480, ,TBA
-carrolls,HSC,480, ,TBA
-walterss,HSC,480, ,TBA
-carrolls,HSC,490, ,TBA
-dzurecd,HSC,491, ,TBA
-porebskab,HSC,491, ,TBA
-carrolls,HSC,491, ,TBA
-beebej,HSC,491, ,TBA
-kylek,HSC,491, ,TBA
-thapag,HSC,491, ,TBA
-carenenc,HIS,101,TR,"0930, 1045"
-davisb,HIS,116,MWF,"0900, 0950"
-davisb,HIS,116,MWF,"0100, 0150"
-closes,HIS,120,TR,"0800, 0915"
-closes,HIS,120,TR,"0200, 0315"
-closes,HIS,121,TR,"1230, 0145"
-davisb,HIS,200,MWF,"1000, 1110"
-fryed,HIS,230,TR,"1100, 1215"
-fryed,HIS,230,W,"0400, 0645"
-fryed,HIS,230,TR,"0400, 0515"
-moores,HIS,231,MWF,"0900, 0950"
-saenzcambrac,HIS,255,MWF,"1100, 1150"
-fryed,HIS,267,W,"0700, 0945"
-closes,HIS,322,TR,"0930, 1045"
-balcerskit,HIS,325,W,"0400, 0645"
-moores,HIS,337,MWF,"0100, 0150"
-ostwaldj,HIS,362,TR,"0400, 0515"
-fryed,HIS,365,TR,"0200, 0315"
-davisb,HIS,373,MWF,"0200, 0250"
-carenenc,HIS,379,TR,"1100, 1215"
-ostwaldj,HIS,386,TR,"1230, 0145"
-moores,HIS,406,MWF,"1100, 1210"
-davisb,HIS,480, ,TBA
-moores,HIS,480, ,TBA
-balcerskit,HIS,480, ,TBA
-closes,HIS,480, ,TBA
-fryed,HIS,481, ,TBA
-moores,HIS,491, ,TBA
-fryed,HIS,491, ,TBA
-cobbj,HON,361,T,"0400, 0645"
-youngbloodj,HON,361,MW,"0400, 0515"
-fugerem,HON,362,MWF,"0100, 0150"
-cochrant,HON,375,W,"0300, 0350"
-gaok,HON,488, ,TBA
-krebsc,HON,488, ,TBA
-moores,HON,488, ,TBA
-guom,HON,488, ,TBA
-morgank,HON,488, ,TBA
-grotha,HON,488, ,TBA
-carrolls,HON,488, ,TBA
-brosciousc,HON,488, ,TBA
-dancikg,HON,488, ,TBA
-torockioc,HON,488, ,TBA
-greener,HON,488, ,TBA
-speichera,HON,488, ,TBA
-heenehanm,HON,488, ,TBA
-metcalfm,HON,488, ,TBA
-tasneems,HON,488, ,TBA
-vasquez-o'brient,HON,488, ,TBA
-bataillea,HON,488, ,TBA
-pakdilf,HON,488, ,TBA
-drewryc,IIP,200, ,TBA
-drewryc,IIP,300, ,TBA
-drewryc,ISP,300, ,TBA
-drewryc,ISP,301, ,TBA
-erik-soussia,LAS,219,M,"0400, 0645"
-calissij,LAC,100,TR,"1230, 0145"
-drzewieckip,LAC,100,MWF,"1100, 1150"
-hollandj,LAC,100,MWF,"1000, 1050"
-calissij,LAC,101,M,"1000, 1050"
-drzewieckip,LAC,101,W,"1200, 1250"
-hollandj,LAC,101,M,"0900, 0950"
-pellegrinid,LAC,101,M,"0400, 0450"
-chiricom,LAC,200,MWF,"1100, 1150"
-dillerj,LAC,200,MWF,"1100, 1150"
-doylem,LAC,200,MWF,"1100, 1150"
-wardk,LAC,200,MWF,"0100, 0150"
-heenehanm,LAC,200,MWF,"0100, 0150"
-o'nealf,LAC,200,MWF,"0100, 0150"
-stoloffd,LAC,400,W,"0700, 0945"
-whitej,LAP,430,W,"0700, 0945"
-dowdelld,MGT,502, ,TBA
-ferrarol,MGT,505, ,TBA
-ohn,MGT,506, ,TBA
-grandhis,MGT,508, ,TBA
-whiteheadb,MAT,099,MWF,"0900, 0950"
-wus,MAT,099,TR,"0400, 0515"
-fisterk,MAT,099,MWF,"0200, 0250"
-whiteheadb,MAT,135,MWF,"0800, 0850"
-oseibonsuk,MAT,135,MWF,"0200, 0250"
-wus,MAT,135,TR,"0930, 1045"
-pozdnyakovaz,MAT,135P,MWF,"0800, 0850"
-pozdnyakovaz,MAT,135P,M,"0900, 0950"
-coffeyk,MAT,135P,MWF,"0900, 0950"
-coffeyk,MAT,135P,F,"1000, 1050"
-allene,MAT,135P,TR,"0800, 0950"
-coffeyk,MAT,135P,MWF,"0200, 0250"
-coffeyk,MAT,135P,F,"0100, 0150"
-fisterk,MAT,135P,MW,"0400, 0550"
-gageoneam,MAT,135P,TR,"0200, 0350"
-gageoneam,MAT,135P,TR,"0400, 0550"
-brunellek,MAT,139P,MWF,"0900, 0950"
-brunellek,MAT,139P,W,"0800, 0850"
-johnsonp,MAT,139P,TR,"0400, 0550"
-jaross,MAT,140,M,"0400, 0515"
-jaross,MAT,140,W,"0400, 0515"
-oseibonsuk,MAT,155,MWF,"0900, 0950"
-oseibonsuk,MAT,155,M,"1000, 1050"
-laddj,MAT,155P,MWF,"0100, 0150"
-laddj,MAT,155P,MW,"0200, 0250"
-aidooa,MAT,155P,TR,"0930, 1045"
-aidooa,MAT,155P,W,"1000, 1150"
-larosec,MAT,216,MWF,"0200, 0250"
-larosec,MAT,216,MWF,"0100, 0150"
-pozdnyakovaz,MAT,216,MWF,"1100, 1150"
-dalek,MAT,216,TR,"0800, 0915"
-bussierej,MAT,216,TR,"0400, 0515"
-larosec,MAT,217,MWF,"1000, 1050"
-heenehanm,MAT,230,MWF,"1000, 1050"
-aidooa,MAT,230,TR,"1230, 0145"
-yankovc,MAT,243,MWF,"0900, 0950"
-yankovc,MAT,243,W,"0800, 0850"
-sarikhanikhoramim,MAT,243,M,"0100, 0150"
-sarikhanikhoramim,MAT,243,TR,"1100, 1215"
-yankovc,MAT,243,MWF,"1100, 1150"
-yankovc,MAT,243,W,"1200, 1250"
-oseibonsuk,MAT,244,MWF,"1100, 1150"
-oseibonsuk,MAT,244,W,"1200, 1250"
-johnsonp,MAT,315,MWF,"0100, 0150"
-johnsonp,MAT,315,M,"0200, 0250"
-heenehanm,MAT,320,MWF,"1200, 1250"
-aidooa,MAT,340,TR,"0200, 0315"
-aidooa,MAT,340,W,"0200, 0250"
-wardk,MAT,341,MWF,"0900, 0950"
-larosec,MAT,343,MWF,"1100, 1150"
-sarikhanikhoramim,MAT,355,TR,"1230, 0145"
-johnsonp,MAT,362,TR,"0700, 0815"
-yankovc,MAT,421,MWF,"1000, 1050"
-sarikhanikhoramim,MAT,480, ,TBA
-oseibonsuk,MAT,480, ,TBA
-johnsonp,MAT,480, ,TBA
-sarikhanikhoramim,MAT,490, ,TBA
-sholesz,MSC,132,W,"0100, 0150"
-sholesz,MSC,146,W,"0200, 0400"
-thompsona,MSC,253,W,"0125, 0325"
-thompsona,MSC,253,F,"0100, 0500"
-balought,MUS,100,MWF,"0800, 0850"
-balought,MUS,100,MWF,"0900, 0950"
-bellesd,MUS,103,MW,"0530, 0645"
-watkinsk,MUS,107,W,"0700, 0930"
-d'aleoj,MUS,107,W,"0700, 0930"
-bellesd,MUS,113,WF,"0300, 0350"
-calissij,MUS,113,F,"0330, 0450"
-cornicelloa,MUS,113,M,"0400, 0530"
-riggse,MUS,113,R,"0530, 0645"
-ballenad,MUS,113,T,"0700, 0820"
-o'nealf,MUS,113,M,"0300, 0350"
-delaneye,MUS,113,R,"1230, 0145"
-calissir,MUS,114,TR,"0930, 1045"
-calissir,MUS,114,TR,"1100, 1215"
-ballenad,MUS,114,MWF,"1000, 1050"
-ballenad,MUS,114,MWF,"1100, 1150"
-delaneye,MUS,118,TR,"0200, 0315"
-calissij,MUS,120,TR,"0200, 0315"
-o'nealf,MUS,160,MWF,"0200, 0250"
-cornicelloa,MUS,205,MWF,"1100, 1150"
-hwango,MUS,214,MWF,"0900, 0950"
-calissij,MUS,215,W,"1000, 1050"
-calissij,MUS,215,F,"1000, 1050"
-calissij,MUS,234,MWF,"1100, 1150"
-cochrant,MUS,236,TR,"0930, 1045"
-echolsc,MUS,250,TR,"1100, 1215"
-echolsc,MUS,250,TR,"1230, 0145"
-hwango,MUS,330,MWF,"1100, 1150"
-tonera,MUS,356, ,TBA
-delaneye,MUS,356, ,TBA
-cornicelloa,MUS,356, ,TBA
-calissij,MUS,356, ,TBA
-calissir,MUS,356, ,TBA
-hwango,MUS,356, ,TBA
-thomasj,MUS,356, ,TBA
-washburns,MUS,356, ,TBA
-riggse,MUS,356, ,TBA
-ballenad,MUS,356, ,TBA
-bronsonm,MUS,356, ,TBA
-cornicelloa,MUS,372,MWF,"0100, 0150"
-riggse,MUS,395, ,TBA
-hwango,MUS,395, ,TBA
-delaneye,MUS,395, ,TBA
-delaneye,MUS,456, ,TBA
-hwango,MUS,456, ,TBA
-riggse,MUS,456, ,TBA
-cochrant,MUS,480, ,TBA
-bellesd,MUS,480, ,TBA
-calissij,MUS,480, ,TBA
-riggse,MUS,480, ,TBA
-drewryc,NSE,300, ,TBA
-dotsont,NUR,205,TR,"0400, 0515"
-dotsont,NUR,205,TR,"0200, 0315"
-cotea,NUR,372,MW,"0900, 1030"
-cotea,NUR,403,WF,"1100, 1230"
-nadeauc,NUR,424,MW,"0400, 0515"
-blainj,NUR,424, ,TBA
-geers,NUR,424, ,TBA
-mooneym,NUR,424, ,TBA
-goyettel,NUR,424, ,TBA
-schallerj,OSC,260,TR,"1100, 1215"
-wraym,OSC,260,T,"0400, 0645"
-pakdilf,OSC,260,MWF,"0800, 0850"
-schallerj,OSC,360,TR,"0200, 0315"
-bachiochip,ORG,696, ,TBA
-dexterr,ORG,696, ,TBA
-vob,ORG,696, ,TBA
-ohn,ORG,696, ,TBA
-rukgaberm,PHI,120,MWF,"0200, 0250"
-verrastron,PHI,120,MWF,"1100, 1150"
-swiftp,PHI,210,TR,"0930, 1045"
-stockerk,PHI,215,MWF,"0900, 0950"
-slutskyd,PHI,220,MW,"0400, 0515"
-rukgaberm,PHI,330,TR,"1100, 1215"
-swiftp,PHI,340,TR,"0200, 0315"
-verrastron,PHI,365,TR,"0400, 0515"
-stockerk,PHI,480, ,TBA
-krassasn,PHI,480, ,TBA
-mendoza-botelhom,PHI,498, ,TBA
-pazametaz,PHS,105,TR,"0200, 0315"
-pazametaz,PHY,205,TR,"1230, 0145"
-pazametaz,PHY,205,M,"0200, 0350"
-kerrm,PHY,205,R,"0200, 0350"
-eastonw,PSC,100,MWF,"0900, 0950"
-brosciousc,PSC,201,TR,"0930, 1045"
-brosciousc,PSC,201,TR,"1230, 0145"
-mendoza-botelhom,PSC,208,TR,"0930, 1045"
-mendoza-botelhom,PSC,208,TR,"0200, 0315"
-garciam,PSC,211,MWF,"1100, 1150"
-swetzoffs,PSC,217,TR,"1230, 0145"
-eastonw,PSC,300,TR,"1230, 0145"
-swetzoffs,PSC,310,TR,"0200, 0315"
-krassasn,PSC,325,MWF,"1100, 1150"
-garciam,PSC,350,TR,"1100, 1215"
-verrastron,PSC,365,TR,"0400, 0515"
-krassasn,PSC,400,MWF,"0100, 0150"
-mendoza-botelhom,PSC,460,T,"0400, 0645"
-krassasn,PSC,480, ,TBA
-mendoza-botelhom,PSC,480, ,TBA
-krassasn,PSC,495, ,TBA
-mendoza-botelhom,PSC,498, ,TBA
-salters-pedneaultk,PSY,100,MWF,"1000, 1050"
-salters-pedneaultk,PSY,100,MWF,"1100, 1150"
-hallm,PSY,100,TR,"0400, 0515"
-dillerj,PSY,101,M,"0900, 0950"
-krebsc,PSY,101,R,"1230, 0120"
-fugerem,PSY,202,MWF,"0900, 0950"
-fugerem,PSY,202,MWF,"1000, 1050"
-christopherm,PSY,203,W,"0400, 0645"
-krebsc,PSY,205,MWF,"0900, 0950"
-krebsc,PSY,205,MWF,"1000, 1050"
-tarriconed,PSY,206,MW,"0530, 0645"
-vasquez-o'brient,PSY,206,TR,"0930, 1045"
-fultons,PSY,206,TR,"0530, 0645"
-leszczynskij,PSY,210,MWF,"1100, 1150"
-keyesm,PSY,212,MWF,"0200, 0250"
-keyesm,PSY,212,MWF,"1100, 1150"
-cousinsa,PSY,227,MWF,"0800, 0910"
-koleks,PSY,227,TR,"0800, 0950"
-koleks,PSY,227,TR,"1100, 1250"
-krebsc,PSY,246,MWF,"1100, 1150"
-keyesm,PSY,247,MWF,"1200, 0110"
-girasolia,PSY,247,MW,"0700, 0850"
-koleks,PSY,247,TR,"0200, 0350"
-leep,PSY,302,TR,"1100, 1215"
-leep,PSY,302,TR,"1230, 0145"
-bachiochip,PSY,303,TR,"1100, 1215"
-bachiochip,PSY,305,TR,"0200, 0315"
-lanagan-leitzell,PSY,306,MWF,"1100, 1150"
-leszczynskij,PSY,314,MWF,"0800, 0850"
-leszczynskij,PSY,314,MWF,"0900, 0950"
-cousinsa,PSY,315,MWF,"1200, 1250"
-lanagan-leitzell,PSY,318,MWF,"1200, 1250"
-cousinsa,PSY,319,MWF,"0100, 0150"
-bachiochip,PSY,327,MW,"0400, 0515"
-bachiochip,PSY,327, ,TBA
-vasquez-o'brient,PSY,327,TR,"0400, 0515"
-vasquez-o'brient,PSY,327, ,TBA
-sciscoj,PSY,327,TR,"0930, 1045"
-sciscoj,PSY,327, ,TBA
-cousinsa,PSY,390,W,"1000, 1050"
-krebsc,PSY,390,M,"0200, 0250"
-krebsc,PSY,407,MWF,"0100, 0150"
-cordonl,PSY,409,TR,"0800, 0915"
-cordonl,PSY,409,TR,"0930, 1045"
-leep,PSY,410,TR,"0400, 0515"
-dillerj,PSY,417,MWF,"0800, 0850"
-sciscoj,PSY,418,TR,"0200, 0315"
-cordonl,PSY,419,TR,"1230, 0145"
-cordonl,PSY,419,TR,"0200, 0315"
-vasquez-o'brient,PSY,434,TR,"1230, 0145"
-leszczynskij,PSY,435,MWF,"1200, 1250"
-salters-pedneaultk,PSY,450,MWF,"0200, 0250"
-sciscoj,PSY,460,TR,"1100, 1215"
-leszczynskij,PSY,471,M,"1000, 1050"
-vasquez-o'brient,PSY,471,M,"1000, 1050"
-dillerj,PSY,480, ,TBA
-bachiochip,PSY,480, ,TBA
-lanagan-leitzell,PSY,480, ,TBA
-koleks,PSY,480, ,TBA
-cordonl,PSY,480, ,TBA
-keyesm,PSY,490, ,TBA
-sciscoj,PSY,490, ,TBA
-leszczynskij,PSY,490, ,TBA
-leep,PSY,490, ,TBA
-bachiochip,PSY,490, ,TBA
-salters-pedneaultk,PSY,490, ,TBA
-krebsc,PSY,490, ,TBA
-koleks,PSY,490, ,TBA
-fugerem,PSY,490, ,TBA
-cousinsa,PSY,490, ,TBA
-leszczynskij,PSY,491, ,TBA
-sciscoj,PSY,491, ,TBA
-dillerj,PSY,491, ,TBA
-salters-pedneaultk,PSY,491, ,TBA
-lanagan-leitzell,PSY,491, ,TBA
-koleks,PSY,491, ,TBA
-leep,PSY,491, ,TBA
-cousinsa,PSY,491, ,TBA
-fugerem,PSY,491, ,TBA
-krebsc,PSY,491, ,TBA
-vasquez-o'brient,PSY,491, ,TBA
-leep,PSY,496,M,"0400, 0450"
-salters-pedneaultk,PSY,496,F,"0900, 0950"
-bachiochip,PSY,497, ,TBA
-walterss,PBH,206,MWF,"1100, 1150"
-carrolls,PBH,209,M,"0400, 0645"
-clementss,PBH,209,TR,"0400, 0515"
-serranom,PBH,228,TR,"1230, 0145"
-serranom,PBH,228,TR,"0400, 0515"
-cowlese,PBH,301,T,"0400, 0645"
-murdochb,PBH,302,T,"0930, 1120"
-murdochb,PBH,302,T,"1230, 0220"
-walterss,PBH,330,MWF,"1000, 1050"
-carrolls,PBH,350,TR,"1100, 1215"
-blancaflors,PBH,440,TR,"0200, 0315"
-carrolls,PBH,494, ,TBA
-walterss,PBH,494, ,TBA
-trubeyp,SWK,200,R,"1230, 0315"
-nightingales,SWK,300,R,"1230, 0315"
-stantonm,SWK,300,T,"1230, 0315"
-stantonm,SWK,312,R,"1230, 0315"
-rodriguezd,SWK,312,T,"1230, 0315"
-rodriguezd,SWK,320,T,"0800, 1045"
-matthews-armsteade,SWK,320,T,"0800, 1045"
-stantonm,SWK,333,R,"0800, 1045"
-stantonm,SWK,333,R,"1100, 1150"
-nightingales,SWK,333,R,"0800, 1045"
-nightingales,SWK,333,R,"1100, 1150"
-rijsj,SWK,360,T,"0400, 0645"
-nightingales,SWK,420,T,"0800, 1045"
-keaned,SWK,420,T,"0400, 0645"
-matthews-armsteade,SWK,450,T,"1230, 0315"
-lewisj,SWK,450,T,"1230, 0315"
-pimentalc,SWK,450,T,"1230, 0315"
-nightingales,SWK,480, ,TBA
-stantonm,SWK,480, ,TBA
-simonn,SOC,100,TR,"0200, 0315"
-babars,SOC,100,MWF,"1100, 1150"
-babars,SOC,100,MWF,"1200, 1250"
-mccartyg,SOC,100,MWF,"0900, 0950"
-mccartyg,SOC,100,MWF,"1000, 1050"
-breslind,SOC,100,TR,"0400, 0515"
-simonn,SOC,201,W,"0900, 0950"
-azzaroe,SOC,220,T,"0700, 0945"
-burnsn,SOC,240,TR,"1100, 1215"
-breslind,SOC,250,TR,"0200, 0315"
-simonn,SOC,300,TR,"0930, 1045"
-severancet,SOC,307,MWF,"0900, 0950"
-westberryb,SOC,310,M,"0700, 0945"
-parsonsn,SOC,311,TR,"0930, 1045"
-westberryb,SOC,318,M,"0400, 0645"
-azzaroe,SOC,325,M,"0700, 0945"
-browns,SOC,346,R,"0400, 0645"
-kurtim,SOC,350,TR,"0200, 0350"
-kurtim,SOC,350,TR,"1100, 1250"
-parsonsn,SOC,351,TR,"1100, 1250"
-parsonsn,SOC,351,TR,"0200, 0350"
-simonn,SOC,400,TR,"1100, 1250"
-simonn,SOC,480, ,TBA
-pestar,SOC,480, ,TBA
-lugow,SOC,480, ,TBA
-simonn,SOC,490, ,TBA
-simonn,SOC,491, ,TBA
-simonn,SOC,492, ,TBA
-parsonsn,SOC,492, ,TBA
-simonn,SOC,493, ,TBA
-vijayasekarj,SPA,111,MWF,"1100, 1150"
-pareram,SPA,111,MWF,"0900, 0950"
-jendrewskir,SPA,111,MW,"0530, 0645"
-armstrongn,SPA,211,MWF,"1000, 1050"
-erik-soussia,SPA,219,M,"0400, 0645"
-pareram,SPA,311,MWF,"1200, 1250"
-penaaliceag,SPA,404,TR,"1100, 1215"
-armstrongn,SPA,490, ,TBA
-chank,SPA,492, ,TBA
-vijayasekarj,SPA,492, ,TBA
-cobbj,THE,174,TR,"0930, 1045"
-sokolovskayaa,THE,226, ,TBA
-wadeckij,THE,227, ,TBA
-morgank,THE,227, ,TBA
-wellesr,THE,227, ,TBA
-sokolovskayaa,THE,227, ,TBA
-pellegrinid,THE,228, ,TBA
-pellegrinid,THE,265,TR,"1100, 1250"
-cobbj,THE,272,TR,"0200, 0315"
-golebiewskit,THE,276,TR,"0400, 0515"
-golebiewskit,THE,277,M,"0400, 0645"
-sokolovskayaa,THE,278,TR,"0400, 0515"
-sokolovskayaa,THE,279,TR,"1230, 0145"
-o'brienm,THE,280,TR,"0930, 1045"
-houldcroftt,THE,281,W,"0400, 0645"
-floodr,THE,308,M,"0400, 0645"
-cobbj,THE,365,TR,"1230, 0145"
-bright-hollanda,THE,474,TR,"0400, 0515"
-sokolovskayaa,THE,475, ,TBA
-bright-hollanda,THE,475, ,TBA
-cobbj,THE,475, ,TBA
-cobbj,THE,480, ,TBA
-morgank,THE,480, ,TBA
-golebiewskit,THE,480, ,TBA
-floodr,THE,480, ,TBA
-pellegrinid,THE,480, ,TBA
-sokolovskayaa,THE,480, ,TBA
-golebiewskit,THE,481, ,TBA
-morgank,THE,495, ,TBA
-burnsn,WST,240,TR,"1100, 1215"
-abbatemarcoa,WST,260,TR,"1230, 0145"
-abbatemarcoa,WST,260,TR,"1100, 1215"
-rochonr,WST,260,MWF,"0900, 0950"
-westberryb,WST,310,M,"0700, 0945"
-cousinsa,WST,315,MWF,"1200, 1250"
-nightingales,WST,490, ,TBA
+Instructor,Sub,Crse,Sec,Day,Time,Room
+misikoc,ACC,201,01,T,"1600, 1845",GODDAR 223
+guom,ACC,201,02,TR,"0930, 1045",SCIENC 137
+guom,ACC,201,03,TR,"1100, 1215",SCIENC 137
+misikoc,ACC,202,01,M,"1600, 1845",WEBB 216
+guom,ACC,301,01,TR,"1400, 1515",GODDAR 216
+foyl,ACC,302,01,TR,"1100, 1215",SCIENC 132
+guom,ACC,303,01,W,"1600, 1845",WEBB 315
+rujoubm,ACC,311,01,TR,"0930, 1045",SCIENC 115
+capalboh,ACC,410,01,R,"1600, 1845",WEBB 113
+vailm,ACC,411,01,T,"1600, 1845",WEBB 113
+greenb,ACC,412,01,M,"1600, 1845",WEBB 315
+foyl,ACC,416,01,TR,"1230, 1345",SCIENC 132
+rujoubm,ACC,420,01,TR,"1100, 1215",SCIENC 115
+vailm,ACC,520,E25, ,TBA,TBA
+capalboh,ACC,531,E25, ,TBA,TBA
+shepard-torresr,ANT,106,01,TR,"0930, 1045",WEBB 110
+leissa,ANT,125,01,TR,"1400, 1515",WEBB 112
+couture-palmerinop,ANT,201,E25, ,TBA,ONLINE
+leissa,ANT,221,E25, ,TBA,ONLINE
+couture-palmerinop,ANT,222,E25, ,TBA,ONLINE
+carrolls,ANT,302,01X,TR,"0930, 1045",GODDAR 223
+williamsone,ANT,337,01,MWF,"0800, 0850",WEBB 214
+williamsone,ANT,345,01,MWF,"0900, 0950",WEBB 215
+shepard-torresr,ANT,364,01,TR,"1100, 1215",SCIENC 116
+leissa,ANT,365,01,TR,"1100, 1215",SCIENC 432
+leissa,ANT,400,01,W,"1600, 1845",WEBB 317
+leissa,ANT,490,01, ,TBA,TBA
+guarinob,ART,110,01,MW,"0900, 1145",FAIC 328
+mckeem,ART,110,02,TR,"0930, 1215",FAIC 326
+eliaa,ART,111,01,MW,"0900, 1145",FAIC 125
+greener,ART,111,02,TR,"1200, 1445",FAIC 125
+opied,ART,122,01,TR,"1600, 1845",FAIC 327
+chent,ART,124,01,TR,"0930, 1215",FAIC 327
+pinckneys,ART,140,01,TR,"0930, 1045",FAIC 305
+francob,ART,140,02,TR,"1230, 1345",FAIC 305
+beebyc,ART,140,03,TR,"1600, 1715",FAIC 305
+liuq,ART,202,01,TR,"1600, 1845",FAIC 331
+moranr,ART,202,02,MW,"0900, 1145",FAIC 331
+guildc,ART,202,03,TR,"0930, 1215",FAIC 331
+liuq,ART,205,01,TR,"1230, 1515",FAIC 331
+cariddik,ART,212,01,MW,"1600, 1750",FAIC 305
+francob,ART,212,02,TR,"1400, 1550",FAIC 305
+kims,ART,213,01,TR,"1600, 1845",FAIC 330
+bisantzj,ART,214,01,W,"0900, 1145",FAIC 330
+rahmanifara,ART,215,01X,MW,"0900, 1145",FAIC 323
+desousad,ART,217,01,TR,"1600, 1845",FAIC 125
+liuq,ART,219,01,M,"1200, 1445",FAIC 326
+bartonek,ART,219,02,T,"0930, 1215",FAIC 328
+bartonek,ART,219,02,T,"0930, 1215",FAIC 323
+toczylowskib,ART,230,01,WF,"1200, 1445",FAIC 247
+petrikovskyh,ART,233,01,MW,"1300, 1450",FAIC 115
+greener,ART,235,01,F,"1200, 1445",FAIC 125
+eliaa,ART,235,03,M,"1200, 1445",FAIC 125
+wintnerj,ART,250,01,TR,"1730, 1845",FAIC 305
+rahmanifara,ART,308,01X,MW,"0900, 1145",FAIC 323
+pinckneys,ART,313,01,TR,"1100, 1215",FAIC 305
+greener,ART,315,01,TR,"1600, 1845",FAIC 122
+chent,ART,327,01,M,"1200, 1445",FAIC 330
+chent,ART,329,01,TR,"1230, 1515",FAIC 327
+hollandj,ART,332,01,WF,"1200, 1445",FAIC 330
+drewt,ART,342,01,TR,"0930, 1215",FAIC 330
+lil,ART,343,01,MW,"0900, 1145",FAIC 327
+rahmanifara,ART,352,01X,MW,"1200, 1445",FAIC 331
+doylem,ART,401,01,WF,"1300, 1450",FAIC 305
+kims,ART,436,01,TR,"1230, 1515",FAIC 330
+rahmanifara,ART,470,01X,MW,"1200, 1445",FAIC 331
+chent,ART,480,01, ,TBA,TBA
+lil,ART,480,02, ,TBA,TBA
+lil,ART,480,03, ,TBA,TBA
+greener,ART,480,04, ,TBA,TBA
+chent,ART,480,05, ,TBA,TBA
+doylem,ART,480,06, ,TBA,TBA
+kims,ART,480,08, ,TBA,TBA
+chent,ART,480,09, ,TBA,TBA
+liuq,ART,480,10, ,TBA,TBA
+doylem,ART,480,11, ,TBA,TBA
+lil,ART,480,12, ,TBA,TBA
+doylem,ART,480,13, ,TBA,TBA
+petrikovskyh,ART,480,14, ,TBA,TBA
+rahmanifara,ART,480,15, ,TBA,TBA
+greener,ART,480,17, ,TBA,TBA
+kims,ART,480,18, ,TBA,TBA
+lil,ART,480,19, ,TBA,TBA
+greener,ART,480,20, ,TBA,TBA
+lil,ART,480,21, ,TBA,TBA
+greener,ART,480,22, ,TBA,TBA
+drewt,ART,480,24, ,TBA,TBA
+lil,ART,485,01,MW,"1600, 1845",FAIC 323
+greener,ART,485,01,MW,"1600, 1845",FAIC 323
+rahmanifara,ART,485,01,MW,"1600, 1845",FAIC 323
+lil,ART,485,01,MW,"1600, 1845",FAIC 122
+greener,ART,485,01,MW,"1600, 1845",FAIC 122
+rahmanifara,ART,485,01,MW,"1600, 1845",FAIC 122
+lil,ART,485,01,MW,"1600, 1845",FAIC 247
+greener,ART,485,01,MW,"1600, 1845",FAIC 247
+rahmanifara,ART,485,01,MW,"1600, 1845",FAIC 247
+doylem,ART,486,01, ,TBA,TBA
+chent,ART,487,01, ,TBA,TBA
+rahmanifara,ART,490,01, ,TBA,TBA
+chent,ART,490,02, ,TBA,TBA
+doylem,ART,490,03, ,TBA,TBA
+kerrm,AST,214,01,TR,"0930, 1045",PLANET PLT
+kerrm,AST,214,01A,T,"1100, 1200",PLANET PLT
+kerrm,AST,214,01B,R,"1100, 1200",PLANET PLT
+hulveyj,BIO,120,01,MWF,"1100, 1150",SCIENC 231
+hulveyj,BIO,120,01,M,"1400, 1650",SCIENC 331
+lauxd,BIO,140,01,MWF,"0900, 0950",SCIENC 104
+lauxd,BIO,140,01A,W,"1400, 1650",SCIENC 334
+murdochb,BIO,140,01B,R,"0930, 1220",SCIENC 334
+wasielewskit,BIO,200,01,TR,"0930, 1045",SCIENC 416
+wasielewskit,BIO,200,02,TR,"1100, 1215",SCIENC 416
+lucink,BIO,204,01,TR,"1100, 1215",SCIENC 320
+lucink,BIO,204,02,TR,"1230, 1345",SCIENC 320
+pasinij,BIO,204,03,TR,"0800, 0915",SCIENC 320
+pasinij,BIO,204,04,TR,"0930, 1045",SCIENC 320
+jacobsm,BIO,204,05,M,"1600, 1845",SCIENC 320
+jacobsm,BIO,204,06,TR,"1730, 1845",SCIENC 320
+grotha,BIO,210,01,MWF,"1000, 1050",SCIENC 134
+connollyb,BIO,222,01,MWF,"1100, 1150",SCIENC 416
+connollyb,BIO,222,01,R,"0930, 1220",SCIENC 318
+grotha,BIO,230,01,MWF,"1100, 1150",SCIENC 134
+grotha,BIO,230,01,M,"1400, 1650",SCIENC 335
+mattinglyb,BIO,240,02,MWF,"1000, 1050",SCIENC 231
+mattinglyb,BIO,240,02,T,"1100, 1350",SCIENC 331
+lucink,BIO,280,01, ,TBA,TBA
+idjadij,BIO,280,02, ,TBA,TBA
+cowlese,BIO,301,01X,T,"1600, 1845",SCIENC 116
+murdochb,BIO,302,01X,T,"0930, 1120",SCIENC 341
+murdochb,BIO,302,02X,T,"1230, 1420",SCIENC 341
+veerappanv,BIO,304,01,MWF,"0900, 0950",SCIENC 137
+veerappanv,BIO,304,02,MWF,"1000, 1050",SCIENC 137
+grahamm,BIO,305,01,MWF,"1300, 1350",SCIENC 104
+kwakuk,BIO,305,02,T,"1600, 1845",SCIENC 104
+gyurem,BIO,314,01,R,"0930, 1120",SCIENC 331
+gyurem,BIO,314,02,R,"1230, 1420",SCIENC 331
+gyurem,BIO,314,03,R,"1600, 1750",SCIENC 331
+mattinglyb,BIO,319,01,T,"0900, 1050",SCIENC 331
+eppk,BIO,319,01,T,"0900, 1050",SCIENC 331
+idjadij,BIO,319,01,T,"0900, 1050",SCIENC 331
+mattinglyb,BIO,320,01, ,TBA,TBA
+eppk,BIO,320,01, ,TBA,TBA
+idjadij,BIO,320,01, ,TBA,TBA
+hulveyj,BIO,334,01,MWF,"0900, 0950",SCIENC 231
+hulveyj,BIO,334,01,W,"1400, 1650",SCIENC 341
+grahamm,BIO,336,01,MWF,"1200, 1250",SCIENC 432
+grahamm,BIO,336,01,R,"1100, 1350",SCIENC 333
+lucink,BIO,350,01,MWF,"1000, 1050",SCIENC 432
+lucink,BIO,350,01A,M,"1400, 1650",SCIENC 315
+lucink,BIO,380,01, ,TBA,TBA
+grotha,BIO,380,02, ,TBA,TBA
+connollyb,BIO,380,03, ,TBA,TBA
+grahamm,BIO,380,04, ,TBA,TBA
+connollyb,BIO,380,05, ,TBA,TBA
+eppk,BIO,380,06, ,TBA,TBA
+grahamm,BIO,380,07, ,TBA,TBA
+hulveyj,BIO,380,08, ,TBA,TBA
+murdochb,BIO,380,09, ,TBA,TBA
+connollyb,BIO,380,10, ,TBA,TBA
+lauxd,BIO,380,11, ,TBA,TBA
+idjadij,BIO,380,12, ,TBA,TBA
+cowlese,BIO,424,01,MWF,"1000, 1050",SCIENC 416
+cowlese,BIO,424,01,T,"0930, 1220",SCIENC 335
+connollyb,BIO,438,01,MWF,"1300, 1350",SCIENC 416
+connollyb,BIO,438,01,R,"1400, 1650",SCIENC 318
+veerappanv,BIO,460,01,MWF,"1200, 1250",SCIENC 416
+veerappanv,BIO,460,01,R,"0930, 1220",SCIENC 335
+lauxd,BIO,462,01,MWF,"1100, 1150",SCIENC 432
+lauxd,BIO,462,01,M,"1400, 1650",SCIENC 334
+eppk,BIO,466,01,M,"1400, 1650",SCIENC 416
+eppk,BIO,466,02,W,"1400, 1650",SCIENC 416
+lucink,BIO,480,01, ,TBA,TBA
+veerappanv,BIO,480,02, ,TBA,TBA
+grahamm,BIO,480,03, ,TBA,TBA
+eppk,BIO,480,04, ,TBA,TBA
+lucink,BIO,480,05, ,TBA,TBA
+hulveyj,BIO,480,06, ,TBA,TBA
+murdochb,BIO,480,07, ,TBA,TBA
+lauxd,BIO,480,08, ,TBA,TBA
+connollyb,BIO,480,09, ,TBA,TBA
+lauxd,BIO,490,01, ,TBA,TBA
+murdochb,BIO,490,02, ,TBA,TBA
+grotha,BIO,490,03, ,TBA,TBA
+murdochb,BIO,490,04, ,TBA,TBA
+lucink,BIO,490,05, ,TBA,TBA
+mattinglyb,BIO,490,06, ,TBA,TBA
+connollyb,BIO,490,07, ,TBA,TBA
+gyurem,BIO,490,08, ,TBA,TBA
+murdochb,BIO,491,01, ,TBA,TBA
+murdochb,BIO,491,02, ,TBA,TBA
+veerappanv,BIO,491,03, ,TBA,TBA
+lucink,BIO,491,04, ,TBA,TBA
+hulveyj,BIO,491,05, ,TBA,TBA
+perryk,BUS,201,01,MWF,"1000, 1050",COMBLD 218
+erwinc,BUS,201,02,TR,"0930, 1045",COMBLD 218
+erwinc,BUS,201,03,TR,"1100, 1215",COMBLD 218
+synnottc,BUS,201,04,MWF,"0900, 0950",COMBLD 108
+norvaln,BUS,201,05,T,"1600, 1845",GODDAR 203
+perryk,BUS,201,06,MWF,"1100, 1150",COMBLD 218
+norvaln,BUS,201,07,TR,"1400, 1515",COMBLD 218
+aventa,BUS,225,01,MWF,"1200, 1250",COMBLD 109
+halls,BUS,225,02,W,"1600, 1845",COMBLD 201
+aventa,BUS,225,03,MWF,"1000, 1050",COMBLD 108
+nardellas,BUS,225,04,TR,"1230, 1345",COMBLD 107
+nardellas,BUS,225,05,TR,"1400, 1515",COMBLD 107
+grosjeanb,BUS,225,06,TR,"1100, 1215",COMBLD 107
+chattertonc,BUS,240,01,MWF,"0900, 0950",COMBLD 201
+dewildea,BUS,250,01,M,"1600, 1845",COMBLD 218
+dewildea,BUS,250,02,MWF,"1000, 1050",COMBLD 109
+dewildea,BUS,301,01,MWF,"0900, 0950",COMBLD 109
+buckw,BUS,301,02,TR,"0930, 1045",GODDAR 200
+buckw,BUS,301,03,TR,"1100, 1215",GODDAR 200
+dewildea,BUS,301,04,MWF,"1200, 1250",COMBLD 108
+villanuevae,BUS,307,01,MWF,"1200, 1250",COMBLD 218
+moylanw,BUS,321,01,MW,"1600, 1715",COMBLD 109
+moylanw,BUS,325,01,MW,"1730, 1845",COMBLD 109
+grosjeanb,BUS,326,01,T,"1900, 2145",COMBLD 218
+kangm,BUS,327,01,TR,"1400, 1515",SCIENC 234
+erwinc,BUS,331,01,T,"1900, 2145",COMBLD 108
+ferrarol,BUS,333,01,M,"1600, 1845",COMBLD 201
+chattertonc,BUS,340,01,R,"0930, 1215",COMBLD 201
+kaneg,BUS,342,01,MWF,"1200, 1250",COMBLD 107
+kaneg,BUS,342,02,MWF,"1000, 1050",COMBLD 201
+buckw,BUS,351,01,TR,"1400, 1515",COMBLD 201
+buckw,BUS,351,02,TR,"1600, 1715",COMBLD 108
+pakdilf,BUS,410,01,W,"1600, 1845",WEBB 314
+kaneg,BUS,411,01,MWF,"1300, 1350",COMBLD 107
+grandhis,BUS,428,01,TR,"1230, 1345",SCIENC 234
+kangm,BUS,429,01,W,"1600, 1845",SCIENC 234
+ohn,BUS,431,01,TR,"1230, 1345",COMBLD 218
+ohn,BUS,431,02,TR,"0930, 1045",GODDAR 202
+erwinc,BUS,431,03,TR,"1400, 1515",GODDAR 201
+deckerg,BUS,436,01,T,"1900, 2145",COMBLD 109
+villanuevae,BUS,450,01,MWF,"0800, 0850",COMBLD 218
+pakdilf,BUS,480,01, ,TBA,TBA
+pakdilf,BUS,480,02, ,TBA,TBA
+buckw,BUS,480,03, ,TBA,TBA
+villanuevae,BUS,480,04, ,TBA,TBA
+kaneg,BUS,480,05, ,TBA,TBA
+grandhis,BUS,480,06, ,TBA,TBA
+chattertonc,BUS,490,01V,M,"1900, 2015",COMBLD 201
+chattertonc,BUS,490,02V,R,"0800, 0915",COMBLD 201
+pakdilf,BUS,492,01, ,TBA,TBA
+grandhis,BUS,492,02, ,TBA,TBA
+donohuek,BIS,205,01,TR,"0800, 0915",WEBB 307
+reays,BIS,205,02,MWF,"0800, 0850",WEBB 307
+reays,BIS,205,03,MWF,"0900, 0950",WEBB 307
+kunenen,BIS,205,04,TR,"0930, 1045",WEBB 307
+dexterr,BIS,205,05,W,"1900, 2145",WEBB 307
+albinie,BIS,362,01,M,"1600, 1845",WEBB 307
+donohuek,BIS,365,01,TR,"0930, 1045",WEBB 407
+alkhamaieshs,BIS,370,01,TR,"1730, 1845",WEBB 307
+alkhamaieshs,BIS,370,02,TR,"1900, 2015",WEBB 307
+citursa,BIS,373,01,MF,"1400, 1515",WEBB 407
+citursa,BIS,379,01,M,"1600, 1845",WEBB 407
+schallerj,BIS,442,01,W,"1600, 1845",SCIENC 115
+johnsond,BIS,447,01,T,"1900, 2145",WEBB 407
+citursa,BIS,447,02,TR,"1100, 1215",WEBB 407
+kunenen,BIS,449,01,TR,"1230, 1345",WEBB 407
+kunenen,BIS,449,02,TR,"1400, 1515",WEBB 407
+citursa,BIS,461,01,MW,"1900, 2015",WEBB 407
+citursa,BIS,480,01, ,TBA,TBA
+couture-palmerinop,CAS,201,E25, ,TBA,TBA
+couture-palmerinop,CAS,222,E25, ,TBA,ONLINE
+hek,CHE,211,01,MWF,"0900, 0950",SCIENC 117
+hek,CHE,211,02,MWF,"1000, 1050",SCIENC 117
+hek,CHE,211,03,MWF,"1300, 1350",SCIENC 117
+islams,CHE,211,04,MW,"1600, 1715",SCIENC 117
+islams,CHE,211,05,MW,"1730, 1845",SCIENC 117
+parcinskia,CHE,213,01,M,"1100, 1350",SCIENC 440
+parcinskia,CHE,213,02,M,"1400, 1650",SCIENC 440
+ahmadis,CHE,213,03,T,"1600, 1850",SCIENC 440
+ahmadis,CHE,213,04,T,"1900, 2150",SCIENC 440
+swansons,CHE,213,05,W,"1600, 1850",SCIENC 440
+chirakul-maddenp,CHE,213,06,R,"1100, 1350",SCIENC 440
+chirakul-maddenp,CHE,213,07,R,"1400, 1650",SCIENC 440
+kozad,CHE,213,08,M,"1900, 2150",SCIENC 440
+swansons,CHE,213,09,W,"1900, 2150",SCIENC 440
+kozad,CHE,217,01,MWF,"1000, 1050",SCIENC 104
+candlerj,CHE,217,01A,T,"1900, 2150",SCIENC 441
+candlerj,CHE,217,01B,M,"1900, 2150",SCIENC 441
+toedtj,CHE,318,01,MWF,"1300, 1350",SCIENC 432
+toedtj,CHE,319,01,T,"1400, 1650",SCIENC 434
+islams,CHE,425,01,MWF,"1200, 1250",SCIENC 231
+islams,CHE,425,01A,F,"1400, 1750",SCIENC 434
+toedtj,CHE,480,01, ,TBA,TBA
+hek,CHE,480,02, ,TBA,TBA
+hek,CHE,480,03, ,TBA,TBA
+toedtj,CHE,490,01, ,TBA,TBA
+islams,CHE,492,01, ,TBA,TBA
+murphyj,COM,100,02,MWF,"1000, 1050",COMBLD 107
+curtiss,COM,101,01,MWF,"1100, 1150",FAIC 115
+utterbacka,COM,120,01,TR,"0930, 1045",COMBLD 114A
+utterbacka,COM,120,01,TR,"0930, 1045",COMBLD 114D
+utterbacka,COM,120,01,TR,"0930, 1045",COMBLD 114B
+ammarim,COM,220,01X,T,"1900, 2145",COMBLD 114A
+ammarim,COM,220,01X,T,"1900, 2145",COMBLD 114D
+ammarim,COM,220,01X,T,"1900, 2145",COMBLD 114B
+carlsonr,COM,220,02X,M,"1600, 1845",COMBLD 114A
+carlsonr,COM,220,02X,M,"1600, 1845",COMBLD 114D
+carlsonr,COM,220,02X,M,"1600, 1845",COMBLD 114B
+ammarim,COM,220,03X,T,"1600, 1845",COMBLD 114A
+ammarim,COM,220,03X,T,"1600, 1845",COMBLD 114D
+ammarim,COM,220,03X,T,"1600, 1845",COMBLD 114B
+dayb,COM,220,04X,TR,"1100, 1215",COMBLD 114A
+dayb,COM,220,04X,TR,"1100, 1215",COMBLD 114D
+dayb,COM,220,04X,TR,"1100, 1215",COMBLD 114B
+freunde,COM,230,01,T,"1600, 1845",COMBLD 109
+freunde,COM,230,02,W,"1600, 1845",COMBLD 218
+curtiss,COM,230,03,TR,"0930, 1045",COMBLD 108
+zatowskij,COM,245,01,T,"1600, 1845",COMBLD 226
+utterbacka,COM,290,01, ,TBA,TBA
+zatowskij,COM,291,01, ,TBA,TBA
+utterbacka,COM,300,02,TR,"1230, 1345",FAIC 307
+osterndorfw,COM,301,01,MWF,"1200, 1250",FAIC 115
+osterndorfw,COM,330,01,MWF,"0900, 0950",FAIC 307
+dayb,COM,357,01,TR,"0930, 1045",COMBLD 226
+dayb,COM,380,01X,TR,"1400, 1550",FAIC 115
+osterndorfw,COM,400,01,TR,"0930, 1045",FAIC 307
+osterndorfw,COM,403,01,TR,"1100, 1215",FAIC 307
+aconforan,COM,410,01,M,"1600, 1845",COMBLD 107
+utterbacka,COM,425,01,W,"1600, 1845",COMBLD 114A
+utterbacka,COM,425,01,W,"1600, 1845",COMBLD 114D
+utterbacka,COM,425,01,W,"1600, 1845",COMBLD 114B
+utterbacka,COM,480,01, ,TBA,TBA
+kangm,COM,480,02, ,TBA,TBA
+utterbacka,COM,480,03, ,TBA,TBA
+floodr,COM,480,04, ,TBA,TBA
+cobbj,COM,490,01, ,TBA,TBA
+floodr,COM,490,02, ,TBA,TBA
+kangm,COM,490,03, ,TBA,TBA
+jeonj,COM,490,04, ,TBA,TBA
+dayb,COM,490,05, ,TBA,TBA
+utterbacka,COM,490,06, ,TBA,TBA
+osterndorfw,COM,490,07, ,TBA,TBA
+zatowskij,COM,490,08, ,TBA,TBA
+sokolovskayaa,COM,490,09, ,TBA,TBA
+pellegrinid,CFT,100,01,F,"1200, 1445",FAIC 117
+morgank,CFT,100,02,F,"1200, 1445",FAIC 118
+floodr,CFT,205,01,MWF,"1000, 1110",COMBLD 226
+dayb,CFT,401,01,M,"1400, 1450",COMBLD 226
+tasneems,CSC,180,01,TR,"1100, 1215",SCIENC 138
+jahani,CSC,202,01,TR,"1400, 1515",SCIENC 135
+onyey,CSC,205,01,TR,"1230, 1345",SCIENC 133
+onyey,CSC,205,02,TR,"1400, 1515",SCIENC 133
+johnsonj,CSC,210,01,MWF,"0900, 0950",SCIENC 138
+bondoka,CSC,210,02,MWF,"1100, 1150",SCIENC 133
+johnsonj,CSC,210,03,MWF,"1000, 1050",SCIENC 139
+lavoiem,CSC,212,01,TR,"0930, 1045",SCIENC 135
+castron,CSC,215,01,TR,"0800, 0915",SCIENC 135
+rosienej,CSC,230,01,MWF,"1100, 1150",SCIENC 135
+jahani,CSC,231,01,MWF,"1100, 1150",SCIENC 139
+weselcouchc,CSC,249,01,M,"1600, 1845",SCIENC 135
+bondoka,CSC,251,01,MWF,"0900, 0950",SCIENC 135
+bondoka,CSC,251,02,MWF,"1000, 1050",SCIENC 135
+gaok,CSC,270,01,MWF,"1000, 1050",SCIENC 138
+gaok,CSC,270,02,MWF,"1400, 1450",SCIENC 138
+dancikg,CSC,314,01,TR,"1400, 1515",SCIENC 138
+rosienej,CSC,335,01,MWF,"1000, 1050",SCIENC 133
+rosienej,CSC,335,02,MWF,"0900, 0950",SCIENC 139
+rosienej,CSC,340,01,MW,"1600, 1715",SCIENC 139
+elfoulyr,CSC,360,01,TR,"1100, 1215",SCIENC 135
+shendec,CSC,360,02,MW,"1600, 1715",SCIENC 133
+soleymanpourr,CSC,360,03,TR,"1600, 1715",SCIENC 135
+elfoulyr,CSC,360,04,TR,"1230, 1345",SCIENC 138
+tasneems,CSC,440,01,TR,"1400, 1515",SCIENC 139
+tasneems,CSC,440,02,R,"1600, 1845",SCIENC 138
+gaok,CSC,445,01,MWF,"1100, 1150",SCIENC 138
+gaok,CSC,445,02,MW,"1600, 1715",SCIENC 138
+dancikg,CSC,450,01,TR,"0930, 1045",SCIENC 138
+rosienej,CSC,480,01, ,TBA,TBA
+tasneems,CSC,485,01, ,TBA,TBA
+dancikg,CSC,490,01, ,TBA,TBA
+marrettc,CED,300,01, ,TBA,TBA
+kurtim,CRM,210,01,R,"1600, 1845",GODDAR 223
+pestar,CRM,320,01,MWF,"1100, 1150",WEBB 313
+pestar,CRM,320,02,MWF,"1200, 1250",WEBB 313
+pestar,CRM,410,01,MWF,"1000, 1050",WEBB 313
+lugow,CRM,450,01,W,"1600, 1845",WEBB 313
+lugow,CRM,450,02,W,"1900, 2145",WEBB 313
+severancet,CRM,475,01V,M,"0800, 0850",WEBB 215
+pestar,CRM,480,01, ,TBA,TBA
+kurtim,CRM,480,02, ,TBA,TBA
+lugow,CRM,480,03, ,TBA,TBA
+severancet,CRM,480,04, ,TBA,TBA
+severancet,CRM,490,01, ,TBA,TBA
+severancet,CRM,490,02, ,TBA,TBA
+davism,DSC,501,E25, ,TBA,ONLINE
+liux,DSC,503,E25, ,TBA,ONLINE
+liux,DSC,503,E26, ,TBA,ONLINE
+davism,DSC,504,E25, ,TBA,ONLINE
+busij,DSC,505,E25, ,TBA,ONLINE
+turgeonk,DSC,508,E25, ,TBA,ONLINE
+bouleyt,ECE,215,01,TR,"1400, 1515",CECE 170
+drewryt,ECE,301,01, ,TBA,TBA
+swaminathans,ECE,330,01,T,"0930, 1215",CECE 175
+bouleyt,ECE,355,01,R,"0930, 1215",CECE 175
+bouleyt,ECE,400,01,T,"1600, 1845",CECE 175
+swaminathans,ECE,401,01, ,TBA,TBA
+laportek,ECE,405,01X,M,"1600, 1845",CECE 167
+rezain,ECE,410,01X,W,"1600, 1845",CECE 175
+leek,ECE,420,01X,M,"1600, 1845",CECE 175
+dunnacks,ECE,445,01,MTWRF,"0800, 1530",TBA
+bouleyt,ECE,480,01, ,TBA,TBA
+rezain,ECE,501,01X,W,"1600, 1845",CECE 175
+leek,ECE,505,01X,M,"1600, 1845",CECE 175
+laportek,ECE,506,01X,M,"1600, 1845",CECE 167
+bouleyt,ECE,516,01, ,TBA,TBA
+peacockj,ECE,565,01,MTWRF,"0800, 1530",TBA
+dunnacks,ECE,566,01, ,TBA,TBA
+swaminathans,ECE,696,01, ,TBA,TBA
+montemerloj,ECO,100,01,TR,"1230, 1345",COMBLD 108
+karrenbergj,ECO,100,02,MWF,"1300, 1350",COMBLD 201
+karrenbergj,ECO,100,03,MWF,"1400, 1450",COMBLD 201
+ndiayem,ECO,200,01,MWF,"1100, 1150",COMBLD 109
+cunninghamb,ECO,200,02,MWF,"1000, 1050",GODDAR 203
+fortew,ECO,200,03,TR,"0930, 1045",GODDAR 201
+fortew,ECO,200,04,TR,"1100, 1215",GODDAR 201
+ndiayem,ECO,201,01,MWF,"1200, 1250",GODDAR 203
+ndiayem,ECO,201,02,MWF,"1300, 1350",GODDAR 203
+volkmanv,ECO,201,03,MWF,"0900, 0950",GODDAR 201
+montemerloj,ECO,201,04,TR,"0930, 1045",GODDAR 216
+goodmand,ECO,201,05,TR,"1100, 1215",GODDAR 216
+eckenrothg,ECO,201,06,TR,"1400, 1515",GODDAR 203
+saponaroj,ECO,201,07,M,"1600, 1845",GODDAR 208
+weirl,ECO,215,01,TR,"1100, 1215",SCIENC 238
+weirl,ECO,215,02,TR,"1230, 1345",SCIENC 238
+ndiayem,ECO,301,01,MWF,"0900, 0950",GODDAR 223
+volkmanv,ECO,305,01,MWF,"1000, 1050",WEBB 307
+cunninghamb,ECO,325,01,MWF,"1200, 1250",COMBLD 201
+cunninghamb,ECO,325,02,MWF,"1100, 1150",COMBLD 201
+goodmand,ECO,331,01,TR,"0930, 1045",COMBLD 107
+cliffordm,ECO,479,01X,TR,"0930, 1045",GODDAR 203
+peterosr,ECO,479,02X,W,"1600, 1845",COMBLD 108
+cliffordm,ECO,479,03X,TR,"0800, 0915",GODDAR 203
+cliffordm,ECO,480,01, ,TBA,TBA
+cliffordm,ECO,480,02, ,TBA,TBA
+cliffordm,ECO,480,03, ,TBA,TBA
+cliffordm,ECO,480,04, ,TBA,TBA
+cliffordm,ECO,480,05, ,TBA,TBA
+robertst,EDU,200,01,TR,"1100, 1215",SCIENC 117
+leek,EDU,200,02,TR,"1400, 1515",CECE 167
+rodriguezl,EDU,222,01,TR,"1100, 1215",CECE 170
+tomanellij,EDU,222,02,TR,"0800, 0915",WEBB 317
+galvezd,EDU,222,03,W,"1900, 2145",CECE 167
+drewryt,EDU,301,01, ,TBA,TBA
+whitej,EDU,357,01,T,"1600, 1845",WEBB 210
+stoloffd,EDU,357,02,W,"1600, 1845",WEBB 210
+liux,EDU,357,03,R,"1600, 1845",WEBB 210
+rodriguezl,EDU,357,04,TR,"1400, 1515",COMBLD 108
+drewryt,EDU,401,01, ,TBA,TBA
+liux,EDU,404,01,F,"1200, 1445",WEBB 113
+zablonskim,EDU,405,01,R,"1600, 1845",WEBB 212
+dziavitk,EDU,410,01X,M,"1600, 1845",WEBB 215
+cookk,EDU,412,01,T,"1600, 1845",WEBB 215
+richardss,EDU,417,01,M,"1200, 1445",WEBB 113
+rodriguezl,EDU,425,01X,T,"1600, 1845",SCIENC 432
+fabrizim,EDU,425,02X,M,"1900, 2145",COMBLD 108
+richardss,EDU,465,01X,M,"1900, 2145",WEBB 113
+laportek,EDU,465,02X,T,"1900, 2145",WEBB 213
+zimmittil,EDU,470,01,MTWRF,"0800, 1530",TBA
+peacockj,EDU,471,01,MTWRF,"0800, 1530",TBA
+fabrizim,EDU,480,01, ,TBA,TBA
+mooreheadt,EDU,480,02, ,TBA,TBA
+richardss,EDU,480,03, ,TBA,TBA
+richardss,EDU,480,04, ,TBA,TBA
+ruddyj,EDU,490,01, ,TBA,TBA
+lamarchel,EDU,501,01, ,TBA,TBA
+espinozaa,EDU,502,01, ,TBA,TBA
+galvezd,EDU,505,E25, ,TBA,TBA
+dziavitk,EDU,510,01X,M,"1600, 1845",WEBB 215
+stoloffd,EDU,511,E25, ,TBA,ONLINE
+richardss,EDU,516,01,W,"1600, 1845",WEBB 113
+peacockj,EDU,521,01, ,TBA,TBA
+ashtonf,EDU,523,01, ,TBA,TBA
+rodriguezl,EDU,525,01X,T,"1600, 1845",SCIENC 432
+fabrizim,EDU,525,02X,M,"1900, 2145",COMBLD 108
+stoloffd,EDU,555,E25, ,TBA,ONLINE
+richardss,EDU,565,01X,M,"1900, 2145",WEBB 113
+laportek,EDU,565,02X,T,"1900, 2145",WEBB 213
+ashtonf,EDU,571,01,MTWRF,"0800, 1530",TBA
+espinozaa,EDU,573,01,MTWRF,"0800, 1530",TBA
+robertst,EDU,582,H01, ,TBA,ONLINE
+robertst,EDU,582,H01,R,"1600, 1845",WEBB 215
+leek,EDU,612,E25, ,TBA,TBA
+mooreheadt,EDU,632,E25, ,TBA,TBA
+mooreheadt,EDU,680,E25, ,TBA,ONLINE
+robinsonm,EDU,694,01,MTWRF,"0800, 1530",TBA
+robinsonm,EDU,694,02,MTWRF,"0800, 1530",TBA
+rodriguezl,EDU,696,01, ,TBA,TBA
+galvezd,EDU,696,02, ,TBA,TBA
+vijayasekarj,EDU,696,03, ,TBA,TBA
+cruzd,EDU,696,04, ,TBA,TBA
+stoloffd,EDU,696,05, ,TBA,TBA
+fabrizim,EDU,696,06, ,TBA,TBA
+richardss,EDU,696,07, ,TBA,TBA
+bouleyt,EDU,696,08, ,TBA,TBA
+swaminathans,EDU,697,E25, ,TBA,ONLINE
+oterom,ENG,100,01,TR,"0800, 0915",WEBB 206
+oterom,ENG,100,02,TR,"0930, 1045",WEBB 206
+johnsons,ENG,100,03,MWF,"1300, 1350",WEBB 206
+szymkiewiczr,ENG,100,04,TR,"1100, 1215",SCIENC 233
+cassidys,ENG,100,05,MWF,"1100, 1150",WEBB 206
+evesk,ENG,100,06,TR,"1600, 1715",WEBB 206
+reynoldsj,ENG,100,07,MWF,"1200, 1250",WEBB 206
+reynoldsj,ENG,100,08,MWF,"1100, 1150",SCIENC 233
+longe,ENG,100,09,MWF,"1000, 1050",WEBB 206
+congdonv,ENG,100,10,TR,"0930, 1045",SCIENC 233
+luxenbergh,ENG,100,11,TR,"1100, 1215",SCIENC 133
+mcneilk,ENG,100P,01,TR,"0930, 1045",WEBB 316
+mcneilk,ENG,100P,01,W,"0900, 1040",WEBB 316
+mcneilk,ENG,100P,02,TR,"1100, 1215",WEBB 316
+mcneilk,ENG,100P,02,W,"1100, 1240",WEBB 316
+luxenbergh,ENG,100P,03,M,"1400, 1540",WEBB 316
+luxenbergh,ENG,100P,03,TR,"1400, 1515",WEBB 316
+quickb,ENG,100P,04,TR,"1600, 1715",WEBB 316
+quickb,ENG,100P,04,W,"1600, 1740",WEBB 316
+szymkiewiczr,ENG,100P,05,TR,"1230, 1345",WEBB 316
+szymkiewiczr,ENG,100P,05,W,"1300, 1440",WEBB 316
+johnsons,ENG,100P,06,MF,"1100, 1240",WEBB 307
+johnsons,ENG,100P,06,W,"1100, 1150",WEBB 307
+mamar,ENG,125,01,TR,"1600, 1715",WEBB 216
+mamar,ENG,125,02,TR,"1400, 1515",WEBB 210
+clermont-ferrandm,ENG,177,01,TR,"1230, 1345",WEBB 212
+ferrucis,ENG,190,01,TR,"0930, 1045",SCIENC 134
+ferrucis,ENG,190,02,TR,"1100, 1215",WEBB 213
+taylorm,ENG,201,01,MWF,"1100, 1150",WEBB 114
+youngbloodj,ENG,201,02,MWF,"1200, 1250",WEBB 114
+terryb,ENG,205,01,TR,"0800, 0915",WEBB 112
+taylorm,ENG,205,02,MWF,"0900, 0950",LIBRAR 266
+terryb,ENG,205,03,TR,"0930, 1045",WEBB 112
+derosas,ENG,207,01,TR,"1400, 1515",WEBB 115
+mcneilk,ENG,215,01,TR,"1230, 1345",COMBLD 201
+speichera,ENG,223,02,MWF,"1100, 1150",WEBB 214
+mamar,ENG,225,01,TR,"1730, 1845",WEBB 216
+donaghyd,ENG,238,01,TR,"1400, 1515",WEBB 206
+delrioj,ENG,241,01,MWF,"0900, 0950",WEBB 213
+delrioj,ENG,241,02,MWF,"1000, 1050",WEBB 213
+clermont-ferrandm,ENG,241,03,TR,"1400, 1515",WEBB 212
+floodr,ENG,255,01,MWF,"0900, 0950",COMBLD 218
+chiricom,ENG,257,01,MWF,"1300, 1350",WEBB 313
+abbatemarcoa,ENG,260,01X,TR,"1230, 1345",GODDAR 208
+abbatemarcoa,ENG,260,02X,TR,"1100, 1215",GODDAR 208
+rochonr,ENG,260,03X,MWF,"0900, 0950",WEBB 113
+torockioc,ENG,301,01,TR,"1400, 1515",LIBRAR 266
+donaghyd,ENG,302,01,TR,"1100, 1215",SCIENC 134
+floodr,ENG,308,01X,M,"1600, 1845",FAIC 115
+speichera,ENG,328,01,MWF,"1300, 1350",WEBB 215
+youngbloodj,ENG,330,01,MF,"1400, 1515",WEBB 114
+clermont-ferrandm,ENG,337,01,TR,"1600, 1715",WEBB 114
+oterom,ENG,338,01,TR,"1230, 1345",SCIENC 416
+oterom,ENG,341,01,TR,"1400, 1515",SCIENC 416
+mamar,ENG,353,01,TR,"1230, 1345",SCIENC 231
+torockioc,ENG,372,01,W,"1600, 1845",WEBB 112
+derosas,ENG,380,01,W,"1600, 1845",WEBB 115
+donaghyd,ENG,382,01,TR,"1230, 1345",SCIENC 134
+chiricom,ENG,461,01,M,"1600, 1845",COMBLD 219
+torockioc,ENG,462,01,T,"1600, 1845",WEBB 213
+clermont-ferrandm,ENG,462,02,W,"1600, 1845",WEBB 213
+donaghyd,ENG,480,01, ,TBA,TBA
+clermont-ferrandm,ENG,480,02, ,TBA,TBA
+chiricom,ENG,480,03, ,TBA,TBA
+chiricom,ENG,481,01, ,TBA,TBA
+torockioc,ENG,493,01, ,TBA,TBA
+speichera,ENG,493,02, ,TBA,TBA
+donaghyd,ENG,493,03, ,TBA,TBA
+derosas,ENG,493,04, ,TBA,TBA
+clermont-ferrandm,ENG,494,01, ,TBA,TBA
+oterom,ENG,494,02, ,TBA,TBA
+derosas,ENG,494,03, ,TBA,TBA
+clermont-ferrandm,ENG,494,04, ,TBA,TBA
+chiricom,ENG,494,05, ,TBA,TBA
+donaghyd,ENG,495,01, ,TBA,TBA
+clermont-ferrandm,ENG,495,02, ,TBA,TBA
+donaghyd,ENG,495,03, ,TBA,TBA
+speichera,ENG,495,04, ,TBA,TBA
+ferrucis,ENG,495,05, ,TBA,TBA
+speichera,ENG,499,01, ,TBA,TBA
+clermont-ferrandm,ENG,499,02, ,TBA,TBA
+ferrucis,ENG,499,03, ,TBA,TBA
+torockioc,ENG,499,04, ,TBA,TBA
+derosas,ENG,499,05, ,TBA,TBA
+cunninghamw,EES,104,01,TR,"0930, 1045",SCIENC 236
+oakleyb,EES,104,02,TR,"1100, 1215",SCIENC 215
+tranl,EES,112,01,W,"1730, 1915",SCIENC 236
+tranl,EES,112,02,T,"1730, 1915",SCIENC 215
+drzewieckip,EES,130,01,MWF,"0900, 0950",SCIENC 216
+drzewieckip,EES,130,01,M,"1400, 1650",SCIENC 216
+sandeenj,EES,200,01,T,"1600, 1845",SCIENC 236
+nathans,EES,200,02,MWF,"1100, 1150",SCIENC 236
+delimal,EES,204,01,TR,"1230, 1345",SCIENC 236
+delimal,EES,204,02,TR,"1100, 1215",SCIENC 236
+nathans,EES,205,01,MWF,"1000, 1050",SCIENC 236
+khadev,EES,205,02,W,"1900, 2145",SCIENC 114
+carlsonh,EES,207,01,R,"1600, 1750",SCIENC 417
+carlsonh,EES,207,02,T,"1600, 1750",SCIENC 417
+carlsonh,EES,207,03,W,"1600, 1750",SCIENC 417
+hyattd,EES,224,01,TR,"0930, 1045",SCIENC 215
+hyattd,EES,224,01A,W,"1400, 1650",SCIENC 219
+hyattd,EES,224,01A,W,"1400, 1650",SCIENC 215
+hyattd,EES,224,01B,T,"1400, 1650",SCIENC 219
+hyattd,EES,224,01B,T,"1400, 1650",SCIENC 215
+cunninghamw,EES,271,H01,T,"1730, 1815",SCIENC 232
+drzewieckip,EES,271,H01,T,"1730, 1815",SCIENC 232
+cunninghamw,EES,271,H01, ,TBA,ONLINE
+drzewieckip,EES,271,H01, ,TBA,ONLINE
+metcalfm,EES,300,01,MW,"1730, 1845",SCIENC 215
+metcalfm,EES,301,01,W,"1300, 1550",SCIENC 233
+metcalfm,EES,322,01,MW,"1600, 1715",SCIENC 202
+metcalfm,EES,322,01,M,"1300, 1550",SCIENC 202
+nicholss,EES,323,01,W,"1600, 1845",SCIENC 233
+cunninghamw,EES,330,01,TR,"1100, 1215",SCIENC 232
+cunninghamw,EES,330,01,T,"1230, 1520",SCIENC 232
+cunninghamw,EES,333,01,W,"1300, 1350",SCIENC 232
+hyattd,EES,392,01, ,TBA,TBA
+nathans,EES,402,01,MWF,"0900, 0950",SCIENC 236
+nathans,EES,402,01,MWF,"0900, 0950",SCIENC 219
+hyattd,EES,441,01,R,"1400, 1650",SCIENC 219
+oakleyb,EES,456,01,TR,"0930, 1045",SCIENC 216
+metcalfm,EES,480,01, ,TBA,TBA
+metcalfm,EES,480,02, ,TBA,TBA
+metcalfm,EES,480,03, ,TBA,TBA
+oakleyb,EES,480,04, ,TBA,TBA
+oakleyb,EES,491,01, ,TBA,TBA
+chadwickj,EHS,210,01,TR,"1230, 1345",SCIENC 202
+erik-soussia,FLM,219,01X,M,"1600, 1845",WEBB 112
+ammarim,FLM,220,01X,T,"1900, 2145",COMBLD 114D
+carlsonr,FLM,220,02X,M,"1600, 1845",COMBLD 114D
+ammarim,FLM,220,03X,T,"1600, 1845",COMBLD 114D
+dayb,FLM,220,04X,TR,"1100, 1215",COMBLD 114D
+bachollem,FLM,223,01X,M,"1200, 1445",GODDAR 200
+bachollem,FLM,223,02X,W,"1200, 1445",GODDAR 200
+collinsg,FLM,321,01,R,"1900, 2145",COMBLD 107
+dayb,FLM,380,01X,TR,"1400, 1550",FAIC 115
+kyeii,FIN,245,01,MWF,"1100, 1150",GODDAR 202
+ryens,FIN,245,02,MWF,"1200, 1250",GODDAR 202
+kyeii,FIN,245,03,TR,"1100, 1215",GODDAR 203
+kyeii,FIN,245,06,MWF,"1000, 1050",GODDAR 202
+kyeii,FIN,335,01,M,"1600, 1845",GODDAR 203
+ryens,FIN,347,01,MWF,"1300, 1350",WEBB 210
+days-luketichp,FIN,350,01,T,"1600, 1845",COMBLD 218
+cliffordm,FIN,438,01,W,"1900, 2145",GODDAR 200
+liangl,FIN,445,01,TR,"1100, 1215",COMBLD 109
+liangl,FIN,445,02,TR,"0930, 1045",COMBLD 109
+liangl,FIN,446,01,TR,"1400, 1515",GODDAR 200
+cliffordm,FIN,462,01X,TR,"0930, 1045",GODDAR 203
+peterosr,FIN,462,02X,W,"1600, 1845",COMBLD 108
+cliffordm,FIN,462,03X,TR,"0800, 0915",GODDAR 203
+eckenrothg,FIN,490,01V,R,"1600, 1715",COMBLD 218
+bachollem,FRE,120,01,MWF,"1100, 1150",GODDAR 200
+bachollem,FRE,223,01X,M,"1200, 1445",GODDAR 200
+bachollem,FRE,223,02X,W,"1200, 1445",GODDAR 200
+dahmanif,FRE,492,01, ,TBA,TBA
+dahmanif,FRE,492,02, ,TBA,TBA
+michimia,GEO,100,01,MWF,"1000, 1050",GODDAR 201
+clementss,GEO,331,01,TR,"0930, 1045",LIBRAR 436
+michimia,GEO,332,01,MWF,"0900, 0950",GODDAR 208
+difrancoa,HPE,104,01,M,"1600, 1845",GODDAR 201
+woodmanseek,HPE,104,02,W,"1600, 1845",GODDAR 202
+vogtd,HPE,104,03,R,"1600, 1845",GODDAR 200
+fresco-hawesc,HPE,104,04,W,"1600, 1845",GODDAR 201
+henryj,HPE,104,05,T,"1600, 1845",GODDAR 200
+robertd,HPE,104,06,TR,"0930, 1045",CECE 167
+robertd,HPE,104,07,TR,"1100, 1215",CECE 167
+henryj,HPE,104,08,M,"1600, 1845",GODDAR 202
+vogtd,HPE,104,09,W,"1600, 1845",GODDAR 203
+dewildea,HPE,117,01,MWF,"1400, 1450",GODDAR 201
+sanfordl,HPE,127,01,TR,"1900, 2015",SPORT 104
+madenjianwybierackik,HPE,140,01,MWF,"1100, 1150",FAIC 219
+madenjianwybierackik,HPE,140,02,MWF,"1100, 1150",FAIC 219
+madenjianwybierackik,HPE,140,03,MWF,"1200, 1250",FAIC 219
+madenjianwybierackik,HPE,140,04,MWF,"1200, 1250",FAIC 219
+sanfordl,HPE,140,05,TR,"1730, 1845",SPORT 104
+sanfordl,HPE,140,06,TR,"1730, 1845",SPORT 104
+khowm,HPE,141,01,TR,"0930, 1045",SPORT 104
+khowm,HPE,143,01,TR,"0800, 0915",SPORT 104
+difrancoa,HPE,201,01,W,"1600, 1845",GODDAR 208
+difrancoa,HPE,201,02,W,"1600, 1845",GODDAR 208
+frainm,HPE,210,01,W,"1600, 1845",GODDAR 216
+manfredie,HPE,210,02,TR,"1230, 1345",GODDAR 216
+frainm,HPE,210,03,W,"1900, 2145",GODDAR 216
+coxp,HPE,310,01,W,"1900, 2145",GODDAR 208
+tracyj,HPE,326,01,T,"0800, 0915",SPORT 219
+tracyj,HPE,326,01,R,"0800, 0915",FAIC 219
+rowettc,HPE,327,01,T,"1600, 1845",CECE 170
+switchenkod,HPE,328,01,TR,"1600, 1715",SPORT 221
+switchenkod,HPE,329,01,TR,"0800, 0915",SPORT 221
+rowettc,HPE,340,01,T,"1900, 2145",CECE 170
+manfredie,HPE,361,01,T,"0930, 1030",SPORT 219
+manfredie,HPE,361,01,T,"1030, 1215",SPORT 201/GYM
+switchenkok,HPE,362,01,R,"0930, 1030",SPORT 219
+switchenkok,HPE,362,01,R,"1030, 1215",SPORT 201/GYM
+robertd,HPE,475,01,MTWRF,"0800, 1530",TBA
+robertd,HPE,476,01,R,"1600, 1845",CECE 167
+rowettc,HPE,480,01, ,TBA,TBA
+robertd,HPE,490,01, ,TBA,TBA
+carrolls,HSC,209,01X,M,"1600, 1845",GODDAR 216
+clementss,HSC,209,02X,TR,"1600, 1715",GODDAR 208
+canavanp,HSC,210,01,MWF,"1100, 1150",COMBLD 107
+smithe,HSC,215,01,TR,"1230, 1345",GODDAR 117
+porebskab,HSC,215,01A,W,"0900, 1150",SCIENC 237
+porebskab,HSC,215,01B,W,"1200, 1450",SCIENC 237
+kylek,HSC,215,01C,T,"0800, 1050",SCIENC 237
+banee,HSC,215,01D,R,"0800, 1050",SCIENC 237
+porebskab,HSC,215,01E,M,"1600, 1850",SCIENC 237
+smithe,HSC,215,01F,M,"1300, 1550",SCIENC 237
+kylek,HSC,215,01G,F,"0800, 1050",SCIENC 237
+smithe,HSC,215,02,MWF,"1200, 1250",GODDAR 216
+smithe,HSC,215,03,TR,"1100, 1215",COMBLD 108
+dzurecl,HSC,225,01,TR,"1230, 1345",GODDAR 200
+beeverj,HSC,225,02,TR,"0800, 0915",GODDAR 208
+dzurecl,HSC,225,03,MWF,"1300, 1350",GODDAR 216
+dzurecl,HSC,225,04,MWF,"1100, 1150",GODDAR 203
+bissonnettea,HSC,235,01,MWF,"1300, 1350",GODDAR 117
+porebskab,HSC,291,01, ,TBA,TBA
+smithe,HSC,291,02, ,TBA,TBA
+carrolls,HSC,302,01X,TR,"0930, 1045",GODDAR 223
+bataillea,HSC,308,01,MWF,"0900, 0950",GODDAR 200
+canavanp,HSC,318,01,MWF,"1000, 1050",GODDAR 223
+canavanp,HSC,318,01A,T,"1230, 1520",GODDAR 127
+canavanp,HSC,318,01B,T,"0800, 1050",GODDAR 127
+cotea,HSC,318,02,MWF,"1300, 1350",GODDAR 208
+tackettm,HSC,318,02A,M,"0800, 1050",GODDAR 127
+canavanp,HSC,318,02B,M,"1500, 1750",GODDAR 127
+cotea,HSC,318,03,MWF,"1400, 1450",GODDAR 208
+joinerk,HSC,318,03A,W,"0800, 1050",GODDAR 127
+joinerk,HSC,318,03B,T,"1600, 1850",GODDAR 127
+bataillea,HSC,319,01,MWF,"1100, 1150",GODDAR 223
+bataillea,HSC,319,01A,R,"1230, 1520",GODDAR 127
+bataillea,HSC,319,01B,R,"0800, 1050",GODDAR 127
+bataillea,HSC,319,02,MWF,"1300, 1350",GODDAR 223
+tackettm,HSC,319,02A,F,"0800, 1050",GODDAR 127
+thapag,HSC,319,02B,F,"1400, 1650",GODDAR 127
+daled,HSC,320,01,MWF,"1200, 1250",GODDAR 117
+daled,HSC,332,01,TR,"1100, 1215",GODDAR 117
+daled,HSC,342,01,TR,"0800, 0915",GODDAR 200
+andersong,HSC,356,01,MWF,"0900, 0950",SPORT 219
+alexanderj,HSC,370,01,TR,"0930, 1045",GODDAR 123
+walterss,HSC,380,01, ,TBA,TBA
+bataillea,HSC,380,02, ,TBA,TBA
+carrolls,HSC,390,01, ,TBA,TBA
+canavanp,HSC,391,01, ,TBA,TBA
+carrolls,HSC,391,02, ,TBA,TBA
+banee,HSC,391,03, ,TBA,TBA
+smithe,HSC,391,04, ,TBA,TBA
+walterss,HSC,400,01,MWF,"1200, 1310",SCIENC 115
+nsiahy,HSC,404,01,MWF,"1100, 1150",GODDAR 208
+beeverj,HSC,408,01,TR,"0930, 1045",GODDAR 208
+dzurecd,HSC,425,01,MWF,"0800, 0850",GODDAR 200
+dzurecd,HSC,425,01,M,"1400, 1650",SCIENC 341
+bissonnettea,HSC,438,01,MWF,"1400, 1450",GODDAR 117
+blancaflors,HSC,438,02,TR,"1230, 1345",GODDAR 201
+beebej,HSC,444,01,TR,"1730, 2145",GODDAR 123
+daled,HSC,450,01,MWF,"1100, 1150",GODDAR 117
+canavanp,HSC,480,01, ,TBA,TBA
+canavanp,HSC,480,02, ,TBA,TBA
+carrolls,HSC,480,03, ,TBA,TBA
+carrolls,HSC,480,04, ,TBA,TBA
+carrolls,HSC,480,06, ,TBA,TBA
+walterss,HSC,480,07, ,TBA,TBA
+walterss,HSC,480,08, ,TBA,TBA
+carrolls,HSC,490,01, ,TBA,TBA
+dzurecd,HSC,491,01, ,TBA,TBA
+porebskab,HSC,491,02, ,TBA,TBA
+carrolls,HSC,491,03, ,TBA,TBA
+beebej,HSC,491,04, ,TBA,TBA
+kylek,HSC,491,05, ,TBA,TBA
+thapag,HSC,491,06, ,TBA,TBA
+carenenc,HIS,101,01,TR,"0930, 1045",SCIENC 231
+davisb,HIS,116,01,MWF,"0900, 0950",LIBRAR 436
+davisb,HIS,116,02,MWF,"1300, 1350",LIBRAR 436
+closes,HIS,120,01,TR,"0800, 0915",WEBB 315
+closes,HIS,120,02,TR,"1400, 1515",WEBB 315
+closes,HIS,121,01,TR,"1230, 1345",WEBB 315
+davisb,HIS,200,01,MWF,"1000, 1110",LIBRAR 266
+fryed,HIS,230,01,TR,"1100, 1215",WEBB 214
+fryed,HIS,230,02,W,"1600, 1845",WEBB 216
+fryed,HIS,230,03,TR,"1600, 1715",WEBB 214
+moores,HIS,231,01,MWF,"0900, 0950",FAIC 305
+saenzcambrac,HIS,255,01,MWF,"1100, 1150",WEBB 317
+fryed,HIS,267,01,W,"1900, 2145",WEBB 317
+closes,HIS,322,01,TR,"0930, 1045",WEBB 315
+balcerskit,HIS,325,01,W,"1600, 1845",WEBB 215
+moores,HIS,337,01,MWF,"1300, 1350",WEBB 315
+ostwaldj,HIS,362,01,TR,"1600, 1715",GODDAR 216
+fryed,HIS,365,02,TR,"1400, 1515",WEBB 113
+davisb,HIS,373,01,MWF,"1400, 1450",WEBB 212
+carenenc,HIS,379,01,TR,"1100, 1215",LIBRAR 436
+ostwaldj,HIS,386,01,TR,"1230, 1345",WEBB 206
+moores,HIS,406,01,MWF,"1100, 1210",WEBB 213
+davisb,HIS,480,01, ,TBA,TBA
+moores,HIS,480,02, ,TBA,TBA
+moores,HIS,480,03, ,TBA,TBA
+balcerskit,HIS,480,04, ,TBA,TBA
+closes,HIS,480,05, ,TBA,TBA
+fryed,HIS,481,01, ,TBA,TBA
+moores,HIS,491,01, ,TBA,TBA
+moores,HIS,491,02, ,TBA,TBA
+moores,HIS,491,03, ,TBA,TBA
+fryed,HIS,491,04, ,TBA,TBA
+cobbj,HON,361,01,T,"1600, 1845",FAIC 115
+youngbloodj,HON,361,02,MW,"1600, 1715",WEBB 114
+fugerem,HON,362,01,MWF,"1300, 1350",WEBB 213
+cochrant,HON,375,01,W,"1500, 1550",FAIC 115
+gaok,HON,488,01, ,TBA,TBA
+krebsc,HON,488,02, ,TBA,TBA
+moores,HON,488,03, ,TBA,TBA
+guom,HON,488,04, ,TBA,TBA
+morgank,HON,488,05, ,TBA,TBA
+grotha,HON,488,06, ,TBA,TBA
+carrolls,HON,488,07, ,TBA,TBA
+brosciousc,HON,488,08, ,TBA,TBA
+dancikg,HON,488,09, ,TBA,TBA
+dancikg,HON,488,10, ,TBA,TBA
+torockioc,HON,488,11, ,TBA,TBA
+greener,HON,488,12, ,TBA,TBA
+speichera,HON,488,13, ,TBA,TBA
+heenehanm,HON,488,14, ,TBA,TBA
+metcalfm,HON,488,15, ,TBA,TBA
+tasneems,HON,488,16, ,TBA,TBA
+vasquez-o'brient,HON,488,17, ,TBA,TBA
+bataillea,HON,488,18, ,TBA,TBA
+pakdilf,HON,488,19, ,TBA,TBA
+drewryc,IIP,200,01, ,TBA,TBA
+drewryc,IIP,300,01, ,TBA,TBA
+drewryc,IIP,300,02, ,TBA,TBA
+drewryc,ISP,300,01, ,TBA,TBA
+drewryc,ISP,301,01, ,TBA,TBA
+erik-soussia,LAS,219,01X,M,"1600, 1845",WEBB 112
+calissij,LAC,100,01,TR,"1230, 1345",FAIC 118
+drzewieckip,LAC,100,02,MWF,"1100, 1150",SCIENC 216
+hollandj,LAC,100,03,MWF,"1000, 1050",FAIC 118
+calissij,LAC,101,01,M,"1000, 1050",FAIC 115
+drzewieckip,LAC,101,02,W,"1200, 1250",SCIENC 216
+hollandj,LAC,101,03,M,"0900, 0950",FAIC 118
+pellegrinid,LAC,101,04,M,"1600, 1650",FAIC 118
+chiricom,LAC,200,01,MWF,"1100, 1150",GODDAR 216
+dillerj,LAC,200,01,MWF,"1100, 1150",GODDAR 216
+doylem,LAC,200,01,MWF,"1100, 1150",GODDAR 216
+wardk,LAC,200,02,MWF,"1300, 1350",SCIENC 134
+heenehanm,LAC,200,02,MWF,"1300, 1350",SCIENC 134
+o'nealf,LAC,200,03,MWF,"1300, 1350",FAIC 110
+stoloffd,LAC,400,01,W,"1900, 2145",WEBB 210
+whitej,LAP,430,01,W,"1900, 2145",WEBB 113
+dowdelld,MGT,502,E25, ,TBA,TBA
+dowdelld,MGT,502,E26, ,TBA,ONLINE
+ferrarol,MGT,505,E25, ,TBA,TBA
+ohn,MGT,506,E25, ,TBA,TBA
+grandhis,MGT,508,E25, ,TBA,TBA
+whiteheadb,MAT,099,01,MWF,"0900, 0950",SCIENC 234
+wus,MAT,099,02,TR,"1600, 1715",SCIENC 234
+fisterk,MAT,099,03,MWF,"1400, 1450",WEBB 314
+whiteheadb,MAT,135,01,MWF,"0800, 0850",SCIENC 132
+oseibonsuk,MAT,135,02,MWF,"1400, 1450",SCIENC 114
+wus,MAT,135,03,TR,"0930, 1045",SCIENC 132
+pozdnyakovaz,MAT,135P,01,MWF,"0800, 0850",GODDAR 203
+pozdnyakovaz,MAT,135P,01,M,"0900, 0950",GODDAR 203
+coffeyk,MAT,135P,02,MWF,"0900, 0950",WEBB 112
+coffeyk,MAT,135P,02,F,"1000, 1050",WEBB 112
+allene,MAT,135P,03,TR,"0800, 0950",SCIENC 117
+coffeyk,MAT,135P,04,MWF,"1400, 1450",SCIENC 137
+coffeyk,MAT,135P,04,F,"1300, 1350",SCIENC 137
+fisterk,MAT,135P,05,MW,"1600, 1750",SCIENC 132
+gageoneam,MAT,135P,06,TR,"1400, 1550",SCIENC 114
+gageoneam,MAT,135P,07,TR,"1600, 1750",SCIENC 117
+brunellek,MAT,139P,01,MWF,"0900, 0950",WEBB 114
+brunellek,MAT,139P,01,W,"0800, 0850",WEBB 114
+johnsonp,MAT,139P,02,TR,"1600, 1750",SCIENC 132
+jaross,MAT,140,01,M,"1600, 1715",SCIENC 238
+jaross,MAT,140,01,W,"1600, 1715",SCIENC 137
+oseibonsuk,MAT,155,01,MWF,"0900, 0950",SCIENC 116
+oseibonsuk,MAT,155,01,M,"1000, 1050",SCIENC 116
+laddj,MAT,155P,01,MWF,"1300, 1350",SCIENC 132
+laddj,MAT,155P,01,MW,"1400, 1450",SCIENC 132
+aidooa,MAT,155P,02,TR,"0930, 1045",SCIENC 114
+aidooa,MAT,155P,02,W,"1000, 1150",SCIENC 116
+larosec,MAT,216,01,MWF,"1400, 1450",SCIENC 234
+larosec,MAT,216,02,MWF,"1300, 1350",SCIENC 234
+pozdnyakovaz,MAT,216,03,MWF,"1100, 1150",SCIENC 234
+dalek,MAT,216,04,TR,"0800, 0915",SCIENC 234
+bussierej,MAT,216,05,TR,"1600, 1715",SCIENC 238
+larosec,MAT,217,01,MWF,"1000, 1050",SCIENC 234
+heenehanm,MAT,230,01,MWF,"1000, 1050",SCIENC 132
+aidooa,MAT,230,02,TR,"1230, 1345",SCIENC 116
+yankovc,MAT,243,01,MWF,"0900, 0950",SCIENC 114
+yankovc,MAT,243,01,W,"0800, 0850",SCIENC 114
+sarikhanikhoramim,MAT,243,02,M,"1300, 1350",SCIENC 137
+sarikhanikhoramim,MAT,243,02,TR,"1100, 1215",SCIENC 114
+yankovc,MAT,243,03,MWF,"1100, 1150",SCIENC 114
+yankovc,MAT,243,03,W,"1200, 1250",SCIENC 114
+oseibonsuk,MAT,244,01,MWF,"1100, 1150",SCIENC 132
+oseibonsuk,MAT,244,01,W,"1200, 1250",SCIENC 116
+johnsonp,MAT,315,01,MWF,"1300, 1350",SCIENC 238
+johnsonp,MAT,315,01,M,"1400, 1450",SCIENC 238
+heenehanm,MAT,320,01,MWF,"1200, 1250",SCIENC 132
+aidooa,MAT,340,01,TR,"1400, 1515",SCIENC 132
+aidooa,MAT,340,01,W,"1400, 1450",SCIENC 238
+wardk,MAT,341,01,MWF,"0900, 0950",SCIENC 132
+larosec,MAT,343,01,MWF,"1100, 1150",SCIENC 238
+sarikhanikhoramim,MAT,355,01,TR,"1230, 1345",SCIENC 114
+johnsonp,MAT,362,01,TR,"1900, 2015",SCIENC 114
+yankovc,MAT,421,01,MWF,"1000, 1050",SCIENC 114
+sarikhanikhoramim,MAT,480,01, ,TBA,TBA
+oseibonsuk,MAT,480,02, ,TBA,TBA
+johnsonp,MAT,480,03, ,TBA,TBA
+sarikhanikhoramim,MAT,490,01, ,TBA,TBA
+sholesz,MSC,132,03,W,"1300, 1350",LIBRAR 266
+sholesz,MSC,146,02,W,"1400, 1600",LIBRAR 266
+thompsona,MSC,253,01,W,"1325, 1525",TBA
+thompsona,MSC,253,01,F,"1300, 1700",TBA
+balought,MUS,100,01,MWF,"0800, 0850",FAIC 110
+balought,MUS,100,02,MWF,"0900, 0950",FAIC 110
+bellesd,MUS,103,01,MW,"1730, 1845",FAIC 110
+watkinsk,MUS,107,01,W,"1900, 2130",FAIC 108
+d'aleoj,MUS,107,01,W,"1900, 2130",FAIC 108
+bellesd,MUS,113,01,WF,"1500, 1550",FAIC 110
+calissij,MUS,113,02,F,"1530, 1650",FAIC 108
+cornicelloa,MUS,113,03,M,"1600, 1730",FAIC 108
+riggse,MUS,113,04,R,"1730, 1845",FAIC 108
+ballenad,MUS,113,05,T,"1900, 2020",FAIC 110
+o'nealf,MUS,113,06,M,"1500, 1550",FAIC 108
+delaneye,MUS,113,08,R,"1230, 1345",FAIC 110
+calissir,MUS,114,01,TR,"0930, 1045",FAIC 212
+calissir,MUS,114,02,TR,"1100, 1215",FAIC 212
+ballenad,MUS,114,03,MWF,"1000, 1050",FAIC 212
+ballenad,MUS,114,04,MWF,"1100, 1150",FAIC 212
+delaneye,MUS,118,01,TR,"1400, 1515",FAIC 108
+calissij,MUS,120,01,TR,"1400, 1515",FAIC 110
+o'nealf,MUS,160,01,MWF,"1400, 1450",FAIC 307
+cornicelloa,MUS,205,01,MWF,"1100, 1150",FAIC 108
+hwango,MUS,214,01,MWF,"0900, 0950",FAIC 212
+calissij,MUS,215,01,W,"1000, 1050",FAIC 108
+calissij,MUS,215,02,F,"1000, 1050",FAIC 108
+calissij,MUS,234,01,MWF,"1100, 1150",FAIC 305
+cochrant,MUS,236,01,TR,"0930, 1045",FAIC 108
+echolsc,MUS,250,01,TR,"1100, 1215",FAIC 243
+echolsc,MUS,250,02,TR,"1230, 1345",FAIC 243
+hwango,MUS,330,01,MWF,"1100, 1150",FAIC 307
+tonera,MUS,356,09, ,TBA,TBA
+delaneye,MUS,356,12, ,TBA,TBA
+cornicelloa,MUS,356,16, ,TBA,TBA
+calissij,MUS,356,20, ,TBA,TBA
+calissir,MUS,356,21, ,TBA,TBA
+hwango,MUS,356,22, ,TBA,TBA
+thomasj,MUS,356,24, ,TBA,TBA
+washburns,MUS,356,31, ,TBA,TBA
+washburns,MUS,356,32, ,TBA,TBA
+riggse,MUS,356,33, ,TBA,TBA
+ballenad,MUS,356,39, ,TBA,TBA
+ballenad,MUS,356,40, ,TBA,TBA
+bronsonm,MUS,356,41, ,TBA,TBA
+cornicelloa,MUS,372,01,MWF,"1300, 1350",FAIC 243
+riggse,MUS,395,01, ,TBA,TBA
+hwango,MUS,395,02, ,TBA,TBA
+delaneye,MUS,395,03, ,TBA,TBA
+delaneye,MUS,456,12, ,TBA,TBA
+hwango,MUS,456,22, ,TBA,TBA
+riggse,MUS,456,34, ,TBA,TBA
+cochrant,MUS,480,01, ,TBA,TBA
+bellesd,MUS,480,02, ,TBA,TBA
+calissij,MUS,480,03, ,TBA,TBA
+riggse,MUS,480,04, ,TBA,TBA
+cochrant,MUS,480,05, ,TBA,TBA
+calissij,MUS,480,06, ,TBA,TBA
+bellesd,MUS,480,07, ,TBA,TBA
+bellesd,MUS,480,08, ,TBA,TBA
+drewryc,NSE,300,01, ,TBA,TBA
+dotsont,NUR,205,01,TR,"1600, 1715",GODDAR 117
+dotsont,NUR,205,02,TR,"1400, 1515",GODDAR 117
+cotea,NUR,372,01,MW,"0900, 1030",GODDAR 117
+cotea,NUR,403,01,WF,"1100, 1230",SCIENC 137
+nadeauc,NUR,424,01,MW,"1600, 1715",GODDAR 117
+blainj,NUR,424,01A, ,TBA,TBA
+geers,NUR,424,01B, ,TBA,TBA
+mooneym,NUR,424,01C, ,TBA,TBA
+goyettel,NUR,424,01D, ,TBA,TBA
+schallerj,OSC,260,01,TR,"1100, 1215",WEBB 212
+wraym,OSC,260,02,T,"1600, 1845",COMBLD 201
+pakdilf,OSC,260,03,MWF,"0800, 0850",COMBLD 201
+schallerj,OSC,360,01,TR,"1400, 1515",WEBB 307
+bachiochip,ORG,696,01, ,TBA,TBA
+dexterr,ORG,696,02, ,TBA,TBA
+vob,ORG,696,03, ,TBA,TBA
+ohn,ORG,696,04, ,TBA,TBA
+rukgaberm,PHI,120,01,MWF,"1400, 1450",LIBRAR 436
+verrastron,PHI,120,02,MWF,"1100, 1150",LIBRAR 436
+swiftp,PHI,210,01,TR,"0930, 1045",FAIC 115
+stockerk,PHI,215,01,MWF,"0900, 0950",WEBB 214
+slutskyd,PHI,220,01,MW,"1600, 1715",GODDAR 223
+rukgaberm,PHI,330,01,TR,"1100, 1215",GODDAR 202
+swiftp,PHI,340,01,TR,"1400, 1515",LIBRAR 436
+verrastron,PHI,365,01X,TR,"1600, 1715",GODDAR 201
+stockerk,PHI,480,01, ,TBA,TBA
+stockerk,PHI,480,02, ,TBA,TBA
+krassasn,PHI,480,03, ,TBA,TBA
+mendoza-botelhom,PHI,498,01, ,TBA,TBA
+pazametaz,PHS,105,01,TR,"1400, 1515",SCIENC 431
+pazametaz,PHY,205,01,TR,"1230, 1345",SCIENC 431
+pazametaz,PHY,205,01A,M,"1400, 1550",SCIENC 403
+kerrm,PHY,205,01B,R,"1400, 1550",SCIENC 403
+eastonw,PSC,100,01,MWF,"0900, 0950",WEBB 110
+brosciousc,PSC,201,01,TR,"0930, 1045",WEBB 113
+brosciousc,PSC,201,02,TR,"1230, 1345",WEBB 113
+mendoza-botelhom,PSC,208,01,TR,"0930, 1045",WEBB 212
+mendoza-botelhom,PSC,208,02,TR,"1400, 1515",SCIENC 116
+garciam,PSC,211,01,MWF,"1100, 1150",SCIENC 117
+swetzoffs,PSC,217,01,TR,"1230, 1345",LIBRAR 436
+eastonw,PSC,300,01,TR,"1230, 1345",WEBB 112
+swetzoffs,PSC,310,01,TR,"1400, 1515",SCIENC 117
+krassasn,PSC,325,01,MWF,"1100, 1150",WEBB 210
+garciam,PSC,350,01,TR,"1100, 1215",WEBB 113
+verrastron,PSC,365,01X,TR,"1600, 1715",GODDAR 201
+krassasn,PSC,400,01,MWF,"1300, 1350",WEBB 115
+mendoza-botelhom,PSC,460,01,T,"1600, 1845",WEBB 115
+krassasn,PSC,480,01, ,TBA,TBA
+mendoza-botelhom,PSC,480,02, ,TBA,TBA
+krassasn,PSC,495,01V, ,TBA,TBA
+mendoza-botelhom,PSC,498,01, ,TBA,TBA
+salters-pedneaultk,PSY,100,01,MWF,"1000, 1050",WEBB 110
+salters-pedneaultk,PSY,100,02,MWF,"1100, 1150",WEBB 110
+hallm,PSY,100,03,TR,"1600, 1715",WEBB 317
+dillerj,PSY,101,01,M,"0900, 0950",WEBB 216
+krebsc,PSY,101,02,R,"1230, 1320",SCIENC 117
+fugerem,PSY,202,01,MWF,"0900, 0950",WEBB 317
+fugerem,PSY,202,02,MWF,"1000, 1050",WEBB 317
+christopherm,PSY,203,01,W,"1600, 1845",SCIENC 116
+krebsc,PSY,205,01,MWF,"0900, 0950",WEBB 212
+krebsc,PSY,205,02,MWF,"1000, 1050",WEBB 212
+tarriconed,PSY,206,01,MW,"1730, 1845",WEBB 214
+vasquez-o'brient,PSY,206,02,TR,"0930, 1045",WEBB 216
+fultons,PSY,206,03,TR,"1730, 1845",WEBB 317
+leszczynskij,PSY,210,01,MWF,"1100, 1150",WEBB 216
+keyesm,PSY,212,01,MWF,"1400, 1450",COMBLD 108
+keyesm,PSY,212,02,MWF,"1100, 1150",COMBLD 108
+cousinsa,PSY,227,01,MWF,"0800, 0910",WEBB 314
+koleks,PSY,227,02,TR,"0800, 0950",WEBB 314
+koleks,PSY,227,03,TR,"1100, 1250",WEBB 314
+krebsc,PSY,246,01,MWF,"1100, 1150",WEBB 314
+keyesm,PSY,247,01,MWF,"1200, 1310",WEBB 314
+girasolia,PSY,247,02,MW,"1900, 2050",WEBB 314
+koleks,PSY,247,03,TR,"1400, 1550",WEBB 314
+leep,PSY,302,01,TR,"1100, 1215",WEBB 317
+leep,PSY,302,02,TR,"1230, 1345",WEBB 317
+bachiochip,PSY,303,01,TR,"1100, 1215",WEBB 315
+bachiochip,PSY,305,01,TR,"1400, 1515",WEBB 216
+lanagan-leitzell,PSY,306,01,MWF,"1100, 1150",WEBB 315
+leszczynskij,PSY,314,01,MWF,"0800, 0850",WEBB 315
+leszczynskij,PSY,314,02,MWF,"0900, 0950",WEBB 315
+cousinsa,PSY,315,01X,MWF,"1200, 1250",WEBB 317
+lanagan-leitzell,PSY,318,01,MWF,"1200, 1250",WEBB 315
+cousinsa,PSY,319,01,MWF,"1300, 1350",WEBB 317
+bachiochip,PSY,327,01,MW,"1600, 1715",WEBB 206
+bachiochip,PSY,327,01, ,TBA,TBA
+vasquez-o'brient,PSY,327,02,TR,"1600, 1715",WEBB 314
+vasquez-o'brient,PSY,327,02, ,TBA,TBA
+sciscoj,PSY,327,03,TR,"0930, 1045",SCIENC 234
+sciscoj,PSY,327,03, ,TBA,TBA
+cousinsa,PSY,390,01,W,"1000, 1050",WEBB 407
+krebsc,PSY,390,02,M,"1400, 1450",SCIENC 115
+krebsc,PSY,407,01,MWF,"1300, 1350",WEBB 216
+cordonl,PSY,409,01,TR,"0800, 0915",WEBB 313
+cordonl,PSY,409,02,TR,"0930, 1045",WEBB 313
+leep,PSY,410,01,TR,"1600, 1715",WEBB 315
+dillerj,PSY,417,01,MWF,"0800, 0850",WEBB 216
+sciscoj,PSY,418,01,TR,"1400, 1515",WEBB 214
+cordonl,PSY,419,01,TR,"1230, 1345",WEBB 313
+cordonl,PSY,419,02,TR,"1400, 1515",WEBB 313
+vasquez-o'brient,PSY,434,01,TR,"1230, 1345",WEBB 216
+leszczynskij,PSY,435,01,MWF,"1200, 1250",WEBB 216
+salters-pedneaultk,PSY,450,01,MWF,"1400, 1450",WEBB 213
+sciscoj,PSY,460,01,TR,"1100, 1215",WEBB 112
+leszczynskij,PSY,471,01,M,"1000, 1050",WEBB 216
+vasquez-o'brient,PSY,471,01,M,"1000, 1050",WEBB 216
+dillerj,PSY,480,01, ,TBA,TBA
+bachiochip,PSY,480,02, ,TBA,TBA
+bachiochip,PSY,480,03, ,TBA,TBA
+lanagan-leitzell,PSY,480,04, ,TBA,TBA
+koleks,PSY,480,05, ,TBA,TBA
+bachiochip,PSY,480,06, ,TBA,TBA
+cordonl,PSY,480,07, ,TBA,TBA
+keyesm,PSY,490,01, ,TBA,TBA
+sciscoj,PSY,490,02, ,TBA,TBA
+leszczynskij,PSY,490,03, ,TBA,TBA
+leep,PSY,490,04, ,TBA,TBA
+bachiochip,PSY,490,06, ,TBA,TBA
+salters-pedneaultk,PSY,490,07, ,TBA,TBA
+krebsc,PSY,490,08, ,TBA,TBA
+koleks,PSY,490,09, ,TBA,TBA
+fugerem,PSY,490,10, ,TBA,TBA
+cousinsa,PSY,490,11, ,TBA,TBA
+leszczynskij,PSY,491,01, ,TBA,TBA
+sciscoj,PSY,491,02, ,TBA,TBA
+leszczynskij,PSY,491,03, ,TBA,TBA
+dillerj,PSY,491,04, ,TBA,TBA
+salters-pedneaultk,PSY,491,05, ,TBA,TBA
+lanagan-leitzell,PSY,491,06, ,TBA,TBA
+koleks,PSY,491,07, ,TBA,TBA
+koleks,PSY,491,08, ,TBA,TBA
+sciscoj,PSY,491,09, ,TBA,TBA
+koleks,PSY,491,10, ,TBA,TBA
+leep,PSY,491,11, ,TBA,TBA
+cousinsa,PSY,491,12, ,TBA,TBA
+fugerem,PSY,491,13, ,TBA,TBA
+krebsc,PSY,491,14, ,TBA,TBA
+vasquez-o'brient,PSY,491,15, ,TBA,TBA
+leep,PSY,496,01V,M,"1600, 1650",WEBB 115
+salters-pedneaultk,PSY,496,02V,F,"0900, 0950",WEBB 115
+bachiochip,PSY,497,01, ,TBA,TBA
+walterss,PBH,206,01,MWF,"1100, 1150",GODDAR 201
+carrolls,PBH,209,01X,M,"1600, 1845",GODDAR 216
+clementss,PBH,209,02X,TR,"1600, 1715",GODDAR 208
+serranom,PBH,228,01,TR,"1230, 1345",GODDAR 223
+serranom,PBH,228,02,TR,"1600, 1715",GODDAR 202
+cowlese,PBH,301,01X,T,"1600, 1845",SCIENC 116
+murdochb,PBH,302,01X,T,"0930, 1120",SCIENC 341
+murdochb,PBH,302,02X,T,"1230, 1420",SCIENC 341
+walterss,PBH,330,01,MWF,"1000, 1050",GODDAR 208
+carrolls,PBH,350,01,TR,"1100, 1215",GODDAR 223
+blancaflors,PBH,440,01,TR,"1400, 1515",GODDAR 208
+carrolls,PBH,494,01, ,TBA,TBA
+carrolls,PBH,494,02, ,TBA,TBA
+carrolls,PBH,494,03, ,TBA,TBA
+walterss,PBH,494,04, ,TBA,TBA
+trubeyp,SWK,200,01,R,"1230, 1515",SCIENC 137
+nightingales,SWK,300,01,R,"1230, 1515",WEBB 213
+stantonm,SWK,300,02,T,"1230, 1515",WEBB 215
+stantonm,SWK,312,01,R,"1230, 1515",WEBB 215
+rodriguezd,SWK,312,02,T,"1230, 1515",SCIENC 137
+rodriguezd,SWK,320,01,T,"0800, 1045",WEBB 114
+matthews-armsteade,SWK,320,02,T,"0800, 1045",WEBB 215
+stantonm,SWK,333,01,R,"0800, 1045",WEBB 215
+stantonm,SWK,333,01,R,"1100, 1150",WEBB 206
+nightingales,SWK,333,02,R,"0800, 1045",WEBB 213
+nightingales,SWK,333,02,R,"1100, 1150",SCIENC 234
+rijsj,SWK,360,01,T,"1600, 1845",LIBRAR 436
+nightingales,SWK,420,01,T,"0800, 1045",WEBB 213
+keaned,SWK,420,02,T,"1600, 1845",WEBB 112
+matthews-armsteade,SWK,450,01,T,"1230, 1515",WEBB 213
+lewisj,SWK,450,02,T,"1230, 1515",GODDAR 202
+pimentalc,SWK,450,03,T,"1230, 1515",GODDAR 204
+nightingales,SWK,480,01, ,TBA,TBA
+stantonm,SWK,480,02, ,TBA,TBA
+stantonm,SWK,480,03, ,TBA,TBA
+stantonm,SWK,480,04, ,TBA,TBA
+simonn,SOC,100,01,TR,"1400, 1515",WEBB 317
+babars,SOC,100,02,MWF,"1100, 1150",WEBB 212
+babars,SOC,100,03,MWF,"1200, 1250",WEBB 212
+mccartyg,SOC,100,04,MWF,"0900, 0950",GODDAR 216
+mccartyg,SOC,100,05,MWF,"1000, 1050",GODDAR 216
+breslind,SOC,100,06,TR,"1600, 1715",WEBB 313
+simonn,SOC,201,01,W,"0900, 0950",WEBB 216
+azzaroe,SOC,220,01,T,"1900, 2145",WEBB 214
+burnsn,SOC,240,01X,TR,"1100, 1215",WEBB 313
+breslind,SOC,250,01,TR,"1400, 1515",COMBLD 109
+simonn,SOC,300,01,TR,"0930, 1045",WEBB 210
+severancet,SOC,307,01,MWF,"0900, 0950",WEBB 313
+westberryb,SOC,310,01X,M,"1900, 2145",SCIENC 116
+parsonsn,SOC,311,01,TR,"0930, 1045",WEBB 214
+westberryb,SOC,318,01,M,"1600, 1845",SCIENC 116
+azzaroe,SOC,325,01,M,"1900, 2145",WEBB 313
+browns,SOC,346,01,R,"1600, 1845",SCIENC 116
+kurtim,SOC,350,01,TR,"1400, 1550",GODDAR 223
+kurtim,SOC,350,02,TR,"1100, 1250",WEBB 114
+parsonsn,SOC,351,01,TR,"1100, 1250",WEBB 307
+parsonsn,SOC,351,02,TR,"1400, 1550",SCIENC 115
+simonn,SOC,400,01,TR,"1100, 1250",WEBB 210
+simonn,SOC,480,01, ,TBA,TBA
+pestar,SOC,480,02, ,TBA,TBA
+lugow,SOC,480,03, ,TBA,TBA
+simonn,SOC,480,04, ,TBA,TBA
+lugow,SOC,480,05, ,TBA,TBA
+simonn,SOC,490,01, ,TBA,TBA
+simonn,SOC,490,02, ,TBA,TBA
+simonn,SOC,491,01, ,TBA,TBA
+simonn,SOC,491,02, ,TBA,TBA
+simonn,SOC,492,01, ,TBA,TBA
+parsonsn,SOC,492,02, ,TBA,TBA
+simonn,SOC,492,03, ,TBA,TBA
+simonn,SOC,493,01, ,TBA,TBA
+simonn,SOC,493,02, ,TBA,TBA
+vijayasekarj,SPA,111,01,MWF,"1100, 1150",WEBB 112
+pareram,SPA,111,02,MWF,"0900, 0950",SCIENC 134
+jendrewskir,SPA,111,03,MW,"1730, 1845",SCIENC 134
+armstrongn,SPA,211,01,MWF,"1000, 1050",WEBB 114
+erik-soussia,SPA,219,01X,M,"1600, 1845",WEBB 112
+pareram,SPA,311,01,MWF,"1200, 1250",GODDAR 201
+penaaliceag,SPA,404,01,TR,"1100, 1215",SPORT 219
+armstrongn,SPA,490,01, ,TBA,TBA
+chank,SPA,492,01, ,TBA,TBA
+chank,SPA,492,02, ,TBA,TBA
+chank,SPA,492,03, ,TBA,TBA
+vijayasekarj,SPA,492,04, ,TBA,TBA
+cobbj,THE,174,01,TR,"0930, 1045",FAIC 219
+sokolovskayaa,THE,226,01, ,TBA,TBA
+wadeckij,THE,227,01, ,TBA,TBA
+morgank,THE,227,02, ,TBA,TBA
+wellesr,THE,227,03, ,TBA,TBA
+wellesr,THE,227,06, ,TBA,TBA
+sokolovskayaa,THE,227,07, ,TBA,TBA
+pellegrinid,THE,228,01, ,TBA,TBA
+pellegrinid,THE,265,01,TR,"1100, 1250",FAIC 115
+cobbj,THE,272,01,TR,"1400, 1515",FAIC 215
+golebiewskit,THE,276,01,TR,"1600, 1715",FAIC 118
+golebiewskit,THE,277,01,M,"1600, 1845",WEBB 314
+sokolovskayaa,THE,278,01,TR,"1600, 1715",FAIC 251
+sokolovskayaa,THE,279,01,TR,"1230, 1345",COMBLD 109
+o'brienm,THE,280,01,TR,"0930, 1045",FAIC 117
+o'brienm,THE,280,01,TR,"0930, 1045",FAIC 243
+houldcroftt,THE,281,01,W,"1600, 1845",FAIC 243
+floodr,THE,308,01X,M,"1600, 1845",FAIC 115
+cobbj,THE,365,01,TR,"1230, 1345",FAIC 219
+bright-hollanda,THE,474,01,TR,"1600, 1715",FAIC 219
+sokolovskayaa,THE,475,01, ,TBA,TBA
+bright-hollanda,THE,475,01, ,TBA,TBA
+cobbj,THE,475,01, ,TBA,TBA
+cobbj,THE,480,01, ,TBA,TBA
+morgank,THE,480,02, ,TBA,TBA
+cobbj,THE,480,03, ,TBA,TBA
+morgank,THE,480,04, ,TBA,TBA
+golebiewskit,THE,480,05, ,TBA,TBA
+floodr,THE,480,06, ,TBA,TBA
+pellegrinid,THE,480,07, ,TBA,TBA
+pellegrinid,THE,480,08, ,TBA,TBA
+sokolovskayaa,THE,480,09, ,TBA,TBA
+golebiewskit,THE,481,01, ,TBA,TBA
+morgank,THE,495,01, ,TBA,TBA
+burnsn,WST,240,01X,TR,"1100, 1215",WEBB 313
+abbatemarcoa,WST,260,01X,TR,"1230, 1345",GODDAR 208
+abbatemarcoa,WST,260,02X,TR,"1100, 1215",GODDAR 208
+rochonr,WST,260,03X,MWF,"0900, 0950",WEBB 113
+westberryb,WST,310,01X,M,"1900, 2145",SCIENC 116
+cousinsa,WST,315,01X,MWF,"1200, 1250",WEBB 317
+nightingales,WST,490,01, ,TBA,TBA
