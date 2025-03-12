@@ -100,6 +100,7 @@ chent,art,487,01, ,tba,tba
 rahmanifara,art,490,01, ,tba,tba
 chent,art,490,02, ,tba,tba
 doylem,art,490,03, ,tba,tba
+liuq,art,490,04, ,tba,tba
 kerrm,ast,214,01,tr,"0930, 1045",planetarium
 kerrm,ast,214,01a,t,"1100, 1200",planetarium
 kerrm,ast,214,01b,r,"1100, 1200",planetarium
@@ -302,9 +303,7 @@ carlsonr,com,220,02x,m,"1600, 1845",communications 114b
 ammarim,com,220,03x,t,"1600, 1845",communications 114a
 ammarim,com,220,03x,t,"1600, 1845",communications 114d
 ammarim,com,220,03x,t,"1600, 1845",communications 114b
-dayb,com,220,04x,tr,"1100, 1215",communications 114a
-dayb,com,220,04x,tr,"1100, 1215",communications 114d
-dayb,com,220,04x,tr,"1100, 1215",communications 114b
+dayb,com,220,04x,tr,"1100, 1215",communications 226
 freunde,com,230,01,t,"1600, 1845",communications 109
 freunde,com,230,02,w,"1600, 1845",communications 218
 curtiss,com,230,03,tr,"0930, 1045",communications 108
@@ -329,7 +328,6 @@ floodr,com,480,04, ,tba,tba
 cobbj,com,490,01, ,tba,tba
 floodr,com,490,02, ,tba,tba
 kangm,com,490,03, ,tba,tba
-jeonj,com,490,04, ,tba,tba
 dayb,com,490,05, ,tba,tba
 utterbacka,com,490,06, ,tba,tba
 osterndorfw,com,490,07, ,tba,tba
@@ -383,6 +381,7 @@ pestar,crm,480,01, ,tba,tba
 kurtim,crm,480,02, ,tba,tba
 lugow,crm,480,03, ,tba,tba
 severancet,crm,480,04, ,tba,tba
+severancet,crm,480,05, ,tba,tba
 severancet,crm,490,01, ,tba,tba
 severancet,crm,490,02, ,tba,tba
 davism,dsc,501,e25, ,tba,online
@@ -627,7 +626,7 @@ eriksoussia,flm,219,01x,m,"1600, 1845",webb 112
 ammarim,flm,220,01x,t,"1900, 2145",communications 114d
 carlsonr,flm,220,02x,m,"1600, 1845",communications 114d
 ammarim,flm,220,03x,t,"1600, 1845",communications 114d
-dayb,flm,220,04x,tr,"1100, 1215",communications 114d
+dayb,flm,220,04x,tr,"1100, 1215",communications 226
 bachollem,flm,223,01x,m,"1200, 1445",goddard 200
 bachollem,flm,223,02x,w,"1200, 1445",goddard 200
 collinsg,flm,321,01,r,"1900, 2145",communications 107
@@ -687,9 +686,9 @@ switchenkod,hpe,328,01,tr,"1600, 1715",sports 221
 switchenkod,hpe,329,01,tr,"0800, 0915",sports 221
 rowettc,hpe,340,01,t,"1900, 2145",the_center_for_early_childhood_education 170
 manfredie,hpe,361,01,t,"0930, 1030",sports 219
-manfredie,hpe,361,01,t,"1030, 1215",sports 201/gym
+manfredie,hpe,361,01,t,"1030, 1215",sports 201
 switchenkok,hpe,362,01,r,"0930, 1030",sports 219
-switchenkok,hpe,362,01,r,"1030, 1215",sports 201/gym
+switchenkok,hpe,362,01,r,"1030, 1215",sports 201
 robertd,hpe,475,01,mtwrf,"0800, 1530",tba
 robertd,hpe,476,01,r,"1600, 1845",the_center_for_early_childhood_education 167
 rowettc,hpe,480,01, ,tba,tba
@@ -903,6 +902,7 @@ yankovc,mat,421,01,mwf,"1000, 1050",science 114
 sarikhanikhoramim,mat,480,01, ,tba,tba
 oseibonsuk,mat,480,02, ,tba,tba
 johnsonp,mat,480,03, ,tba,tba
+johnsonp,mat,480,04, ,tba,tba
 sarikhanikhoramim,mat,490,01, ,tba,tba
 sholesz,msc,132,03,w,"1300, 1350",library 266
 sholesz,msc,146,02,w,"1400, 1600",library 266
@@ -1198,6 +1198,7 @@ wellesr,the,227,03, ,tba,tba
 wellesr,the,227,06, ,tba,tba
 sokolovskayaa,the,227,07, ,tba,tba
 pellegrinid,the,228,01, ,tba,tba
+brighthollanda,the,228,02, ,tba,tba
 pellegrinid,the,265,01,tr,"1100, 1250",fine_arts 115
 cobbj,the,272,01,tr,"1400, 1515",fine_arts 215
 golebiewskit,the,276,01,tr,"1600, 1715",fine_arts 118
@@ -1222,6 +1223,7 @@ floodr,the,480,06, ,tba,tba
 pellegrinid,the,480,07, ,tba,tba
 pellegrinid,the,480,08, ,tba,tba
 sokolovskayaa,the,480,09, ,tba,tba
+golebiewskit,the,480,10, ,tba,tba
 golebiewskit,the,481,01, ,tba,tba
 morgank,the,495,01, ,tba,tba
 burnsn,wst,240,01x,tr,"1100, 1215",webb 313

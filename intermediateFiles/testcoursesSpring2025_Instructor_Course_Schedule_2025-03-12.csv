@@ -86,20 +86,15 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Li, L",ART,480,21, ,TBA,TBA
 "Greene, R",ART,480,22, ,TBA,TBA
 "Drew, T",ART,480,24, ,TBA,TBA
-"Li, L ,",ART,485,01,MW,04:00 pm-06:45 pm,FAIC 323
-"Greene, R ,",ART,485,01,MW,04:00 pm-06:45 pm,FAIC 323
-"Rahmanifar, A",ART,485,01,MW,04:00 pm-06:45 pm,FAIC 323
-"Li, L ,",ART,485,01,MW,04:00 pm-06:45 pm,FAIC 122
-"Greene, R ,",ART,485,01,MW,04:00 pm-06:45 pm,FAIC 122
-"Rahmanifar, A",ART,485,01,MW,04:00 pm-06:45 pm,FAIC 122
-"Li, L ,",ART,485,01,MW,04:00 pm-06:45 pm,FAIC 247
-"Greene, R ,",ART,485,01,MW,04:00 pm-06:45 pm,FAIC 247
-"Rahmanifar, A",ART,485,01,MW,04:00 pm-06:45 pm,FAIC 247
+"Li, L , Greene, R , Rahmanifar, A",ART,485,01,MW,04:00 pm-06:45 pm,FAIC 323
+"Li, L , Greene, R , Rahmanifar, A",ART,485,01,MW,04:00 pm-06:45 pm,FAIC 122
+"Li, L , Greene, R , Rahmanifar, A",ART,485,01,MW,04:00 pm-06:45 pm,FAIC 247
 "Doyle, M",ART,486,01, ,TBA,TBA
 "Chen, T",ART,487,01, ,TBA,TBA
 "Rahmanifar, A",ART,490,01, ,TBA,TBA
 "Chen, T",ART,490,02, ,TBA,TBA
 "Doyle, M",ART,490,03, ,TBA,TBA
+"Liu, Q",ART,490,04, ,TBA,TBA
 "Kerr, M",AST,214,01,TR,09:30 am-10:45 am,PLANET PLT
 "Kerr, M",AST,214,01A,T,11:00 am-12:00 pm,PLANET PLT
 "Kerr, M",AST,214,01B,R,11:00 am-12:00 pm,PLANET PLT
@@ -135,12 +130,8 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Gyure, M",BIO,314,01,R,09:30 am-11:20 am,SCIENC 331
 "Gyure, M",BIO,314,02,R,12:30 pm-02:20 pm,SCIENC 331
 "Gyure, M",BIO,314,03,R,04:00 pm-05:50 pm,SCIENC 331
-"Mattingly, B ,",BIO,319,01,T,09:00 am-10:50 am,SCIENC 331
-"Epp, K ,",BIO,319,01,T,09:00 am-10:50 am,SCIENC 331
-"Idjadi, J",BIO,319,01,T,09:00 am-10:50 am,SCIENC 331
-"Mattingly, B ,",BIO,320,01, ,TBA,TBA
-"Epp, K ,",BIO,320,01, ,TBA,TBA
-"Idjadi, J",BIO,320,01, ,TBA,TBA
+"Mattingly, B , Epp, K , Idjadi, J",BIO,319,01,T,09:00 am-10:50 am,SCIENC 331
+"Mattingly, B , Epp, K , Idjadi, J",BIO,320,01, ,TBA,TBA
 "Hulvey, J",BIO,334,01,MWF,09:00 am-09:50 am,SCIENC 231
 "Hulvey, J",BIO,334,01,W,02:00 pm-04:50 pm,SCIENC 341
 "Graham, M",BIO,336,01,MWF,12:00 pm-12:50 pm,SCIENC 432
@@ -302,9 +293,7 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Ammari, M",COM,220,03X,T,04:00 pm-06:45 pm,COMBLD 114A
 "Ammari, M",COM,220,03X,T,04:00 pm-06:45 pm,COMBLD 114D
 "Ammari, M",COM,220,03X,T,04:00 pm-06:45 pm,COMBLD 114B
-"Day, B",COM,220,04X,TR,11:00 am-12:15 pm,COMBLD 114A
-"Day, B",COM,220,04X,TR,11:00 am-12:15 pm,COMBLD 114D
-"Day, B",COM,220,04X,TR,11:00 am-12:15 pm,COMBLD 114B
+"Day, B",COM,220,04X,TR,11:00 am-12:15 pm,COMBLD 226
 "Freund, E",COM,230,01,T,04:00 pm-06:45 pm,COMBLD 109
 "Freund, E",COM,230,02,W,04:00 pm-06:45 pm,COMBLD 218
 "Curtis, S",COM,230,03,TR,09:30 am-10:45 am,COMBLD 108
@@ -329,7 +318,6 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Cobb, J",COM,490,01, ,TBA,TBA
 "Flood, R",COM,490,02, ,TBA,TBA
 "Kang, M",COM,490,03, ,TBA,TBA
-"Jeon, J",COM,490,04, ,TBA,TBA
 "Day, B",COM,490,05, ,TBA,TBA
 "Utterback, A",COM,490,06, ,TBA,TBA
 "Osterndorf, W",COM,490,07, ,TBA,TBA
@@ -383,6 +371,7 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Kurti, M",CRM,480,02, ,TBA,TBA
 "Lugo, W",CRM,480,03, ,TBA,TBA
 "Severance, T",CRM,480,04, ,TBA,TBA
+"Severance, T",CRM,480,05, ,TBA,TBA
 "Severance, T",CRM,490,01, ,TBA,TBA
 "Severance, T",CRM,490,02, ,TBA,TBA
 "Davis, M",DSC,501,E25, ,TBA,ONLINE
@@ -600,10 +589,8 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Hyatt, D",EES,224,01A,W,02:00 pm-04:50 pm,SCIENC 215
 "Hyatt, D",EES,224,01B,T,02:00 pm-04:50 pm,SCIENC 219
 "Hyatt, D",EES,224,01B,T,02:00 pm-04:50 pm,SCIENC 215
-"Cunningham, W ,",EES,271,H01,T,05:30 pm-06:15 pm,SCIENC 232
-"Drzewiecki, P",EES,271,H01,T,05:30 pm-06:15 pm,SCIENC 232
-"Cunningham, W ,",EES,271,H01, ,TBA,ONLINE
-"Drzewiecki, P",EES,271,H01, ,TBA,ONLINE
+"Cunningham, W , Drzewiecki, P",EES,271,H01,T,05:30 pm-06:15 pm,SCIENC 232
+"Cunningham, W , Drzewiecki, P",EES,271,H01, ,TBA,ONLINE
 "Metcalf, M",EES,300,01,MW,05:30 pm-06:45 pm,SCIENC 215
 "Metcalf, M",EES,301,01,W,01:00 pm-03:50 pm,SCIENC 233
 "Metcalf, M",EES,322,01,MW,04:00 pm-05:15 pm,SCIENC 202
@@ -627,7 +614,7 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Ammari, M",FLM,220,01X,T,07:00 pm-09:45 pm,COMBLD 114D
 "Carlson, R",FLM,220,02X,M,04:00 pm-06:45 pm,COMBLD 114D
 "Ammari, M",FLM,220,03X,T,04:00 pm-06:45 pm,COMBLD 114D
-"Day, B",FLM,220,04X,TR,11:00 am-12:15 pm,COMBLD 114D
+"Day, B",FLM,220,04X,TR,11:00 am-12:15 pm,COMBLD 226
 "Bacholle, M",FLM,223,01X,M,12:00 pm-02:45 pm,GODDAR 200
 "Bacholle, M",FLM,223,02X,W,12:00 pm-02:45 pm,GODDAR 200
 "Collins, G",FLM,321,01,R,07:00 pm-09:45 pm,COMBLD 107
@@ -834,11 +821,8 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Drzewiecki, P",LAC,101,02,W,12:00 pm-12:50 pm,SCIENC 216
 "Holland, J",LAC,101,03,M,09:00 am-09:50 am,FAIC 118
 "Pellegrini, D",LAC,101,04,M,04:00 pm-04:50 pm,FAIC 118
-"Chirico, M ,",LAC,200,01,MWF,11:00 am-11:50 am,GODDAR 216
-"Diller, J ,",LAC,200,01,MWF,11:00 am-11:50 am,GODDAR 216
-"Doyle, M",LAC,200,01,MWF,11:00 am-11:50 am,GODDAR 216
-"Ward, K ,",LAC,200,02,MWF,01:00 pm-01:50 pm,SCIENC 134
-"Heenehan, M",LAC,200,02,MWF,01:00 pm-01:50 pm,SCIENC 134
+"Chirico, M , Diller, J , Doyle, M",LAC,200,01,MWF,11:00 am-11:50 am,GODDAR 216
+"Ward, K , Heenehan, M",LAC,200,02,MWF,01:00 pm-01:50 pm,SCIENC 134
 "O'Neal, F",LAC,200,03,MWF,01:00 pm-01:50 pm,FAIC 110
 "Stoloff, D",LAC,400,01,W,07:00 pm-09:45 pm,WEBB 210
 "White, J",LAP,430,01,W,07:00 pm-09:45 pm,WEBB 113
@@ -903,6 +887,7 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Sarikhani Khorami, M",MAT,480,01, ,TBA,TBA
 "Osei Bonsu, K",MAT,480,02, ,TBA,TBA
 "Johnson, P",MAT,480,03, ,TBA,TBA
+"Johnson, P",MAT,480,04, ,TBA,TBA
 "Sarikhani Khorami, M",MAT,490,01, ,TBA,TBA
 "Sholes, Z",MSC,132,03,W,01:00 pm-01:50 pm,LIBRAR 266
 "Sholes, Z",MSC,146,02,W,02:00 pm-04:00 pm,LIBRAR 266
@@ -911,8 +896,7 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Balough, T",MUS,100,01,MWF,08:00 am-08:50 am,FAIC 110
 "Balough, T",MUS,100,02,MWF,09:00 am-09:50 am,FAIC 110
 "Belles, D",MUS,103,01,MW,05:30 pm-06:45 pm,FAIC 110
-"Watkins, K ,",MUS,107,01,W,07:00 pm-09:30 pm,FAIC 108
-"D'Aleo, J",MUS,107,01,W,07:00 pm-09:30 pm,FAIC 108
+"Watkins, K , D'Aleo, J",MUS,107,01,W,07:00 pm-09:30 pm,FAIC 108
 "Belles, D",MUS,113,01,WF,03:00 pm-03:50 pm,FAIC 110
 "Calissi, J",MUS,113,02,F,03:30 pm-04:50 pm,FAIC 108
 "Cornicello, A",MUS,113,03,M,04:00 pm-05:30 pm,FAIC 108
@@ -1069,8 +1053,7 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Leszczynski, J",PSY,435,01,MWF,12:00 pm-12:50 pm,WEBB 216
 "Salters-Pedneault, K",PSY,450,01,MWF,02:00 pm-02:50 pm,WEBB 213
 "Scisco, J",PSY,460,01,TR,11:00 am-12:15 pm,WEBB 112
-"Leszczynski, J ,",PSY,471,01,M,10:00 am-10:50 am,WEBB 216
-"Vasquez-O'Brien, T",PSY,471,01,M,10:00 am-10:50 am,WEBB 216
+"Leszczynski, J , Vasquez-O'Brien, T",PSY,471,01,M,10:00 am-10:50 am,WEBB 216
 "Diller, J",PSY,480,01, ,TBA,TBA
 "Bachiochi, P",PSY,480,02, ,TBA,TBA
 "Bachiochi, P",PSY,480,03, ,TBA,TBA
@@ -1198,6 +1181,7 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Welles, R",THE,227,06, ,TBA,TBA
 "Sokolovskaya, A",THE,227,07, ,TBA,TBA
 "Pellegrini, D",THE,228,01, ,TBA,TBA
+"Bright-Holland, A",THE,228,02, ,TBA,TBA
 "Pellegrini, D",THE,265,01,TR,11:00 am-12:50 pm,FAIC 115
 "Cobb, J",THE,272,01,TR,02:00 pm-03:15 pm,FAIC 215
 "Golebiewski, T",THE,276,01,TR,04:00 pm-05:15 pm,FAIC 118
@@ -1210,9 +1194,7 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Flood, R",THE,308,01X,M,04:00 pm-06:45 pm,FAIC 115
 "Cobb, J",THE,365,01,TR,12:30 pm-01:45 pm,FAIC 219
 "Bright-Holland, A",THE,474,01,TR,04:00 pm-05:15 pm,FAIC 219
-"Sokolovskaya, A ,",THE,475,01, ,TBA,TBA
-"Bright-Holland, A ,",THE,475,01, ,TBA,TBA
-"Cobb, J",THE,475,01, ,TBA,TBA
+"Sokolovskaya, A , Bright-Holland, A , Cobb, J",THE,475,01, ,TBA,TBA
 "Cobb, J",THE,480,01, ,TBA,TBA
 "Morgan, K",THE,480,02, ,TBA,TBA
 "Cobb, J",THE,480,03, ,TBA,TBA
@@ -1222,6 +1204,7 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Pellegrini, D",THE,480,07, ,TBA,TBA
 "Pellegrini, D",THE,480,08, ,TBA,TBA
 "Sokolovskaya, A",THE,480,09, ,TBA,TBA
+"Golebiewski, T",THE,480,10, ,TBA,TBA
 "Golebiewski, T",THE,481,01, ,TBA,TBA
 "Morgan, K",THE,495,01, ,TBA,TBA
 "Burns, N",WST,240,01X,TR,11:00 am-12:15 pm,WEBB 313

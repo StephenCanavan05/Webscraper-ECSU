@@ -330,7 +330,7 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Turgeon, K",DSC,508,E25, ,TBA,ONLINE
 "Liu, X",DSC,508,E26, ,TBA,ONLINE
 "Bouley, T",ECE,215,01,TR,02:00 pm-03:15 pm,CECE 170
-"Lee, K",ECE,315,01,W,08:00 am-11:50 am,CECE 175
+"Staff, *",ECE,315,01,W,08:00 am-11:50 am,CECE 175
 "Bouley, T",ECE,325,01,W,04:00 pm-06:45 pm,CECE 175
 "LaPorte, K",ECE,405,01X,M,04:00 pm-06:45 pm,CECE 167
 "Rezai, N",ECE,410,01,W,04:00 pm-06:45 pm,CECE 170
@@ -357,7 +357,7 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Staff, *",ECO,200,07,MWF,01:00 pm-01:50 pm,COMBLD 218
 "Staff, *",ECO,200,08,MWF,12:00 pm-12:50 pm,GODDAR 202
 "Staff, *",ECO,201,01,TR,09:30 am-10:45 am,SCIENC 104
-"Staff, *",ECO,201,02,TR,11:00 am-12:15 pm,SPORT 221
+"Staff, *",ECO,201,02,TR,11:00 am-12:15 pm,SPORT 219
 "Staff, *",ECO,201,03,MWF,08:00 am-08:50 am,COMBLD 218
 "Staff, *",ECO,201,04,MWF,09:00 am-09:50 am,GODDAR 203
 "Staff, *",ECO,201,05,MWF,11:00 am-11:50 am,GODDAR 202
@@ -472,14 +472,15 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "McNeil, K",ENG,216,01,TR,02:00 pm-03:15 pm,WEBB 112
 "Chirico, M",ENG,227,01,MWF,12:00 pm-12:50 pm,WEBB 313
 "Chirico, M",ENG,227,02,MWF,01:00 pm-01:50 pm,WEBB 313
-"Torockio, C",ENG,234,01,TR,12:30 pm-01:45 pm,WEBB 313
-"Chirico, M , Luxenberg, H",ENG,241,01,MWF,09:00 am-09:50 am,WEBB 212
-"Chirico, M , Luxenberg, H",ENG,241,02,MWF,10:00 am-10:50 am,WEBB 212
+"Chirico, M ,",ENG,241,01,MWF,09:00 am-09:50 am,WEBB 212
+"Luxenberg, H",ENG,241,01,MWF,09:00 am-09:50 am,WEBB 212
+"Chirico, M ,",ENG,241,02,MWF,10:00 am-10:50 am,WEBB 212
+"Luxenberg, H",ENG,241,02,MWF,10:00 am-10:50 am,WEBB 212
 "Youngblood, J",ENG,241,03,MWF,11:00 am-11:50 am,WEBB 213
 "Staff, *",ENG,260,01X,MWF,11:00 am-11:50 am,WEBB 215
 "Staff, *",ENG,260,02X,TR,12:30 pm-01:45 pm,SPORT 219
 "Staff, *",ENG,260,03X,TR,02:00 pm-03:15 pm,SPORT 219
-"DeRosa, S",ENG,275,01,TR,04:00 pm-05:15 pm,WEBB 213
+"DeRosa, S",ENG,275,01,TR,02:00 pm-03:15 pm,LIBRAR 266
 "Clermont-Ferrand, M",ENG,277,01,TR,04:00 pm-05:15 pm,SCIENC 416
 "Youngblood, J",ENG,277,02,MWF,01:00 pm-01:50 pm,WEBB 214
 "DeRosa, S",ENG,290,01,TR,09:30 am-10:45 am,COMBLD 219
@@ -528,7 +529,8 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Winterbottom, W",EES,315,02X,T,04:00 pm-06:45 pm,SCIENC 216
 "Hyatt, D",EES,350,01,TR,08:00 am-12:00 pm,SCIENC 219
 "Hyatt, D",EES,350,01,TR,08:00 am-12:00 pm,SCIENC 232
-"Oakley, B , Hyatt, D",EES,362,01,TR,02:00 pm-03:15 pm,SCIENC 215
+"Oakley, B ,",EES,362,01,TR,02:00 pm-03:15 pm,SCIENC 215
+"Hyatt, D",EES,362,01,TR,02:00 pm-03:15 pm,SCIENC 215
 "Staff, *",EES,392,01, ,TBA,TBA
 "Staff, *",EES,423,01,M,04:00 pm-06:45 pm,SCIENC 232
 "Oakley, B",EES,424,01,T,04:00 pm-06:45 pm,SCIENC 215
@@ -687,7 +689,7 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Frye, D",HIS,230,03,W,04:00 pm-06:45 pm,WEBB 313
 "Moore, S",HIS,231,01,MWF,10:00 am-10:50 am,LIBRAR 436
 "Frye, D",HIS,267,01,M,04:00 pm-06:45 pm,WEBB 313
-"Balcerski, T",HIS,320,01,TR,12:30 pm-01:45 pm,LIBRAR 436
+"Balcerski, T",HIS,320,01,TR,12:30 pm-01:45 pm,WEBB 313
 "Close, S",HIS,321,01,TR,09:30 am-10:45 am,WEBB 214
 "Moore, S",HIS,338,01,MF,02:00 pm-03:15 pm,WEBB 114
 "Saenz Cambra, C",HIS,345,01,MWF,11:00 am-11:50 am,WEBB 112
@@ -724,7 +726,8 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Swift, P",LAC,100,15,TR,11:00 am-12:15 pm,WEBB 213
 "Rukgaber, M",LAC,100,16,TR,12:30 pm-01:45 pm,SCIENC 231
 "Bright-Holland, A",LAC,100,17,TR,11:00 am-12:15 pm,FAIC 307
-"Ward, K , Heenehan, M",LAC,100,18,MWF,01:00 pm-01:50 pm,SCIENC 134
+"Ward, K ,",LAC,100,18,MWF,01:00 pm-01:50 pm,SCIENC 134
+"Heenehan, M",LAC,100,18,MWF,01:00 pm-01:50 pm,SCIENC 134
 "Cowles, E",LAC,100,19,MF,02:00 pm-03:15 pm,SCIENC 231
 "Flood, R",LAC,100,20,MWF,02:00 pm-02:50 pm,FAIC 305
 "Oh, N",LAC,100,21,TR,09:30 am-10:45 am,SCIENC 432
@@ -749,7 +752,8 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Swift, P",LAC,101,15,R,12:30 pm-01:20 pm,WEBB 213
 "Rukgaber, M",LAC,101,16,R,11:00 am-11:50 am,SCIENC 231
 "Bright-Holland, A",LAC,101,17,M,03:00 pm-03:50 pm,FAIC 115
-"Ward, K , Heenehan, M",LAC,101,18,W,02:00 pm-02:50 pm,SCIENC 134
+"Ward, K ,",LAC,101,18,W,02:00 pm-02:50 pm,SCIENC 134
+"Heenehan, M",LAC,101,18,W,02:00 pm-02:50 pm,SCIENC 134
 "Cowles, E",LAC,101,19,M,01:00 pm-01:50 pm,SCIENC 231
 "Flood, R",LAC,101,20,M,03:00 pm-03:50 pm,FAIC 305
 "Oh, N",LAC,101,21,W,09:00 am-09:50 am,WEBB 213
@@ -852,10 +856,14 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "FitzPatrick, D",MSC,131,01,F,01:25 pm-05:25 pm,TBA
 "FitzPatrick, D",MSC,131,02,R,11:00 am-11:50 am,TBA
 "FitzPatrick, D",MSC,131,02,F,01:25 pm-05:25 pm,TBA
-"FitzPatrick, D , Sholes, Z",MSC,131,03,W,01:00 pm-01:50 pm,LIBRAR 266
-"FitzPatrick, D , Sholes, Z",MSC,131,03,F,01:25 pm-05:25 pm,TBA
-"FitzPatrick, D , Sholes, Z",MSC,145,01,W,02:00 pm-04:00 pm,LIBRAR 266
-"FitzPatrick, D , Sholes, Z",MSC,145,01,F,01:25 pm-05:25 pm,TBA
+"FitzPatrick, D ,",MSC,131,03,W,01:00 pm-01:50 pm,LIBRAR 266
+"Sholes, Z",MSC,131,03,W,01:00 pm-01:50 pm,LIBRAR 266
+"FitzPatrick, D ,",MSC,131,03,F,01:25 pm-05:25 pm,TBA
+"Sholes, Z",MSC,131,03,F,01:25 pm-05:25 pm,TBA
+"FitzPatrick, D ,",MSC,145,01,W,02:00 pm-04:00 pm,LIBRAR 266
+"Sholes, Z",MSC,145,01,W,02:00 pm-04:00 pm,LIBRAR 266
+"FitzPatrick, D ,",MSC,145,01,F,01:25 pm-05:25 pm,TBA
+"Sholes, Z",MSC,145,01,F,01:25 pm-05:25 pm,TBA
 "Balough, T",MUS,100,01,MWF,09:00 am-09:50 am,FAIC 307
 "Balough, T",MUS,100,02,MWF,08:00 am-08:50 am,FAIC 307
 "Staff, *",MUS,103,01,MW,05:30 pm-06:45 pm,FAIC 110
@@ -864,7 +872,8 @@ Instructor,Sub,Crse,Sec,Day,Time,Room
 "Riggs, E",MUS,113,02,R,05:30 pm-06:45 pm,FAIC 110
 "Ballena, D",MUS,113,03,T,07:00 pm-08:15 pm,FAIC 110
 "O'Neal, F",MUS,113,04,M,03:00 pm-03:50 pm,FAIC 108
-"Bronson, M , Cornicello, A",MUS,113,05,M,04:00 pm-05:30 pm,FAIC 108
+"Bronson, M ,",MUS,113,05,M,04:00 pm-05:30 pm,FAIC 108
+"Cornicello, A",MUS,113,05,M,04:00 pm-05:30 pm,FAIC 108
 "Calissi, J",MUS,113,06,F,03:30 pm-04:50 pm,FAIC 108
 "Bronson, M",MUS,113,07,W,04:00 pm-05:15 pm,FAIC 108
 "Delaney, E",MUS,113,08,R,12:30 pm-01:45 pm,FAIC 108

@@ -1,21 +1,21 @@
 Instructor,Sub,Crse,Sec,Day,Time,Room
 guom,acc,201,01,tr,"0930, 1045",science 137
-staff*,acc,201,02,w,"1600, 1845",science 132
+staff,acc,201,02,w,"1600, 1845",science 132
 guom,acc,201,03,tr,"1400, 1515",science 117
-staff*,acc,202,01,m,"1600, 1845",science 132
+staff,acc,202,01,m,"1600, 1845",science 132
 guom,acc,301,01,tr,"1230, 1345",science 117
-staff*,acc,302,01,tr,"1400, 1515",science 132
+staff,acc,302,01,tr,"1400, 1515",science 132
 guom,acc,303,01,w,"1600, 1845",communications 201
 rujoubm,acc,310,01,tr,"1100, 1215",science 115
-staff*,acc,410,01,t,"1600, 1845",science 117
-staff*,acc,411,01,m,"1600, 1845",science 134
-staff*,acc,412,01,tr,"1230, 1345",science 132
-staff*,acc,416,01,r,"1600, 1845",communications 201
+staff,acc,410,01,t,"1600, 1845",science 117
+staff,acc,411,01,m,"1600, 1845",science 134
+staff,acc,412,01,tr,"1230, 1345",science 132
+staff,acc,416,01,r,"1600, 1845",communications 201
 rujoubm,acc,420,01,tr,"0930, 1045",science 115
-staff*,acc,480,01, ,tba,tba
-staff*,acc,490,01, ,tba,tba
-staff*,acc,530,e25, ,tba,online
-staff*,acc,535,e25, ,tba,online
+staff,acc,480,01, ,tba,tba
+staff,acc,490,01, ,tba,tba
+staff,acc,530,e25, ,tba,online
+staff,acc,535,e25, ,tba,online
 williamsone,ant,101,01,mwf,"0800, 0850",webb 315
 shepardtorresr,ant,106,01,tr,"0800, 0915",library 436
 leissa,ant,107,01,tr,"1100, 1215",science 117
@@ -29,14 +29,14 @@ perezr,ant,301,01,mw,"1730, 1845",webb 317
 perezr,ant,337,01,mw,"1600, 1715",webb 317
 williamsone,ant,345,01,mwf,"0900, 0950",webb 315
 leissa,ant,365,01,w,"1600, 1845",webb 213
-staff*,ant,480,01, ,tba,tba
-staff*,ant,490,01, ,tba,tba
-staff*,ant,492,01, ,tba,tba
+staff,ant,480,01, ,tba,tba
+staff,ant,490,01, ,tba,tba
+staff,ant,492,01, ,tba,tba
 mckeem,art,110,01,tr,"0930, 1215",fine_arts 326
 desousad,art,111,01,mw,"1200, 1445",fine_arts 125
 moranr,art,122,01,wf,"1200, 1445",fine_arts 327
 hollandj,art,124,01,wf,"0900, 1145",fine_arts 327
-staff*,art,124,02,tr,"0930, 1215",fine_arts 330
+staff,art,124,02,tr,"0930, 1215",fine_arts 330
 francob,art,140,01,tr,"0930, 1045",fine_arts 305
 pinckneys,art,140,02,tr,"1100, 1215",fine_arts 305
 pinckneys,art,140,03,tr,"1400, 1515",fine_arts 305
@@ -67,21 +67,21 @@ chent,art,351,01,m,"0900, 1145",fine_arts 327
 kims,art,357,01,m,"1600, 1845",fine_arts 327
 petrikovskyh,art,371,01,mw,"1600, 1715",fine_arts 115
 churchills,art,402,01,tr,"1600, 1750",fine_arts 305
-staff*,art,432,01,wf,"0900, 1145",fine_arts 330
+staff,art,432,01,wf,"0900, 1145",fine_arts 330
 liuq,art,470,01x,tr,"1900, 2145",fine_arts 331
-staff*,art,480,01, ,tba,tba
+staff,art,480,01, ,tba,tba
 doylem,art,486,01, ,tba,tba
-staff*,art,490,01, ,tba,tba
+staff,art,490,01, ,tba,tba
 kerrm,ast,214,01,tr,"0930, 1045",planetarium
 kerrm,ast,214,01a,t,"1100, 1200",planetarium
 kerrm,ast,214,01b,r,"1100, 1200",planetarium
 pazametaz,ast,214,02,tr,"1230, 1345",planetarium
 pazametaz,ast,214,02a,w,"1400, 1500",science 431
 pazametaz,ast,214,02b,w,"1600, 1700",science 431
-staff*,ast,380,01, ,tba,tba
-staff*,ast,480,01, ,tba,tba
-staff*,ast,490,01, ,tba,tba
-staff*,ast,495,01, ,tba,tba
+staff,ast,380,01, ,tba,tba
+staff,ast,480,01, ,tba,tba
+staff,ast,490,01, ,tba,tba
+staff,ast,495,01, ,tba,tba
 hulveyj,bio,120,01,mwf,"0900, 0950",science 231
 hulveyj,bio,120,01,r,"0930, 1220",science 331
 murdochb,bio,140,01,mwf,"1200, 1250",science 116
@@ -106,7 +106,7 @@ mattinglyb,bio,240,01,mwf,"0900, 0950",science 116
 mattinglyb,bio,240,01,t,"1100, 1350",science 331
 eppk,bio,240,02,mwf,"1100, 1150",science 116
 eppk,bio,240,02,t,"1400, 1650",science 331
-staff*,bio,280,01, ,tba,tba
+staff,bio,280,01, ,tba,tba
 cowlese,bio,301,01x,tr,"1600, 1715",science 116
 murdochb,bio,302,01x,r,"1100, 1250",science 341
 murdochb,bio,302,02x,r,"1400, 1550",science 341
@@ -127,7 +127,7 @@ hulveyj,bio,344,01,mwf,"1100, 1150",science 416
 hulveyj,bio,344,01,t,"0930, 1220",science 341
 lucink,bio,348,01,mwf,"1000, 1050",science 432
 lucink,bio,348,01a,w,"1400, 1650",science 315
-staff*,bio,380,01, ,tba,tba
+staff,bio,380,01, ,tba,tba
 grotha,bio,426,01,mwf,"0900, 0950",science 134
 grotha,bio,426,01,m,"1400, 1650",science 335
 mattinglyb,bio,442,01,mwf,"1200, 1250",science 416
@@ -135,10 +135,10 @@ mattinglyb,bio,442,01,r,"1400, 1650",science 318
 idjadij,bio,456,01,mwf,"0900, 0950",science 318
 idjadij,bio,456,01,m,"1400, 1650",science 333
 idjadij,bio,466,01,t,"1400, 1650",science 432
-staff*,bio,480,01, ,tba,tba
-staff*,bio,490,01, ,tba,tba
-staff*,bio,491,01, ,tba,tba
-staff*,bio,494,01, ,tba,tba
+staff,bio,480,01, ,tba,tba
+staff,bio,490,01, ,tba,tba
+staff,bio,491,01, ,tba,tba
+staff,bio,494,01, ,tba,tba
 erwinc,bus,201,01,tr,"1100, 1215",goddard 203
 erwinc,bus,201,02,tr,"1400, 1515",goddard 200
 erwinc,bus,201,03,tr,"0930, 1045",goddard 203
@@ -160,8 +160,8 @@ norvaln,bus,250,02,tr,"1400, 1515",communications 201
 jeonj,bus,255,01,mwf,"1300, 1350",communications 201
 buckw,bus,301,01,tr,"0930, 1045",science 134
 buckw,bus,301,02,tr,"1100, 1215",science 134
-staff*,bus,301,03,mwf,"1300, 1350",goddard 202
-staff*,bus,301,04,mwf,"1000, 1050",goddard 203
+staff,bus,301,03,mwf,"1300, 1350",goddard 202
+staff,bus,301,04,mwf,"1000, 1050",goddard 203
 perryk,bus,301,05,mwf,"0900, 0950",communications 201
 moylanw,bus,321,01,mw,"1600, 1715",communications 218
 moylanw,bus,325,01,mw,"1730, 1845",communications 218
@@ -170,7 +170,7 @@ jeonj,bus,327,01,mwf,"1000, 1050",communications 201
 jeonj,bus,327,02,mwf,"1100, 1150",communications 201
 ayenio,bus,329,01,tr,"1100, 1215",communications 109
 erwinc,bus,331,01,t,"1600, 1845",goddard 223
-staff*,bus,331,02,mwf,"0900, 0950",communications 109
+staff,bus,331,02,mwf,"0900, 0950",communications 109
 ferrarol,bus,333,01,m,"1600, 1845",communications 201
 chattertonc,bus,340,01,t,"0930, 1215",goddard 202
 kaneg,bus,342,01,mwf,"1000, 1050",communications 107
@@ -178,7 +178,7 @@ kaneg,bus,342,02,mwf,"1200, 1250",communications 107
 pakdilf,bus,350,01,m,"1600, 1845",goddard 117
 buckw,bus,351,01,tr,"1400, 1515",communications 108
 buckw,bus,351,02,tr,"1600, 1715",goddard 208
-staff*,bus,351,03,w,"1600, 1845",communications 109
+staff,bus,351,03,w,"1600, 1845",communications 109
 kaneg,bus,411,01,mwf,"0900, 0950",communications 107
 kangm,bus,427,01,tr,"1400, 1515",science 115
 grandhis,bus,428,01,tr,"1100, 1215",science 234
@@ -189,27 +189,27 @@ ohn,bus,431,02,tr,"1230, 1345",science 432
 ohn,bus,431,03,t,"1600, 1845",science 134
 ferrarol,bus,436,01,t,"1600, 1845",goddard 201
 villanuevae,bus,450,01,mwf,"0800, 0850",goddard 223
-staff*,bus,480,01, ,tba,tba
+staff,bus,480,01, ,tba,tba
 chattertonc,bus,490,01v,r,"0800, 0915",goddard 201
 chattertonc,bus,490,02v,t,"1600, 1715",communications 109
-staff*,bis,205,01,tr,"1100, 1215",webb 407
-staff*,bis,205,02,tr,"0930, 1045",webb 307
-staff*,bis,205,03,mwf,"0800, 0850",webb 307
-staff*,bis,205,04,tr,"1230, 1345",webb 407
-staff*,bis,205,05,mwf,"0900, 0950",webb 307
-staff*,bis,205,06,tr,"1600, 1715",webb 307
+staff,bis,205,01,tr,"1100, 1215",webb 407
+staff,bis,205,02,tr,"0930, 1045",webb 307
+staff,bis,205,03,mwf,"0800, 0850",webb 307
+staff,bis,205,04,tr,"1230, 1345",webb 407
+staff,bis,205,05,mwf,"0900, 0950",webb 307
+staff,bis,205,06,tr,"1600, 1715",webb 307
 kunenen,bis,305,01,tr,"1230, 1345",webb 307
 kunenen,bis,305,02,tr,"1400, 1515",webb 307
-staff*,bis,305,03,m,"1900, 2145",webb 307
-staff*,bis,362,01,tr,"1730, 1845",webb 307
-staff*,bis,362,02,tr,"1900, 2015",webb 307
+staff,bis,305,03,m,"1900, 2145",webb 307
+staff,bis,362,01,tr,"1730, 1845",webb 307
+staff,bis,362,02,tr,"1900, 2015",webb 307
 kunenen,bis,370,01,w,"1600, 1845",webb 307
 citursa,bis,373,01,tr,"1400, 1515",webb 407
-staff*,bis,375,01,t,"1900, 2145",tba
-staff*,bis,430,01,w,"1900, 2145",webb 407
+staff,bis,375,01,t,"1900, 2145",tba
+staff,bis,430,01,w,"1900, 2145",webb 407
 citursa,bis,437,01,r,"1600, 1845",webb 407
 citursa,bis,447,01,m,"1600, 1845",webb 407
-staff*,bis,480,01, ,tba,tba
+staff,bis,480,01, ,tba,tba
 couturepalmerinop,cas,201,e25, ,tba,online
 couturepalmerinop,cas,222,e25, ,tba,online
 hek,che,210,01,mwf,"0900, 0950",science 114
@@ -217,29 +217,29 @@ hek,che,210,02,mwf,"1000, 1050",science 114
 hek,che,210,03,mwf,"1300, 1350",science 114
 islams,che,210,04,mw,"1600, 1715",science 114
 islams,che,210,05,mw,"1730, 1845",science 114
-staff*,che,212,01,m,"1100, 1350",science 440
-staff*,che,212,02,m,"1400, 1650",science 440
-staff*,che,212,03,w,"1600, 1850",science 440
-staff*,che,212,04,r,"1100, 1350",science 440
-staff*,che,212,05,r,"1400, 1650",science 440
-staff*,che,212,06,m,"1900, 2150",science 440
-staff*,che,212,07,w,"1900, 2150",science 440
-staff*,che,212,08,w,"1100, 1350",science 440
-staff*,che,212,09,t,"1900, 2150",science 440
+staff,che,212,01,m,"1100, 1350",science 440
+staff,che,212,02,m,"1400, 1650",science 440
+staff,che,212,03,w,"1600, 1850",science 440
+staff,che,212,04,r,"1100, 1350",science 440
+staff,che,212,05,r,"1400, 1650",science 440
+staff,che,212,06,m,"1900, 2150",science 440
+staff,che,212,07,w,"1900, 2150",science 440
+staff,che,212,08,w,"1100, 1350",science 440
+staff,che,212,09,t,"1900, 2150",science 440
 kozad,che,216,01,mwf,"1000, 1050",science 104
-staff*,che,216,01a,m,"1900, 2150",science 441
-staff*,che,216,01b,t,"1900, 2150",science 441
-staff*,che,216,01c,r,"1900, 2150",science 441
-staff*,che,216,01d,w,"1900, 2150",science 441
-staff*,che,216,01e,w,"1400, 1650",science 441
+staff,che,216,01a,m,"1900, 2150",science 441
+staff,che,216,01b,t,"1900, 2150",science 441
+staff,che,216,01c,r,"1900, 2150",science 441
+staff,che,216,01d,w,"1900, 2150",science 441
+staff,che,216,01e,w,"1400, 1650",science 441
 kozad,che,216,02,mwf,"1300, 1350",science 104
 toedtj,che,316,01,mwf,"1300, 1350",science 432
 toedtj,che,317,01,t,"1400, 1750",science 434
 islams,che,320,01,mwf,"0900, 0950",science 432
 islams,che,320,01a,f,"1400, 1650",science 434
 toedtj,che,323,01,mwf,"1100, 1150",science 432
-staff*,che,480,01, ,tba,tba
-staff*,che,490,01, ,tba,tba
+staff,che,480,01, ,tba,tba
+staff,che,490,01, ,tba,tba
 murphyj,com,100,01,tr,"1100, 1215",communications 108
 murphyj,com,100,02,tr,"1230, 1345",communications 108
 curtiss,com,101,01,mwf,"1000, 1050",fine_arts 305
@@ -258,25 +258,25 @@ ammarim,com,220,03x,w,"1600, 1845",communications 114a
 ammarim,com,220,03x,w,"1600, 1845",communications 114b
 ammarim,com,220,03x,w,"1600, 1845",communications 114d
 dayb,com,220,04x,tr,"1100, 1215",communications 226
-staff*,com,230,01,m,"1600, 1845",goddard 200
+staff,com,230,01,m,"1600, 1845",goddard 200
 freunde,com,230,02,t,"1600, 1845",goddard 203
 zatowskij,com,245,01,t,"1600, 1845",communications 226
 aconforan,com,285,01,m,"1600, 1845",communications 114a
 aconforan,com,285,01,m,"1600, 1845",communications 114b
 aconforan,com,285,01,m,"1600, 1845",communications 114d
-staff*,com,290,01, ,tba,tba
-staff*,com,291,01, ,tba,tba
-staff*,com,292,01, ,tba,tba
+staff,com,290,01, ,tba,tba
+staff,com,291,01, ,tba,tba
+staff,com,292,01, ,tba,tba
 utterbacka,com,300,01,tr,"1230, 1345",fine_arts 307
 freunde,com,312,01,w,"1600, 1845",communications 108
-staff*,com,330,01,mwf,"0900, 0950",communications 108
+staff,com,330,01,mwf,"0900, 0950",communications 108
 huoppip,com,352,01,tr,"0930, 1045",communications 226
 osterndorfw,com,400,01,tr,"1100, 1215",fine_arts 118
 osterndorfw,com,403,01,tr,"0930, 1045",fine_arts 118
 dayb,com,435,01,tr,"1600, 1715",communications 219
-staff*,com,480,01, ,tba,tba
-staff*,com,490,01, ,tba,tba
-staff*,com,491,01, ,tba,tba
+staff,com,480,01, ,tba,tba
+staff,com,490,01, ,tba,tba
+staff,com,491,01, ,tba,tba
 cobbj,cft,101,01,w,"1300, 1350",fine_arts 118
 cobbj,cft,101,02,w,"1200, 1250",fine_arts 118
 floodr,cft,205,01,mwf,"1000, 1110",communications 226
@@ -286,16 +286,16 @@ tasneems,csc,180,01,tr,"1400, 1515",science 138
 tasneems,csc,180,02,tr,"1100, 1215",science 138
 tasneems,csc,180,03,tr,"1230, 1345",science 138
 tasneems,csc,202,01,w,"1600, 1845",science 138
-staff*,csc,203,01,tr,"1400, 1515",science 135
+staff,csc,203,01,tr,"1400, 1515",science 135
 onyey,csc,205,01,tr,"1400, 1515",science 139
 onyey,csc,205,02,tr,"1230, 1345",science 135
-staff*,csc,210,01,tr,"0930, 1045",science 133
+staff,csc,210,01,tr,"0930, 1045",science 133
 lavoiem,csc,212,01,tr,"0930, 1045",science 139
-staff*,csc,215,01,mw,"1730, 1845",science 139
+staff,csc,215,01,mw,"1730, 1845",science 139
 rosienej,csc,230,01,mwf,"1400, 1450",science 133
 bondoka,csc,231,01,mwf,"1100, 1150",science 135
 bondoka,csc,231,02,mwf,"1400, 1450",science 139
-staff*,csc,249,01,mw,"1600, 1715",science 139
+staff,csc,249,01,mw,"1600, 1715",science 139
 bondoka,csc,251,01,mwf,"0900, 0950",science 138
 gaok,csc,270,01,mwf,"1000, 1050",science 138
 gaok,csc,305,01,mwf,"1300, 1350",science 138
@@ -305,102 +305,102 @@ rosienej,csc,340,01,mwf,"1100, 1150",science 139
 gaok,csc,341,01,mwf,"1100, 1150",science 138
 gaok,csc,341,02,mwf,"1400, 1450",science 138
 bondoka,csc,360,01,mw,"1600, 1715",science 135
-staff*,csc,360,02,m,"1600, 1845",science 138
-staff*,csc,360,03,tr,"1600, 1715",science 135
+staff,csc,360,02,m,"1600, 1845",science 138
+staff,csc,360,03,tr,"1600, 1715",science 135
 dancikg,csc,450,01,tr,"0930, 1045",science 135
-staff*,csc,480,01, ,tba,tba
+staff,csc,480,01, ,tba,tba
 marrettc,ced,300,01, ,tba,tba
 simonn,crm,102,01,w,"0900, 0950",sports 221
 pestar,crm,210,01,mwf,"1000, 1050",goddard 216
 kurtim,crm,350,01,t,"1600, 1845",webb 110
 pestar,crm,365,01,mwf,"1200, 1250",goddard 216
-staff*,crm,365,02,w,"1900, 2145",webb 212
+staff,crm,365,02,w,"1900, 2145",webb 212
 pestar,crm,410,01,mwf,"1100, 1150",goddard 216
 severancet,crm,450,01,w,"1600, 1845",science 134
 parsonsn,crm,475,01v,t,"1730, 1815",webb 216
-staff*,crm,480,01, ,tba,tba
-staff*,crm,490,01, ,tba,tba
+staff,crm,480,01, ,tba,tba
+staff,crm,490,01, ,tba,tba
 brighthollanda,dnc,240,01,w,"1600, 1845",fine_arts 219
-staff*,dnc,491,01,w,"1100, 1250",tba
+staff,dnc,491,01,w,"1100, 1250",tba
 davism,dsc,501,e25, ,tba,online
-staff*,dsc,502,e25, ,tba,online
-staff*,dsc,505,e25, ,tba,online
-staff*,dsc,506,e25, ,tba,online
-staff*,dsc,507,e25, ,tba,online
+staff,dsc,502,e25, ,tba,online
+staff,dsc,505,e25, ,tba,online
+staff,dsc,506,e25, ,tba,online
+staff,dsc,507,e25, ,tba,online
 turgeonk,dsc,508,e25, ,tba,online
 liux,dsc,508,e26, ,tba,online
 bouleyt,ece,215,01,tr,"1400, 1515",the_center_for_early_childhood_education 170
-leek,ece,315,01,w,"0800, 1150",the_center_for_early_childhood_education 175
+staff,ece,315,01,w,"0800, 1150",the_center_for_early_childhood_education 175
 bouleyt,ece,325,01,w,"1600, 1845",the_center_for_early_childhood_education 175
 laportek,ece,405,01x,m,"1600, 1845",the_center_for_early_childhood_education 167
 rezain,ece,410,01,w,"1600, 1845",the_center_for_early_childhood_education 170
-staff*,ece,420,01x,m,"1600, 1845",the_center_for_early_childhood_education 170
-staff*,ece,425,01, ,tba,tba
-staff*,ece,445,01,mtwrf,"0800, 1530",tba
+staff,ece,420,01x,m,"1600, 1845",the_center_for_early_childhood_education 170
+staff,ece,425,01, ,tba,tba
+staff,ece,445,01,mtwrf,"0800, 1530",tba
 swaminathans,ece,455,01,m,"0900, 1145",the_center_for_early_childhood_education 175
-staff*,ece,480,01, ,tba,tba
-staff*,ece,505,01x,m,"1600, 1845",the_center_for_early_childhood_education 170
+staff,ece,480,01, ,tba,tba
+staff,ece,505,01x,m,"1600, 1845",the_center_for_early_childhood_education 170
 laportek,ece,506,01x,m,"1600, 1845",the_center_for_early_childhood_education 167
 bouleyt,ece,507,01,t,"1600, 1845",the_center_for_early_childhood_education 175
 swaminathans,ece,510,01,r,"1600, 1845",the_center_for_early_childhood_education 175
 swaminathans,ece,514,01, ,tba,tba
 bouleyt,ece,516,01, ,tba,tba
-staff*,ece,565,01,mtwrf,"0800, 1530",tba
-staff*,ece,696,01, ,tba,tba
-staff*,eco,100,01,mwf,"1100, 1150",communications 107
+staff,ece,565,01,mtwrf,"0800, 1530",tba
+staff,ece,696,01, ,tba,tba
+staff,eco,100,01,mwf,"1100, 1150",communications 107
 cunninghamb,eco,200,01,mwf,"1000, 1050",communications 218
-staff*,eco,200,02,tr,"1400, 1515",goddard 203
+staff,eco,200,02,tr,"1400, 1515",goddard 203
 cunninghamb,eco,200,03,mwf,"1100, 1150",communications 218
-staff*,eco,200,04,tr,"1230, 1345",communications 107
+staff,eco,200,04,tr,"1230, 1345",communications 107
 cunninghamb,eco,200,05,mwf,"1200, 1250",communications 218
-staff*,eco,200,06,tr,"0800, 0915",communications 218
-staff*,eco,200,07,mwf,"1300, 1350",communications 218
-staff*,eco,200,08,mwf,"1200, 1250",goddard 202
-staff*,eco,201,01,tr,"0930, 1045",science 104
-staff*,eco,201,02,tr,"1100, 1215",sports 221
-staff*,eco,201,03,mwf,"0800, 0850",communications 218
-staff*,eco,201,04,mwf,"0900, 0950",goddard 203
-staff*,eco,201,05,mwf,"1100, 1150",goddard 202
-staff*,eco,201,06,tr,"1400, 1515",science 104
-staff*,eco,215,01,tr,"0930, 1045",webb 407
-staff*,eco,215,02,tr,"1230, 1345",science 115
+staff,eco,200,06,tr,"0800, 0915",communications 218
+staff,eco,200,07,mwf,"1300, 1350",communications 218
+staff,eco,200,08,mwf,"1200, 1250",goddard 202
+staff,eco,201,01,tr,"0930, 1045",science 104
+staff,eco,201,02,tr,"1100, 1215",sports 219
+staff,eco,201,03,mwf,"0800, 0850",communications 218
+staff,eco,201,04,mwf,"0900, 0950",goddard 203
+staff,eco,201,05,mwf,"1100, 1150",goddard 202
+staff,eco,201,06,tr,"1400, 1515",science 104
+staff,eco,215,01,tr,"0930, 1045",webb 407
+staff,eco,215,02,tr,"1230, 1345",science 115
 cliffordm,eco,245,01,tr,"0800, 0915",communications 109
 cliffordm,eco,245,02,tr,"0930, 1045",communications 109
 cunninghamb,eco,302,01,mwf,"0900, 0950",communications 218
-staff*,eco,322,01,mwf,"1000, 1050",communications 108
-staff*,eco,330,01,tr,"1100, 1215",communications 201
-staff*,eco,480,01, ,tba,tba
+staff,eco,322,01,mwf,"1000, 1050",communications 108
+staff,eco,330,01,tr,"1100, 1215",communications 201
+staff,eco,480,01, ,tba,tba
 robertst,edu,200,01,tr,"1400, 1515",webb 313
 robertst,edu,200,02,tr,"1100, 1215",webb 317
 tomanellij,edu,222,01,tr,"1100, 1215",communications 218
 tomanellij,edu,222,02,tr,"0800, 0915",science 137
 galvezd,edu,222,03,w,"1900, 2145",webb 313
 fabrizim,edu,300,01,t,"1600, 1845",communications 108
-staff*,edu,301,01, ,tba,tba
+staff,edu,301,01, ,tba,tba
 rodriguezl,edu,304,01,tr,"0800, 0915",the_center_for_early_childhood_education 170
 mooreheadt,edu,307,01,t,"0930, 1215",webb 113
 richardss,edu,316,01,r,"0930, 1215",webb 113
 richardss,edu,316,02x,m,"1600, 1845",webb 113
 stoloffd,edu,357,01,w,"1600, 1845",webb 215
 liux,edu,357,02,w,"1600, 1845",webb 212
-staff*,edu,357,03,t,"1600, 1845",webb 215
+staff,edu,357,03,t,"1600, 1845",webb 215
 whitej,edu,357,04,r,"1600, 1845",webb 215
-staff*,edu,401,01, ,tba,tba
+staff,edu,401,01, ,tba,tba
 liux,edu,404,01,r,"0930, 1215",webb 210
 cotej,edu,411,01,tr,"1900, 2015",webb 215
 rodriguezl,edu,413,01,r,"0930, 1215",the_center_for_early_childhood_education 170
-staff*,edu,450,01, ,tba,tba
-staff*,edu,451,01, ,tba,tba
+staff,edu,450,01, ,tba,tba
+staff,edu,451,01, ,tba,tba
 fabrizim,edu,462,01x,m,"1600, 1845",communications 108
 cookk,edu,463,01x,m,"1600, 1845",webb 210
-staff*,edu,464,01x,t,"1600, 1845",webb 210
+staff,edu,464,01x,t,"1600, 1845",webb 210
 richardss,edu,465,01x,w,"1900, 2145",webb 113
-staff*,edu,470,01,mtwrf,"0800, 1530",tba
-staff*,edu,471,01,mtwrf,"0800, 1530",tba
-staff*,edu,480,01, ,tba,tba
-staff*,edu,490,01, ,tba,tba
-staff*,edu,501,01, ,tba,tba
-staff*,edu,502,01, ,tba,tba
+staff,edu,470,01,mtwrf,"0800, 1530",tba
+staff,edu,471,01,mtwrf,"0800, 1530",tba
+staff,edu,480,01, ,tba,tba
+staff,edu,490,01, ,tba,tba
+staff,edu,501,01, ,tba,tba
+staff,edu,502,01, ,tba,tba
 liux,edu,504,h01, ,tba,online
 liux,edu,504,h01,t,"1600, 1845",webb 112
 galvezd,edu,505,e25, ,tba,online
@@ -408,80 +408,79 @@ richardss,edu,511,01,m,"1900, 2145",webb 113
 stoloffd,edu,512,e25, ,tba,online
 richardss,edu,516,02x,m,"1600, 1845",webb 113
 richardss,edu,517,01,w,"1600, 1845",webb 113
-staff*,edu,521,01, ,tba,tba
-staff*,edu,523,01, ,tba,tba
+staff,edu,521,01, ,tba,tba
+staff,edu,523,01, ,tba,tba
 fabrizim,edu,525,01,m,"1900, 2145",communications 108
 vitteritod,edu,544,01,t,"1900, 2145",webb 214
-staff*,edu,546,01x,t,"1600, 1845",webb 210
+staff,edu,546,01x,t,"1600, 1845",webb 210
 cookk,edu,547,01x,m,"1600, 1845",webb 210
 fabrizim,edu,548,01x,m,"1600, 1845",communications 108
 rodriguezl,edu,549,01,r,"1600, 1845",webb 113
 richardss,edu,565,01x,w,"1900, 2145",webb 113
-staff*,edu,571,01,mtwrf,"0800, 1530",tba
-staff*,edu,573,01,mtwrf,"0800, 1530",tba
+staff,edu,571,01,mtwrf,"0800, 1530",tba
+staff,edu,573,01,mtwrf,"0800, 1530",tba
 mooreheadt,edu,582,h01, ,tba,online
 mooreheadt,edu,582,h01,r,"1600, 1845",webb 112
 mooreheadt,edu,613,e25, ,tba,online
 galvezd,edu,619,e25, ,tba,online
 vitteritod,edu,630,e25, ,tba,online
-staff*,edu,692,01,mtwrf,"0800, 1530",tba
-staff*,edu,692,02,mtwrf,"0800, 1530",tba
+staff,edu,692,01,mtwrf,"0800, 1530",tba
+staff,edu,692,02,mtwrf,"0800, 1530",tba
 swaminathans,edu,693,e25, ,tba,online
-staff*,edu,694,01,mtwrf,"0800, 1530",tba
-staff*,edu,694,02,mtwrf,"0800, 1530",tba
-staff*,edu,696,01, ,tba,tba
+staff,edu,694,01,mtwrf,"0800, 1530",tba
+staff,edu,694,02,mtwrf,"0800, 1530",tba
+staff,edu,696,01, ,tba,tba
 swaminathans,edu,697,e25, ,tba,online
-staff*,eng,100,01,t,"1100, 1215",webb 206
-staff*,eng,100,01,r,"1100, 1215",goddard 202
+staff,eng,100,01,t,"1100, 1215",webb 206
+staff,eng,100,01,r,"1100, 1215",goddard 202
 oterom,eng,100,02,t,"0930, 1045",webb 206
 oterom,eng,100,02,r,"0930, 1045",webb 315
-staff*,eng,100,03,tr,"0800, 0915",webb 206
-staff*,eng,100,04,t,"1100, 1215",webb 210
-staff*,eng,100,04,r,"1100, 1215",webb 206
-staff*,eng,100,05,tr,"1600, 1715",science 231
-staff*,eng,100,06,mw,"0800, 0850",webb 114
-staff*,eng,100,06,f,"0800, 0850",webb 206
-staff*,eng,100,07,m,"1600, 1715",webb 206
-staff*,eng,100,07,w,"1600, 1715",webb 114
-staff*,eng,100,08,mw,"0900, 0950",webb 112
-staff*,eng,100,08,f,"0900, 0950",webb 206
-staff*,eng,100,09,mwf,"1300, 1350",webb 215
-staff*,eng,100p,01,tr,"0930, 1045",webb 316
-staff*,eng,100p,01,w,"0900, 1040",webb 316
-staff*,eng,100p,02,m,"1400, 1540",webb 316
-staff*,eng,100p,02,tr,"1400, 1515",webb 316
+staff,eng,100,03,tr,"0800, 0915",webb 206
+staff,eng,100,04,t,"1100, 1215",webb 210
+staff,eng,100,04,r,"1100, 1215",webb 206
+staff,eng,100,05,tr,"1600, 1715",science 231
+staff,eng,100,06,mw,"0800, 0850",webb 114
+staff,eng,100,06,f,"0800, 0850",webb 206
+staff,eng,100,07,m,"1600, 1715",webb 206
+staff,eng,100,07,w,"1600, 1715",webb 114
+staff,eng,100,08,mw,"0900, 0950",webb 112
+staff,eng,100,08,f,"0900, 0950",webb 206
+staff,eng,100,09,mwf,"1300, 1350",webb 215
+staff,eng,100p,01,tr,"0930, 1045",webb 316
+staff,eng,100p,01,w,"0900, 1040",webb 316
+staff,eng,100p,02,m,"1400, 1540",webb 316
+staff,eng,100p,02,tr,"1400, 1515",webb 316
 mcneilk,eng,100p,03,tr,"1230, 1345",webb 316
 mcneilk,eng,100p,03,w,"1300, 1440",webb 316
-staff*,eng,100p,04,tr,"1100, 1215",webb 316
-staff*,eng,100p,04,w,"1100, 1240",webb 316
-staff*,eng,100p,05,tr,"1600, 1715",webb 316
-staff*,eng,100p,05,w,"1600, 1740",webb 316
+staff,eng,100p,04,tr,"1100, 1215",webb 316
+staff,eng,100p,04,w,"1100, 1240",webb 316
+staff,eng,100p,05,tr,"1600, 1715",webb 316
+staff,eng,100p,05,w,"1600, 1740",webb 316
 mamar,eng,125,01,tr,"1600, 1715",webb 214
 mamar,eng,125,02,tr,"1730, 1845",webb 214
-staff*,eng,125,03,tr,"0800, 0915",webb 212
+staff,eng,125,03,tr,"0800, 0915",webb 212
 clermontferrandm,eng,177,01,tr,"1230, 1345",webb 113
 clermontferrandm,eng,177,02,tr,"1400, 1515",webb 113
 garciac,eng,190,01,mwf,"1100, 1150",webb 206
 garciac,eng,190,02,mwf,"1200, 1250",webb 206
-staff*,eng,201,01,tr,"1100, 1215",webb 215
-staff*,eng,201,02,tr,"0930, 1045",sports 221
-staff*,eng,205,01,mwf,"0900, 0950",webb 115
-staff*,eng,205,02,tr,"1730, 1845",science 137
-staff*,eng,205,03,tr,"1600, 1715",science 137
+staff,eng,201,01,tr,"1100, 1215",webb 215
+staff,eng,201,02,tr,"0930, 1045",sports 221
+staff,eng,205,01,mwf,"0900, 0950",webb 115
+staff,eng,205,02,tr,"1730, 1845",science 137
+staff,eng,205,03,tr,"1600, 1715",science 137
 torockioc,eng,207,01,tr,"1100, 1215",webb 307
 mcneilk,eng,216,01,tr,"1400, 1515",webb 112
 chiricom,eng,227,01,mwf,"1200, 1250",webb 313
 chiricom,eng,227,02,mwf,"1300, 1350",webb 313
-torockioc,eng,234,01,tr,"1230, 1345",webb 313
 chiricom,eng,241,01,mwf,"0900, 0950",webb 212
 luxenbergh,eng,241,01,mwf,"0900, 0950",webb 212
 chiricom,eng,241,02,mwf,"1000, 1050",webb 212
 luxenbergh,eng,241,02,mwf,"1000, 1050",webb 212
 youngbloodj,eng,241,03,mwf,"1100, 1150",webb 213
-staff*,eng,260,01x,mwf,"1100, 1150",webb 215
-staff*,eng,260,02x,tr,"1230, 1345",sports 219
-staff*,eng,260,03x,tr,"1400, 1515",sports 219
-derosas,eng,275,01,tr,"1600, 1715",webb 213
+staff,eng,260,01x,mwf,"1100, 1150",webb 215
+staff,eng,260,02x,tr,"1230, 1345",sports 219
+staff,eng,260,03x,tr,"1400, 1515",sports 219
+derosas,eng,275,01,tr,"1400, 1515",library 266
 clermontferrandm,eng,277,01,tr,"1600, 1715",science 416
 youngbloodj,eng,277,02,mwf,"1300, 1350",webb 214
 derosas,eng,290,01,tr,"0930, 1045",communications 219
@@ -489,8 +488,8 @@ derosas,eng,290,02,tr,"1100, 1215",communications 219
 ferrucis,eng,299,01,tr,"1230, 1345",webb 210
 ferrucis,eng,299,02,tr,"1230, 1345",webb 210
 torockioc,eng,301,01,tr,"1400, 1515",science 134
-staff*,eng,302,01,m,"1600, 1845",webb 114
-staff*,eng,328,01,tr,"1600, 1715",communications 107
+staff,eng,302,01,m,"1600, 1845",webb 114
+staff,eng,328,01,tr,"1600, 1715",communications 107
 speichera,eng,329,01,w,"1600, 1845",webb 214
 oterom,eng,338,01,tr,"1230, 1345",communications 218
 oterom,eng,340,01,tr,"1400, 1515",communications 218
@@ -501,13 +500,13 @@ youngbloodj,eng,365,01,mf,"1400, 1515",webb 214
 torockioc,eng,381,01,w,"1600, 1845",webb 115
 ferrucis,eng,461,01,r,"1600, 1845",webb 115
 chiricom,eng,462,01,m,"1600, 1845",webb 213
-staff*,eng,480,01, ,tba,tba
-staff*,eng,481,01, ,tba,tba
-staff*,eng,491,01, ,tba,tba
-staff*,eng,493,01, ,tba,tba
-staff*,eng,494,01, ,tba,tba
-staff*,eng,495,01, ,tba,tba
-staff*,eng,499,01, ,tba,tba
+staff,eng,480,01, ,tba,tba
+staff,eng,481,01, ,tba,tba
+staff,eng,491,01, ,tba,tba
+staff,eng,493,01, ,tba,tba
+staff,eng,494,01, ,tba,tba
+staff,eng,495,01, ,tba,tba
+staff,eng,499,01, ,tba,tba
 hyattd,ees,104,01,mwf,"0900, 0950",science 236
 cunninghamw,ees,104,02,mwf,"1000, 1050",science 236
 hyattd,ees,104,03,mwf,"1100, 1150",science 236
@@ -532,14 +531,14 @@ hyattd,ees,350,01,tr,"0800, 1200",science 219
 hyattd,ees,350,01,tr,"0800, 1200",science 232
 oakleyb,ees,362,01,tr,"1400, 1515",science 215
 hyattd,ees,362,01,tr,"1400, 1515",science 215
-staff*,ees,392,01, ,tba,tba
-staff*,ees,423,01,m,"1600, 1845",science 232
+staff,ees,392,01, ,tba,tba
+staff,ees,423,01,m,"1600, 1845",science 232
 oakleyb,ees,424,01,t,"1600, 1845",science 215
 metcalfm,ees,444,01,r,"1600, 1845",science 219
-staff*,ees,480,01, ,tba,tba
+staff,ees,480,01, ,tba,tba
 chadwickj,ehs,210,01,tr,"1230, 1345",science 116
-staff*,flm,101,01,m,"1900, 2100",communications 107
-staff*,flm,101,01,w,"1900, 1950",communications 107
+staff,flm,101,01,m,"1900, 2100",communications 107
+staff,flm,101,01,w,"1900, 1950",communications 107
 eriksoussia,flm,219,01x,m,"1600, 1845",webb 315
 carlsonr,flm,220,01x,t,"1600, 1845",communications 114d
 ammarim,flm,220,02x,w,"1900, 2145",communications 114d
@@ -548,22 +547,22 @@ dayb,flm,220,04x,tr,"1100, 1215",communications 226
 dayb,flm,230,01,tr,"1400, 1515",communications 226
 collinsg,flm,322,01,r,"1900, 2145",communications 107
 golebiewskit,flm,355,01x,mw,"1600, 1715",fine_arts 118
-staff*,fin,245,01,tr,"1100, 1215",goddard 201
-staff*,fin,245,02,mwf,"0900, 0950",the_center_for_early_childhood_education 167
-staff*,fin,245,03,mwf,"0800, 0850",goddard 203
+staff,fin,245,01,tr,"1100, 1215",goddard 201
+staff,fin,245,02,mwf,"0900, 0950",the_center_for_early_childhood_education 167
+staff,fin,245,03,mwf,"0800, 0850",goddard 203
 liangl,fin,245,04,tr,"0930, 1045",communications 201
 liangl,fin,245,05,tr,"0800, 0915",communications 201
-staff*,fin,346,01,mwf,"1000, 1050",communications 109
-staff*,fin,346,02,mwf,"1200, 1250",communications 201
-staff*,fin,348,01,t,"1600, 1845",communications 201
-staff*,fin,349,01,tr,"1400, 1515",goddard 216
+staff,fin,346,01,mwf,"1000, 1050",communications 109
+staff,fin,346,02,mwf,"1200, 1250",communications 201
+staff,fin,348,01,t,"1600, 1845",communications 201
+staff,fin,349,01,tr,"1400, 1515",goddard 216
 liangl,fin,437,01,tr,"1230, 1345",goddard 216
-staff*,fin,447,01,m,"1600, 1845",goddard 202
-staff*,fin,480,01, ,tba,tba
+staff,fin,447,01,m,"1600, 1845",goddard 202
+staff,fin,480,01, ,tba,tba
 vailm,fin,545,e25, ,tba,online
 ruddyj,fyr,314,01,t,"1600, 1800",library 436
 bachollem,fre,110,01,mwf,"1100, 1150",webb 114
-staff*,fre,116,01,mwf,"1300, 1350",webb 212
+staff,fre,116,01,mwf,"1300, 1350",webb 212
 dahmanif,fre,210,01,mwf,"1200, 1250",goddard 203
 dahmanif,fre,310,01,mwf,"1000, 1050",webb 223b
 bachollem,fre,331,01x,w,"1600, 1845",goddard 202
@@ -577,7 +576,7 @@ robertd,hpe,104,04,tr,"1230, 1345",the_center_for_early_childhood_education 167
 difrancoa,hpe,104,05,m,"1900, 2145",goddard 200
 vogtd,hpe,104,06,r,"1600, 1845",goddard 200
 sanfordl,hpe,110,01,tr,"1730, 1845",sports 104
-staff*,hpe,117,01,mwf,"1400, 1450",goddard 202
+staff,hpe,117,01,mwf,"1400, 1450",goddard 202
 chattertonc,hpe,120,01,mwf,"1100, 1150",sports 219
 sanfordl,hpe,127,01,tr,"1730, 1845",sports 104
 madenjianwybierackik,hpe,140,01,mwf,"1100, 1150",fine_arts 219
@@ -589,9 +588,9 @@ frainm,hpe,210,01,w,"1600, 1845",goddard 208
 frainm,hpe,210,02,w,"1900, 2145",goddard 208
 manfredie,hpe,230,01,tr,"0930, 1045",sports 219
 manfredie,hpe,230,02,tr,"0800, 0915",goddard 208
-stellitanos,hpe,240,01,mwf,"1000, 1050",sports 201/gym
+stellitanos,hpe,240,01,mwf,"1000, 1050",sports 201
 stellitanos,hpe,240,01,mwf,"1000, 1050",sports 219
-stellitanos,hpe,240,02,mwf,"0900, 0950",sports 201/gym
+stellitanos,hpe,240,02,mwf,"0900, 0950",sports 201
 stellitanos,hpe,240,02,mwf,"0900, 0950",sports 219
 christopherm,hpe,245,01,tr,"1400, 1515",the_center_for_early_childhood_education 175
 coxp,hpe,310,01,w,"1900, 2145",goddard 216
@@ -604,15 +603,15 @@ switchenkod,hpe,329,01,tr,"0800, 0915",sports 221
 robertd,hpe,335,01,m,"0800, 1045",sports 221
 robertd,hpe,363,01,tr,"0930, 1045",the_center_for_early_childhood_education 167
 switchenkok,hpe,368,01,tr,"1400, 1515",sports 104
-switchenkok,hpe,368,01,tr,"1400, 1515",sports 201/gym
+switchenkok,hpe,368,01,tr,"1400, 1515",sports 201
 robertd,hpe,401,01,tr,"1100, 1215",the_center_for_early_childhood_education 167
 switchenkod,hpe,413,01,tr,"1230, 1345",sports 221
 switchenkok,hpe,441,01,w,"1600, 1715",the_center_for_early_childhood_education 167
 hillsk,hpe,445,01,r,"1600, 1715",offcam
 rowettc,hpe,448,01,t,"1600, 1730",the_center_for_early_childhood_education 167
-staff*,hpe,475,01,mtwrf,"0800, 1530",tba
-staff*,hpe,480,01, ,tba,tba
-staff*,hpe,492,01, ,tba,tba
+staff,hpe,475,01,mtwrf,"0800, 1530",tba
+staff,hpe,480,01, ,tba,tba
+staff,hpe,492,01, ,tba,tba
 brownl,hsc,100,01,mwf,"0800, 0850",goddard 208
 serranom,hsc,100,02,tr,"1400, 1515",goddard 208
 dotsont,hsc,209,01x,tr,"1600, 1715",science 114
@@ -624,60 +623,60 @@ porebskab,hsc,215,01b,w,"1200, 1450",science 237
 smithe,hsc,215,01c,t,"0800, 1050",science 237
 smithe,hsc,215,01d,r,"0800, 1050",science 237
 kylek,hsc,215,01e,m,"1600, 1850",science 237
-staff*,hsc,215,01f,m,"1300, 1550",science 237
-staff*,hsc,215,01g,f,"0800, 1050",science 237
+staff,hsc,215,01f,m,"1300, 1550",science 237
+staff,hsc,215,01g,f,"0800, 1050",science 237
 smithe,hsc,215,02,tr,"1230, 1345",goddard 117
-staff*,hsc,215,03,mwf,"0900, 0950",science 104
+staff,hsc,215,03,mwf,"0900, 0950",science 104
 beeverj,hsc,225,01,tr,"0800, 0915",goddard 202
-staff*,hsc,225,02,mwf,"0800, 0850",goddard 202
+staff,hsc,225,02,mwf,"0800, 0850",goddard 202
 dzurecl,hsc,225,03,tr,"1600, 1715",goddard 216
 bissonnettea,hsc,235,01,mwf,"1300, 1350",goddard 201
-staff*,hsc,280,01, ,tba,tba
-staff*,hsc,290,01, ,tba,tba
-staff*,hsc,291,01, ,tba,tba
+staff,hsc,280,01, ,tba,tba
+staff,hsc,290,01, ,tba,tba
+staff,hsc,291,01, ,tba,tba
 carrolls,hsc,302,01,tr,"0930, 1045",goddard 223
 daled,hsc,307,01,mwf,"1300, 1350",goddard 223
 bataillea,hsc,308,01,mwf,"0900, 0950",goddard 208
 canavanp,hsc,318,01,mwf,"1100, 1150",goddard 223
-staff*,hsc,318,01a,t,"0800, 1050",goddard 127
+staff,hsc,318,01a,t,"0800, 1050",goddard 127
 joinerk,hsc,318,01b,t,"1230, 1520",goddard 127
-staff*,hsc,318,02,mwf,"1400, 1450",goddard 117
+staff,hsc,318,02,mwf,"1400, 1450",goddard 117
 tackettm,hsc,318,02a,m,"1600, 1850",goddard 127
 joinerk,hsc,318,02b,w,"1600, 1850",goddard 127
 bataillea,hsc,319,01,mwf,"1000, 1050",goddard 208
-staff*,hsc,319,01a,w,"1300, 1550",goddard 127
-staff*,hsc,319,01b,f,"1100, 1350",goddard 127
+staff,hsc,319,01a,w,"1300, 1550",goddard 127
+staff,hsc,319,01b,f,"1100, 1350",goddard 127
 bataillea,hsc,319,02,mwf,"1100, 1150",goddard 208
-staff*,hsc,319,02a,r,"0800, 1050",goddard 127
-staff*,hsc,319,02b,r,"1230, 1520",goddard 127
+staff,hsc,319,02a,r,"0800, 1050",goddard 127
+staff,hsc,319,02b,r,"1230, 1520",goddard 127
 bataillea,hsc,319,03,mwf,"1300, 1350",goddard 117
-staff*,hsc,319,03a,f,"0800, 1050",goddard 127
-staff*,hsc,319,03b,r,"1600, 1850",goddard 127
+staff,hsc,319,03a,f,"0800, 1050",goddard 127
+staff,hsc,319,03b,r,"1600, 1850",goddard 127
 daled,hsc,320,01,mwf,"1200, 1250",goddard 223
 daled,hsc,342,01,tr,"0800, 0915",goddard 216
-staff*,hsc,356,01,tr,"0800, 0915",goddard 117
-staff*,hsc,357,01,m,"1600, 1850",goddard 123
+staff,hsc,356,01,tr,"0800, 0915",goddard 117
+staff,hsc,357,01,m,"1600, 1850",goddard 123
 canavanp,hsc,360,01,mwf,"1300, 1350",goddard 203
 canavanp,hsc,360,01,w,"1400, 1650",goddard 123
 walterss,hsc,365,01,mwf,"1400, 1450",goddard 223
 alexanderj,hsc,370,01,tr,"0930, 1045",communications 218
-staff*,hsc,380,01, ,tba,tba
-staff*,hsc,390,01, ,tba,tba
-staff*,hsc,391,01, ,tba,tba
+staff,hsc,380,01, ,tba,tba
+staff,hsc,390,01, ,tba,tba
+staff,hsc,391,01, ,tba,tba
 walterss,hsc,400,01,mwf,"1200, 1310",webb 314
 chank,hsc,415,01x,tr,"0930, 1045",science 416
 dzurecd,hsc,425,01,mwf,"0800, 0850",goddard 200
 dzurecd,hsc,425,01,m,"1300, 1550",science 341
 nsiahy,hsc,425,02,tr,"0800, 0915",goddard 203
-staff*,hsc,425,02a,w,"1600, 1850",science 341
-staff*,hsc,425,02b,t,"1730, 2020",science 341
+staff,hsc,425,02a,w,"1600, 1850",science 341
+staff,hsc,425,02b,t,"1730, 2020",science 341
 bissonnettea,hsc,438,01,mwf,"1400, 1450",goddard 201
 blancaflors,hsc,438,02,tr,"1230, 1345",goddard 223
 beebej,hsc,444,01,tr,"1730, 2145",goddard 123
 daled,hsc,450,01,mwf,"0800, 0850",goddard 216
-staff*,hsc,480,01, ,tba,tba
-staff*,hsc,490,01, ,tba,tba
-staff*,hsc,491,01, ,tba,tba
+staff,hsc,480,01, ,tba,tba
+staff,hsc,490,01, ,tba,tba
+staff,hsc,491,01, ,tba,tba
 davisb,his,116,01,mwf,"0900, 0950",goddard 223
 davisb,his,116,02,mwf,"1000, 1050",goddard 223
 closes,his,120,01,tr,"0800, 0915",webb 214
@@ -690,7 +689,7 @@ fryed,his,230,02,tr,"1100, 1215",goddard 216
 fryed,his,230,03,w,"1600, 1845",webb 313
 moores,his,231,01,mwf,"1000, 1050",library 436
 fryed,his,267,01,m,"1600, 1845",webb 313
-balcerskit,his,320,01,tr,"1230, 1345",library 436
+balcerskit,his,320,01,tr,"1230, 1345",webb 313
 closes,his,321,01,tr,"0930, 1045",webb 214
 moores,his,338,01,mf,"1400, 1515",webb 114
 saenzcambrac,his,345,01,mwf,"1100, 1150",webb 112
@@ -699,10 +698,10 @@ davisb,his,375,01,mwf,"1200, 1250",webb 216
 fryed,his,378,01,tr,"1400, 1515",communications 107
 carenenc,his,400,01,mw,"1600, 1750",science 231
 moores,his,401,01,mwf,"0900, 0950",library 266
-staff*,his,480,01, ,tba,tba
-staff*,his,481,01, ,tba,tba
-staff*,his,490,01, ,tba,tba
-staff*,his,491,01, ,tba,tba
+staff,his,480,01, ,tba,tba
+staff,his,481,01, ,tba,tba
+staff,his,490,01, ,tba,tba
+staff,his,491,01, ,tba,tba
 pellegrinid,hon,361,01,mw,"1600, 1715",communications 219
 vasquezo'brient,hon,362,01,mwf,"1300, 1350",webb 115
 drewryc,isp,300,01, ,tba,tba
@@ -717,7 +716,7 @@ krassasn,lac,100,05,mwf,"1400, 1450",webb 112
 moores,lac,100,06,mwf,"1200, 1250",webb 114
 drzewieckip,lac,100,07,mwf,"1100, 1150",science 134
 blushr,lac,100,08,mwf,"1000, 1050",fine_arts 115
-staff*,lac,100,09,tr,"1600, 1715",sports 219
+staff,lac,100,09,tr,"1600, 1715",sports 219
 hollandj,lac,100,10,mf,"1400, 1515",library 436
 hollandj,lac,100,10,f,"1400, 1515",fine_arts 330
 blushr,lac,100,11,mwf,"1100, 1150",fine_arts 115
@@ -744,7 +743,7 @@ krassasn,lac,101,05,m,"1500, 1550",webb 112
 moores,lac,101,06,w,"1300, 1350",webb 114
 drzewieckip,lac,101,07,w,"1200, 1250",science 134
 blushr,lac,101,08,w,"1200, 1250",fine_arts 115
-staff*,lac,101,09,r,"1730, 1820",sports 219
+staff,lac,101,09,r,"1730, 1820",sports 219
 hollandj,lac,101,10,w,"1400, 1450",fine_arts 115
 blushr,lac,101,11,m,"1200, 1250",fine_arts 115
 bachollem,lac,101,12,m,"0900, 0950",webb 210
@@ -787,52 +786,52 @@ pakdilf,mgt,501,e25, ,tba,online
 grandhis,mgt,504,e25, ,tba,online
 villanuevae,mgt,507,e25, ,tba,online
 ayenio,mgt,509,e25, ,tba,online
-staff*,mat,099,01,mwf,"0900, 0950",science 234
-staff*,mat,099,02,mwf,"1200, 1250",science 233
-staff*,mat,099,03,mw,"1600, 1715",science 234
-staff*,mat,099,04,tr,"0800, 0915",science 234
-staff*,mat,099,05,tr,"1400, 1515",science 234
+staff,mat,099,01,mwf,"0900, 0950",science 234
+staff,mat,099,02,mwf,"1200, 1250",science 233
+staff,mat,099,03,mw,"1600, 1715",science 234
+staff,mat,099,04,tr,"0800, 0915",science 234
+staff,mat,099,05,tr,"1400, 1515",science 234
 yankovc,mat,135,01,mwf,"0800, 0850",science 117
-staff*,mat,135,02,tr,"0930, 1045",science 132
+staff,mat,135,02,tr,"0930, 1045",science 132
 yankovc,mat,135,03,mwf,"0900, 0950",science 117
-staff*,mat,135,04,tr,"0800, 0915",science 117
-staff*,mat,135p,01,mwf,"0800, 0850",science 416
-staff*,mat,135p,01,f,"0900, 0950",science 416
-staff*,mat,135p,02,mwf,"1100, 1150",science 137
-staff*,mat,135p,02,f,"1000, 1050",science 137
-staff*,mat,135p,03,mwf,"1300, 1350",science 416
-staff*,mat,135p,03,w,"1400, 1450",science 416
-staff*,mat,135p,04,tr,"0800, 0915",science 132
-staff*,mat,135p,04,w,"0800, 0850",science 132
-staff*,mat,135p,05,tr,"1100, 1215",science 132
-staff*,mat,135p,05,f,"1200, 1250",science 117
-staff*,mat,135p,06,mw,"1600, 1750",science 117
-staff*,mat,135p,07,tr,"1600, 1750",science 132
-staff*,mat,139p,01,mwf,"0800, 0850",science 114
-staff*,mat,139p,01,w,"0900, 0950",science 416
-staff*,mat,139p,02,tr,"1230, 1345",science 114
-staff*,mat,139p,02,w,"1200, 1250",science 117
-staff*,mat,140,01,m,"1600, 1715",science 137
-staff*,mat,140,01,w,"1600, 1715",science 238
+staff,mat,135,04,tr,"0800, 0915",science 117
+staff,mat,135p,01,mwf,"0800, 0850",science 416
+staff,mat,135p,01,f,"0900, 0950",science 416
+staff,mat,135p,02,mwf,"1100, 1150",science 137
+staff,mat,135p,02,f,"1000, 1050",science 137
+staff,mat,135p,03,mwf,"1300, 1350",science 416
+staff,mat,135p,03,w,"1400, 1450",science 416
+staff,mat,135p,04,tr,"0800, 0915",science 132
+staff,mat,135p,04,w,"0800, 0850",science 132
+staff,mat,135p,05,tr,"1100, 1215",science 132
+staff,mat,135p,05,f,"1200, 1250",science 117
+staff,mat,135p,06,mw,"1600, 1750",science 117
+staff,mat,135p,07,tr,"1600, 1750",science 132
+staff,mat,139p,01,mwf,"0800, 0850",science 114
+staff,mat,139p,01,w,"0900, 0950",science 416
+staff,mat,139p,02,tr,"1230, 1345",science 114
+staff,mat,139p,02,w,"1200, 1250",science 117
+staff,mat,140,01,m,"1600, 1715",science 137
+staff,mat,140,01,w,"1600, 1715",science 238
 oseibonsuk,mat,155,01,mwf,"0900, 0950",science 132
 oseibonsuk,mat,155,01,f,"1000, 1050",science 117
 sarikhanikhoramim,mat,155,02,m,"1100, 1150",webb 212
 sarikhanikhoramim,mat,155,02,tr,"1100, 1215",science 114
-staff*,mat,155,03,mwf,"1300, 1350",science 132
-staff*,mat,155,03,m,"1400, 1450",science 132
+staff,mat,155,03,mwf,"1300, 1350",science 132
+staff,mat,155,03,m,"1400, 1450",science 132
 wardk,mat,155p,01,mwf,"0800, 0850",science 137
 wardk,mat,155p,01,mw,"0900, 0950",science 137
-staff*,mat,155p,02,tr,"1230, 1345",goddard 200
-staff*,mat,155p,02,w,"1200, 1350",communications 108
-staff*,mat,155p,03,mwf,"1200, 1250",science 132
-staff*,mat,155p,03,wf,"1100, 1150",science 132
-staff*,mat,195,01,mwf,"1000, 1050",science 132
-staff*,mat,195,01,m,"1100, 1150",science 132
+staff,mat,155p,02,tr,"1230, 1345",goddard 200
+staff,mat,155p,02,w,"1200, 1350",communications 108
+staff,mat,155p,03,mwf,"1200, 1250",science 132
+staff,mat,155p,03,wf,"1100, 1150",science 132
+staff,mat,195,01,mwf,"1000, 1050",science 132
+staff,mat,195,01,m,"1100, 1150",science 132
 larosec,mat,216,01,mwf,"1000, 1050",science 234
 larosec,mat,216,02,mwf,"1300, 1350",science 234
-staff*,mat,216,03,mwf,"1200, 1250",science 234
-staff*,mat,216,04,mw,"1730, 1845",science 234
-staff*,mat,216,05,tr,"1600, 1715",science 234
+staff,mat,216,03,mwf,"1200, 1250",science 234
+staff,mat,216,04,mw,"1730, 1845",science 234
+staff,mat,216,05,tr,"1600, 1715",science 234
 yankovc,mat,230,01,mwf,"1100, 1150",science 231
 oseibonsuk,mat,243,01,mwf,"1300, 1350",science 117
 oseibonsuk,mat,243,01,m,"1200, 1250",science 117
@@ -851,8 +850,8 @@ yankovc,mat,380,01,wf,"1300, 1350",goddard 216
 sarikhanikhoramim,mat,400,01,tr,"1400, 1515",science 114
 aidooa,mat,420,01,tr,"1230, 1345",science 134
 aidooa,mat,420,01,w,"1200, 1250",science 231
-staff*,mat,480,01, ,tba,tba
-staff*,mat,490,01, ,tba,tba
+staff,mat,480,01, ,tba,tba
+staff,mat,490,01, ,tba,tba
 fitzpatrickd,msc,131,01,f,"1115, 1205",tba
 fitzpatrickd,msc,131,01,f,"1325, 1725",tba
 fitzpatrickd,msc,131,02,r,"1100, 1150",tba
@@ -867,9 +866,9 @@ fitzpatrickd,msc,145,01,f,"1325, 1725",tba
 sholesz,msc,145,01,f,"1325, 1725",tba
 balought,mus,100,01,mwf,"0900, 0950",fine_arts 307
 balought,mus,100,02,mwf,"0800, 0850",fine_arts 307
-staff*,mus,103,01,mw,"1730, 1845",fine_arts 110
+staff,mus,103,01,mw,"1730, 1845",fine_arts 110
 watkinsk,mus,107,01,w,"1900, 2130",fine_arts 108
-staff*,mus,113,01,mw,"1600, 1715",fine_arts 110
+staff,mus,113,01,mw,"1600, 1715",fine_arts 110
 riggse,mus,113,02,r,"1730, 1845",fine_arts 110
 ballenad,mus,113,03,t,"1900, 2015",fine_arts 110
 o'nealf,mus,113,04,m,"1500, 1550",fine_arts 108
@@ -910,60 +909,60 @@ washburns,mus,356,32, ,tba,tba
 riggse,mus,356,33, ,tba,tba
 ballenad,mus,356,37, ,tba,tba
 ballenad,mus,356,38, ,tba,tba
-staff*,mus,395,01, ,tba,tba
+staff,mus,395,01, ,tba,tba
 delaneye,mus,456,12, ,tba,tba
 hwango,mus,456,22, ,tba,tba
 riggse,mus,456,33, ,tba,tba
 riggse,mus,456,34, ,tba,tba
-staff*,mus,480,01, ,tba,tba
-staff*,mus,495,01, ,tba,tba
+staff,mus,480,01, ,tba,tba
+staff,mus,495,01, ,tba,tba
 drewryc,nse,300,01, ,tba,tba
 cotea,nur,200,01,mf,"1400, 1515",goddard 216
 cotea,nur,200,01a,t,"0800, 1050",goddard 123
 cotea,nur,200,01a,t,"0800, 1050",goddard 125
 cotea,nur,200,01a,t,"0800, 1050",goddard 124
-staff*,nur,200,01b,t,"0800, 1050",goddard 123
-staff*,nur,200,01b,t,"0800, 1050",goddard 125
-staff*,nur,200,01b,t,"0800, 1050",goddard 124
-staff*,nur,200,01c,t,"0800, 1050",goddard 123
-staff*,nur,200,01c,t,"0800, 1050",goddard 125
-staff*,nur,200,01c,t,"0800, 1050",goddard 124
+staff,nur,200,01b,t,"0800, 1050",goddard 123
+staff,nur,200,01b,t,"0800, 1050",goddard 125
+staff,nur,200,01b,t,"0800, 1050",goddard 124
+staff,nur,200,01c,t,"0800, 1050",goddard 123
+staff,nur,200,01c,t,"0800, 1050",goddard 125
+staff,nur,200,01c,t,"0800, 1050",goddard 124
 cotea,nur,200,02,mw,"1600, 1715",goddard 216
 cotea,nur,200,02a,t,"1230, 1520",goddard 123
 cotea,nur,200,02a,t,"1230, 1520",goddard 125
 cotea,nur,200,02a,t,"1230, 1520",goddard 124
-staff*,nur,200,02b,t,"1230, 1520",goddard 123
-staff*,nur,200,02b,t,"1230, 1520",goddard 125
-staff*,nur,200,02b,t,"1230, 1520",goddard 124
-staff*,nur,200,02c,t,"1230, 1520",goddard 123
-staff*,nur,200,02c,t,"1230, 1520",goddard 125
-staff*,nur,200,02c,t,"1230, 1520",goddard 124
+staff,nur,200,02b,t,"1230, 1520",goddard 123
+staff,nur,200,02b,t,"1230, 1520",goddard 125
+staff,nur,200,02b,t,"1230, 1520",goddard 124
+staff,nur,200,02c,t,"1230, 1520",goddard 123
+staff,nur,200,02c,t,"1230, 1520",goddard 125
+staff,nur,200,02c,t,"1230, 1520",goddard 124
 dzurecl,nur,237,01,mwf,"0800, 0850",goddard 117
-staff*,nur,237,02,tr,"1600, 1715",goddard 117
+staff,nur,237,02,tr,"1600, 1715",goddard 117
 dzurecl,nur,237,03,tr,"1230, 1345",goddard 208
-staff*,nur,311,01,tr,"1100, 1215",goddard 117
-staff*,nur,311,01a, ,tba,tba
+staff,nur,311,01,tr,"1100, 1215",goddard 117
+staff,nur,311,01a, ,tba,tba
 dzurecl,nur,332,01,tr,"1400, 1450",goddard 117
-staff*,nur,332,01a, ,tba,tba
+staff,nur,332,01a, ,tba,tba
 schallerj,osc,260,01,tr,"1100, 1215",library 436
 schallerj,osc,260,02,tr,"1400, 1515",library 436
-staff*,phi,120,01,mwf,"0900, 0950",webb 214
-staff*,phi,120,02,mwf,"1000, 1050",webb 214
-staff*,phi,210,01,tr,"0930, 1045",library 266
+staff,phi,120,01,mwf,"0900, 0950",webb 214
+staff,phi,120,02,mwf,"1000, 1050",webb 214
+staff,phi,210,01,tr,"0930, 1045",library 266
 stockerk,phi,215,01,mwf,"1100, 1150",library 436
 slutskyd,phi,220,01,mw,"1600, 1715",communications 107
 slutskyd,phi,220,02,mw,"1730, 1845",communications 107
-staff*,phi,361,01x,mwf,"1400, 1450",webb 215
-staff*,phi,370,01x,tr,"1400, 1515",the_center_for_early_childhood_education 167
-staff*,phi,420,01,tr,"1100, 1215",science 104
-staff*,phi,480,01, ,tba,tba
-staff*,phy,204,01,mwf,"1300, 1350",science 431
-staff*,phy,204,01a,r,"1400, 1550",science 403
-staff*,phy,204,01b,m,"1400, 1550",science 403
-staff*,phy,204,01c,m,"1600, 1750",science 403
+staff,phi,361,01x,mwf,"1400, 1450",webb 215
+staff,phi,370,01x,tr,"1400, 1515",the_center_for_early_childhood_education 167
+staff,phi,420,01,tr,"1100, 1215",science 104
+staff,phi,480,01, ,tba,tba
+staff,phy,204,01,mwf,"1300, 1350",science 431
+staff,phy,204,01a,r,"1400, 1550",science 403
+staff,phy,204,01b,m,"1400, 1550",science 403
+staff,phy,204,01c,m,"1600, 1750",science 403
 pazametaz,phy,204,01d,r,"1600, 1750",science 403
-staff*,phy,204,02,mwf,"0900, 0950",science 431
-staff*,phy,380,01, ,tba,tba
+staff,phy,204,02,mwf,"0900, 0950",science 431
+staff,phy,380,01, ,tba,tba
 eastonw,psc,100,01,mwf,"0900, 0950",goddard 216
 krassasn,psc,202,01,mwf,"1300, 1350",webb 206
 krassasn,psc,202,02,mwf,"1000, 1050",webb 314
@@ -976,21 +975,21 @@ swetzoffs,psc,230,01,tr,"1100, 1215",webb 110
 garciam,psc,326,01x,mwf,"1300, 1350",webb 317
 brosciousc,psc,339,01,tr,"0930, 1045",webb 313
 clementss,psc,351,01,mwf,"1400, 1450",webb 212
-staff*,psc,370,01x,tr,"1400, 1515",the_center_for_early_childhood_education 167
+staff,psc,370,01x,tr,"1400, 1515",the_center_for_early_childhood_education 167
 mendozabotelhom,psc,460,01,t,"1600, 1845",webb 115
 mendozabotelhom,psc,460,02,tr,"1400, 1515",webb 215
-staff*,psc,480,01, ,tba,tba
-staff*,psc,490,01, ,tba,tba
-staff*,psc,491,01, ,tba,tba
-staff*,psc,492,01, ,tba,tba
-staff*,psc,493,01, ,tba,tba
-staff*,psc,494,01, ,tba,tba
-staff*,psc,495,01, ,tba,tba
-staff*,psc,498,01, ,tba,tba
+staff,psc,480,01, ,tba,tba
+staff,psc,490,01, ,tba,tba
+staff,psc,491,01, ,tba,tba
+staff,psc,492,01, ,tba,tba
+staff,psc,493,01, ,tba,tba
+staff,psc,494,01, ,tba,tba
+staff,psc,495,01, ,tba,tba
+staff,psc,498,01, ,tba,tba
 cousinsa,psy,100,01,mwf,"0800, 0850",webb 313
 cousinsa,psy,100,02,mwf,"0900, 0950",webb 313
-staff*,psy,100,03,tr,"1600, 1715",webb 216
-staff*,psy,100,04,tr,"1730, 1845",webb 315
+staff,psy,100,03,tr,"1600, 1715",webb 216
+staff,psy,100,04,tr,"1730, 1845",webb 315
 vasquezo'brient,psy,101,01,w,"1100, 1150",webb 212
 dillerj,psy,101,02,t,"0930, 1020",webb 315
 lanaganleitzell,psy,101,03,m,"1300, 1350",webb 315
@@ -1004,12 +1003,12 @@ leszczynskij,psy,208,01,mwf,"1000, 1050",webb 315
 leszczynskij,psy,208,02,mwf,"1100, 1150",webb 315
 keyesm,psy,212,01,mwf,"1200, 1250",goddard 208
 keyesm,psy,212,02,mwf,"1300, 1350",goddard 208
-staff*,psy,216,01,t,"1900, 2145",webb 112
+staff,psy,216,01,t,"1900, 2145",webb 112
 sciscoj,psy,218,01,tr,"0930, 1045",webb 317
 dillerj,psy,225,01,tr,"0800, 0915",webb 315
 koleks,psy,227,01,mwf,"1000, 1110",science 115
 leep,psy,227,02,tr,"1400, 1550",webb 314
-staff*,psy,227,03,mw,"1900, 2050",webb 314
+staff,psy,227,03,mw,"1900, 2050",webb 314
 leszczynskij,psy,247,01,mwf,"0800, 0910",webb 314
 koleks,psy,247,02,mwf,"1200, 1310",science 115
 krebsc,psy,247,03,tr,"1100, 1250",webb 314
@@ -1018,14 +1017,14 @@ salterspedneaultk,psy,301,02,tr,"1230, 1345",webb 214
 bachiochip,psy,303,01,tr,"1230, 1345",webb 212
 lanaganleitzell,psy,306,01,mwf,"1000, 1050",webb 313
 fugerem,psy,309,01,mwf,"0900, 0950",webb 216
-staff*,psy,315,01x,mw,"1600, 1715",webb 216
+staff,psy,315,01x,mw,"1600, 1715",webb 216
 dillerj,psy,316,01,tr,"1100, 1215",webb 315
 sciscoj,psy,327,01,tr,"0800, 0915",webb 307
 sciscoj,psy,327,01, ,tba,tba
 leep,psy,327,02,tr,"1600, 1715",webb 314
 leep,psy,327,02, ,tba,tba
-staff*,psy,327,03,mw,"1730, 1845",webb 314
-staff*,psy,327,03, ,tba,tba
+staff,psy,327,03,mw,"1730, 1845",webb 314
+staff,psy,327,03, ,tba,tba
 keyesm,psy,345,01,mwf,"1400, 1450",goddard 208
 sciscoj,psy,390,01,r,"1600, 1650",science 115
 koleks,psy,390,02,m,"1600, 1650",science 115
@@ -1039,13 +1038,13 @@ cordonl,psy,419,02,tr,"1400, 1515",webb 317
 koleks,psy,430,01,mwf,"0800, 0850",science 116
 lanaganleitzell,psy,432,01,mwf,"1100, 1150",webb 313
 leep,psy,455,01,tr,"1100, 1215",webb 114
-staff*,psy,480,01, ,tba,tba
-staff*,psy,490,01, ,tba,tba
-staff*,psy,491,01, ,tba,tba
+staff,psy,480,01, ,tba,tba
+staff,psy,490,01, ,tba,tba
+staff,psy,491,01, ,tba,tba
 keyesm,psy,496,01v,m,"1600, 1650",webb 115
 salterspedneaultk,psy,496,02v,r,"0930, 1020",webb 115
-staff*,psy,497,01, ,tba,tba
-staff*,psy,498,01, ,tba,tba
+staff,psy,497,01, ,tba,tba
+staff,psy,498,01, ,tba,tba
 walterss,pbh,206,01,mwf,"1100, 1150",goddard 117
 dotsont,pbh,209,01x,tr,"1600, 1715",science 114
 carrolls,pbh,209,02x,m,"1600, 1845",goddard 201
@@ -1059,7 +1058,7 @@ winterbottomw,pbh,315,02x,t,"1600, 1845",science 216
 walterss,pbh,330,01,mwf,"0900, 0950",goddard 117
 carrolls,pbh,350,01,tr,"1100, 1215",goddard 223
 blancaflors,pbh,440,01,tr,"1400, 1515",goddard 223
-staff*,pbh,494,01, ,tba,tba
+staff,pbh,494,01, ,tba,tba
 trubeyp,swk,200,01,t,"1230, 1515",communications 109
 stantonm,swk,311,01,r,"1230, 1515",communications 109
 rodriguezd,swk,311,02,t,"1230, 1515",science 416
@@ -1074,9 +1073,9 @@ nightingales,swk,420,01,t,"0800, 1045",goddard 201
 rodriguezd,swk,420,02,t,"0800, 1045",webb 213
 nightingales,swk,475,01,t,"1600, 1845",webb 114
 rijsj,swk,475,02,t,"1600, 1845",goddard 202
-staff*,swk,480,01, ,tba,tba
+staff,swk,480,01, ,tba,tba
 breslind,soc,100,01,mwf,"1000, 1050",webb 317
-staff*,soc,100,02,w,"1600, 1845",webb 315
+staff,soc,100,02,w,"1600, 1845",webb 315
 bergstromlynchc,soc,100,03,tr,"0930, 1045",webb 216
 mccartyg,soc,100,04,mwf,"1100, 1150",webb 110
 mccartyg,soc,100,05,mwf,"0900, 0950",webb 110
@@ -1097,18 +1096,18 @@ kurtim,soc,350,01,tr,"1400, 1550",science 137
 kurtim,soc,350,02,tr,"1100, 1250",science 137
 parsonsn,soc,351,01,tr,"1400, 1550",science 238
 bergstromlynchc,soc,400,01,tr,"1100, 1250",webb 112
-staff*,soc,480,01, ,tba,tba
-staff*,soc,490,01, ,tba,tba
-staff*,soc,492,01, ,tba,tba
-staff*,soc,493,01, ,tba,tba
-staff*,soc,495,01, ,tba,tba
+staff,soc,480,01, ,tba,tba
+staff,soc,490,01, ,tba,tba
+staff,soc,492,01, ,tba,tba
+staff,soc,493,01, ,tba,tba
+staff,soc,495,01, ,tba,tba
 pareram,spa,110,01,mwf,"0900, 0950",webb 114
 vijayasekarj,spa,110,02,mwf,"1100, 1150",webb 113
 jendrewskir,spa,110,03,mw,"1730, 1845",webb 112
 armstrongn,spa,210,01,mwf,"1000, 1050",webb 112
 eriksoussia,spa,219,01x,m,"1600, 1845",webb 315
 penaaliceag,spa,222,01,mwf,"0900, 0950",webb 113
-staff*,spa,231,01,mwf,"1000, 1050",webb 215
+staff,spa,231,01,mwf,"1000, 1050",webb 215
 pareram,spa,310,01,mwf,"1200, 1250",goddard 200
 chank,spa,314,01,tr,"1400, 1515",webb 223b
 chank,spa,415,01x,tr,"0930, 1045",science 416
@@ -1121,28 +1120,28 @@ morgank,the,227,01, ,tba,tba
 morgank,the,227,02, ,tba,tba
 wellesr,the,227,03, ,tba,tba
 wadeckij,the,227,04, ,tba,tba
-staff*,the,227,05, ,tba,tba
+staff,the,227,05, ,tba,tba
 sokolovskayaa,the,227,06, ,tba,tba
-staff*,the,227,07, ,tba,tba
-staff*,the,227,08, ,tba,tba
+staff,the,227,07, ,tba,tba
+staff,the,227,08, ,tba,tba
 cobbj,the,228,01, ,tba,tba
-staff*,the,228,02, ,tba,tba
+staff,the,228,02, ,tba,tba
 cobbj,the,272,01,mwf,"1100, 1150",fine_arts 215
 wadeckij,the,275,01,tr,"1100, 1215",fine_arts 130
 sokolovskayaa,the,278,01,tr,"1400, 1515",fine_arts 251
 golebiewskit,the,355,01x,mw,"1600, 1715",fine_arts 118
 cobbj,the,372,01,m,"1600, 1845",fine_arts 219
 sokolovskayaa,the,378,01,tr,"1230, 1345",fine_arts 118
-staff*,the,392,01, ,tba,tba
-staff*,the,480,01, ,tba,tba
-staff*,the,481,01, ,tba,tba
-staff*,the,495,01, ,tba,tba
-staff*,wst,260,01x,mwf,"1100, 1150",webb 215
-staff*,wst,260,02x,tr,"1230, 1345",sports 219
-staff*,wst,260,03x,tr,"1400, 1515",sports 219
+staff,the,392,01, ,tba,tba
+staff,the,480,01, ,tba,tba
+staff,the,481,01, ,tba,tba
+staff,the,495,01, ,tba,tba
+staff,wst,260,01x,mwf,"1100, 1150",webb 215
+staff,wst,260,02x,tr,"1230, 1345",sports 219
+staff,wst,260,03x,tr,"1400, 1515",sports 219
 westberryb,wst,310,01x,m,"1600, 1845",webb 212
-staff*,wst,315,01x,mw,"1600, 1715",webb 216
+staff,wst,315,01x,mw,"1600, 1715",webb 216
 garciam,wst,326,01x,mwf,"1300, 1350",webb 317
 bachollem,wst,331,01x,w,"1600, 1845",goddard 202
-staff*,wst,361,01x,mwf,"1400, 1450",webb 215
-staff*,wst,490,01, ,tba,tba
+staff,wst,361,01x,mwf,"1400, 1450",webb 215
+staff,wst,490,01, ,tba,tba

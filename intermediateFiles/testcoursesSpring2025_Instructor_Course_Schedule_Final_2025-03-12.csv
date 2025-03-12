@@ -100,6 +100,7 @@ chent,ART,487,01, ,TBA,TBA
 rahmanifara,ART,490,01, ,TBA,TBA
 chent,ART,490,02, ,TBA,TBA
 doylem,ART,490,03, ,TBA,TBA
+liuq,ART,490,04, ,TBA,TBA
 kerrm,AST,214,01,TR,09:30 am-10:45 am,PLANET PLT
 kerrm,AST,214,01A,T,11:00 am-12:00 pm,PLANET PLT
 kerrm,AST,214,01B,R,11:00 am-12:00 pm,PLANET PLT
@@ -302,9 +303,7 @@ carlsonr,COM,220,02X,M,04:00 pm-06:45 pm,COMBLD 114B
 ammarim,COM,220,03X,T,04:00 pm-06:45 pm,COMBLD 114A
 ammarim,COM,220,03X,T,04:00 pm-06:45 pm,COMBLD 114D
 ammarim,COM,220,03X,T,04:00 pm-06:45 pm,COMBLD 114B
-dayb,COM,220,04X,TR,11:00 am-12:15 pm,COMBLD 114A
-dayb,COM,220,04X,TR,11:00 am-12:15 pm,COMBLD 114D
-dayb,COM,220,04X,TR,11:00 am-12:15 pm,COMBLD 114B
+dayb,COM,220,04X,TR,11:00 am-12:15 pm,COMBLD 226
 freunde,COM,230,01,T,04:00 pm-06:45 pm,COMBLD 109
 freunde,COM,230,02,W,04:00 pm-06:45 pm,COMBLD 218
 curtiss,COM,230,03,TR,09:30 am-10:45 am,COMBLD 108
@@ -329,7 +328,6 @@ floodr,COM,480,04, ,TBA,TBA
 cobbj,COM,490,01, ,TBA,TBA
 floodr,COM,490,02, ,TBA,TBA
 kangm,COM,490,03, ,TBA,TBA
-jeonj,COM,490,04, ,TBA,TBA
 dayb,COM,490,05, ,TBA,TBA
 utterbacka,COM,490,06, ,TBA,TBA
 osterndorfw,COM,490,07, ,TBA,TBA
@@ -383,6 +381,7 @@ pestar,CRM,480,01, ,TBA,TBA
 kurtim,CRM,480,02, ,TBA,TBA
 lugow,CRM,480,03, ,TBA,TBA
 severancet,CRM,480,04, ,TBA,TBA
+severancet,CRM,480,05, ,TBA,TBA
 severancet,CRM,490,01, ,TBA,TBA
 severancet,CRM,490,02, ,TBA,TBA
 davism,DSC,501,E25, ,TBA,ONLINE
@@ -627,7 +626,7 @@ erik-soussia,FLM,219,01X,M,04:00 pm-06:45 pm,WEBB 112
 ammarim,FLM,220,01X,T,07:00 pm-09:45 pm,COMBLD 114D
 carlsonr,FLM,220,02X,M,04:00 pm-06:45 pm,COMBLD 114D
 ammarim,FLM,220,03X,T,04:00 pm-06:45 pm,COMBLD 114D
-dayb,FLM,220,04X,TR,11:00 am-12:15 pm,COMBLD 114D
+dayb,FLM,220,04X,TR,11:00 am-12:15 pm,COMBLD 226
 bachollem,FLM,223,01X,M,12:00 pm-02:45 pm,GODDAR 200
 bachollem,FLM,223,02X,W,12:00 pm-02:45 pm,GODDAR 200
 collinsg,FLM,321,01,R,07:00 pm-09:45 pm,COMBLD 107
@@ -903,6 +902,7 @@ yankovc,MAT,421,01,MWF,10:00 am-10:50 am,SCIENC 114
 sarikhanikhoramim,MAT,480,01, ,TBA,TBA
 oseibonsuk,MAT,480,02, ,TBA,TBA
 johnsonp,MAT,480,03, ,TBA,TBA
+johnsonp,MAT,480,04, ,TBA,TBA
 sarikhanikhoramim,MAT,490,01, ,TBA,TBA
 sholesz,MSC,132,03,W,01:00 pm-01:50 pm,LIBRAR 266
 sholesz,MSC,146,02,W,02:00 pm-04:00 pm,LIBRAR 266
@@ -1198,6 +1198,7 @@ wellesr,THE,227,03, ,TBA,TBA
 wellesr,THE,227,06, ,TBA,TBA
 sokolovskayaa,THE,227,07, ,TBA,TBA
 pellegrinid,THE,228,01, ,TBA,TBA
+bright-hollanda,THE,228,02, ,TBA,TBA
 pellegrinid,THE,265,01,TR,11:00 am-12:50 pm,FAIC 115
 cobbj,THE,272,01,TR,02:00 pm-03:15 pm,FAIC 215
 golebiewskit,THE,276,01,TR,04:00 pm-05:15 pm,FAIC 118
@@ -1222,6 +1223,7 @@ floodr,THE,480,06, ,TBA,TBA
 pellegrinid,THE,480,07, ,TBA,TBA
 pellegrinid,THE,480,08, ,TBA,TBA
 sokolovskayaa,THE,480,09, ,TBA,TBA
+golebiewskit,THE,480,10, ,TBA,TBA
 golebiewskit,THE,481,01, ,TBA,TBA
 morgank,THE,495,01, ,TBA,TBA
 burnsn,WST,240,01X,TR,11:00 am-12:15 pm,WEBB 313
