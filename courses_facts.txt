@@ -1,0 +1,1235 @@
+courses(Courses).
+courses(abbatemarcoa, eng260,01x, tr, 1230, 1345, goddard 208).
+courses(abbatemarcoa, eng260,02x, tr, 1100, 1215, goddard 208).
+courses(abbatemarcoa, wst260,01x, tr, 1230, 1345, goddard 208).
+courses(abbatemarcoa, wst260,02x, tr, 1100, 1215, goddard 208).
+courses(aconforan, com410,01, m, 1600, 1845, communications 107).
+courses(ahmadis, che213,03, t, 1600, 1850, science 440).
+courses(ahmadis, che213,04, t, 1900, 2150, science 440).
+courses(aidooa, mat155p,02, tr, 0930, 1045, science 114).
+courses(aidooa, mat155p,02, w, 1000, 1150, science 116).
+courses(aidooa, mat230,02, tr, 1230, 1345, science 116).
+courses(aidooa, mat340,01, tr, 1400, 1515, science 132).
+courses(aidooa, mat340,01, w, 1400, 1450, science 238).
+courses(albinie, bis362,01, m, 1600, 1845, webb 307).
+courses(alexanderj, hsc370,01, tr, 0930, 1045, goddard 123).
+courses(alkhamaieshs, bis370,01, tr, 1730, 1845, webb 307).
+courses(alkhamaieshs, bis370,02, tr, 1900, 2015, webb 307).
+courses(allene, mat135p,03, tr, 0800, 0950, science 117).
+courses(ammarim, com220,01x, t, 1900, 2145, communications 114a).
+courses(ammarim, com220,01x, t, 1900, 2145, communications 114b).
+courses(ammarim, com220,01x, t, 1900, 2145, communications 114d).
+courses(ammarim, com220,03x, t, 1600, 1845, communications 114a).
+courses(ammarim, com220,03x, t, 1600, 1845, communications 114b).
+courses(ammarim, com220,03x, t, 1600, 1845, communications 114d).
+courses(ammarim, flm220,01x, t, 1900, 2145, communications 114d).
+courses(ammarim, flm220,03x, t, 1600, 1845, communications 114d).
+courses(andersong, hsc356,01, mwf, 0900, 0950, sports 219).
+courses(armstrongn, spa211,01, mwf, 1000, 1050, webb 114).
+courses(armstrongn, spa490,01,  , tba, tba).
+courses(ashtonf, edu523,01,  , tba, tba).
+courses(ashtonf, edu571,01, mtwrf, 0800, 1530, tba).
+courses(aventa, bus225,01, mwf, 1200, 1250, communications 109).
+courses(aventa, bus225,03, mwf, 1000, 1050, communications 108).
+courses(azzaroe, soc220,01, t, 1900, 2145, webb 214).
+courses(azzaroe, soc325,01, m, 1900, 2145, webb 313).
+courses(babars, soc100,02, mwf, 1100, 1150, webb 212).
+courses(babars, soc100,03, mwf, 1200, 1250, webb 212).
+courses(bachiochip, org696,01,  , tba, tba).
+courses(bachiochip, psy303,01, tr, 1100, 1215, webb 315).
+courses(bachiochip, psy305,01, tr, 1400, 1515, webb 216).
+courses(bachiochip, psy327,01,  , tba, tba).
+courses(bachiochip, psy327,01, mw, 1600, 1715, webb 206).
+courses(bachiochip, psy480,02,  , tba, tba).
+courses(bachiochip, psy480,03,  , tba, tba).
+courses(bachiochip, psy480,06,  , tba, tba).
+courses(bachiochip, psy490,06,  , tba, tba).
+courses(bachiochip, psy497,01,  , tba, tba).
+courses(bachollem, flm223,01x, m, 1200, 1445, goddard 200).
+courses(bachollem, flm223,02x, w, 1200, 1445, goddard 200).
+courses(bachollem, fre120,01, mwf, 1100, 1150, goddard 200).
+courses(bachollem, fre223,01x, m, 1200, 1445, goddard 200).
+courses(bachollem, fre223,02x, w, 1200, 1445, goddard 200).
+courses(balcerskit, his325,01, w, 1600, 1845, webb 215).
+courses(balcerskit, his480,04,  , tba, tba).
+courses(ballenad, mus113,05, t, 1900, 2020, fine_arts 110).
+courses(ballenad, mus114,03, mwf, 1000, 1050, fine_arts 212).
+courses(ballenad, mus114,04, mwf, 1100, 1150, fine_arts 212).
+courses(ballenad, mus356,39,  , tba, tba).
+courses(ballenad, mus356,40,  , tba, tba).
+courses(balought, mus100,01, mwf, 0800, 0850, fine_arts 110).
+courses(balought, mus100,02, mwf, 0900, 0950, fine_arts 110).
+courses(banee, hsc215,01d, r, 0800, 1050, science 237).
+courses(banee, hsc391,03,  , tba, tba).
+courses(bartonek, art219,02, t, 0930, 1215, fine_arts 323).
+courses(bartonek, art219,02, t, 0930, 1215, fine_arts 328).
+courses(bataillea, hon488,18,  , tba, tba).
+courses(bataillea, hsc308,01, mwf, 0900, 0950, goddard 200).
+courses(bataillea, hsc319,01, mwf, 1100, 1150, goddard 223).
+courses(bataillea, hsc319,01a, r, 1230, 1520, goddard 127).
+courses(bataillea, hsc319,01b, r, 0800, 1050, goddard 127).
+courses(bataillea, hsc319,02, mwf, 1300, 1350, goddard 223).
+courses(bataillea, hsc380,02,  , tba, tba).
+courses(beebej, hsc444,01, tr, 1730, 2145, goddard 123).
+courses(beebej, hsc491,04,  , tba, tba).
+courses(beebyc, art140,03, tr, 1600, 1715, fine_arts 305).
+courses(beeverj, hsc225,02, tr, 0800, 0915, goddard 208).
+courses(beeverj, hsc408,01, tr, 0930, 1045, goddard 208).
+courses(bellesd, mus103,01, mw, 1730, 1845, fine_arts 110).
+courses(bellesd, mus113,01, wf, 1500, 1550, fine_arts 110).
+courses(bellesd, mus480,02,  , tba, tba).
+courses(bellesd, mus480,07,  , tba, tba).
+courses(bellesd, mus480,08,  , tba, tba).
+courses(bisantzj, art214,01, w, 0900, 1145, fine_arts 330).
+courses(bissonnettea, hsc235,01, mwf, 1300, 1350, goddard 117).
+courses(bissonnettea, hsc438,01, mwf, 1400, 1450, goddard 117).
+courses(blainj, nur424,01a,  , tba, tba).
+courses(blancaflors, hsc438,02, tr, 1230, 1345, goddard 201).
+courses(blancaflors, pbh440,01, tr, 1400, 1515, goddard 208).
+courses(bondoka, csc210,02, mwf, 1100, 1150, science 133).
+courses(bondoka, csc251,01, mwf, 0900, 0950, science 135).
+courses(bondoka, csc251,02, mwf, 1000, 1050, science 135).
+courses(bouleyt, ece215,01, tr, 1400, 1515, the_center_for_early_childhood_education 170).
+courses(bouleyt, ece355,01, r, 0930, 1215, the_center_for_early_childhood_education 175).
+courses(bouleyt, ece400,01, t, 1600, 1845, the_center_for_early_childhood_education 175).
+courses(bouleyt, ece480,01,  , tba, tba).
+courses(bouleyt, ece516,01,  , tba, tba).
+courses(bouleyt, edu696,08,  , tba, tba).
+courses(breslind, soc100,06, tr, 1600, 1715, webb 313).
+courses(breslind, soc250,01, tr, 1400, 1515, communications 109).
+courses(brighthollanda, the228,02,  , tba, tba).
+courses(brighthollanda, the474,01, tr, 1600, 1715, fine_arts 219).
+courses(brighthollanda, the475,01,  , tba, tba).
+courses(bronsonm, mus356,41,  , tba, tba).
+courses(brosciousc, hon488,08,  , tba, tba).
+courses(brosciousc, psc201,01, tr, 0930, 1045, webb 113).
+courses(brosciousc, psc201,02, tr, 1230, 1345, webb 113).
+courses(browns, soc346,01, r, 1600, 1845, science 116).
+courses(brunellek, mat139p,01, mwf, 0900, 0950, webb 114).
+courses(brunellek, mat139p,01, w, 0800, 0850, webb 114).
+courses(buckw, bus301,02, tr, 0930, 1045, goddard 200).
+courses(buckw, bus301,03, tr, 1100, 1215, goddard 200).
+courses(buckw, bus351,01, tr, 1400, 1515, communications 201).
+courses(buckw, bus351,02, tr, 1600, 1715, communications 108).
+courses(buckw, bus480,03,  , tba, tba).
+courses(burnsn, soc240,01x, tr, 1100, 1215, webb 313).
+courses(burnsn, wst240,01x, tr, 1100, 1215, webb 313).
+courses(busij, dsc505,e25,  , tba, online).
+courses(bussierej, mat216,05, tr, 1600, 1715, science 238).
+courses(calissij, lac100,01, tr, 1230, 1345, fine_arts 118).
+courses(calissij, lac101,01, m, 1000, 1050, fine_arts 115).
+courses(calissij, mus113,02, f, 1530, 1650, fine_arts 108).
+courses(calissij, mus120,01, tr, 1400, 1515, fine_arts 110).
+courses(calissij, mus215,01, w, 1000, 1050, fine_arts 108).
+courses(calissij, mus215,02, f, 1000, 1050, fine_arts 108).
+courses(calissij, mus234,01, mwf, 1100, 1150, fine_arts 305).
+courses(calissij, mus356,20,  , tba, tba).
+courses(calissij, mus480,03,  , tba, tba).
+courses(calissij, mus480,06,  , tba, tba).
+courses(calissir, mus114,01, tr, 0930, 1045, fine_arts 212).
+courses(calissir, mus114,02, tr, 1100, 1215, fine_arts 212).
+courses(calissir, mus356,21,  , tba, tba).
+courses(canavanp, hsc210,01, mwf, 1100, 1150, communications 107).
+courses(canavanp, hsc318,01, mwf, 1000, 1050, goddard 223).
+courses(canavanp, hsc318,01a, t, 1230, 1520, goddard 127).
+courses(canavanp, hsc318,01b, t, 0800, 1050, goddard 127).
+courses(canavanp, hsc318,02b, m, 1500, 1750, goddard 127).
+courses(canavanp, hsc391,01,  , tba, tba).
+courses(canavanp, hsc480,01,  , tba, tba).
+courses(canavanp, hsc480,02,  , tba, tba).
+courses(candlerj, che217,01a, t, 1900, 2150, science 441).
+courses(candlerj, che217,01b, m, 1900, 2150, science 441).
+courses(capalboh, acc410,01, r, 1600, 1845, webb 113).
+courses(capalboh, acc531,e25,  , tba, tba).
+courses(carenenc, his101,01, tr, 0930, 1045, science 231).
+courses(carenenc, his379,01, tr, 1100, 1215, library 436).
+courses(cariddik, art212,01, mw, 1600, 1750, fine_arts 305).
+courses(carlsonh, ees207,01, r, 1600, 1750, science 417).
+courses(carlsonh, ees207,02, t, 1600, 1750, science 417).
+courses(carlsonh, ees207,03, w, 1600, 1750, science 417).
+courses(carlsonr, com220,02x, m, 1600, 1845, communications 114a).
+courses(carlsonr, com220,02x, m, 1600, 1845, communications 114b).
+courses(carlsonr, com220,02x, m, 1600, 1845, communications 114d).
+courses(carlsonr, flm220,02x, m, 1600, 1845, communications 114d).
+courses(carrolls, ant302,01x, tr, 0930, 1045, goddard 223).
+courses(carrolls, hon488,07,  , tba, tba).
+courses(carrolls, hsc209,01x, m, 1600, 1845, goddard 216).
+courses(carrolls, hsc302,01x, tr, 0930, 1045, goddard 223).
+courses(carrolls, hsc390,01,  , tba, tba).
+courses(carrolls, hsc391,02,  , tba, tba).
+courses(carrolls, hsc480,03,  , tba, tba).
+courses(carrolls, hsc480,04,  , tba, tba).
+courses(carrolls, hsc480,06,  , tba, tba).
+courses(carrolls, hsc490,01,  , tba, tba).
+courses(carrolls, hsc491,03,  , tba, tba).
+courses(carrolls, pbh209,01x, m, 1600, 1845, goddard 216).
+courses(carrolls, pbh350,01, tr, 1100, 1215, goddard 223).
+courses(carrolls, pbh494,01,  , tba, tba).
+courses(carrolls, pbh494,02,  , tba, tba).
+courses(carrolls, pbh494,03,  , tba, tba).
+courses(cassidys, eng100,05, mwf, 1100, 1150, webb 206).
+courses(castron, csc215,01, tr, 0800, 0915, science 135).
+courses(chadwickj, ehs210,01, tr, 1230, 1345, science 202).
+courses(chank, spa492,01,  , tba, tba).
+courses(chank, spa492,02,  , tba, tba).
+courses(chank, spa492,03,  , tba, tba).
+courses(chattertonc, bus240,01, mwf, 0900, 0950, communications 201).
+courses(chattertonc, bus340,01, r, 0930, 1215, communications 201).
+courses(chattertonc, bus490,01v, m, 1900, 2015, communications 201).
+courses(chattertonc, bus490,02v, r, 0800, 0915, communications 201).
+courses(chent, art124,01, tr, 0930, 1215, fine_arts 327).
+courses(chent, art327,01, m, 1200, 1445, fine_arts 330).
+courses(chent, art329,01, tr, 1230, 1515, fine_arts 327).
+courses(chent, art480,01,  , tba, tba).
+courses(chent, art480,05,  , tba, tba).
+courses(chent, art480,09,  , tba, tba).
+courses(chent, art487,01,  , tba, tba).
+courses(chent, art490,02,  , tba, tba).
+courses(chirakulmaddenp, che213,06, r, 1100, 1350, science 440).
+courses(chirakulmaddenp, che213,07, r, 1400, 1650, science 440).
+courses(chiricom, eng257,01, mwf, 1300, 1350, webb 313).
+courses(chiricom, eng461,01, m, 1600, 1845, communications 219).
+courses(chiricom, eng480,03,  , tba, tba).
+courses(chiricom, eng481,01,  , tba, tba).
+courses(chiricom, eng494,05,  , tba, tba).
+courses(chiricom, lac200,01, mwf, 1100, 1150, goddard 216).
+courses(christopherm, psy203,01, w, 1600, 1845, science 116).
+courses(citursa, bis373,01, mf, 1400, 1515, webb 407).
+courses(citursa, bis379,01, m, 1600, 1845, webb 407).
+courses(citursa, bis447,02, tr, 1100, 1215, webb 407).
+courses(citursa, bis461,01, mw, 1900, 2015, webb 407).
+courses(citursa, bis480,01,  , tba, tba).
+courses(clementss, geo331,01, tr, 0930, 1045, library 436).
+courses(clementss, hsc209,02x, tr, 1600, 1715, goddard 208).
+courses(clementss, pbh209,02x, tr, 1600, 1715, goddard 208).
+courses(clermontferrandm, eng177,01, tr, 1230, 1345, webb 212).
+courses(clermontferrandm, eng241,03, tr, 1400, 1515, webb 212).
+courses(clermontferrandm, eng337,01, tr, 1600, 1715, webb 114).
+courses(clermontferrandm, eng462,02, w, 1600, 1845, webb 213).
+courses(clermontferrandm, eng480,02,  , tba, tba).
+courses(clermontferrandm, eng494,01,  , tba, tba).
+courses(clermontferrandm, eng494,04,  , tba, tba).
+courses(clermontferrandm, eng495,02,  , tba, tba).
+courses(clermontferrandm, eng499,02,  , tba, tba).
+courses(cliffordm, eco479,01x, tr, 0930, 1045, goddard 203).
+courses(cliffordm, eco479,03x, tr, 0800, 0915, goddard 203).
+courses(cliffordm, eco480,01,  , tba, tba).
+courses(cliffordm, eco480,02,  , tba, tba).
+courses(cliffordm, eco480,03,  , tba, tba).
+courses(cliffordm, eco480,04,  , tba, tba).
+courses(cliffordm, eco480,05,  , tba, tba).
+courses(cliffordm, fin438,01, w, 1900, 2145, goddard 200).
+courses(cliffordm, fin462,01x, tr, 0930, 1045, goddard 203).
+courses(cliffordm, fin462,03x, tr, 0800, 0915, goddard 203).
+courses(closes, his120,01, tr, 0800, 0915, webb 315).
+courses(closes, his120,02, tr, 1400, 1515, webb 315).
+courses(closes, his121,01, tr, 1230, 1345, webb 315).
+courses(closes, his322,01, tr, 0930, 1045, webb 315).
+courses(closes, his480,05,  , tba, tba).
+courses(cobbj, com490,01,  , tba, tba).
+courses(cobbj, hon361,01, t, 1600, 1845, fine_arts 115).
+courses(cobbj, the174,01, tr, 0930, 1045, fine_arts 219).
+courses(cobbj, the272,01, tr, 1400, 1515, fine_arts 215).
+courses(cobbj, the365,01, tr, 1230, 1345, fine_arts 219).
+courses(cobbj, the475,01,  , tba, tba).
+courses(cobbj, the480,01,  , tba, tba).
+courses(cobbj, the480,03,  , tba, tba).
+courses(cochrant, hon375,01, w, 1500, 1550, fine_arts 115).
+courses(cochrant, mus236,01, tr, 0930, 1045, fine_arts 108).
+courses(cochrant, mus480,01,  , tba, tba).
+courses(cochrant, mus480,05,  , tba, tba).
+courses(coffeyk, mat135p,02, f, 1000, 1050, webb 112).
+courses(coffeyk, mat135p,02, mwf, 0900, 0950, webb 112).
+courses(coffeyk, mat135p,04, f, 1300, 1350, science 137).
+courses(coffeyk, mat135p,04, mwf, 1400, 1450, science 137).
+courses(collinsg, flm321,01, r, 1900, 2145, communications 107).
+courses(congdonv, eng100,10, tr, 0930, 1045, science 233).
+courses(connollyb, bio222,01, mwf, 1100, 1150, science 416).
+courses(connollyb, bio222,01, r, 0930, 1220, science 318).
+courses(connollyb, bio380,03,  , tba, tba).
+courses(connollyb, bio380,05,  , tba, tba).
+courses(connollyb, bio380,10,  , tba, tba).
+courses(connollyb, bio438,01, mwf, 1300, 1350, science 416).
+courses(connollyb, bio438,01, r, 1400, 1650, science 318).
+courses(connollyb, bio480,09,  , tba, tba).
+courses(connollyb, bio490,07,  , tba, tba).
+courses(cookk, edu412,01, t, 1600, 1845, webb 215).
+courses(cordonl, psy409,01, tr, 0800, 0915, webb 313).
+courses(cordonl, psy409,02, tr, 0930, 1045, webb 313).
+courses(cordonl, psy419,01, tr, 1230, 1345, webb 313).
+courses(cordonl, psy419,02, tr, 1400, 1515, webb 313).
+courses(cordonl, psy480,07,  , tba, tba).
+courses(cornicelloa, mus113,03, m, 1600, 1730, fine_arts 108).
+courses(cornicelloa, mus205,01, mwf, 1100, 1150, fine_arts 108).
+courses(cornicelloa, mus356,16,  , tba, tba).
+courses(cornicelloa, mus372,01, mwf, 1300, 1350, fine_arts 243).
+courses(cotea, hsc318,02, mwf, 1300, 1350, goddard 208).
+courses(cotea, hsc318,03, mwf, 1400, 1450, goddard 208).
+courses(cotea, nur372,01, mw, 0900, 1030, goddard 117).
+courses(cotea, nur403,01, wf, 1100, 1230, science 137).
+courses(cousinsa, psy227,01, mwf, 0800, 0910, webb 314).
+courses(cousinsa, psy315,01x, mwf, 1200, 1250, webb 317).
+courses(cousinsa, psy319,01, mwf, 1300, 1350, webb 317).
+courses(cousinsa, psy390,01, w, 1000, 1050, webb 407).
+courses(cousinsa, psy490,11,  , tba, tba).
+courses(cousinsa, psy491,12,  , tba, tba).
+courses(cousinsa, wst315,01x, mwf, 1200, 1250, webb 317).
+courses(couturepalmerinop, ant201,e25,  , tba, online).
+courses(couturepalmerinop, ant222,e25,  , tba, online).
+courses(couturepalmerinop, cas201,e25,  , tba, tba).
+courses(couturepalmerinop, cas222,e25,  , tba, online).
+courses(cowlese, bio301,01x, t, 1600, 1845, science 116).
+courses(cowlese, bio424,01, mwf, 1000, 1050, science 416).
+courses(cowlese, bio424,01, t, 0930, 1220, science 335).
+courses(cowlese, pbh301,01x, t, 1600, 1845, science 116).
+courses(coxp, hpe310,01, w, 1900, 2145, goddard 208).
+courses(cruzd, edu696,04,  , tba, tba).
+courses(cunninghamb, eco200,02, mwf, 1000, 1050, goddard 203).
+courses(cunninghamb, eco325,01, mwf, 1200, 1250, communications 201).
+courses(cunninghamb, eco325,02, mwf, 1100, 1150, communications 201).
+courses(cunninghamw, ees104,01, tr, 0930, 1045, science 236).
+courses(cunninghamw, ees271,h01,  , tba, online).
+courses(cunninghamw, ees271,h01, t, 1730, 1815, science 232).
+courses(cunninghamw, ees330,01, t, 1230, 1520, science 232).
+courses(cunninghamw, ees330,01, tr, 1100, 1215, science 232).
+courses(cunninghamw, ees333,01, w, 1300, 1350, science 232).
+courses(curtiss, com101,01, mwf, 1100, 1150, fine_arts 115).
+courses(curtiss, com230,03, tr, 0930, 1045, communications 108).
+courses(daleoj, mus107,01, w, 1900, 2130, fine_arts 108).
+courses(dahmanif, fre492,01,  , tba, tba).
+courses(dahmanif, fre492,02,  , tba, tba).
+courses(daled, hsc320,01, mwf, 1200, 1250, goddard 117).
+courses(daled, hsc332,01, tr, 1100, 1215, goddard 117).
+courses(daled, hsc342,01, tr, 0800, 0915, goddard 200).
+courses(daled, hsc450,01, mwf, 1100, 1150, goddard 117).
+courses(dalek, mat216,04, tr, 0800, 0915, science 234).
+courses(dancikg, csc314,01, tr, 1400, 1515, science 138).
+courses(dancikg, csc450,01, tr, 0930, 1045, science 138).
+courses(dancikg, csc490,01,  , tba, tba).
+courses(dancikg, hon488,09,  , tba, tba).
+courses(dancikg, hon488,10,  , tba, tba).
+courses(davisb, his116,01, mwf, 0900, 0950, library 436).
+courses(davisb, his116,02, mwf, 1300, 1350, library 436).
+courses(davisb, his200,01, mwf, 1000, 1110, library 266).
+courses(davisb, his373,01, mwf, 1400, 1450, webb 212).
+courses(davisb, his480,01,  , tba, tba).
+courses(davism, dsc501,e25,  , tba, online).
+courses(davism, dsc504,e25,  , tba, online).
+courses(dayb, cft401,01, m, 1400, 1450, communications 226).
+courses(dayb, com220,04x, tr, 1100, 1215, communications 226).
+courses(dayb, com357,01, tr, 0930, 1045, communications 226).
+courses(dayb, com380,01x, tr, 1400, 1550, fine_arts 115).
+courses(dayb, com490,05,  , tba, tba).
+courses(dayb, flm220,04x, tr, 1100, 1215, communications 226).
+courses(dayb, flm380,01x, tr, 1400, 1550, fine_arts 115).
+courses(daysluketichp, fin350,01, t, 1600, 1845, communications 218).
+courses(deckerg, bus436,01, t, 1900, 2145, communications 109).
+courses(delaneye, mus113,08, r, 1230, 1345, fine_arts 110).
+courses(delaneye, mus118,01, tr, 1400, 1515, fine_arts 108).
+courses(delaneye, mus356,12,  , tba, tba).
+courses(delaneye, mus395,03,  , tba, tba).
+courses(delaneye, mus456,12,  , tba, tba).
+courses(delimal, ees204,01, tr, 1230, 1345, science 236).
+courses(delimal, ees204,02, tr, 1100, 1215, science 236).
+courses(delrioj, eng241,01, mwf, 0900, 0950, webb 213).
+courses(delrioj, eng241,02, mwf, 1000, 1050, webb 213).
+courses(derosas, eng207,01, tr, 1400, 1515, webb 115).
+courses(derosas, eng380,01, w, 1600, 1845, webb 115).
+courses(derosas, eng493,04,  , tba, tba).
+courses(derosas, eng494,03,  , tba, tba).
+courses(derosas, eng499,05,  , tba, tba).
+courses(desousad, art217,01, tr, 1600, 1845, fine_arts 125).
+courses(dewildea, bus250,01, m, 1600, 1845, communications 218).
+courses(dewildea, bus250,02, mwf, 1000, 1050, communications 109).
+courses(dewildea, bus301,01, mwf, 0900, 0950, communications 109).
+courses(dewildea, bus301,04, mwf, 1200, 1250, communications 108).
+courses(dewildea, hpe117,01, mwf, 1400, 1450, goddard 201).
+courses(dexterr, bis205,05, w, 1900, 2145, webb 307).
+courses(dexterr, org696,02,  , tba, tba).
+courses(difrancoa, hpe104,01, m, 1600, 1845, goddard 201).
+courses(difrancoa, hpe201,01, w, 1600, 1845, goddard 208).
+courses(difrancoa, hpe201,02, w, 1600, 1845, goddard 208).
+courses(dillerj, lac200,01, mwf, 1100, 1150, goddard 216).
+courses(dillerj, psy101,01, m, 0900, 0950, webb 216).
+courses(dillerj, psy417,01, mwf, 0800, 0850, webb 216).
+courses(dillerj, psy480,01,  , tba, tba).
+courses(dillerj, psy491,04,  , tba, tba).
+courses(donaghyd, eng238,01, tr, 1400, 1515, webb 206).
+courses(donaghyd, eng302,01, tr, 1100, 1215, science 134).
+courses(donaghyd, eng382,01, tr, 1230, 1345, science 134).
+courses(donaghyd, eng480,01,  , tba, tba).
+courses(donaghyd, eng493,03,  , tba, tba).
+courses(donaghyd, eng495,01,  , tba, tba).
+courses(donaghyd, eng495,03,  , tba, tba).
+courses(donohuek, bis205,01, tr, 0800, 0915, webb 307).
+courses(donohuek, bis365,01, tr, 0930, 1045, webb 407).
+courses(dotsont, nur205,01, tr, 1600, 1715, goddard 117).
+courses(dotsont, nur205,02, tr, 1400, 1515, goddard 117).
+courses(dowdelld, mgt502,e25,  , tba, tba).
+courses(dowdelld, mgt502,e26,  , tba, online).
+courses(doylem, art401,01, wf, 1300, 1450, fine_arts 305).
+courses(doylem, art480,06,  , tba, tba).
+courses(doylem, art480,11,  , tba, tba).
+courses(doylem, art480,13,  , tba, tba).
+courses(doylem, art486,01,  , tba, tba).
+courses(doylem, art490,03,  , tba, tba).
+courses(doylem, lac200,01, mwf, 1100, 1150, goddard 216).
+courses(drewryc, iip200,01,  , tba, tba).
+courses(drewryc, iip300,01,  , tba, tba).
+courses(drewryc, iip300,02,  , tba, tba).
+courses(drewryc, isp300,01,  , tba, tba).
+courses(drewryc, isp301,01,  , tba, tba).
+courses(drewryc, nse300,01,  , tba, tba).
+courses(drewryt, ece301,01,  , tba, tba).
+courses(drewryt, edu301,01,  , tba, tba).
+courses(drewryt, edu401,01,  , tba, tba).
+courses(drewt, art342,01, tr, 0930, 1215, fine_arts 330).
+courses(drewt, art480,24,  , tba, tba).
+courses(drzewieckip, ees130,01, m, 1400, 1650, science 216).
+courses(drzewieckip, ees130,01, mwf, 0900, 0950, science 216).
+courses(drzewieckip, ees271,h01,  , tba, online).
+courses(drzewieckip, ees271,h01, t, 1730, 1815, science 232).
+courses(drzewieckip, lac100,02, mwf, 1100, 1150, science 216).
+courses(drzewieckip, lac101,02, w, 1200, 1250, science 216).
+courses(dunnacks, ece445,01, mtwrf, 0800, 1530, tba).
+courses(dunnacks, ece566,01,  , tba, tba).
+courses(dziavitk, edu410,01x, m, 1600, 1845, webb 215).
+courses(dziavitk, edu510,01x, m, 1600, 1845, webb 215).
+courses(dzurecd, hsc425,01, m, 1400, 1650, science 341).
+courses(dzurecd, hsc425,01, mwf, 0800, 0850, goddard 200).
+courses(dzurecd, hsc491,01,  , tba, tba).
+courses(dzurecl, hsc225,01, tr, 1230, 1345, goddard 200).
+courses(dzurecl, hsc225,03, mwf, 1300, 1350, goddard 216).
+courses(dzurecl, hsc225,04, mwf, 1100, 1150, goddard 203).
+courses(eastonw, psc100,01, mwf, 0900, 0950, webb 110).
+courses(eastonw, psc300,01, tr, 1230, 1345, webb 112).
+courses(echolsc, mus250,01, tr, 1100, 1215, fine_arts 243).
+courses(echolsc, mus250,02, tr, 1230, 1345, fine_arts 243).
+courses(eckenrothg, eco201,06, tr, 1400, 1515, goddard 203).
+courses(eckenrothg, fin490,01v, r, 1600, 1715, communications 218).
+courses(elfoulyr, csc360,01, tr, 1100, 1215, science 135).
+courses(elfoulyr, csc360,04, tr, 1230, 1345, science 138).
+courses(eliaa, art111,01, mw, 0900, 1145, fine_arts 125).
+courses(eliaa, art235,03, m, 1200, 1445, fine_arts 125).
+courses(eppk, bio319,01, t, 0900, 1050, science 331).
+courses(eppk, bio320,01,  , tba, tba).
+courses(eppk, bio380,06,  , tba, tba).
+courses(eppk, bio466,01, m, 1400, 1650, science 416).
+courses(eppk, bio466,02, w, 1400, 1650, science 416).
+courses(eppk, bio480,04,  , tba, tba).
+courses(eriksoussia, flm219,01x, m, 1600, 1845, webb 112).
+courses(eriksoussia, las219,01x, m, 1600, 1845, webb 112).
+courses(eriksoussia, spa219,01x, m, 1600, 1845, webb 112).
+courses(erwinc, bus201,02, tr, 0930, 1045, communications 218).
+courses(erwinc, bus201,03, tr, 1100, 1215, communications 218).
+courses(erwinc, bus331,01, t, 1900, 2145, communications 108).
+courses(erwinc, bus431,03, tr, 1400, 1515, goddard 201).
+courses(espinozaa, edu502,01,  , tba, tba).
+courses(espinozaa, edu573,01, mtwrf, 0800, 1530, tba).
+courses(evesk, eng100,06, tr, 1600, 1715, webb 206).
+courses(fabrizim, edu425,02x, m, 1900, 2145, communications 108).
+courses(fabrizim, edu480,01,  , tba, tba).
+courses(fabrizim, edu525,02x, m, 1900, 2145, communications 108).
+courses(fabrizim, edu696,06,  , tba, tba).
+courses(ferrarol, bus333,01, m, 1600, 1845, communications 201).
+courses(ferrarol, mgt505,e25,  , tba, tba).
+courses(ferrucis, eng190,01, tr, 0930, 1045, science 134).
+courses(ferrucis, eng190,02, tr, 1100, 1215, webb 213).
+courses(ferrucis, eng495,05,  , tba, tba).
+courses(ferrucis, eng499,03,  , tba, tba).
+courses(fisterk, mat099,03, mwf, 1400, 1450, webb 314).
+courses(fisterk, mat135p,05, mw, 1600, 1750, science 132).
+courses(floodr, cft205,01, mwf, 1000, 1110, communications 226).
+courses(floodr, com480,04,  , tba, tba).
+courses(floodr, com490,02,  , tba, tba).
+courses(floodr, eng255,01, mwf, 0900, 0950, communications 218).
+courses(floodr, eng308,01x, m, 1600, 1845, fine_arts 115).
+courses(floodr, the308,01x, m, 1600, 1845, fine_arts 115).
+courses(floodr, the480,06,  , tba, tba).
+courses(fortew, eco200,03, tr, 0930, 1045, goddard 201).
+courses(fortew, eco200,04, tr, 1100, 1215, goddard 201).
+courses(foyl, acc302,01, tr, 1100, 1215, science 132).
+courses(foyl, acc416,01, tr, 1230, 1345, science 132).
+courses(frainm, hpe210,01, w, 1600, 1845, goddard 216).
+courses(frainm, hpe210,03, w, 1900, 2145, goddard 216).
+courses(francob, art140,02, tr, 1230, 1345, fine_arts 305).
+courses(francob, art212,02, tr, 1400, 1550, fine_arts 305).
+courses(frescohawesc, hpe104,04, w, 1600, 1845, goddard 201).
+courses(freunde, com230,01, t, 1600, 1845, communications 109).
+courses(freunde, com230,02, w, 1600, 1845, communications 218).
+courses(fryed, his230,01, tr, 1100, 1215, webb 214).
+courses(fryed, his230,02, w, 1600, 1845, webb 216).
+courses(fryed, his230,03, tr, 1600, 1715, webb 214).
+courses(fryed, his267,01, w, 1900, 2145, webb 317).
+courses(fryed, his365,02, tr, 1400, 1515, webb 113).
+courses(fryed, his481,01,  , tba, tba).
+courses(fryed, his491,04,  , tba, tba).
+courses(fugerem, hon362,01, mwf, 1300, 1350, webb 213).
+courses(fugerem, psy202,01, mwf, 0900, 0950, webb 317).
+courses(fugerem, psy202,02, mwf, 1000, 1050, webb 317).
+courses(fugerem, psy490,10,  , tba, tba).
+courses(fugerem, psy491,13,  , tba, tba).
+courses(fultons, psy206,03, tr, 1730, 1845, webb 317).
+courses(gageoneam, mat135p,06, tr, 1400, 1550, science 114).
+courses(gageoneam, mat135p,07, tr, 1600, 1750, science 117).
+courses(galvezd, edu222,03, w, 1900, 2145, the_center_for_early_childhood_education 167).
+courses(galvezd, edu505,e25,  , tba, tba).
+courses(galvezd, edu696,02,  , tba, tba).
+courses(gaok, csc270,01, mwf, 1000, 1050, science 138).
+courses(gaok, csc270,02, mwf, 1400, 1450, science 138).
+courses(gaok, csc445,01, mwf, 1100, 1150, science 138).
+courses(gaok, csc445,02, mw, 1600, 1715, science 138).
+courses(gaok, hon488,01,  , tba, tba).
+courses(garciam, psc211,01, mwf, 1100, 1150, science 117).
+courses(garciam, psc350,01, tr, 1100, 1215, webb 113).
+courses(geers, nur424,01b,  , tba, tba).
+courses(girasolia, psy247,02, mw, 1900, 2050, webb 314).
+courses(golebiewskit, the276,01, tr, 1600, 1715, fine_arts 118).
+courses(golebiewskit, the277,01, m, 1600, 1845, webb 314).
+courses(golebiewskit, the480,05,  , tba, tba).
+courses(golebiewskit, the480,10,  , tba, tba).
+courses(golebiewskit, the481,01,  , tba, tba).
+courses(goodmand, eco201,05, tr, 1100, 1215, goddard 216).
+courses(goodmand, eco331,01, tr, 0930, 1045, communications 107).
+courses(goyettel, nur424,01d,  , tba, tba).
+courses(grahamm, bio305,01, mwf, 1300, 1350, science 104).
+courses(grahamm, bio336,01, mwf, 1200, 1250, science 432).
+courses(grahamm, bio336,01, r, 1100, 1350, science 333).
+courses(grahamm, bio380,04,  , tba, tba).
+courses(grahamm, bio380,07,  , tba, tba).
+courses(grahamm, bio480,03,  , tba, tba).
+courses(grandhis, bus428,01, tr, 1230, 1345, science 234).
+courses(grandhis, bus480,06,  , tba, tba).
+courses(grandhis, bus492,02,  , tba, tba).
+courses(grandhis, mgt508,e25,  , tba, tba).
+courses(greenb, acc412,01, m, 1600, 1845, webb 315).
+courses(greener, art111,02, tr, 1200, 1445, fine_arts 125).
+courses(greener, art235,01, f, 1200, 1445, fine_arts 125).
+courses(greener, art315,01, tr, 1600, 1845, fine_arts 122).
+courses(greener, art480,04,  , tba, tba).
+courses(greener, art480,17,  , tba, tba).
+courses(greener, art480,20,  , tba, tba).
+courses(greener, art480,22,  , tba, tba).
+courses(greener, art485,01, mw, 1600, 1845, fine_arts 122).
+courses(greener, art485,01, mw, 1600, 1845, fine_arts 247).
+courses(greener, art485,01, mw, 1600, 1845, fine_arts 323).
+courses(greener, hon488,12,  , tba, tba).
+courses(grosjeanb, bus225,06, tr, 1100, 1215, communications 107).
+courses(grosjeanb, bus326,01, t, 1900, 2145, communications 218).
+courses(grotha, bio210,01, mwf, 1000, 1050, science 134).
+courses(grotha, bio230,01, m, 1400, 1650, science 335).
+courses(grotha, bio230,01, mwf, 1100, 1150, science 134).
+courses(grotha, bio380,02,  , tba, tba).
+courses(grotha, bio490,03,  , tba, tba).
+courses(grotha, hon488,06,  , tba, tba).
+courses(guarinob, art110,01, mw, 0900, 1145, fine_arts 328).
+courses(guildc, art202,03, tr, 0930, 1215, fine_arts 331).
+courses(guom, acc201,02, tr, 0930, 1045, science 137).
+courses(guom, acc201,03, tr, 1100, 1215, science 137).
+courses(guom, acc301,01, tr, 1400, 1515, goddard 216).
+courses(guom, acc303,01, w, 1600, 1845, webb 315).
+courses(guom, hon488,04,  , tba, tba).
+courses(gyurem, bio314,01, r, 0930, 1120, science 331).
+courses(gyurem, bio314,02, r, 1230, 1420, science 331).
+courses(gyurem, bio314,03, r, 1600, 1750, science 331).
+courses(gyurem, bio490,08,  , tba, tba).
+courses(hallm, psy100,03, tr, 1600, 1715, webb 317).
+courses(halls, bus225,02, w, 1600, 1845, communications 201).
+courses(heenehanm, hon488,14,  , tba, tba).
+courses(heenehanm, lac200,02, mwf, 1300, 1350, science 134).
+courses(heenehanm, mat230,01, mwf, 1000, 1050, science 132).
+courses(heenehanm, mat320,01, mwf, 1200, 1250, science 132).
+courses(hek, che211,01, mwf, 0900, 0950, science 117).
+courses(hek, che211,02, mwf, 1000, 1050, science 117).
+courses(hek, che211,03, mwf, 1300, 1350, science 117).
+courses(hek, che480,02,  , tba, tba).
+courses(hek, che480,03,  , tba, tba).
+courses(henryj, hpe104,05, t, 1600, 1845, goddard 200).
+courses(henryj, hpe104,08, m, 1600, 1845, goddard 202).
+courses(hollandj, art332,01, wf, 1200, 1445, fine_arts 330).
+courses(hollandj, lac100,03, mwf, 1000, 1050, fine_arts 118).
+courses(hollandj, lac101,03, m, 0900, 0950, fine_arts 118).
+courses(houldcroftt, the281,01, w, 1600, 1845, fine_arts 243).
+courses(hulveyj, bio120,01, m, 1400, 1650, science 331).
+courses(hulveyj, bio120,01, mwf, 1100, 1150, science 231).
+courses(hulveyj, bio334,01, mwf, 0900, 0950, science 231).
+courses(hulveyj, bio334,01, w, 1400, 1650, science 341).
+courses(hulveyj, bio380,08,  , tba, tba).
+courses(hulveyj, bio480,06,  , tba, tba).
+courses(hulveyj, bio491,05,  , tba, tba).
+courses(hwango, mus214,01, mwf, 0900, 0950, fine_arts 212).
+courses(hwango, mus330,01, mwf, 1100, 1150, fine_arts 307).
+courses(hwango, mus356,22,  , tba, tba).
+courses(hwango, mus395,02,  , tba, tba).
+courses(hwango, mus456,22,  , tba, tba).
+courses(hyattd, ees224,01, tr, 0930, 1045, science 215).
+courses(hyattd, ees224,01a, w, 1400, 1650, science 215).
+courses(hyattd, ees224,01a, w, 1400, 1650, science 219).
+courses(hyattd, ees224,01b, t, 1400, 1650, science 215).
+courses(hyattd, ees224,01b, t, 1400, 1650, science 219).
+courses(hyattd, ees392,01,  , tba, tba).
+courses(hyattd, ees441,01, r, 1400, 1650, science 219).
+courses(idjadij, bio280,02,  , tba, tba).
+courses(idjadij, bio319,01, t, 0900, 1050, science 331).
+courses(idjadij, bio320,01,  , tba, tba).
+courses(idjadij, bio380,12,  , tba, tba).
+courses(islams, che211,04, mw, 1600, 1715, science 117).
+courses(islams, che211,05, mw, 1730, 1845, science 117).
+courses(islams, che425,01, mwf, 1200, 1250, science 231).
+courses(islams, che425,01a, f, 1400, 1750, science 434).
+courses(islams, che492,01,  , tba, tba).
+courses(jacobsm, bio204,05, m, 1600, 1845, science 320).
+courses(jacobsm, bio204,06, tr, 1730, 1845, science 320).
+courses(jahani, csc202,01, tr, 1400, 1515, science 135).
+courses(jahani, csc231,01, mwf, 1100, 1150, science 139).
+courses(jaross, mat140,01, m, 1600, 1715, science 238).
+courses(jaross, mat140,01, w, 1600, 1715, science 137).
+courses(jendrewskir, spa111,03, mw, 1730, 1845, science 134).
+courses(johnsond, bis447,01, t, 1900, 2145, webb 407).
+courses(johnsonj, csc210,01, mwf, 0900, 0950, science 138).
+courses(johnsonj, csc210,03, mwf, 1000, 1050, science 139).
+courses(johnsonp, mat139p,02, tr, 1600, 1750, science 132).
+courses(johnsonp, mat315,01, m, 1400, 1450, science 238).
+courses(johnsonp, mat315,01, mwf, 1300, 1350, science 238).
+courses(johnsonp, mat362,01, tr, 1900, 2015, science 114).
+courses(johnsonp, mat480,03,  , tba, tba).
+courses(johnsonp, mat480,04,  , tba, tba).
+courses(johnsons, eng100,03, mwf, 1300, 1350, webb 206).
+courses(johnsons, eng100p,06, mf, 1100, 1240, webb 307).
+courses(johnsons, eng100p,06, w, 1100, 1150, webb 307).
+courses(joinerk, hsc318,03a, w, 0800, 1050, goddard 127).
+courses(joinerk, hsc318,03b, t, 1600, 1850, goddard 127).
+courses(kaneg, bus342,01, mwf, 1200, 1250, communications 107).
+courses(kaneg, bus342,02, mwf, 1000, 1050, communications 201).
+courses(kaneg, bus411,01, mwf, 1300, 1350, communications 107).
+courses(kaneg, bus480,05,  , tba, tba).
+courses(kangm, bus327,01, tr, 1400, 1515, science 234).
+courses(kangm, bus429,01, w, 1600, 1845, science 234).
+courses(kangm, com480,02,  , tba, tba).
+courses(kangm, com490,03,  , tba, tba).
+courses(karrenbergj, eco100,02, mwf, 1300, 1350, communications 201).
+courses(karrenbergj, eco100,03, mwf, 1400, 1450, communications 201).
+courses(keaned, swk420,02, t, 1600, 1845, webb 112).
+courses(kerrm, ast214,01, tr, 0930, 1045, planetarium).
+courses(kerrm, ast214,01a, t, 1100, 1200, planetarium).
+courses(kerrm, ast214,01b, r, 1100, 1200, planetarium).
+courses(kerrm, phy205,01b, r, 1400, 1550, science 403).
+courses(keyesm, psy212,01, mwf, 1400, 1450, communications 108).
+courses(keyesm, psy212,02, mwf, 1100, 1150, communications 108).
+courses(keyesm, psy247,01, mwf, 1200, 1310, webb 314).
+courses(keyesm, psy490,01,  , tba, tba).
+courses(khadev, ees205,02, w, 1900, 2145, science 114).
+courses(khowm, hpe141,01, tr, 0930, 1045, sports 104).
+courses(khowm, hpe143,01, tr, 0800, 0915, sports 104).
+courses(kims, art213,01, tr, 1600, 1845, fine_arts 330).
+courses(kims, art436,01, tr, 1230, 1515, fine_arts 330).
+courses(kims, art480,08,  , tba, tba).
+courses(kims, art480,18,  , tba, tba).
+courses(koleks, psy227,02, tr, 0800, 0950, webb 314).
+courses(koleks, psy227,03, tr, 1100, 1250, webb 314).
+courses(koleks, psy247,03, tr, 1400, 1550, webb 314).
+courses(koleks, psy480,05,  , tba, tba).
+courses(koleks, psy490,09,  , tba, tba).
+courses(koleks, psy491,07,  , tba, tba).
+courses(koleks, psy491,08,  , tba, tba).
+courses(koleks, psy491,10,  , tba, tba).
+courses(kozad, che213,08, m, 1900, 2150, science 440).
+courses(kozad, che217,01, mwf, 1000, 1050, science 104).
+courses(krassasn, phi480,03,  , tba, tba).
+courses(krassasn, psc325,01, mwf, 1100, 1150, webb 210).
+courses(krassasn, psc400,01, mwf, 1300, 1350, webb 115).
+courses(krassasn, psc480,01,  , tba, tba).
+courses(krassasn, psc495,01v,  , tba, tba).
+courses(krebsc, hon488,02,  , tba, tba).
+courses(krebsc, psy101,02, r, 1230, 1320, science 117).
+courses(krebsc, psy205,01, mwf, 0900, 0950, webb 212).
+courses(krebsc, psy205,02, mwf, 1000, 1050, webb 212).
+courses(krebsc, psy246,01, mwf, 1100, 1150, webb 314).
+courses(krebsc, psy390,02, m, 1400, 1450, science 115).
+courses(krebsc, psy407,01, mwf, 1300, 1350, webb 216).
+courses(krebsc, psy490,08,  , tba, tba).
+courses(krebsc, psy491,14,  , tba, tba).
+courses(kunenen, bis205,04, tr, 0930, 1045, webb 307).
+courses(kunenen, bis449,01, tr, 1230, 1345, webb 407).
+courses(kunenen, bis449,02, tr, 1400, 1515, webb 407).
+courses(kurtim, crm210,01, r, 1600, 1845, goddard 223).
+courses(kurtim, crm480,02,  , tba, tba).
+courses(kurtim, soc350,01, tr, 1400, 1550, goddard 223).
+courses(kurtim, soc350,02, tr, 1100, 1250, webb 114).
+courses(kwakuk, bio305,02, t, 1600, 1845, science 104).
+courses(kyeii, fin245,01, mwf, 1100, 1150, goddard 202).
+courses(kyeii, fin245,03, tr, 1100, 1215, goddard 203).
+courses(kyeii, fin245,06, mwf, 1000, 1050, goddard 202).
+courses(kyeii, fin335,01, m, 1600, 1845, goddard 203).
+courses(kylek, hsc215,01c, t, 0800, 1050, science 237).
+courses(kylek, hsc215,01g, f, 0800, 1050, science 237).
+courses(kylek, hsc491,05,  , tba, tba).
+courses(laddj, mat155p,01, mw, 1400, 1450, science 132).
+courses(laddj, mat155p,01, mwf, 1300, 1350, science 132).
+courses(lamarchel, edu501,01,  , tba, tba).
+courses(lanaganleitzell, psy306,01, mwf, 1100, 1150, webb 315).
+courses(lanaganleitzell, psy318,01, mwf, 1200, 1250, webb 315).
+courses(lanaganleitzell, psy480,04,  , tba, tba).
+courses(lanaganleitzell, psy491,06,  , tba, tba).
+courses(laportek, ece405,01x, m, 1600, 1845, the_center_for_early_childhood_education 167).
+courses(laportek, ece506,01x, m, 1600, 1845, the_center_for_early_childhood_education 167).
+courses(laportek, edu465,02x, t, 1900, 2145, webb 213).
+courses(laportek, edu565,02x, t, 1900, 2145, webb 213).
+courses(larosec, mat216,01, mwf, 1400, 1450, science 234).
+courses(larosec, mat216,02, mwf, 1300, 1350, science 234).
+courses(larosec, mat217,01, mwf, 1000, 1050, science 234).
+courses(larosec, mat343,01, mwf, 1100, 1150, science 238).
+courses(lauxd, bio140,01, mwf, 0900, 0950, science 104).
+courses(lauxd, bio140,01a, w, 1400, 1650, science 334).
+courses(lauxd, bio380,11,  , tba, tba).
+courses(lauxd, bio462,01, m, 1400, 1650, science 334).
+courses(lauxd, bio462,01, mwf, 1100, 1150, science 432).
+courses(lauxd, bio480,08,  , tba, tba).
+courses(lauxd, bio490,01,  , tba, tba).
+courses(lavoiem, csc212,01, tr, 0930, 1045, science 135).
+courses(leek, ece420,01x, m, 1600, 1845, the_center_for_early_childhood_education 175).
+courses(leek, ece505,01x, m, 1600, 1845, the_center_for_early_childhood_education 175).
+courses(leek, edu200,02, tr, 1400, 1515, the_center_for_early_childhood_education 167).
+courses(leek, edu612,e25,  , tba, tba).
+courses(leep, psy302,01, tr, 1100, 1215, webb 317).
+courses(leep, psy302,02, tr, 1230, 1345, webb 317).
+courses(leep, psy410,01, tr, 1600, 1715, webb 315).
+courses(leep, psy490,04,  , tba, tba).
+courses(leep, psy491,11,  , tba, tba).
+courses(leep, psy496,01v, m, 1600, 1650, webb 115).
+courses(leissa, ant125,01, tr, 1400, 1515, webb 112).
+courses(leissa, ant221,e25,  , tba, online).
+courses(leissa, ant365,01, tr, 1100, 1215, science 432).
+courses(leissa, ant400,01, w, 1600, 1845, webb 317).
+courses(leissa, ant490,01,  , tba, tba).
+courses(leszczynskij, psy210,01, mwf, 1100, 1150, webb 216).
+courses(leszczynskij, psy314,01, mwf, 0800, 0850, webb 315).
+courses(leszczynskij, psy314,02, mwf, 0900, 0950, webb 315).
+courses(leszczynskij, psy435,01, mwf, 1200, 1250, webb 216).
+courses(leszczynskij, psy471,01, m, 1000, 1050, webb 216).
+courses(leszczynskij, psy490,03,  , tba, tba).
+courses(leszczynskij, psy491,01,  , tba, tba).
+courses(leszczynskij, psy491,03,  , tba, tba).
+courses(lewisj, swk450,02, t, 1230, 1515, goddard 202).
+courses(liangl, fin445,01, tr, 1100, 1215, communications 109).
+courses(liangl, fin445,02, tr, 0930, 1045, communications 109).
+courses(liangl, fin446,01, tr, 1400, 1515, goddard 200).
+courses(lil, art343,01, mw, 0900, 1145, fine_arts 327).
+courses(lil, art480,02,  , tba, tba).
+courses(lil, art480,03,  , tba, tba).
+courses(lil, art480,12,  , tba, tba).
+courses(lil, art480,19,  , tba, tba).
+courses(lil, art480,21,  , tba, tba).
+courses(lil, art485,01, mw, 1600, 1845, fine_arts 122).
+courses(lil, art485,01, mw, 1600, 1845, fine_arts 247).
+courses(lil, art485,01, mw, 1600, 1845, fine_arts 323).
+courses(liuq, art202,01, tr, 1600, 1845, fine_arts 331).
+courses(liuq, art205,01, tr, 1230, 1515, fine_arts 331).
+courses(liuq, art219,01, m, 1200, 1445, fine_arts 326).
+courses(liuq, art480,10,  , tba, tba).
+courses(liuq, art490,04,  , tba, tba).
+courses(liux, dsc503,e25,  , tba, online).
+courses(liux, dsc503,e26,  , tba, online).
+courses(liux, edu357,03, r, 1600, 1845, webb 210).
+courses(liux, edu404,01, f, 1200, 1445, webb 113).
+courses(longe, eng100,09, mwf, 1000, 1050, webb 206).
+courses(lucink, bio204,01, tr, 1100, 1215, science 320).
+courses(lucink, bio204,02, tr, 1230, 1345, science 320).
+courses(lucink, bio280,01,  , tba, tba).
+courses(lucink, bio350,01, mwf, 1000, 1050, science 432).
+courses(lucink, bio350,01a, m, 1400, 1650, science 315).
+courses(lucink, bio380,01,  , tba, tba).
+courses(lucink, bio480,01,  , tba, tba).
+courses(lucink, bio480,05,  , tba, tba).
+courses(lucink, bio490,05,  , tba, tba).
+courses(lucink, bio491,04,  , tba, tba).
+courses(lugow, crm450,01, w, 1600, 1845, webb 313).
+courses(lugow, crm450,02, w, 1900, 2145, webb 313).
+courses(lugow, crm480,03,  , tba, tba).
+courses(lugow, soc480,03,  , tba, tba).
+courses(lugow, soc480,05,  , tba, tba).
+courses(luxenbergh, eng100,11, tr, 1100, 1215, science 133).
+courses(luxenbergh, eng100p,03, m, 1400, 1540, webb 316).
+courses(luxenbergh, eng100p,03, tr, 1400, 1515, webb 316).
+courses(madenjianwybierackik, hpe140,01, mwf, 1100, 1150, fine_arts 219).
+courses(madenjianwybierackik, hpe140,02, mwf, 1100, 1150, fine_arts 219).
+courses(madenjianwybierackik, hpe140,03, mwf, 1200, 1250, fine_arts 219).
+courses(madenjianwybierackik, hpe140,04, mwf, 1200, 1250, fine_arts 219).
+courses(mamar, eng125,01, tr, 1600, 1715, webb 216).
+courses(mamar, eng125,02, tr, 1400, 1515, webb 210).
+courses(mamar, eng225,01, tr, 1730, 1845, webb 216).
+courses(mamar, eng353,01, tr, 1230, 1345, science 231).
+courses(manfredie, hpe210,02, tr, 1230, 1345, goddard 216).
+courses(manfredie, hpe361,01, t, 0930, 1030, sports 219).
+courses(manfredie, hpe361,01, t, 1030, 1215, sports 201).
+courses(marrettc, ced300,01,  , tba, tba).
+courses(matthewsarmsteade, swk320,02, t, 0800, 1045, webb 215).
+courses(matthewsarmsteade, swk450,01, t, 1230, 1515, webb 213).
+courses(mattinglyb, bio240,02, mwf, 1000, 1050, science 231).
+courses(mattinglyb, bio240,02, t, 1100, 1350, science 331).
+courses(mattinglyb, bio319,01, t, 0900, 1050, science 331).
+courses(mattinglyb, bio320,01,  , tba, tba).
+courses(mattinglyb, bio490,06,  , tba, tba).
+courses(mccartyg, soc100,04, mwf, 0900, 0950, goddard 216).
+courses(mccartyg, soc100,05, mwf, 1000, 1050, goddard 216).
+courses(mckeem, art110,02, tr, 0930, 1215, fine_arts 326).
+courses(mcneilk, eng100p,01, tr, 0930, 1045, webb 316).
+courses(mcneilk, eng100p,01, w, 0900, 1040, webb 316).
+courses(mcneilk, eng100p,02, tr, 1100, 1215, webb 316).
+courses(mcneilk, eng100p,02, w, 1100, 1240, webb 316).
+courses(mcneilk, eng215,01, tr, 1230, 1345, communications 201).
+courses(mendozabotelhom, phi498,01,  , tba, tba).
+courses(mendozabotelhom, psc208,01, tr, 0930, 1045, webb 212).
+courses(mendozabotelhom, psc208,02, tr, 1400, 1515, science 116).
+courses(mendozabotelhom, psc460,01, t, 1600, 1845, webb 115).
+courses(mendozabotelhom, psc480,02,  , tba, tba).
+courses(mendozabotelhom, psc498,01,  , tba, tba).
+courses(metcalfm, ees300,01, mw, 1730, 1845, science 215).
+courses(metcalfm, ees301,01, w, 1300, 1550, science 233).
+courses(metcalfm, ees322,01, m, 1300, 1550, science 202).
+courses(metcalfm, ees322,01, mw, 1600, 1715, science 202).
+courses(metcalfm, ees480,01,  , tba, tba).
+courses(metcalfm, ees480,02,  , tba, tba).
+courses(metcalfm, ees480,03,  , tba, tba).
+courses(metcalfm, hon488,15,  , tba, tba).
+courses(michimia, geo100,01, mwf, 1000, 1050, goddard 201).
+courses(michimia, geo332,01, mwf, 0900, 0950, goddard 208).
+courses(misikoc, acc201,01, t, 1600, 1845, goddard 223).
+courses(misikoc, acc202,01, m, 1600, 1845, webb 216).
+courses(montemerloj, eco100,01, tr, 1230, 1345, communications 108).
+courses(montemerloj, eco201,04, tr, 0930, 1045, goddard 216).
+courses(mooneym, nur424,01c,  , tba, tba).
+courses(mooreheadt, edu480,02,  , tba, tba).
+courses(mooreheadt, edu632,e25,  , tba, tba).
+courses(mooreheadt, edu680,e25,  , tba, online).
+courses(moores, his231,01, mwf, 0900, 0950, fine_arts 305).
+courses(moores, his337,01, mwf, 1300, 1350, webb 315).
+courses(moores, his406,01, mwf, 1100, 1210, webb 213).
+courses(moores, his480,02,  , tba, tba).
+courses(moores, his480,03,  , tba, tba).
+courses(moores, his491,01,  , tba, tba).
+courses(moores, his491,02,  , tba, tba).
+courses(moores, his491,03,  , tba, tba).
+courses(moores, hon488,03,  , tba, tba).
+courses(moranr, art202,02, mw, 0900, 1145, fine_arts 331).
+courses(morgank, cft100,02, f, 1200, 1445, fine_arts 118).
+courses(morgank, hon488,05,  , tba, tba).
+courses(morgank, the227,02,  , tba, tba).
+courses(morgank, the480,02,  , tba, tba).
+courses(morgank, the480,04,  , tba, tba).
+courses(morgank, the495,01,  , tba, tba).
+courses(moylanw, bus321,01, mw, 1600, 1715, communications 109).
+courses(moylanw, bus325,01, mw, 1730, 1845, communications 109).
+courses(murdochb, bio140,01b, r, 0930, 1220, science 334).
+courses(murdochb, bio302,01x, t, 0930, 1120, science 341).
+courses(murdochb, bio302,02x, t, 1230, 1420, science 341).
+courses(murdochb, bio380,09,  , tba, tba).
+courses(murdochb, bio480,07,  , tba, tba).
+courses(murdochb, bio490,02,  , tba, tba).
+courses(murdochb, bio490,04,  , tba, tba).
+courses(murdochb, bio491,01,  , tba, tba).
+courses(murdochb, bio491,02,  , tba, tba).
+courses(murdochb, pbh302,01x, t, 0930, 1120, science 341).
+courses(murdochb, pbh302,02x, t, 1230, 1420, science 341).
+courses(murphyj, com100,02, mwf, 1000, 1050, communications 107).
+courses(nadeauc, nur424,01, mw, 1600, 1715, goddard 117).
+courses(nardellas, bus225,04, tr, 1230, 1345, communications 107).
+courses(nardellas, bus225,05, tr, 1400, 1515, communications 107).
+courses(nathans, ees200,02, mwf, 1100, 1150, science 236).
+courses(nathans, ees205,01, mwf, 1000, 1050, science 236).
+courses(nathans, ees402,01, mwf, 0900, 0950, science 219).
+courses(nathans, ees402,01, mwf, 0900, 0950, science 236).
+courses(ndiayem, eco200,01, mwf, 1100, 1150, communications 109).
+courses(ndiayem, eco201,01, mwf, 1200, 1250, goddard 203).
+courses(ndiayem, eco201,02, mwf, 1300, 1350, goddard 203).
+courses(ndiayem, eco301,01, mwf, 0900, 0950, goddard 223).
+courses(nicholss, ees323,01, w, 1600, 1845, science 233).
+courses(nightingales, swk300,01, r, 1230, 1515, webb 213).
+courses(nightingales, swk333,02, r, 0800, 1045, webb 213).
+courses(nightingales, swk333,02, r, 1100, 1150, science 234).
+courses(nightingales, swk420,01, t, 0800, 1045, webb 213).
+courses(nightingales, swk480,01,  , tba, tba).
+courses(nightingales, wst490,01,  , tba, tba).
+courses(norvaln, bus201,05, t, 1600, 1845, goddard 203).
+courses(norvaln, bus201,07, tr, 1400, 1515, communications 218).
+courses(nsiahy, hsc404,01, mwf, 1100, 1150, goddard 208).
+courses(obrienm, the280,01, tr, 0930, 1045, fine_arts 117).
+courses(obrienm, the280,01, tr, 0930, 1045, fine_arts 243).
+courses(onealf, lac200,03, mwf, 1300, 1350, fine_arts 110).
+courses(onealf, mus113,06, m, 1500, 1550, fine_arts 108).
+courses(onealf, mus160,01, mwf, 1400, 1450, fine_arts 307).
+courses(oakleyb, ees104,02, tr, 1100, 1215, science 215).
+courses(oakleyb, ees456,01, tr, 0930, 1045, science 216).
+courses(oakleyb, ees480,04,  , tba, tba).
+courses(oakleyb, ees491,01,  , tba, tba).
+courses(ohn, bus431,01, tr, 1230, 1345, communications 218).
+courses(ohn, bus431,02, tr, 0930, 1045, goddard 202).
+courses(ohn, mgt506,e25,  , tba, tba).
+courses(ohn, org696,04,  , tba, tba).
+courses(onyey, csc205,01, tr, 1230, 1345, science 133).
+courses(onyey, csc205,02, tr, 1400, 1515, science 133).
+courses(opied, art122,01, tr, 1600, 1845, fine_arts 327).
+courses(oseibonsuk, mat135,02, mwf, 1400, 1450, science 114).
+courses(oseibonsuk, mat155,01, m, 1000, 1050, science 116).
+courses(oseibonsuk, mat155,01, mwf, 0900, 0950, science 116).
+courses(oseibonsuk, mat244,01, mwf, 1100, 1150, science 132).
+courses(oseibonsuk, mat244,01, w, 1200, 1250, science 116).
+courses(oseibonsuk, mat480,02,  , tba, tba).
+courses(osterndorfw, com301,01, mwf, 1200, 1250, fine_arts 115).
+courses(osterndorfw, com330,01, mwf, 0900, 0950, fine_arts 307).
+courses(osterndorfw, com400,01, tr, 0930, 1045, fine_arts 307).
+courses(osterndorfw, com403,01, tr, 1100, 1215, fine_arts 307).
+courses(osterndorfw, com490,07,  , tba, tba).
+courses(ostwaldj, his362,01, tr, 1600, 1715, goddard 216).
+courses(ostwaldj, his386,01, tr, 1230, 1345, webb 206).
+courses(oterom, eng100,01, tr, 0800, 0915, webb 206).
+courses(oterom, eng100,02, tr, 0930, 1045, webb 206).
+courses(oterom, eng338,01, tr, 1230, 1345, science 416).
+courses(oterom, eng341,01, tr, 1400, 1515, science 416).
+courses(oterom, eng494,02,  , tba, tba).
+courses(pakdilf, bus410,01, w, 1600, 1845, webb 314).
+courses(pakdilf, bus480,01,  , tba, tba).
+courses(pakdilf, bus480,02,  , tba, tba).
+courses(pakdilf, bus492,01,  , tba, tba).
+courses(pakdilf, hon488,19,  , tba, tba).
+courses(pakdilf, osc260,03, mwf, 0800, 0850, communications 201).
+courses(parcinskia, che213,01, m, 1100, 1350, science 440).
+courses(parcinskia, che213,02, m, 1400, 1650, science 440).
+courses(pareram, spa111,02, mwf, 0900, 0950, science 134).
+courses(pareram, spa311,01, mwf, 1200, 1250, goddard 201).
+courses(parsonsn, soc311,01, tr, 0930, 1045, webb 214).
+courses(parsonsn, soc351,01, tr, 1100, 1250, webb 307).
+courses(parsonsn, soc351,02, tr, 1400, 1550, science 115).
+courses(parsonsn, soc492,02,  , tba, tba).
+courses(pasinij, bio204,03, tr, 0800, 0915, science 320).
+courses(pasinij, bio204,04, tr, 0930, 1045, science 320).
+courses(pazametaz, phs105,01, tr, 1400, 1515, science 431).
+courses(pazametaz, phy205,01, tr, 1230, 1345, science 431).
+courses(pazametaz, phy205,01a, m, 1400, 1550, science 403).
+courses(peacockj, ece565,01, mtwrf, 0800, 1530, tba).
+courses(peacockj, edu471,01, mtwrf, 0800, 1530, tba).
+courses(peacockj, edu521,01,  , tba, tba).
+courses(pellegrinid, cft100,01, f, 1200, 1445, fine_arts 117).
+courses(pellegrinid, lac101,04, m, 1600, 1650, fine_arts 118).
+courses(pellegrinid, the228,01,  , tba, tba).
+courses(pellegrinid, the265,01, tr, 1100, 1250, fine_arts 115).
+courses(pellegrinid, the480,07,  , tba, tba).
+courses(pellegrinid, the480,08,  , tba, tba).
+courses(penaaliceag, spa404,01, tr, 1100, 1215, sports 219).
+courses(perryk, bus201,01, mwf, 1000, 1050, communications 218).
+courses(perryk, bus201,06, mwf, 1100, 1150, communications 218).
+courses(pestar, crm320,01, mwf, 1100, 1150, webb 313).
+courses(pestar, crm320,02, mwf, 1200, 1250, webb 313).
+courses(pestar, crm410,01, mwf, 1000, 1050, webb 313).
+courses(pestar, crm480,01,  , tba, tba).
+courses(pestar, soc480,02,  , tba, tba).
+courses(peterosr, eco479,02x, w, 1600, 1845, communications 108).
+courses(peterosr, fin462,02x, w, 1600, 1845, communications 108).
+courses(petrikovskyh, art233,01, mw, 1300, 1450, fine_arts 115).
+courses(petrikovskyh, art480,14,  , tba, tba).
+courses(pimentalc, swk450,03, t, 1230, 1515, goddard 204).
+courses(pinckneys, art140,01, tr, 0930, 1045, fine_arts 305).
+courses(pinckneys, art313,01, tr, 1100, 1215, fine_arts 305).
+courses(porebskab, hsc215,01a, w, 0900, 1150, science 237).
+courses(porebskab, hsc215,01b, w, 1200, 1450, science 237).
+courses(porebskab, hsc215,01e, m, 1600, 1850, science 237).
+courses(porebskab, hsc291,01,  , tba, tba).
+courses(porebskab, hsc491,02,  , tba, tba).
+courses(pozdnyakovaz, mat135p,01, m, 0900, 0950, goddard 203).
+courses(pozdnyakovaz, mat135p,01, mwf, 0800, 0850, goddard 203).
+courses(pozdnyakovaz, mat216,03, mwf, 1100, 1150, science 234).
+courses(quickb, eng100p,04, tr, 1600, 1715, webb 316).
+courses(quickb, eng100p,04, w, 1600, 1740, webb 316).
+courses(rahmanifara, art215,01x, mw, 0900, 1145, fine_arts 323).
+courses(rahmanifara, art308,01x, mw, 0900, 1145, fine_arts 323).
+courses(rahmanifara, art352,01x, mw, 1200, 1445, fine_arts 331).
+courses(rahmanifara, art470,01x, mw, 1200, 1445, fine_arts 331).
+courses(rahmanifara, art480,15,  , tba, tba).
+courses(rahmanifara, art485,01, mw, 1600, 1845, fine_arts 122).
+courses(rahmanifara, art485,01, mw, 1600, 1845, fine_arts 247).
+courses(rahmanifara, art485,01, mw, 1600, 1845, fine_arts 323).
+courses(rahmanifara, art490,01,  , tba, tba).
+courses(reays, bis205,02, mwf, 0800, 0850, webb 307).
+courses(reays, bis205,03, mwf, 0900, 0950, webb 307).
+courses(reynoldsj, eng100,07, mwf, 1200, 1250, webb 206).
+courses(reynoldsj, eng100,08, mwf, 1100, 1150, science 233).
+courses(rezain, ece410,01x, w, 1600, 1845, the_center_for_early_childhood_education 175).
+courses(rezain, ece501,01x, w, 1600, 1845, the_center_for_early_childhood_education 175).
+courses(richardss, edu417,01, m, 1200, 1445, webb 113).
+courses(richardss, edu465,01x, m, 1900, 2145, webb 113).
+courses(richardss, edu480,03,  , tba, tba).
+courses(richardss, edu480,04,  , tba, tba).
+courses(richardss, edu516,01, w, 1600, 1845, webb 113).
+courses(richardss, edu565,01x, m, 1900, 2145, webb 113).
+courses(richardss, edu696,07,  , tba, tba).
+courses(riggse, mus113,04, r, 1730, 1845, fine_arts 108).
+courses(riggse, mus356,33,  , tba, tba).
+courses(riggse, mus395,01,  , tba, tba).
+courses(riggse, mus456,34,  , tba, tba).
+courses(riggse, mus480,04,  , tba, tba).
+courses(rijsj, swk360,01, t, 1600, 1845, library 436).
+courses(robertd, hpe104,06, tr, 0930, 1045, the_center_for_early_childhood_education 167).
+courses(robertd, hpe104,07, tr, 1100, 1215, the_center_for_early_childhood_education 167).
+courses(robertd, hpe475,01, mtwrf, 0800, 1530, tba).
+courses(robertd, hpe476,01, r, 1600, 1845, the_center_for_early_childhood_education 167).
+courses(robertd, hpe490,01,  , tba, tba).
+courses(robertst, edu200,01, tr, 1100, 1215, science 117).
+courses(robertst, edu582,h01,  , tba, online).
+courses(robertst, edu582,h01, r, 1600, 1845, webb 215).
+courses(robinsonm, edu694,01, mtwrf, 0800, 1530, tba).
+courses(robinsonm, edu694,02, mtwrf, 0800, 1530, tba).
+courses(rochonr, eng260,03x, mwf, 0900, 0950, webb 113).
+courses(rochonr, wst260,03x, mwf, 0900, 0950, webb 113).
+courses(rodriguezd, swk312,02, t, 1230, 1515, science 137).
+courses(rodriguezd, swk320,01, t, 0800, 1045, webb 114).
+courses(rodriguezl, edu222,01, tr, 1100, 1215, the_center_for_early_childhood_education 170).
+courses(rodriguezl, edu357,04, tr, 1400, 1515, communications 108).
+courses(rodriguezl, edu425,01x, t, 1600, 1845, science 432).
+courses(rodriguezl, edu525,01x, t, 1600, 1845, science 432).
+courses(rodriguezl, edu696,01,  , tba, tba).
+courses(rosienej, csc230,01, mwf, 1100, 1150, science 135).
+courses(rosienej, csc335,01, mwf, 1000, 1050, science 133).
+courses(rosienej, csc335,02, mwf, 0900, 0950, science 139).
+courses(rosienej, csc340,01, mw, 1600, 1715, science 139).
+courses(rosienej, csc480,01,  , tba, tba).
+courses(rowettc, hpe327,01, t, 1600, 1845, the_center_for_early_childhood_education 170).
+courses(rowettc, hpe340,01, t, 1900, 2145, the_center_for_early_childhood_education 170).
+courses(rowettc, hpe480,01,  , tba, tba).
+courses(ruddyj, edu490,01,  , tba, tba).
+courses(rujoubm, acc311,01, tr, 0930, 1045, science 115).
+courses(rujoubm, acc420,01, tr, 1100, 1215, science 115).
+courses(rukgaberm, phi120,01, mwf, 1400, 1450, library 436).
+courses(rukgaberm, phi330,01, tr, 1100, 1215, goddard 202).
+courses(ryens, fin245,02, mwf, 1200, 1250, goddard 202).
+courses(ryens, fin347,01, mwf, 1300, 1350, webb 210).
+courses(saenzcambrac, his255,01, mwf, 1100, 1150, webb 317).
+courses(salterspedneaultk, psy100,01, mwf, 1000, 1050, webb 110).
+courses(salterspedneaultk, psy100,02, mwf, 1100, 1150, webb 110).
+courses(salterspedneaultk, psy450,01, mwf, 1400, 1450, webb 213).
+courses(salterspedneaultk, psy490,07,  , tba, tba).
+courses(salterspedneaultk, psy491,05,  , tba, tba).
+courses(salterspedneaultk, psy496,02v, f, 0900, 0950, webb 115).
+courses(sandeenj, ees200,01, t, 1600, 1845, science 236).
+courses(sanfordl, hpe127,01, tr, 1900, 2015, sports 104).
+courses(sanfordl, hpe140,05, tr, 1730, 1845, sports 104).
+courses(sanfordl, hpe140,06, tr, 1730, 1845, sports 104).
+courses(saponaroj, eco201,07, m, 1600, 1845, goddard 208).
+courses(sarikhanikhoramim, mat243,02, m, 1300, 1350, science 137).
+courses(sarikhanikhoramim, mat243,02, tr, 1100, 1215, science 114).
+courses(sarikhanikhoramim, mat355,01, tr, 1230, 1345, science 114).
+courses(sarikhanikhoramim, mat480,01,  , tba, tba).
+courses(sarikhanikhoramim, mat490,01,  , tba, tba).
+courses(schallerj, bis442,01, w, 1600, 1845, science 115).
+courses(schallerj, osc260,01, tr, 1100, 1215, webb 212).
+courses(schallerj, osc360,01, tr, 1400, 1515, webb 307).
+courses(sciscoj, psy327,03,  , tba, tba).
+courses(sciscoj, psy327,03, tr, 0930, 1045, science 234).
+courses(sciscoj, psy418,01, tr, 1400, 1515, webb 214).
+courses(sciscoj, psy460,01, tr, 1100, 1215, webb 112).
+courses(sciscoj, psy490,02,  , tba, tba).
+courses(sciscoj, psy491,02,  , tba, tba).
+courses(sciscoj, psy491,09,  , tba, tba).
+courses(serranom, pbh228,01, tr, 1230, 1345, goddard 223).
+courses(serranom, pbh228,02, tr, 1600, 1715, goddard 202).
+courses(severancet, crm475,01v, m, 0800, 0850, webb 215).
+courses(severancet, crm480,04,  , tba, tba).
+courses(severancet, crm480,05,  , tba, tba).
+courses(severancet, crm490,01,  , tba, tba).
+courses(severancet, crm490,02,  , tba, tba).
+courses(severancet, soc307,01, mwf, 0900, 0950, webb 313).
+courses(shendec, csc360,02, mw, 1600, 1715, science 133).
+courses(shepardtorresr, ant106,01, tr, 0930, 1045, webb 110).
+courses(shepardtorresr, ant364,01, tr, 1100, 1215, science 116).
+courses(sholesz, msc132,03, w, 1300, 1350, library 266).
+courses(sholesz, msc146,02, w, 1400, 1600, library 266).
+courses(simonn, soc100,01, tr, 1400, 1515, webb 317).
+courses(simonn, soc201,01, w, 0900, 0950, webb 216).
+courses(simonn, soc300,01, tr, 0930, 1045, webb 210).
+courses(simonn, soc400,01, tr, 1100, 1250, webb 210).
+courses(simonn, soc480,01,  , tba, tba).
+courses(simonn, soc480,04,  , tba, tba).
+courses(simonn, soc490,01,  , tba, tba).
+courses(simonn, soc490,02,  , tba, tba).
+courses(simonn, soc491,01,  , tba, tba).
+courses(simonn, soc491,02,  , tba, tba).
+courses(simonn, soc492,01,  , tba, tba).
+courses(simonn, soc492,03,  , tba, tba).
+courses(simonn, soc493,01,  , tba, tba).
+courses(simonn, soc493,02,  , tba, tba).
+courses(slutskyd, phi220,01, mw, 1600, 1715, goddard 223).
+courses(smithe, hsc215,01, tr, 1230, 1345, goddard 117).
+courses(smithe, hsc215,01f, m, 1300, 1550, science 237).
+courses(smithe, hsc215,02, mwf, 1200, 1250, goddard 216).
+courses(smithe, hsc215,03, tr, 1100, 1215, communications 108).
+courses(smithe, hsc291,02,  , tba, tba).
+courses(smithe, hsc391,04,  , tba, tba).
+courses(sokolovskayaa, com490,09,  , tba, tba).
+courses(sokolovskayaa, the226,01,  , tba, tba).
+courses(sokolovskayaa, the227,07,  , tba, tba).
+courses(sokolovskayaa, the278,01, tr, 1600, 1715, fine_arts 251).
+courses(sokolovskayaa, the279,01, tr, 1230, 1345, communications 109).
+courses(sokolovskayaa, the475,01,  , tba, tba).
+courses(sokolovskayaa, the480,09,  , tba, tba).
+courses(soleymanpourr, csc360,03, tr, 1600, 1715, science 135).
+courses(speichera, eng223,02, mwf, 1100, 1150, webb 214).
+courses(speichera, eng328,01, mwf, 1300, 1350, webb 215).
+courses(speichera, eng493,02,  , tba, tba).
+courses(speichera, eng495,04,  , tba, tba).
+courses(speichera, eng499,01,  , tba, tba).
+courses(speichera, hon488,13,  , tba, tba).
+courses(stantonm, swk300,02, t, 1230, 1515, webb 215).
+courses(stantonm, swk312,01, r, 1230, 1515, webb 215).
+courses(stantonm, swk333,01, r, 0800, 1045, webb 215).
+courses(stantonm, swk333,01, r, 1100, 1150, webb 206).
+courses(stantonm, swk480,02,  , tba, tba).
+courses(stantonm, swk480,03,  , tba, tba).
+courses(stantonm, swk480,04,  , tba, tba).
+courses(stockerk, phi215,01, mwf, 0900, 0950, webb 214).
+courses(stockerk, phi480,01,  , tba, tba).
+courses(stockerk, phi480,02,  , tba, tba).
+courses(stoloffd, edu357,02, w, 1600, 1845, webb 210).
+courses(stoloffd, edu511,e25,  , tba, online).
+courses(stoloffd, edu555,e25,  , tba, online).
+courses(stoloffd, edu696,05,  , tba, tba).
+courses(stoloffd, lac400,01, w, 1900, 2145, webb 210).
+courses(swaminathans, ece330,01, t, 0930, 1215, the_center_for_early_childhood_education 175).
+courses(swaminathans, ece401,01,  , tba, tba).
+courses(swaminathans, ece696,01,  , tba, tba).
+courses(swaminathans, edu697,e25,  , tba, online).
+courses(swansons, che213,05, w, 1600, 1850, science 440).
+courses(swansons, che213,09, w, 1900, 2150, science 440).
+courses(swetzoffs, psc217,01, tr, 1230, 1345, library 436).
+courses(swetzoffs, psc310,01, tr, 1400, 1515, science 117).
+courses(swiftp, phi210,01, tr, 0930, 1045, fine_arts 115).
+courses(swiftp, phi340,01, tr, 1400, 1515, library 436).
+courses(switchenkod, hpe328,01, tr, 1600, 1715, sports 221).
+courses(switchenkod, hpe329,01, tr, 0800, 0915, sports 221).
+courses(switchenkok, hpe362,01, r, 0930, 1030, sports 219).
+courses(switchenkok, hpe362,01, r, 1030, 1215, sports 201).
+courses(synnottc, bus201,04, mwf, 0900, 0950, communications 108).
+courses(szymkiewiczr, eng100,04, tr, 1100, 1215, science 233).
+courses(szymkiewiczr, eng100p,05, tr, 1230, 1345, webb 316).
+courses(szymkiewiczr, eng100p,05, w, 1300, 1440, webb 316).
+courses(tackettm, hsc318,02a, m, 0800, 1050, goddard 127).
+courses(tackettm, hsc319,02a, f, 0800, 1050, goddard 127).
+courses(tarriconed, psy206,01, mw, 1730, 1845, webb 214).
+courses(tasneems, csc180,01, tr, 1100, 1215, science 138).
+courses(tasneems, csc440,01, tr, 1400, 1515, science 139).
+courses(tasneems, csc440,02, r, 1600, 1845, science 138).
+courses(tasneems, csc485,01,  , tba, tba).
+courses(tasneems, hon488,16,  , tba, tba).
+courses(taylorm, eng201,01, mwf, 1100, 1150, webb 114).
+courses(taylorm, eng205,02, mwf, 0900, 0950, library 266).
+courses(terryb, eng205,01, tr, 0800, 0915, webb 112).
+courses(terryb, eng205,03, tr, 0930, 1045, webb 112).
+courses(thapag, hsc319,02b, f, 1400, 1650, goddard 127).
+courses(thapag, hsc491,06,  , tba, tba).
+courses(thomasj, mus356,24,  , tba, tba).
+courses(thompsona, msc253,01, f, 1300, 1700, tba).
+courses(thompsona, msc253,01, w, 1325, 1525, tba).
+courses(toczylowskib, art230,01, wf, 1200, 1445, fine_arts 247).
+courses(toedtj, che318,01, mwf, 1300, 1350, science 432).
+courses(toedtj, che319,01, t, 1400, 1650, science 434).
+courses(toedtj, che480,01,  , tba, tba).
+courses(toedtj, che490,01,  , tba, tba).
+courses(tomanellij, edu222,02, tr, 0800, 0915, webb 317).
+courses(tonera, mus356,09,  , tba, tba).
+courses(torockioc, eng301,01, tr, 1400, 1515, library 266).
+courses(torockioc, eng372,01, w, 1600, 1845, webb 112).
+courses(torockioc, eng462,01, t, 1600, 1845, webb 213).
+courses(torockioc, eng493,01,  , tba, tba).
+courses(torockioc, eng499,04,  , tba, tba).
+courses(torockioc, hon488,11,  , tba, tba).
+courses(tracyj, hpe326,01, r, 0800, 0915, fine_arts 219).
+courses(tracyj, hpe326,01, t, 0800, 0915, sports 219).
+courses(tranl, ees112,01, w, 1730, 1915, science 236).
+courses(tranl, ees112,02, t, 1730, 1915, science 215).
+courses(trubeyp, swk200,01, r, 1230, 1515, science 137).
+courses(turgeonk, dsc508,e25,  , tba, online).
+courses(utterbacka, com120,01, tr, 0930, 1045, communications 114a).
+courses(utterbacka, com120,01, tr, 0930, 1045, communications 114b).
+courses(utterbacka, com120,01, tr, 0930, 1045, communications 114d).
+courses(utterbacka, com290,01,  , tba, tba).
+courses(utterbacka, com300,02, tr, 1230, 1345, fine_arts 307).
+courses(utterbacka, com425,01, w, 1600, 1845, communications 114a).
+courses(utterbacka, com425,01, w, 1600, 1845, communications 114b).
+courses(utterbacka, com425,01, w, 1600, 1845, communications 114d).
+courses(utterbacka, com480,01,  , tba, tba).
+courses(utterbacka, com480,03,  , tba, tba).
+courses(utterbacka, com490,06,  , tba, tba).
+courses(vailm, acc411,01, t, 1600, 1845, webb 113).
+courses(vailm, acc520,e25,  , tba, tba).
+courses(vasquezobrient, hon488,17,  , tba, tba).
+courses(vasquezobrient, psy206,02, tr, 0930, 1045, webb 216).
+courses(vasquezobrient, psy327,02,  , tba, tba).
+courses(vasquezobrient, psy327,02, tr, 1600, 1715, webb 314).
+courses(vasquezobrient, psy434,01, tr, 1230, 1345, webb 216).
+courses(vasquezobrient, psy471,01, m, 1000, 1050, webb 216).
+courses(vasquezobrient, psy491,15,  , tba, tba).
+courses(veerappanv, bio304,01, mwf, 0900, 0950, science 137).
+courses(veerappanv, bio304,02, mwf, 1000, 1050, science 137).
+courses(veerappanv, bio460,01, mwf, 1200, 1250, science 416).
+courses(veerappanv, bio460,01, r, 0930, 1220, science 335).
+courses(veerappanv, bio480,02,  , tba, tba).
+courses(veerappanv, bio491,03,  , tba, tba).
+courses(verrastron, phi120,02, mwf, 1100, 1150, library 436).
+courses(verrastron, phi365,01x, tr, 1600, 1715, goddard 201).
+courses(verrastron, psc365,01x, tr, 1600, 1715, goddard 201).
+courses(vijayasekarj, edu696,03,  , tba, tba).
+courses(vijayasekarj, spa111,01, mwf, 1100, 1150, webb 112).
+courses(vijayasekarj, spa492,04,  , tba, tba).
+courses(villanuevae, bus307,01, mwf, 1200, 1250, communications 218).
+courses(villanuevae, bus450,01, mwf, 0800, 0850, communications 218).
+courses(villanuevae, bus480,04,  , tba, tba).
+courses(vob, org696,03,  , tba, tba).
+courses(vogtd, hpe104,03, r, 1600, 1845, goddard 200).
+courses(vogtd, hpe104,09, w, 1600, 1845, goddard 203).
+courses(volkmanv, eco201,03, mwf, 0900, 0950, goddard 201).
+courses(volkmanv, eco305,01, mwf, 1000, 1050, webb 307).
+courses(wadeckij, the227,01,  , tba, tba).
+courses(walterss, hsc380,01,  , tba, tba).
+courses(walterss, hsc400,01, mwf, 1200, 1310, science 115).
+courses(walterss, hsc480,07,  , tba, tba).
+courses(walterss, hsc480,08,  , tba, tba).
+courses(walterss, pbh206,01, mwf, 1100, 1150, goddard 201).
+courses(walterss, pbh330,01, mwf, 1000, 1050, goddard 208).
+courses(walterss, pbh494,04,  , tba, tba).
+courses(wardk, lac200,02, mwf, 1300, 1350, science 134).
+courses(wardk, mat341,01, mwf, 0900, 0950, science 132).
+courses(washburns, mus356,31,  , tba, tba).
+courses(washburns, mus356,32,  , tba, tba).
+courses(wasielewskit, bio200,01, tr, 0930, 1045, science 416).
+courses(wasielewskit, bio200,02, tr, 1100, 1215, science 416).
+courses(watkinsk, mus107,01, w, 1900, 2130, fine_arts 108).
+courses(weirl, eco215,01, tr, 1100, 1215, science 238).
+courses(weirl, eco215,02, tr, 1230, 1345, science 238).
+courses(wellesr, the227,03,  , tba, tba).
+courses(wellesr, the227,06,  , tba, tba).
+courses(weselcouchc, csc249,01, m, 1600, 1845, science 135).
+courses(westberryb, soc310,01x, m, 1900, 2145, science 116).
+courses(westberryb, soc318,01, m, 1600, 1845, science 116).
+courses(westberryb, wst310,01x, m, 1900, 2145, science 116).
+courses(whiteheadb, mat099,01, mwf, 0900, 0950, science 234).
+courses(whiteheadb, mat135,01, mwf, 0800, 0850, science 132).
+courses(whitej, edu357,01, t, 1600, 1845, webb 210).
+courses(whitej, lap430,01, w, 1900, 2145, webb 113).
+courses(williamsone, ant337,01, mwf, 0800, 0850, webb 214).
+courses(williamsone, ant345,01, mwf, 0900, 0950, webb 215).
+courses(wintnerj, art250,01, tr, 1730, 1845, fine_arts 305).
+courses(woodmanseek, hpe104,02, w, 1600, 1845, goddard 202).
+courses(wraym, osc260,02, t, 1600, 1845, communications 201).
+courses(wus, mat099,02, tr, 1600, 1715, science 234).
+courses(wus, mat135,03, tr, 0930, 1045, science 132).
+courses(yankovc, mat243,01, mwf, 0900, 0950, science 114).
+courses(yankovc, mat243,01, w, 0800, 0850, science 114).
+courses(yankovc, mat243,03, mwf, 1100, 1150, science 114).
+courses(yankovc, mat243,03, w, 1200, 1250, science 114).
+courses(yankovc, mat421,01, mwf, 1000, 1050, science 114).
+courses(youngbloodj, eng201,02, mwf, 1200, 1250, webb 114).
+courses(youngbloodj, eng330,01, mf, 1400, 1515, webb 114).
+courses(youngbloodj, hon361,02, mw, 1600, 1715, webb 114).
+courses(zablonskim, edu405,01, r, 1600, 1845, webb 212).
+courses(zatowskij, com245,01, t, 1600, 1845, communications 226).
+courses(zatowskij, com291,01,  , tba, tba).
+courses(zatowskij, com490,08,  , tba, tba).
+courses(zimmittil, edu470,01, mtwrf, 0800, 1530, tba).
