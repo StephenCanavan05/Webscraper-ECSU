@@ -1,0 +1,1171 @@
+Instructor,Sub,Crse,Sec,Day,Time,Room
+guom,acc,201,01,tr,"0930, 1045",science_137
+staff,acc,201,02,w,"1600, 1845",science_132
+guom,acc,201,03,tr,"1400, 1515",science_117
+staff,acc,202,01,m,"1600, 1845",science_132
+guom,acc,301,01,tr,"1230, 1345",science_117
+staff,acc,302,01,tr,"1400, 1515",science_132
+guom,acc,303,01,w,"1600, 1845",communications_201
+rujoubm,acc,310,01,tr,"1100, 1215",science_115
+staff,acc,410,01,t,"1600, 1845",science_117
+staff,acc,411,01,m,"1600, 1845",science_134
+staff,acc,412,01,tr,"1230, 1345",science_132
+staff,acc,416,01,r,"1600, 1845",communications_201
+rujoubm,acc,420,01,tr,"0930, 1045",science_115
+staff,acc,480,01,"null, null, null",tba,tba
+staff,acc,490,01,"null, null, null",tba,tba
+staff,acc,530,e25,"null, null, null",tba,online
+staff,acc,535,e25,"null, null, null",tba,online
+williamsone,ant,101,01,mwf,"0800, 0850",webb_315
+shepardtorresr,ant,106,01,tr,"0930, 1045",goddard_117
+leissa,ant,107,01,tr,"1100, 1215",science_117
+leissa,ant,125,01,tr,"1400, 1515",science_116
+couturepalmerinop,ant,201,e25,"null, null, null",tba,online
+leissa,ant,221,e25,"null, null, null",tba,online
+couturepalmerinop,ant,222,e25,"null, null, null",tba,online
+perezr,ant,240,01,t,"1600, 1845",webb_317
+shepardtorresr,ant,300,01,tr,"1100, 1215",communications_107
+perezr,ant,301,01,mw,"1730, 1845",webb_317
+perezr,ant,337,01,mw,"1600, 1715",webb_317
+williamsone,ant,345,01,mwf,"0900, 0950",webb_315
+leissa,ant,365,01,w,"1600, 1845",webb_213
+staff,ant,480,01,"null, null, null",tba,tba
+staff,ant,490,01,"null, null, null",tba,tba
+staff,ant,492,01,"null, null, null",tba,tba
+mckeem,art,110,01,tr,"0930, 1215",fine_arts_326
+desousad,art,111,01,mw,"1200, 1445",fine_arts_125
+moranr,art,122,01,wf,"1200, 1445",fine_arts_327
+hollandj,art,124,01,wf,"0900, 1145",fine_arts_327
+staff,art,124,02,tr,"0930, 1215",fine_arts_330
+francob,art,140,01,tr,"0930, 1045",fine_arts_305
+pinckneys,art,140,02,tr,"1100, 1215",fine_arts_305
+pinckneys,art,140,03,tr,"1400, 1515",fine_arts_305
+staff,art,140,04,mwf,"1200, 1250",fine_arts_307
+michaels,art,201,01,tr,"1230, 1515",fine_arts_247
+liuq,art,202,01,tr,"1600, 1845",fine_arts_331
+rahmanifara,art,202,02,mw,"1200, 1445",fine_arts_331
+chent,art,203,01,tr,"1230, 1515",fine_arts_327
+greener,art,206,01,mw,"0900, 1145",fine_arts_122
+eliaa,art,207,01,mw,"0900, 1145",fine_arts_125
+beebyc,art,211,01,tr,"1400, 1550",fine_arts_115
+beebyc,art,211,02,tr,"1600, 1750",fine_arts_115
+rahmanifara,art,219,01,t,"1230, 1515",fine_arts_326
+liuq,art,219,02,m,"1600, 1845",fine_arts_326
+doylem,art,229,01,tr,"1100, 1215",fine_arts_115
+bartonek,art,235,01,f,"1200, 1445",fine_arts_125
+greener,art,304,01,mw,"0900, 1145",fine_arts_122
+liuq,art,309,01,tr,"1900, 2145",fine_arts_331
+chent,art,310,01,tr,"0930, 1215",fine_arts_327
+michaels,art,311,01,tr,"1230, 1515",fine_arts_247
+opied,art,322,01,tr,"1600, 1845",fine_arts_328
+lil,art,323,01,m,"0900, 1145",fine_arts_330
+kims,art,330,01,tr,"1230, 1515",fine_arts_330
+drewt,art,331,01,tr,"0930, 1215",fine_arts_328
+wintnerj,art,345,01,mw,"1600, 1750",fine_arts_305
+chent,art,351,01,m,"0900, 1145",fine_arts_327
+kims,art,357,01,m,"1600, 1845",fine_arts_327
+petrikovskyh,art,371,01,mw,"1600, 1715",fine_arts_115
+churchills,art,402,01,tr,"1600, 1750",fine_arts_305
+staff,art,432,01,wf,"0900, 1145",fine_arts_330
+liuq,art,470,01,tr,"1900, 2145",fine_arts_331
+rahmanifara,art,470,02,mw,"1600, 1845",fine_arts_323
+lil,art,480,01,"null, null, null",tba,tba
+chent,art,480,02,"null, null, null",tba,tba
+doylem,art,486,01,"null, null, null",tba,tba
+chent,art,490,01,"null, null, null",tba,tba
+kerrm,ast,214,01,tr,"0930, 1045",planetarium
+kerrm,ast,214,01a,t,"1100, 1200",planetarium
+kerrm,ast,214,01b,r,"1100, 1200",planetarium
+pazametaz,ast,214,02,tr,"1230, 1345",planetarium
+pazametaz,ast,214,02a,w,"1400, 1500",science_431
+pazametaz,ast,214,02b,w,"1600, 1700",science_431
+staff,ast,380,01,"null, null, null",tba,tba
+staff,ast,480,01,"null, null, null",tba,tba
+staff,ast,490,01,"null, null, null",tba,tba
+staff,ast,495,01,"null, null, null",tba,tba
+hulveyj,bio,120,01,mwf,"0900, 0950",science_231
+hulveyj,bio,120,01,r,"0930, 1220",science_331
+murdochb,bio,140,01,mwf,"1200, 1250",science_116
+murdochb,bio,140,01a,w,"1400, 1650",science_334
+cowlese,bio,140,01b,r,"1100, 1350",science_334
+wasielewskit,bio,200,01,tr,"1600, 1715",science_104
+kwakuk,bio,200,02,tr,"1100, 1215",science_116
+kwakuk,bio,200,03,tr,"0930, 1045",science_116
+lucink,bio,204,01,tr,"1100, 1215",science_320
+lucink,bio,204,02,tr,"1230, 1345",science_320
+pasinij,bio,204,03,tr,"0800, 0915",science_320
+pasinij,bio,204,04,tr,"0930, 1045",science_320
+jacobsm,bio,204,05,m,"1600, 1845",science_320
+jacobsm,bio,204,06,tr,"1730, 1845",science_320
+connollyb,bio,222,01,mwf,"1200, 1250",science_137
+connollyb,bio,222,01,r,"1400, 1650",science_331
+grotha,bio,230,01,mwf,"1000, 1050",science_134
+grotha,bio,230,01,t,"1400, 1650",science_335
+veerappanv,bio,230,02,mwf,"0900, 0950",science_320
+veerappanv,bio,230,02,w,"1400, 1650",science_335
+mattinglyb,bio,240,01,mwf,"0900, 0950",science_116
+mattinglyb,bio,240,01,t,"1100, 1350",science_331
+eppk,bio,240,02,mwf,"1100, 1150",science_116
+eppk,bio,240,02,t,"1400, 1650",science_331
+staff,bio,280,01,"null, null, null",tba,tba
+cowlese,bio,301,01,tr,"1600, 1715",science_116
+murdochb,bio,302,01,r,"1100, 1250",science_341
+murdochb,bio,302,02,r,"1400, 1550",science_341
+veerappanv,bio,304,01,mwf,"1000, 1050",science_116
+veerappanv,bio,304,02,mwf,"1200, 1250",science_114
+grahamm,bio,305,01,mwf,"1300, 1350",science_116
+grahamm,bio,305,02,mwf,"1400, 1450",science_116
+graesserd,bio,314,01,r,"0930, 1120",science_315
+graesserd,bio,314,02,r,"1230, 1420",science_315
+graesserd,bio,314,03,r,"1600, 1750",science_315
+connollyb,bio,332,01,mwf,"1000, 1050",science_231
+connollyb,bio,332,01,w,"1400, 1650",science_318
+eppk,bio,338,01,mwf,"1300, 1350",webb_113
+eppk,bio,338,01,r,"1100, 1350",science_333
+grahamm,bio,340,01,mwf,"1100, 1150",webb_115
+grahamm,bio,340,01,t,"1100, 1350",science_333
+hulveyj,bio,344,01,mwf,"1100, 1150",science_416
+hulveyj,bio,344,01,t,"0930, 1220",science_341
+lucink,bio,348,01,mwf,"1000, 1050",science_432
+lucink,bio,348,01a,w,"1400, 1650",science_315
+staff,bio,380,01,"null, null, null",tba,tba
+mattinglyb,bio,442,01,mwf,"1200, 1250",science_416
+mattinglyb,bio,442,01,r,"1400, 1650",science_318
+idjadij,bio,456,01,mwf,"0900, 0950",science_318
+idjadij,bio,456,01,m,"1400, 1650",science_333
+idjadij,bio,466,01,t,"1400, 1650",science_432
+staff,bio,480,01,"null, null, null",tba,tba
+staff,bio,490,01,"null, null, null",tba,tba
+staff,bio,491,01,"null, null, null",tba,tba
+staff,bio,494,01,"null, null, null",tba,tba
+erwinc,bus,201,01,tr,"1100, 1215",goddard_203
+erwinc,bus,201,02,tr,"1400, 1515",goddard_200
+erwinc,bus,201,03,tr,"0930, 1045",goddard_203
+dewildea,bus,201,04,mwf,"0900, 0950",goddard_201
+staff,bus,201,05,mwf,"1000, 1050",goddard_201
+staff,bus,201,06,mwf,"1300, 1350",goddard_200
+dewildea,bus,201,07,mwf,"1400, 1450",goddard_200
+perryk,bus,201,08,mwf,"0800, 0850",communications_201
+ayenio,bus,225,01,tr,"0930, 1045",communications_108
+aventa,bus,225,02,mwf,"1100, 1150",goddard_201
+ayenio,bus,225,03,tr,"1400, 1515",goddard_201
+aventa,bus,225,04,mwf,"1200, 1250",goddard_201
+grosjeanb,bus,225,05,tr,"1100, 1215",goddard_200
+nardellas,bus,225,06,mw,"1600, 1715",goddard_223
+nardellas,bus,225,07,mw,"1730, 1845",goddard_223
+chattertonc,bus,240,01,mwf,"0900, 0950",goddard_202
+norvaln,bus,250,01,tr,"1230, 1345",communications_201
+norvaln,bus,250,02,tr,"1400, 1515",communications_201
+jeonj,bus,255,01,mwf,"1300, 1350",communications_201
+buckw,bus,301,01,tr,"0930, 1045",science_134
+buckw,bus,301,02,tr,"1100, 1215",science_134
+dewildea,bus,301,03,mwf,"1300, 1350",goddard_202
+dewildea,bus,301,04,mwf,"1000, 1050",goddard_203
+perryk,bus,301,05,mwf,"0900, 0950",communications_201
+moylanw,bus,321,01,mw,"1600, 1715",communications_218
+kangm,bus,321,02,tr,"1400, 1515",science_115
+moylanw,bus,325,01,mw,"1730, 1845",communications_218
+grosjeanb,bus,326,01,t,"1900, 2145",communications_201
+jeonj,bus,327,01,mwf,"1000, 1050",communications_201
+jeonj,bus,327,02,mwf,"1100, 1150",communications_201
+ayenio,bus,329,01,tr,"1100, 1215",communications_109
+erwinc,bus,331,01,t,"1600, 1845",goddard_223
+staff,bus,331,02,mwf,"0900, 0950",communications_109
+ferrarol,bus,333,01,m,"1600, 1845",communications_201
+chattertonc,bus,340,01,t,"0930, 1215",goddard_202
+kaneg,bus,342,01,mwf,"1000, 1050",communications_107
+kaneg,bus,342,02,mwf,"1200, 1250",communications_107
+pakdilf,bus,350,01,m,"1600, 1845",goddard_117
+buckw,bus,351,01,tr,"1400, 1515",communications_108
+buckw,bus,351,02,tr,"1600, 1715",goddard_208
+kaneg,bus,411,01,mwf,"0900, 0950",communications_107
+grandhis,bus,428,01,tr,"1100, 1215",science_234
+grandhis,bus,428,02,tr,"1230, 1345",science_234
+kangm,bus,429,01,w,"1600, 1845",science_115
+ohn,bus,431,01,tr,"1100, 1215",science_432
+ohn,bus,431,02,tr,"1230, 1345",science_432
+ohn,bus,431,03,t,"1600, 1845",science_134
+ferrarol,bus,436,01,t,"1600, 1845",goddard_201
+villanuevae,bus,450,01,mwf,"0800, 0850",goddard_223
+pakdilf,bus,480,01,"null, null, null",tba,tba
+pakdilf,bus,480,02,"null, null, null",tba,tba
+chattertonc,bus,490,01v,r,"0800, 0915",goddard_201
+chattertonc,bus,490,02v,t,"1600, 1715",communications_109
+staff,bis,205,01,tr,"1100, 1215",webb_407
+staff,bis,205,02,tr,"0930, 1045",webb_307
+staff,bis,205,03,mwf,"0800, 0850",webb_307
+staff,bis,205,04,tr,"1230, 1345",webb_407
+staff,bis,205,05,mwf,"0900, 0950",webb_307
+staff,bis,205,06,tr,"1600, 1715",webb_307
+kunenen,bis,305,01,tr,"1230, 1345",webb_307
+kunenen,bis,305,02,tr,"1400, 1515",webb_307
+staff,bis,305,03,m,"1900, 2145",webb_307
+staff,bis,362,01,tr,"1730, 1845",webb_307
+staff,bis,362,02,tr,"1900, 2015",webb_307
+kunenen,bis,370,01,tr,"0930, 1045",webb_407
+citursa,bis,373,01,mw,"1200, 1315",webb_407
+staff,bis,375,01,t,"1900, 2145",webb_407
+citursa,bis,379,01,mw,"1330, 1445",webb_407
+staff,bis,430,01,r,"1600, 1845",webb_407
+citursa,bis,437,01,w,"1900, 2145",webb_407
+staff,bis,447,01,m,"1900, 2145",webb_407
+staff,bis,480,01,"null, null, null",tba,tba
+couturepalmerinop,cas,201,e25,"null, null, null",tba,online
+couturepalmerinop,cas,222,e25,"null, null, null",tba,online
+hek,che,210,01,mwf,"0900, 0950",science_114
+hek,che,210,02,mwf,"1000, 1050",science_114
+hek,che,210,03,mwf,"1300, 1350",science_114
+islams,che,210,04,mw,"1600, 1715",science_114
+islams,che,210,05,mw,"1730, 1845",science_114
+staff,che,212,01,m,"1100, 1350",science_440
+staff,che,212,02,m,"1400, 1650",science_440
+staff,che,212,03,w,"1600, 1850",science_440
+staff,che,212,04,r,"1100, 1350",science_440
+staff,che,212,05,r,"1400, 1650",science_440
+staff,che,212,06,m,"1900, 2150",science_440
+staff,che,212,07,w,"1900, 2150",science_440
+staff,che,212,08,w,"1100, 1350",science_440
+staff,che,212,09,t,"1900, 2150",science_440
+kozad,che,216,01,mwf,"1000, 1050",science_104
+staff,che,216,01a,m,"1900, 2150",science_441
+staff,che,216,01b,t,"1900, 2150",science_441
+staff,che,216,01c,r,"1900, 2150",science_441
+staff,che,216,01d,w,"1900, 2150",science_441
+staff,che,216,01e,w,"1400, 1650",science_441
+kozad,che,216,02,mwf,"1300, 1350",science_104
+toedtj,che,316,01,mwf,"1300, 1350",science_432
+toedtj,che,317,01,t,"1400, 1750",science_434
+islams,che,320,01,mwf,"1200, 1250",science_432
+islams,che,320,01a,f,"1400, 1650",science_434
+toedtj,che,323,01,mwf,"1100, 1150",science_432
+staff,che,480,01,"null, null, null",tba,tba
+staff,che,490,01,"null, null, null",tba,tba
+curtiss,com,101,01,mwf,"1000, 1050",fine_arts_305
+utterbacka,com,120,01,tr,"0930, 1045",communications_114a
+utterbacka,com,120,01,tr,"0930, 1045",communications_114b
+utterbacka,com,120,01,tr,"0930, 1045",communications_114d
+curtiss,com,201,01,mwf,"1200, 1250",communications_109
+hurlbutt,com,210,01,t,"1600, 1845",communications_218
+carlsonr,com,220,01,t,"1600, 1845",communications_114a
+carlsonr,com,220,01,t,"1600, 1845",communications_114b
+carlsonr,com,220,01,t,"1600, 1845",communications_114d
+ammarim,com,220,02,w,"1900, 2145",communications_114a
+ammarim,com,220,02,w,"1900, 2145",communications_114b
+ammarim,com,220,02,w,"1900, 2145",communications_114d
+ammarim,com,220,03,w,"1600, 1845",communications_114a
+ammarim,com,220,03,w,"1600, 1845",communications_114b
+ammarim,com,220,03,w,"1600, 1845",communications_114d
+dayb,com,220,04,tr,"1100, 1215",communications_226
+staff,com,230,01,m,"1600, 1845",goddard_200
+freunde,com,230,02,t,"1600, 1845",goddard_203
+zatowskij,com,245,01,t,"1600, 1845",communications_226
+aconforan,com,285,01,m,"1600, 1845",communications_114a
+aconforan,com,285,01,m,"1600, 1845",communications_114b
+aconforan,com,285,01,m,"1600, 1845",communications_114d
+staff,com,290,01,"null, null, null",tba,tba
+zatowskij,com,291,01,"null, null, null",tba,tba
+staff,com,292,01,"null, null, null",tba,tba
+utterbacka,com,300,01,tr,"1230, 1345",fine_arts_307
+freunde,com,312,01,w,"1600, 1845",communications_108
+staff,com,330,01,mwf,"0900, 0950",communications_108
+huoppip,com,352,01,tr,"0930, 1045",communications_226
+osterndorfw,com,400,01,tr,"1100, 1215",fine_arts_118
+osterndorfw,com,403,01,tr,"0930, 1045",fine_arts_118
+dayb,com,435,01,tr,"1600, 1715",communications_219
+staff,com,480,01,"null, null, null",tba,tba
+osterndorfw,com,490,01,"null, null, null",tba,tba
+staff,com,491,01,"null, null, null",tba,tba
+cobbj,cft,101,01,w,"1300, 1350",fine_arts_118
+cobbj,cft,101,02,w,"1200, 1250",fine_arts_118
+floodr,cft,205,01,mwf,"1000, 1110",communications_226
+floodr,cft,205,02,mwf,"1200, 1310",communications_226
+castron,csc,101,01,tr,"0800, 0915",science_135
+tasneems,csc,180,01,tr,"1400, 1515",science_138
+tasneems,csc,180,02,tr,"1100, 1215",science_138
+tasneems,csc,180,03,tr,"1230, 1345",science_138
+tasneems,csc,202,01,w,"1600, 1845",science_138
+staff,csc,203,01,tr,"1400, 1515",science_135
+onyey,csc,205,01,tr,"1400, 1515",science_139
+onyey,csc,205,02,tr,"1230, 1345",science_135
+staff,csc,210,01,tr,"0930, 1045",science_133
+lavoiem,csc,212,01,tr,"0930, 1045",science_139
+staff,csc,215,01,mw,"1730, 1845",science_139
+rosienej,csc,230,01,mwf,"1400, 1450",science_133
+bondoka,csc,231,01,mwf,"1100, 1150",science_135
+staff,csc,231,02,mwf,"1000, 1050",science_135
+staff,csc,249,01,mw,"1600, 1715",science_139
+bondoka,csc,251,01,mwf,"0900, 0950",science_138
+gaok,csc,270,01,mwf,"1000, 1050",science_138
+gaok,csc,305,01,mwf,"1300, 1350",science_138
+rosienej,csc,320,01,mwf,"0900, 0950",science_135
+rosienej,csc,320,02,mwf,"1000, 1050",science_139
+rosienej,csc,340,01,mwf,"1100, 1150",science_139
+gaok,csc,341,01,mwf,"1100, 1150",science_138
+gaok,csc,341,02,mwf,"1400, 1450",science_138
+bondoka,csc,360,01,mw,"1600, 1715",science_135
+staff,csc,360,02,m,"1600, 1845",science_138
+staff,csc,360,03,tr,"1600, 1715",science_135
+dancikg,csc,450,01,tr,"0930, 1045",science_135
+dancikg,csc,480,01,"null, null, null",tba,tba
+tasneems,csc,485,01,"null, null, null",tba,tba
+marrettc,ced,300,01,"null, null, null",tba,tba
+simonn,crm,102,01,w,"0900, 0950",fine_arts_307
+pestar,crm,210,01,mwf,"1000, 1050",goddard_216
+kurtim,crm,350,01,t,"1600, 1845",webb_110
+pestar,crm,365,01,mwf,"1200, 1250",goddard_216
+staff,crm,365,02,w,"1900, 2145",webb_212
+pestar,crm,410,01,mwf,"1100, 1150",goddard_216
+severancet,crm,450,01,w,"1600, 1845",science_134
+parsonsn,crm,475,01v,t,"1730, 1815",webb_216
+staff,crm,480,01,"null, null, null",tba,tba
+staff,crm,490,01,"null, null, null",tba,tba
+brighthollanda,dnc,240,01,w,"1600, 1845",fine_arts_219
+staff,dnc,491,01,w,"1100, 1250",tba
+davism,dsc,501,e25,"null, null, null",tba,online
+staff,dsc,502,e25,"null, null, null",tba,online
+staff,dsc,505,e25,"null, null, null",tba,online
+staff,dsc,506,e25,"null, null, null",tba,online
+staff,dsc,507,e25,"null, null, null",tba,online
+turgeonk,dsc,508,e25,"null, null, null",tba,online
+liux,dsc,508,e26,"null, null, null",tba,online
+bouleyt,ece,215,01,tr,"1400, 1515",the_center_for_early_childhood_education_170
+staff,ece,315,01,w,"0800, 1150",the_center_for_early_childhood_education_175
+bouleyt,ece,325,01,w,"1600, 1845",the_center_for_early_childhood_education_175
+laportek,ece,405,01,m,"1600, 1845",the_center_for_early_childhood_education_167
+rezain,ece,410,01,w,"1600, 1845",the_center_for_early_childhood_education_170
+staff,ece,420,01,m,"1600, 1845",the_center_for_early_childhood_education_170
+staff,ece,425,01,"null, null, null",tba,tba
+staff,ece,445,01,mtwrf,"0800, 1530",tba
+swaminathans,ece,455,01,m,"0900, 1145",the_center_for_early_childhood_education_175
+staff,ece,480,01,"null, null, null",tba,tba
+staff,ece,505,01,m,"1600, 1845",the_center_for_early_childhood_education_170
+laportek,ece,506,01,m,"1600, 1845",the_center_for_early_childhood_education_167
+bouleyt,ece,507,01,t,"1600, 1845",the_center_for_early_childhood_education_175
+swaminathans,ece,510,01,r,"1600, 1845",the_center_for_early_childhood_education_175
+swaminathans,ece,514,01,"null, null, null",tba,tba
+bouleyt,ece,516,01,"null, null, null",tba,tba
+staff,ece,565,01,mtwrf,"0800, 1530",tba
+staff,ece,696,01,"null, null, null",tba,tba
+karrenbergj,eco,100,01,mwf,"1100, 1150",communications_107
+karrenbergj,eco,100,02,mwf,"1200, 1250",communications_201
+ndiayem,eco,200,01,mwf,"1000, 1050",communications_218
+staff,eco,200,02,tr,"1400, 1515",goddard_203
+staff,eco,200,03,mwf,"1100, 1150",communications_218
+staff,eco,200,04,tr,"1230, 1345",communications_107
+staff,eco,200,05,mwf,"1200, 1250",communications_218
+staff,eco,200,06,tr,"0800, 0915",communications_218
+staff,eco,200,07,mwf,"1300, 1350",communications_218
+staff,eco,201,01,tr,"0930, 1045",science_104
+staff,eco,201,02,tr,"1100, 1215",sports_219
+staff,eco,201,03,mwf,"0800, 0850",communications_218
+staff,eco,201,04,mwf,"0900, 0950",goddard_203
+staff,eco,201,05,mwf,"1100, 1150",goddard_202
+staff,eco,201,06,tr,"1400, 1515",science_104
+staff,eco,215,01,tr,"1400, 1515",webb_407
+staff,eco,215,02,tr,"1230, 1345",science_115
+cliffordm,eco,245,01,tr,"0800, 0915",communications_109
+cliffordm,eco,245,02,tr,"0930, 1045",communications_109
+ndiayem,eco,302,01,mwf,"0900, 0950",communications_218
+staff,eco,322,01,mwf,"1000, 1050",communications_108
+staff,eco,330,01,tr,"1100, 1215",communications_201
+staff,eco,480,01,"null, null, null",tba,tba
+robertst,edu,200,01,tr,"1400, 1515",webb_313
+robertst,edu,200,02,tr,"1100, 1215",webb_317
+tomanellij,edu,222,01,tr,"1100, 1215",communications_218
+tomanellij,edu,222,02,tr,"0800, 0915",science_137
+galvezd,edu,222,03,w,"1900, 2145",webb_313
+fabrizim,edu,300,01,t,"1600, 1845",communications_108
+staff,edu,301,01,"null, null, null",tba,tba
+rodriguezl,edu,304,01,tr,"0800, 0915",the_center_for_early_childhood_education_170
+mooreheadt,edu,307,01,t,"0930, 1215",webb_113
+richardss,edu,316,01,r,"0930, 1215",webb_113
+richardss,edu,316,02,m,"1600, 1845",webb_113
+stoloffd,edu,357,01,w,"1600, 1845",webb_215
+liux,edu,357,02,w,"1600, 1845",webb_212
+staff,edu,357,03,t,"1600, 1845",webb_215
+whitej,edu,357,04,r,"1600, 1845",webb_215
+staff,edu,401,01,"null, null, null",tba,tba
+liux,edu,404,01,r,"0930, 1215",webb_210
+cotej,edu,411,01,tr,"1900, 2015",webb_215
+rodriguezl,edu,413,01,r,"0930, 1215",the_center_for_early_childhood_education_170
+staff,edu,450,01,"null, null, null",tba,tba
+staff,edu,451,01,"null, null, null",tba,tba
+fabrizim,edu,462,01,m,"1600, 1845",communications_108
+cookk,edu,463,01,m,"1600, 1845",webb_210
+staff,edu,464,01,t,"1600, 1845",webb_210
+richardss,edu,465,01,w,"1900, 2145",webb_113
+staff,edu,470,01,mtwrf,"0800, 1530",tba
+staff,edu,471,01,mtwrf,"0800, 1530",tba
+staff,edu,480,01,"null, null, null",tba,tba
+staff,edu,490,01,"null, null, null",tba,tba
+staff,edu,501,01,"null, null, null",tba,tba
+staff,edu,502,01,"null, null, null",tba,tba
+liux,edu,504,h01,"null, null, null",tba,online
+liux,edu,504,h01,t,"1600, 1845",webb_112
+galvezd,edu,505,e25,"null, null, null",tba,online
+richardss,edu,511,01,m,"1900, 2145",webb_113
+stoloffd,edu,512,e25,"null, null, null",tba,online
+richardss,edu,516,02,m,"1600, 1845",webb_113
+richardss,edu,517,01,w,"1600, 1845",webb_113
+staff,edu,521,01,"null, null, null",tba,tba
+staff,edu,523,01,"null, null, null",tba,tba
+fabrizim,edu,525,01,m,"1900, 2145",communications_108
+vitteritod,edu,544,01,t,"1900, 2145",webb_214
+staff,edu,546,01,t,"1600, 1845",webb_210
+cookk,edu,547,01,m,"1600, 1845",webb_210
+fabrizim,edu,548,01,m,"1600, 1845",communications_108
+rodriguezl,edu,549,01,r,"1600, 1845",webb_113
+richardss,edu,565,01,w,"1900, 2145",webb_113
+staff,edu,571,01,mtwrf,"0800, 1530",tba
+staff,edu,573,01,mtwrf,"0800, 1530",tba
+mooreheadt,edu,582,h01,"null, null, null",tba,online
+mooreheadt,edu,582,h01,r,"1600, 1845",webb_112
+mooreheadt,edu,613,e25,"null, null, null",tba,online
+galvezd,edu,619,e25,"null, null, null",tba,online
+vitteritod,edu,630,e25,"null, null, null",tba,online
+staff,edu,692,01,mtwrf,"0800, 1530",tba
+staff,edu,692,02,mtwrf,"0800, 1530",tba
+swaminathans,edu,693,e25,"null, null, null",tba,online
+staff,edu,694,01,mtwrf,"0800, 1530",tba
+staff,edu,694,02,mtwrf,"0800, 1530",tba
+staff,edu,696,01,"null, null, null",tba,tba
+swaminathans,edu,697,e25,"null, null, null",tba,online
+staff,eng,100,01,t,"1100, 1215",webb_206
+staff,eng,100,01,r,"1100, 1215",goddard_202
+oterom,eng,100,02,t,"0930, 1045",webb_206
+oterom,eng,100,02,r,"0930, 1045",webb_315
+staff,eng,100,03,tr,"0800, 0915",webb_206
+staff,eng,100,04,t,"1100, 1215",webb_210
+staff,eng,100,04,r,"1100, 1215",webb_206
+staff,eng,100,05,tr,"1600, 1715",science_231
+staff,eng,100,06,mw,"0800, 0850",webb_114
+staff,eng,100,06,f,"0800, 0850",webb_206
+staff,eng,100,07,m,"1600, 1715",webb_206
+staff,eng,100,07,w,"1600, 1715",webb_114
+staff,eng,100,08,mw,"0900, 0950",webb_112
+staff,eng,100,08,f,"0900, 0950",webb_206
+staff,eng,100,09,mwf,"1300, 1350",webb_215
+staff,eng,100p,01,tr,"0930, 1045",webb_316
+staff,eng,100p,01,w,"0900, 1040",webb_316
+staff,eng,100p,02,m,"1400, 1540",webb_316
+staff,eng,100p,02,tr,"1400, 1515",webb_316
+mcneilk,eng,100p,03,tr,"1230, 1345",webb_316
+mcneilk,eng,100p,03,w,"1300, 1440",webb_316
+staff,eng,100p,04,tr,"1100, 1215",webb_316
+staff,eng,100p,04,w,"1100, 1240",webb_316
+staff,eng,100p,05,tr,"1600, 1715",webb_316
+staff,eng,100p,05,w,"1600, 1740",webb_316
+mamar,eng,125,01,tr,"1600, 1715",webb_214
+mamar,eng,125,02,tr,"1730, 1845",webb_214
+staff,eng,125,03,tr,"0800, 0915",webb_212
+clermontferrandm,eng,177,01,tr,"1230, 1345",webb_113
+clermontferrandm,eng,177,02,tr,"1400, 1515",webb_113
+garciac,eng,190,01,mwf,"1100, 1150",webb_206
+garciac,eng,190,02,mwf,"1200, 1250",webb_206
+staff,eng,201,01,tr,"1100, 1215",webb_215
+staff,eng,201,02,tr,"0930, 1045",sports_221
+staff,eng,205,01,mwf,"0900, 0950",webb_115
+staff,eng,205,02,tr,"1730, 1845",science_137
+staff,eng,205,03,tr,"1600, 1715",science_137
+torockioc,eng,207,01,tr,"1100, 1215",webb_307
+mcneilk,eng,216,01,tr,"1400, 1515",webb_112
+chiricom,eng,227,01,mwf,"1200, 1250",webb_313
+chiricom,eng,227,02,mwf,"1300, 1350",webb_313
+chiricom,eng,241,01,mwf,"0900, 0950",webb_212
+luxenbergh,eng,241,01,mwf,"0900, 0950",webb_212
+chiricom,eng,241,02,mwf,"1000, 1050",webb_212
+luxenbergh,eng,241,02,mwf,"1000, 1050",webb_212
+youngbloodj,eng,241,03,mwf,"1100, 1150",webb_213
+staff,eng,260,01,mwf,"1100, 1150",webb_215
+staff,eng,260,02,tr,"1230, 1345",sports_219
+staff,eng,260,03,tr,"1400, 1515",sports_219
+derosas,eng,275,01,tr,"1400, 1515",library_266
+clermontferrandm,eng,277,01,tr,"1600, 1715",science_416
+youngbloodj,eng,277,02,mwf,"1300, 1350",webb_214
+derosas,eng,290,01,tr,"0930, 1045",communications_219
+derosas,eng,290,02,tr,"1100, 1215",communications_219
+ferrucis,eng,299,01,tr,"1230, 1345",webb_210
+ferrucis,eng,299,02,tr,"1230, 1345",webb_210
+torockioc,eng,301,01,tr,"1400, 1515",science_134
+staff,eng,302,01,m,"1600, 1845",webb_114
+staff,eng,328,01,tr,"1600, 1715",communications_107
+speichera,eng,329,01,w,"1600, 1845",webb_214
+oterom,eng,338,01,tr,"1230, 1345",communications_218
+oterom,eng,340,01,tr,"1400, 1515",communications_218
+oterom,eng,341,01,tr,"0800, 0915",webb_216
+mamar,eng,353,01,tr,"1400, 1515",webb_214
+mcneilk,eng,357,01,tr,"1100, 1215",webb_216
+youngbloodj,eng,365,01,mf,"1400, 1515",webb_214
+torockioc,eng,381,01,w,"1600, 1845",webb_115
+ferrucis,eng,461,01,r,"1600, 1845",webb_114
+chiricom,eng,462,01,m,"1600, 1845",webb_213
+staff,eng,480,01,"null, null, null",tba,tba
+staff,eng,481,01,"null, null, null",tba,tba
+staff,eng,491,01,"null, null, null",tba,tba
+staff,eng,493,01,"null, null, null",tba,tba
+staff,eng,494,01,"null, null, null",tba,tba
+speichera,eng,495,01,"null, null, null",tba,tba
+speichera,eng,499,01,"null, null, null",tba,tba
+hyattd,ees,104,01,mwf,"0900, 0950",science_236
+cunninghamw,ees,104,02,mwf,"1000, 1050",science_236
+hyattd,ees,104,03,mwf,"1100, 1150",science_236
+cunninghamw,ees,112,01,r,"1400, 1550",science_236
+oakleyb,ees,112,02,w,"1400, 1550",science_236
+drzewieckip,ees,130,01,mwf,"0900, 0950",science_216
+drzewieckip,ees,130,01a,m,"1400, 1650",science_216
+drzewieckip,ees,130,01b,w,"1400, 1650",science_216
+sandeenj,ees,200,01,m,"1600, 1845",science_215
+nathans,ees,204,01,mwf,"1000, 1050",science_215
+nathans,ees,205,01,mwf,"0900, 0950",science_215
+khadev,ees,205,02,w,"1900, 2145",science_215
+carlsonh,ees,207,01,t,"1600, 1750",science_417
+carlsonh,ees,207,02,w,"1600, 1750",science_417
+metcalfm,ees,208,01,t,"1600, 1845",science_233
+metcalfm,ees,300,01,tr,"1100, 1215",science_202
+metcalfm,ees,301,01,w,"1200, 1450",science_219
+nathans,ees,305,01,mwf,"1100, 1150",science_215
+tranl,ees,315,01,w,"1600, 1845",science_215
+winterbottomw,ees,315,02,t,"1600, 1845",science_216
+hyattd,ees,350,01,tr,"0800, 1200",science_219
+hyattd,ees,350,01,tr,"0800, 1200",science_232
+oakleyb,ees,362,01,tr,"1400, 1515",science_215
+hyattd,ees,362,01,tr,"1400, 1515",science_215
+staff,ees,392,01,"null, null, null",tba,tba
+staff,ees,423,01,m,"1600, 1845",science_232
+oakleyb,ees,424,01,t,"1600, 1845",science_215
+metcalfm,ees,444,01,r,"1600, 1845",science_219
+staff,ees,480,01,"null, null, null",tba,tba
+chadwickj,ehs,210,01,tr,"1230, 1345",science_116
+staff,flm,101,01,m,"1900, 2100",communications_107
+staff,flm,101,01,w,"1900, 1950",communications_107
+eriksoussia,flm,219,01,m,"1600, 1845",webb_315
+carlsonr,flm,220,01,t,"1600, 1845",communications_114d
+ammarim,flm,220,02,w,"1900, 2145",communications_114d
+ammarim,flm,220,03,w,"1600, 1845",communications_114d
+dayb,flm,220,04,tr,"1100, 1215",communications_226
+dayb,flm,230,01,tr,"1400, 1515",communications_226
+collinsg,flm,322,01,r,"1900, 2145",communications_107
+golebiewskit,flm,355,01,mw,"1600, 1715",fine_arts_118
+staff,fin,245,01,tr,"1100, 1215",goddard_201
+staff,fin,245,02,mwf,"0900, 0950",the_center_for_early_childhood_education_167
+staff,fin,245,03,mwf,"0800, 0850",goddard_203
+liangl,fin,245,04,tr,"0930, 1045",communications_201
+liangl,fin,245,05,tr,"0800, 0915",communications_201
+ryens,fin,346,01,mwf,"1300, 1350",fine_arts_305
+ryens,fin,346,02,mwf,"1200, 1250",fine_arts_305
+staff,fin,348,01,t,"1600, 1845",communications_201
+staff,fin,348,02,tr,"1400, 1515",goddard_216
+staff,fin,349,01,mwf,"1000, 1050",communications_109
+peterosr,fin,435,01,w,"1900, 2145",goddard_223
+liangl,fin,437,01,tr,"1230, 1345",goddard_216
+peterosr,fin,447,01,w,"1600, 1845",goddard_201
+staff,fin,480,01,"null, null, null",tba,tba
+vailm,fin,545,e25,"null, null, null",tba,online
+ruddyj,fyr,314,01,t,"1600, 1800",library_436
+bachollem,fre,110,01,mwf,"1100, 1150",webb_114
+staff,fre,116,01,mwf,"1300, 1350",webb_212
+dahmanif,fre,210,01,mwf,"1200, 1250",goddard_203
+dahmanif,fre,310,01,mwf,"1000, 1050",webb_223b
+bachollem,fre,331,01,w,"1600, 1845",goddard_202
+michimia,geo,100,01,mwf,"0800, 0850",library_436
+clementss,geo,331,01,mwf,"1300, 1350",library_436
+michimia,geo,332,01,mwf,"0900, 0950",library_436
+henryj,hpe,104,01,t,"1600, 1845",goddard_200
+frescohawesc,hpe,104,02,w,"1600, 1845",goddard_200
+manfredie,hpe,104,03,tr,"1230, 1345",goddard_203
+robertd,hpe,104,04,tr,"1230, 1345",the_center_for_early_childhood_education_167
+difrancoa,hpe,104,05,m,"1900, 2145",goddard_200
+vogtd,hpe,104,06,r,"1600, 1845",goddard_200
+sanfordl,hpe,110,01,tr,"1730, 1845",sports_104
+staff,hpe,117,01,mwf,"1400, 1450",goddard_202
+chattertonc,hpe,120,01,mwf,"1100, 1150",sports_219
+sanfordl,hpe,127,01,tr,"1730, 1845",sports_104
+madenjianwybierackik,hpe,140,01,mwf,"1100, 1150",fine_arts_219
+madenjianwybierackik,hpe,140,02,mwf,"1200, 1250",fine_arts_219
+sanfordl,hpe,140,03,tr,"1900, 2015",sports_104
+sanfordl,hpe,140,04,tr,"1900, 2015",sports_104
+difrancoa,hpe,201,01,w,"1600, 1845",goddard_117
+frainm,hpe,210,01,w,"1600, 1845",goddard_208
+frainm,hpe,210,02,w,"1900, 2145",goddard_208
+manfredie,hpe,230,01,tr,"0930, 1045",sports_219
+manfredie,hpe,230,02,tr,"0800, 0915",goddard_208
+stellitanos,hpe,240,01,mwf,"1000, 1050",sports_201
+stellitanos,hpe,240,01,mwf,"1000, 1050",sports_219
+stellitanos,hpe,240,02,mwf,"0900, 0950",sports_201
+stellitanos,hpe,240,02,mwf,"0900, 0950",sports_219
+christopherm,hpe,245,01,m,"1900, 2145",goddard_202
+coxp,hpe,310,01,w,"1900, 2145",goddard_216
+christopherm,hpe,312,01,m,"1600, 1845",goddard_202
+rowettc,hpe,315,01,m,"1300, 1545",the_center_for_early_childhood_education_167
+tracyj,hpe,326,01,t,"0800, 0915",sports_104
+tracyj,hpe,326,01,r,"0800, 0915",sports_219
+switchenkod,hpe,328,01,tr,"1600, 1715",sports_221
+switchenkod,hpe,329,01,tr,"0800, 0915",sports_221
+robertd,hpe,335,01,m,"0800, 1045",sports_221
+robertd,hpe,363,01,tr,"0930, 1045",the_center_for_early_childhood_education_167
+switchenkok,hpe,368,01,tr,"1400, 1515",sports_104
+switchenkok,hpe,368,01,tr,"1400, 1515",sports_201
+robertd,hpe,401,01,tr,"1100, 1215",the_center_for_early_childhood_education_167
+switchenkod,hpe,413,01,tr,"1230, 1345",sports_221
+switchenkok,hpe,441,01,w,"1600, 1715",the_center_for_early_childhood_education_167
+hillsk,hpe,445,01,r,"1600, 1715",offcam
+rowettc,hpe,448,01,t,"1600, 1730",the_center_for_early_childhood_education_167
+staff,hpe,475,01,mtwrf,"0800, 1530",tba
+staff,hpe,480,01,"null, null, null",tba,tba
+staff,hpe,492,01,"null, null, null",tba,tba
+brownl,hsc,100,01,mwf,"0800, 0850",goddard_208
+serranom,hsc,100,02,tr,"1400, 1515",goddard_208
+dotsont,hsc,209,01,tr,"1600, 1715",science_114
+carrolls,hsc,209,02,m,"1600, 1845",goddard_201
+canavanp,hsc,210,01,mwf,"1000, 1050",goddard_202
+smithe,hsc,215,01,mwf,"1200, 1250",goddard_117
+porebskab,hsc,215,01a,w,"0900, 1150",science_237
+porebskab,hsc,215,01b,w,"1200, 1450",science_237
+smithe,hsc,215,01c,t,"0800, 1050",science_237
+smithe,hsc,215,01d,r,"0800, 1050",science_237
+kylek,hsc,215,01e,m,"1600, 1850",science_237
+staff,hsc,215,01f,m,"1300, 1550",science_237
+staff,hsc,215,01g,f,"0800, 1050",science_237
+smithe,hsc,215,02,tr,"1230, 1345",goddard_117
+staff,hsc,215,03,mwf,"0900, 0950",science_104
+beeverj,hsc,225,01,tr,"0800, 0915",goddard_202
+staff,hsc,225,02,mwf,"0800, 0850",goddard_202
+dzurecl,hsc,225,03,tr,"1600, 1715",goddard_216
+bissonnettea,hsc,235,01,mwf,"1300, 1350",goddard_201
+staff,hsc,280,01,"null, null, null",tba,tba
+staff,hsc,290,01,"null, null, null",tba,tba
+staff,hsc,291,01,"null, null, null",tba,tba
+carrolls,hsc,302,01,tr,"0930, 1045",goddard_223
+daled,hsc,307,01,mwf,"1300, 1350",goddard_223
+bataillea,hsc,308,01,mwf,"0900, 0950",goddard_208
+canavanp,hsc,318,01,mwf,"1100, 1150",goddard_223
+staff,hsc,318,01a,t,"0800, 1050",goddard_127
+joinerk,hsc,318,01b,t,"1230, 1520",goddard_127
+staff,hsc,318,02,mwf,"1400, 1450",goddard_117
+tackettm,hsc,318,02a,m,"1600, 1850",goddard_127
+joinerk,hsc,318,02b,w,"1600, 1850",goddard_127
+bataillea,hsc,319,01,mwf,"1000, 1050",goddard_208
+staff,hsc,319,01a,w,"1300, 1550",goddard_127
+staff,hsc,319,01b,f,"1100, 1350",goddard_127
+bataillea,hsc,319,02,mwf,"1100, 1150",goddard_208
+staff,hsc,319,02a,r,"0800, 1050",goddard_127
+staff,hsc,319,02b,r,"1230, 1520",goddard_127
+bataillea,hsc,319,03,mwf,"1300, 1350",goddard_117
+staff,hsc,319,03a,f,"0800, 1050",goddard_127
+staff,hsc,319,03b,r,"1600, 1850",goddard_127
+daled,hsc,320,01,mwf,"1200, 1250",goddard_223
+daled,hsc,342,01,tr,"0800, 0915",goddard_216
+staff,hsc,356,01,tr,"0800, 0915",goddard_117
+staff,hsc,357,01,m,"1600, 1850",goddard_123
+canavanp,hsc,360,01,mwf,"1300, 1350",goddard_203
+canavanp,hsc,360,01,w,"1400, 1650",goddard_123
+walterss,hsc,365,01,mwf,"1400, 1450",goddard_223
+alexanderj,hsc,370,01,tr,"0930, 1045",communications_218
+staff,hsc,380,01,"null, null, null",tba,tba
+staff,hsc,390,01,"null, null, null",tba,tba
+staff,hsc,391,01,"null, null, null",tba,tba
+walterss,hsc,400,01,mwf,"1200, 1310",webb_314
+chank,hsc,415,01,tr,"0930, 1045",science_416
+dzurecd,hsc,425,01,mwf,"0800, 0850",goddard_200
+dzurecd,hsc,425,01,m,"1300, 1550",science_341
+nsiahy,hsc,425,02,tr,"0800, 0915",goddard_223
+staff,hsc,425,02a,w,"1600, 1850",science_341
+staff,hsc,425,02b,t,"1730, 2020",science_341
+bissonnettea,hsc,438,01,mwf,"1400, 1450",goddard_201
+blancaflors,hsc,438,02,tr,"1230, 1345",goddard_223
+beebej,hsc,444,01,tr,"1730, 2145",goddard_123
+daled,hsc,450,01,mwf,"0800, 0850",goddard_216
+staff,hsc,480,01,"null, null, null",tba,tba
+staff,hsc,490,01,"null, null, null",tba,tba
+dzurecd,hsc,491,01,"null, null, null",tba,tba
+carrolls,hsc,491,02,"null, null, null",tba,tba
+davisb,his,116,01,mwf,"0900, 0950",goddard_223
+davisb,his,116,02,mwf,"1000, 1050",goddard_223
+closes,his,120,01,tr,"0800, 0915",webb_214
+closes,his,120,02,tr,"1230, 1345",webb_216
+weatherwaxn,his,121,01,mwf,"1100, 1150",webb_214
+closes,his,121,02,tr,"1400, 1515",webb_216
+balcerskit,his,200,01,tr,"1600, 1750",library_266
+fryed,his,230,01,tr,"0930, 1045",goddard_216
+fryed,his,230,02,tr,"1100, 1215",goddard_216
+fryed,his,230,03,w,"1600, 1845",webb_313
+moores,his,231,01,mwf,"1000, 1050",library_436
+fryed,his,267,01,m,"1600, 1845",webb_313
+balcerskit,his,320,01,tr,"1230, 1345",webb_313
+closes,his,321,01,tr,"0930, 1045",webb_214
+moores,his,338,01,mf,"1400, 1515",webb_114
+saenzcambrac,his,345,01,mwf,"1100, 1150",webb_112
+davisb,his,365,01,mwf,"1300, 1350",webb_216
+davisb,his,375,01,mwf,"1200, 1250",webb_216
+fryed,his,378,01,tr,"1400, 1515",communications_107
+carenenc,his,400,01,mw,"1600, 1750",science_231
+moores,his,401,01,mwf,"0900, 0950",library_266
+staff,his,480,01,"null, null, null",tba,tba
+staff,his,481,01,"null, null, null",tba,tba
+staff,his,490,01,"null, null, null",tba,tba
+staff,his,491,01,"null, null, null",tba,tba
+pellegrinid,hon,361,01,mw,"1600, 1715",communications_219
+vasquezobrient,hon,362,01,mwf,"1300, 1350",webb_115
+speichera,hon,488,01,"null, null, null",tba,tba
+drewryc,isp,300,01,"null, null, null",tba,tba
+drewryc,isp,301,01,"null, null, null",tba,tba
+eriksoussia,las,219,01,m,"1600, 1845",webb_315
+perezr,las,240,01,t,"1600, 1845",webb_317
+greener,lac,100,01,f,"1200, 1445",fine_arts_326
+greener,lac,100,02,f,"0900, 1145",fine_arts_326
+drewt,lac,100,03,w,"1200, 1445",fine_arts_330
+lil,lac,100,04,m,"1200, 1445",fine_arts_330
+krassasn,lac,100,05,mwf,"1400, 1450",webb_112
+moores,lac,100,06,mwf,"1200, 1250",webb_114
+drzewieckip,lac,100,07,mwf,"1100, 1150",science_216
+blushr,lac,100,08,mwf,"1000, 1050",fine_arts_115
+staff,lac,100,09,tr,"1600, 1715",sports_219
+hollandj,lac,100,10,mf,"1400, 1515",library_436
+hollandj,lac,100,10,f,"1400, 1515",fine_arts_330
+blushr,lac,100,11,mwf,"1100, 1150",fine_arts_115
+bachollem,lac,100,12,mwf,"1000, 1050",webb_210
+brownl,lac,100,13,mwf,"0900, 0950",goddard_200
+bachiochip,lac,100,14,tr,"0930, 1045",webb_112
+swiftp,lac,100,15,tr,"1100, 1215",science_416
+rukgaberm,lac,100,16,tr,"1230, 1345",science_231
+brighthollanda,lac,100,17,tr,"1100, 1215",fine_arts_307
+wardk,lac,100,18,mwf,"1300, 1350",science_134
+heenehanm,lac,100,18,mwf,"1300, 1350",science_134
+cowlese,lac,100,19,mf,"1400, 1515",science_231
+floodr,lac,100,20,mwf,"1400, 1450",fine_arts_305
+ohn,lac,100,21,tr,"0930, 1045",science_432
+stoloffd,lac,100,22,tr,"1400, 1515",webb_210
+rodriguezl,lac,100,23,tr,"1400, 1515",webb_212
+dayb,lac,100,24,tr,"0930, 1045",fine_arts_115
+oakleyb,lac,100,25,tr,"1100, 1215",science_215
+bartonek,lac,100,26,f,"0900, 1145",fine_arts_328
+staff,lac,100,27,mw,"1600, 1715",goddard_203
+gabianellij,lac,100,32,w,"0900, 1145",fine_arts_328
+michaels,lac,100,33,t,"0930, 1215",fine_arts_247
+johnsonn,lac,100,34,mf,"1400, 1515",fine_arts_307
+calissij,lac,100,35,tr,"1230, 1345",fine_arts_305
+greener,lac,101,01,m,"1300, 1350",fine_arts_326
+greener,lac,101,02,w,"1300, 1350",fine_arts_326
+drewt,lac,101,03,w,"1600, 1650",fine_arts_330
+lil,lac,101,04,m,"1600, 1650",fine_arts_330
+krassasn,lac,101,05,m,"1500, 1550",webb_112
+moores,lac,101,06,w,"1300, 1350",webb_114
+drzewieckip,lac,101,07,w,"1200, 1250",science_216
+blushr,lac,101,08,w,"1200, 1250",fine_arts_115
+staff,lac,101,09,r,"1730, 1820",sports_219
+hollandj,lac,101,10,w,"1400, 1450",fine_arts_115
+blushr,lac,101,11,m,"1200, 1250",fine_arts_115
+bachollem,lac,101,12,m,"0900, 0950",webb_210
+brownl,lac,101,13,m,"1000, 1050",goddard_200
+bachiochip,lac,101,14,w,"1400, 1450",webb_114
+swiftp,lac,101,15,r,"1230, 1320",science_416
+rukgaberm,lac,101,16,r,"1100, 1150",science_231
+brighthollanda,lac,101,17,m,"1500, 1550",fine_arts_115
+wardk,lac,101,18,w,"1400, 1450",science_134
+heenehanm,lac,101,18,w,"1400, 1450",science_134
+cowlese,lac,101,19,m,"1300, 1350",science_231
+floodr,lac,101,20,m,"1500, 1550",fine_arts_305
+ohn,lac,101,21,w,"0900, 0950",webb_213
+stoloffd,lac,101,22,r,"1600, 1650",webb_210
+rodriguezl,lac,101,23,t,"1600, 1650",webb_212
+dayb,lac,101,24,w,"1100, 1150",fine_arts_118
+oakleyb,lac,101,25,w,"1300, 1350",science_236
+bartonek,lac,101,26,m,"1400, 1450",fine_arts_328
+staff,lac,101,27,m,"1730, 1820",goddard_203
+gabianellij,lac,101,32,w,"1300, 1350",fine_arts_328
+michaels,lac,101,33,r,"1100, 1150",fine_arts_247
+johnsonn,lac,101,34,m,"1300, 1350",fine_arts_307
+calissij,lac,101,35,m,"1000, 1050",fine_arts_118
+pellegrinid,lac,200,01,t,"1900, 2145",fine_arts_305
+kims,lac,200,02,m,"1200, 1445",fine_arts_327
+doylem,lac,200,03,tr,"1400, 1515",fine_arts_307
+cunninghamw,lac,200,04,mwf,"1100, 1150",science_134
+cunninghamw,lac,200,05,mwf,"1200, 1250",science_134
+swaminathans,lac,200,06,tr,"1100, 1215",the_center_for_early_childhood_education_175
+onealf,lac,200,07,tr,"1400, 1515",fine_arts_118
+brosciousc,lac,200,08,tr,"1230, 1345",webb_215
+simonn,lac,200,09,tr,"1100, 1215",goddard_208
+morgank,lac,200,10,tr,"1230, 1345",fine_arts_115
+houldcroftt,lac,200,11,tr,"1600, 1715",fine_arts_118
+houldcroftt,lac,200,11,tr,"1600, 1715",fine_arts_243
+floodr,lac,200,12,w,"1600, 1845",fine_arts_307
+montemerloj,lac,200,13,tr,"0930, 1045",communications_107
+montemerloj,lac,200,14,tr,"1230, 1345",webb_110
+szczysp,lac,200,15,tr,"1100, 1215",science_236
+szczysp,lac,200,16,tr,"1230, 1345",science_236
+carenenc,lac,200,17,mwf,"1400, 1450",webb_216
+stoloffd,lac,400,01,t,"1600, 1845",webb_113
+speichera,lsm,400,01,tr,"1400, 1515",goddard_204
+pakdilf,mgt,501,e25,"null, null, null",tba,online
+grandhis,mgt,504,e25,"null, null, null",tba,online
+villanuevae,mgt,507,e25,"null, null, null",tba,online
+ayenio,mgt,509,e25,"null, null, null",tba,online
+staff,mat,099,01,mwf,"0900, 0950",science_234
+staff,mat,099,02,mwf,"1200, 1250",science_233
+staff,mat,099,03,mw,"1600, 1715",science_234
+staff,mat,099,04,tr,"0800, 0915",science_234
+staff,mat,099,05,tr,"1400, 1515",science_234
+yankovc,mat,135,01,mwf,"0800, 0850",science_117
+staff,mat,135,02,tr,"0930, 1045",science_132
+yankovc,mat,135,03,mwf,"0900, 0950",science_117
+staff,mat,135,04,tr,"0800, 0915",science_117
+staff,mat,135p,01,mwf,"0800, 0850",science_416
+staff,mat,135p,01,f,"0900, 0950",science_416
+staff,mat,135p,02,mwf,"1100, 1150",science_137
+staff,mat,135p,02,f,"1000, 1050",science_137
+staff,mat,135p,03,mwf,"1300, 1350",science_416
+staff,mat,135p,03,w,"1400, 1450",science_416
+staff,mat,135p,04,tr,"0800, 0915",science_132
+staff,mat,135p,04,w,"0800, 0850",science_132
+staff,mat,135p,05,tr,"1100, 1215",science_132
+staff,mat,135p,05,f,"1200, 1250",science_117
+staff,mat,135p,06,mw,"1600, 1750",science_117
+staff,mat,135p,07,tr,"1600, 1750",science_132
+staff,mat,139p,01,mwf,"0800, 0850",science_114
+staff,mat,139p,01,w,"0900, 0950",science_416
+staff,mat,139p,02,tr,"1230, 1345",science_114
+staff,mat,139p,02,w,"1200, 1250",science_117
+staff,mat,140,01,m,"1600, 1715",science_137
+staff,mat,140,01,w,"1600, 1715",science_238
+oseibonsuk,mat,155,01,mwf,"0900, 0950",science_132
+oseibonsuk,mat,155,01,f,"1000, 1050",science_117
+sarikhanikhoramim,mat,155,02,m,"1100, 1150",webb_212
+sarikhanikhoramim,mat,155,02,tr,"1100, 1215",science_114
+staff,mat,155,03,mwf,"1300, 1350",science_132
+staff,mat,155,03,m,"1400, 1450",science_132
+wardk,mat,155p,01,mwf,"0800, 0850",science_137
+wardk,mat,155p,01,mw,"0900, 0950",science_137
+staff,mat,155p,02,tr,"1230, 1345",goddard_200
+staff,mat,155p,02,w,"1200, 1350",communications_108
+staff,mat,155p,03,mwf,"1200, 1250",science_132
+staff,mat,155p,03,wf,"1100, 1150",science_132
+staff,mat,195,01,mwf,"1000, 1050",science_132
+staff,mat,195,01,m,"1100, 1150",science_132
+larosec,mat,216,01,mwf,"1000, 1050",science_234
+larosec,mat,216,02,mwf,"1300, 1350",science_234
+staff,mat,216,03,mwf,"1200, 1250",science_234
+staff,mat,216,04,mw,"1730, 1845",science_234
+staff,mat,216,05,tr,"1600, 1715",science_234
+yankovc,mat,230,01,mwf,"1100, 1150",science_231
+oseibonsuk,mat,243,01,mwf,"1300, 1350",science_117
+oseibonsuk,mat,243,01,m,"1200, 1250",science_117
+wardk,mat,243,02,mwf,"1100, 1150",science_114
+wardk,mat,243,02,m,"1000, 1050",science_117
+aidooa,mat,244,01,tr,"0930, 1045",science_117
+aidooa,mat,244,01,w,"1000, 1050",science_117
+oseibonsuk,mat,310,01,mwf,"1100, 1150",science_117
+larosec,mat,315,01,mwf,"1400, 1450",science_238
+larosec,mat,315,01,m,"1200, 1250",science_238
+larosec,mat,342,01,mwf,"0900, 0950",science_238
+aidooa,mat,345,01,tr,"0800, 0915",science_238
+sarikhanikhoramim,mat,356,01,tr,"0930, 1045",science_114
+yankovc,mat,380,01,m,"1300, 1350",science_238
+yankovc,mat,380,01,wf,"1300, 1350",goddard_216
+sarikhanikhoramim,mat,400,01,tr,"1400, 1515",science_114
+aidooa,mat,420,01,tr,"1230, 1345",science_134
+aidooa,mat,420,01,w,"1200, 1250",science_231
+staff,mat,480,01,"null, null, null",tba,tba
+staff,mat,490,01,"null, null, null",tba,tba
+fitzpatrickd,msc,131,01,f,"1115, 1205",tba
+fitzpatrickd,msc,131,01,f,"1325, 1725",tba
+fitzpatrickd,msc,131,02,r,"1100, 1150",tba
+fitzpatrickd,msc,131,02,f,"1325, 1725",tba
+fitzpatrickd,msc,131,03,w,"1300, 1350",library_266
+sholesz,msc,131,03,w,"1300, 1350",library_266
+fitzpatrickd,msc,131,03,f,"1325, 1725",tba
+sholesz,msc,131,03,f,"1325, 1725",tba
+fitzpatrickd,msc,145,01,w,"1400, 1600",library_266
+sholesz,msc,145,01,w,"1400, 1600",library_266
+fitzpatrickd,msc,145,01,f,"1325, 1725",tba
+sholesz,msc,145,01,f,"1325, 1725",tba
+balought,mus,100,01,mwf,"0900, 0950",fine_arts_110
+balought,mus,100,02,mwf,"0800, 0850",fine_arts_110
+staff,mus,103,01,mw,"1730, 1845",fine_arts_110
+watkinsk,mus,107,01,w,"1900, 2130",fine_arts_108
+staff,mus,113,01,mw,"1600, 1715",fine_arts_110
+riggse,mus,113,02,r,"1730, 1845",fine_arts_110
+ballenad,mus,113,03,t,"1900, 2015",fine_arts_110
+onealf,mus,113,04,m,"1500, 1550",fine_arts_108
+bronsonm,mus,113,05,m,"1600, 1730",fine_arts_108
+cornicelloa,mus,113,05,m,"1600, 1730",fine_arts_108
+calissij,mus,113,06,f,"1530, 1650",fine_arts_108
+bronsonm,mus,113,07,w,"1600, 1715",fine_arts_108
+delaneye,mus,113,08,r,"1230, 1345",fine_arts_108
+calissir,mus,114,01,tr,"0930, 1045",fine_arts_212
+calissir,mus,114,02,tr,"1100, 1215",fine_arts_212
+ballenad,mus,114,03,mwf,"1000, 1050",fine_arts_212
+ballenad,mus,114,04,mwf,"1100, 1150",fine_arts_212
+delaneye,mus,118,01,tr,"1400, 1515",fine_arts_108
+calissij,mus,120,01,tr,"1400, 1515",fine_arts_110
+riggse,mus,127,01,mwf,"1000, 1050",fine_arts_110
+onealf,mus,160,01,tr,"1600, 1715",fine_arts_307
+bellesd,mus,200,01,mwf,"1000, 1050",fine_arts_108
+cornicelloa,mus,206,01,mwf,"1300, 1350",fine_arts_110
+hwango,mus,214,01,mwf,"0900, 0950",fine_arts_212
+calissij,mus,216,01,w,"1000, 1050",fine_arts_118
+bellesd,mus,220,01,mwf,"0900, 0950",fine_arts_215
+calissij,mus,234,01,mwf,"1100, 1150",fine_arts_305
+cochrant,mus,235,01,tr,"0930, 1045",fine_arts_307
+cornicelloa,mus,250,01,mwf,"1000, 1050",fine_arts_243
+echolsc,mus,250,02,tr,"1100, 1215",fine_arts_243
+echolsc,mus,250,03,tr,"1230, 1345",fine_arts_243
+cornicelloa,mus,301,01,mwf,"1100, 1150",fine_arts_243
+hwango,mus,335,01,mwf,"1100, 1150",fine_arts_307
+tonera,mus,356,09,"null, null, null",tba,tba
+delaneye,mus,356,11,"null, null, null",tba,tba
+delaneye,mus,356,12,"null, null, null",tba,tba
+cornicelloa,mus,356,16,"null, null, null",tba,tba
+bronsonm,mus,356,20,"null, null, null",tba,tba
+hwango,mus,356,22,"null, null, null",tba,tba
+thomasj,mus,356,24,"null, null, null",tba,tba
+washburns,mus,356,31,"null, null, null",tba,tba
+washburns,mus,356,32,"null, null, null",tba,tba
+riggse,mus,356,33,"null, null, null",tba,tba
+ballenad,mus,356,37,"null, null, null",tba,tba
+ballenad,mus,356,38,"null, null, null",tba,tba
+staff,mus,395,01,"null, null, null",tba,tba
+delaneye,mus,456,12,"null, null, null",tba,tba
+hwango,mus,456,22,"null, null, null",tba,tba
+riggse,mus,456,33,"null, null, null",tba,tba
+riggse,mus,456,34,"null, null, null",tba,tba
+staff,mus,480,01,"null, null, null",tba,tba
+staff,mus,495,01,"null, null, null",tba,tba
+drewryc,nse,300,01,"null, null, null",tba,tba
+cotea,nur,200,01,mw,"1400, 1515",goddard_216
+cotea,nur,200,01a,t,"0800, 1050",goddard_123
+cotea,nur,200,01a,t,"0800, 1050",goddard_125
+cotea,nur,200,01a,t,"0800, 1050",goddard_124
+staff,nur,200,01b,t,"0800, 1050",goddard_123
+staff,nur,200,01b,t,"0800, 1050",goddard_125
+staff,nur,200,01b,t,"0800, 1050",goddard_124
+staff,nur,200,01c,t,"0800, 1050",goddard_123
+staff,nur,200,01c,t,"0800, 1050",goddard_125
+staff,nur,200,01c,t,"0800, 1050",goddard_124
+cotea,nur,200,02,mw,"1600, 1715",goddard_216
+cotea,nur,200,02a,t,"1230, 1520",goddard_123
+cotea,nur,200,02a,t,"1230, 1520",goddard_125
+cotea,nur,200,02a,t,"1230, 1520",goddard_124
+staff,nur,200,02b,t,"1230, 1520",goddard_123
+staff,nur,200,02b,t,"1230, 1520",goddard_125
+staff,nur,200,02b,t,"1230, 1520",goddard_124
+staff,nur,200,02c,t,"1230, 1520",goddard_123
+staff,nur,200,02c,t,"1230, 1520",goddard_125
+staff,nur,200,02c,t,"1230, 1520",goddard_124
+dzurecl,nur,237,01,mwf,"0800, 0850",goddard_117
+staff,nur,237,02,tr,"1600, 1715",goddard_117
+dzurecl,nur,237,03,tr,"1230, 1345",goddard_208
+staff,nur,311,01,tr,"1100, 1215",goddard_117
+staff,nur,311,01a,"null, null, null",tba,tba
+dzurecl,nur,332,01,tr,"1400, 1450",goddard_117
+staff,nur,332,01a,"null, null, null",tba,tba
+schallerj,osc,260,01,tr,"1100, 1215",library_436
+schallerj,osc,260,02,tr,"1400, 1515",library_436
+staff,phi,120,01,mwf,"0900, 0950",webb_214
+staff,phi,120,02,mwf,"1000, 1050",webb_214
+swiftp,phi,210,01,tr,"0930, 1045",library_266
+stockerk,phi,215,01,mwf,"1100, 1150",library_436
+slutskyd,phi,220,01,mw,"1600, 1715",communications_107
+slutskyd,phi,220,02,mw,"1730, 1845",communications_107
+staff,phi,361,01,mwf,"1400, 1450",webb_215
+staff,phi,366,01,tr,"1100, 1215",science_104
+rukgaberm,phi,370,01,tr,"1400, 1515",the_center_for_early_childhood_education_167
+staff,phi,480,01,"null, null, null",tba,tba
+staff,phy,204,01,mwf,"1300, 1350",science_431
+staff,phy,204,01a,r,"1400, 1550",science_403
+staff,phy,204,01b,m,"1400, 1550",science_403
+staff,phy,204,01c,m,"1600, 1750",science_403
+pazametaz,phy,204,01d,r,"1600, 1750",science_403
+staff,phy,204,02,mwf,"0900, 0950",science_431
+staff,phy,380,01,"null, null, null",tba,tba
+eastonw,psc,100,01,mwf,"0900, 0950",goddard_216
+krassasn,psc,202,01,mwf,"1300, 1350",webb_206
+krassasn,psc,202,02,mwf,"1000, 1050",webb_314
+mendozabotelhom,psc,208,01,tr,"1100, 1215",webb_212
+mendozabotelhom,psc,208,02,tr,"0930, 1045",webb_212
+garciam,psc,211,01,mwf,"1200, 1250",webb_214
+swetzoffs,psc,217,01,tr,"1230, 1345",science_104
+eastonw,psc,220,01,mwf,"1100, 1150",webb_317
+swetzoffs,psc,230,01,tr,"1100, 1215",webb_110
+garciam,psc,326,01,mwf,"1300, 1350",webb_317
+brosciousc,psc,339,01,tr,"0930, 1045",webb_313
+clementss,psc,351,01,mwf,"1400, 1450",webb_212
+rukgaberm,psc,370,01,tr,"1400, 1515",the_center_for_early_childhood_education_167
+mendozabotelhom,psc,460,01,t,"1600, 1845",webb_115
+mendozabotelhom,psc,460,02,tr,"1400, 1515",webb_215
+staff,psc,480,01,"null, null, null",tba,tba
+staff,psc,490,01,"null, null, null",tba,tba
+staff,psc,491,01,"null, null, null",tba,tba
+staff,psc,492,01,"null, null, null",tba,tba
+staff,psc,493,01,"null, null, null",tba,tba
+staff,psc,494,01,"null, null, null",tba,tba
+staff,psc,495,01,"null, null, null",tba,tba
+staff,psc,498,01,"null, null, null",tba,tba
+cousinsa,psy,100,01,mwf,"0800, 0850",webb_313
+cousinsa,psy,100,02,mwf,"0900, 0950",webb_313
+staff,psy,100,03,tr,"1600, 1715",webb_216
+staff,psy,100,04,tr,"1730, 1845",webb_315
+vasquezobrient,psy,101,01,w,"1100, 1150",webb_212
+dillerj,psy,101,02,t,"0930, 1020",webb_315
+lanaganleitzell,psy,101,03,m,"1300, 1350",webb_315
+fugerem,psy,202,01,mwf,"1000, 1050",webb_216
+fugerem,psy,202,02,mwf,"1100, 1150",webb_216
+krebsc,psy,205,01,tr,"1400, 1515",webb_315
+krebsc,psy,205,02,tr,"1600, 1715",webb_315
+vasquezobrient,psy,206,01,mwf,"0800, 0850",webb_215
+vasquezobrient,psy,206,02,mwf,"0900, 0950",webb_215
+leszczynskij,psy,208,01,mwf,"1000, 1050",webb_315
+leszczynskij,psy,208,02,mwf,"1100, 1150",webb_315
+keyesm,psy,212,01,mwf,"1200, 1250",goddard_208
+keyesm,psy,212,02,mwf,"1300, 1350",goddard_208
+staff,psy,216,01,t,"1900, 2145",webb_112
+sciscoj,psy,218,01,tr,"0930, 1045",webb_317
+dillerj,psy,225,01,tr,"0800, 0915",webb_315
+koleks,psy,227,01,mwf,"1000, 1110",science_115
+leep,psy,227,02,tr,"1400, 1550",webb_314
+staff,psy,227,03,mw,"1900, 2050",webb_314
+leszczynskij,psy,247,01,mwf,"0800, 0910",webb_314
+koleks,psy,247,02,mwf,"1200, 1310",science_115
+krebsc,psy,247,03,tr,"1100, 1250",webb_314
+salterspedneaultk,psy,301,01,tr,"1100, 1215",webb_214
+salterspedneaultk,psy,301,02,tr,"1230, 1345",webb_214
+bachiochip,psy,303,01,tr,"1230, 1345",webb_212
+lanaganleitzell,psy,306,01,mwf,"1000, 1050",webb_313
+fugerem,psy,309,01,mwf,"0900, 0950",webb_216
+staff,psy,315,01,mw,"1600, 1715",webb_216
+dillerj,psy,316,01,tr,"1100, 1215",webb_315
+sciscoj,psy,327,01,tr,"0800, 0915",webb_307
+sciscoj,psy,327,01,"null, null, null",tba,tba
+leep,psy,327,02,tr,"1600, 1715",webb_314
+leep,psy,327,02,"null, null, null",tba,tba
+staff,psy,327,03,mw,"1730, 1845",webb_314
+staff,psy,327,03,"null, null, null",tba,tba
+keyesm,psy,345,01,mwf,"1400, 1450",goddard_208
+sciscoj,psy,390,01,r,"1600, 1650",science_115
+koleks,psy,390,02,m,"1600, 1650",science_115
+bachiochip,psy,403,01,tr,"1400, 1515",science_231
+dillerj,psy,407,01,tr,"1230, 1345",webb_315
+cordonl,psy,409,01,tr,"0800, 0915",webb_215
+cordonl,psy,409,02,tr,"0930, 1045",webb_215
+krebsc,psy,415,01,tr,"0930, 1045",webb_114
+cordonl,psy,419,01,tr,"1230, 1345",webb_317
+cordonl,psy,419,02,tr,"1400, 1515",webb_317
+koleks,psy,430,01,mwf,"0800, 0850",science_116
+lanaganleitzell,psy,432,01,mwf,"1100, 1150",webb_313
+leep,psy,455,01,tr,"1100, 1215",webb_114
+cousinsa,psy,480,01,"null, null, null",tba,tba
+keyesm,psy,490,01,"null, null, null",tba,tba
+sciscoj,psy,490,02,"null, null, null",tba,tba
+fugerem,psy,490,03,"null, null, null",tba,tba
+leep,psy,490,04,"null, null, null",tba,tba
+cousinsa,psy,490,05,"null, null, null",tba,tba
+krebsc,psy,490,06,"null, null, null",tba,tba
+leszczynskij,psy,490,07,"null, null, null",tba,tba
+staff,psy,491,01,"null, null, null",tba,tba
+keyesm,psy,496,01v,m,"1600, 1650",webb_115
+salterspedneaultk,psy,496,02v,r,"0930, 1020",webb_115
+staff,psy,497,01,"null, null, null",tba,tba
+staff,psy,498,01,"null, null, null",tba,tba
+walterss,pbh,206,01,mwf,"1100, 1150",goddard_117
+dotsont,pbh,209,01,tr,"1600, 1715",science_114
+carrolls,pbh,209,02,m,"1600, 1845",goddard_201
+serranom,pbh,228,01,tr,"1230, 1345",goddard_201
+cowlese,pbh,301,01,tr,"1600, 1715",science_116
+murdochb,pbh,302,01,r,"1100, 1250",science_341
+murdochb,pbh,302,02,r,"1400, 1550",science_341
+banee,pbh,313,01,r,"1600, 1845",goddard_223
+tranl,pbh,315,01,w,"1600, 1845",science_215
+winterbottomw,pbh,315,02,t,"1600, 1845",science_216
+walterss,pbh,330,01,mwf,"0900, 0950",goddard_117
+carrolls,pbh,350,01,tr,"1100, 1215",goddard_223
+blancaflors,pbh,440,01,tr,"1400, 1515",goddard_223
+walterss,pbh,494,01,"null, null, null",tba,tba
+trubeyp,swk,200,01,t,"1230, 1515",communications_109
+stantonm,swk,311,01,r,"1230, 1515",communications_109
+rodriguezd,swk,311,02,t,"1230, 1515",science_416
+stantonm,swk,325,01,t,"1230, 1515",goddard_202
+trubeyp,swk,325,02,r,"1230, 1515",webb_114
+nightingales,swk,330,01,r,"0800, 1045",goddard_200
+stantonm,swk,330,02,t,"0800, 1045",goddard_200
+matthewsarmsteade,swk,350,01,t,"1230, 1515",webb_115
+lewisj,swk,350,02,t,"1230, 1515",webb_213
+pimentalc,swk,350,03,t,"1230, 1515",communications_219
+nightingales,swk,420,01,t,"0800, 1045",goddard_201
+rodriguezd,swk,420,02,t,"0800, 1045",webb_213
+nightingales,swk,475,01,t,"1600, 1845",webb_114
+rijsj,swk,475,02,t,"1600, 1845",goddard_202
+staff,swk,480,01,"null, null, null",tba,tba
+breslind,soc,100,01,mwf,"1000, 1050",webb_317
+burnsn,soc,100,02,mwf,"1400, 1450",webb_315
+bergstromlynchc,soc,100,03,tr,"0930, 1045",webb_216
+mccartyg,soc,100,04,mwf,"1100, 1150",webb_110
+mccartyg,soc,100,05,mwf,"0900, 0950",webb_110
+simonn,soc,102,01,w,"0900, 0950",fine_arts_307
+simonn,soc,201,01,t,"1230, 1320",webb_114
+azzaroe,soc,220,01,t,"1900, 2145",webb_212
+breslind,soc,250,01,mwf,"0900, 0950",webb_317
+simonn,soc,300,01,tr,"0930, 1045",goddard_208
+simonn,soc,303,01,t,"1600, 1845",webb_313
+parsonsn,soc,307,01,tr,"1100, 1215",webb_313
+westberryb,soc,310,01,m,"1600, 1845",webb_212
+shulers,soc,312,01,r,"1600, 1845",webb_212
+shulers,soc,312,02,w,"1600, 1845",science_137
+bergstromlynchc,soc,314,01,m,"1900, 2145",webb_313
+westberryb,soc,318,01,m,"1900, 2145",webb_212
+azzaroe,soc,325,01,m,"1900, 2145",webb_317
+browns,soc,346,01,r,"1600, 1845",webb_313
+kurtim,soc,350,01,tr,"1400, 1550",science_137
+kurtim,soc,350,02,tr,"1100, 1250",science_137
+parsonsn,soc,351,01,tr,"1400, 1550",science_238
+bergstromlynchc,soc,400,01,tr,"1100, 1250",webb_112
+staff,soc,480,01,"null, null, null",tba,tba
+staff,soc,490,01,"null, null, null",tba,tba
+staff,soc,492,01,"null, null, null",tba,tba
+staff,soc,493,01,"null, null, null",tba,tba
+staff,soc,495,01,"null, null, null",tba,tba
+pareram,spa,110,01,mwf,"0900, 0950",webb_114
+vijayasekarj,spa,110,02,mwf,"1100, 1150",webb_113
+jendrewskir,spa,110,03,mw,"1730, 1845",webb_112
+armstrongn,spa,210,01,mwf,"1000, 1050",webb_112
+eriksoussia,spa,219,01,m,"1600, 1845",webb_315
+penaaliceag,spa,222,01,mwf,"0900, 0950",webb_113
+staff,spa,231,01,mwf,"1000, 1050",webb_215
+pareram,spa,310,01,mwf,"1200, 1250",goddard_200
+chank,spa,314,01,tr,"1400, 1515",webb_223b
+chank,spa,415,01,tr,"0930, 1045",science_416
+vijayasekarj,spa,492,01,"null, null, null",tba,tba
+chank,spa,492,02,"null, null, null",tba,tba
+chank,spa,492,03,"null, null, null",tba,tba
+brighthollanda,the,171,01,tr,"1230, 1345",fine_arts_219
+brighthollanda,the,172,01,tr,"1400, 1515",fine_arts_219
+houldcroftt,the,176,01,tr,"1100, 1215",fine_arts_117
+wadeckij,the,225,01,"null, null, null",tba,tba
+sokolovskayaa,the,226,01,"null, null, null",tba,tba
+morgank,the,227,01,"null, null, null",tba,tba
+morgank,the,227,02,"null, null, null",tba,tba
+wellesr,the,227,03,"null, null, null",tba,tba
+wadeckij,the,227,04,"null, null, null",tba,tba
+staff,the,227,05,"null, null, null",tba,tba
+sokolovskayaa,the,227,06,"null, null, null",tba,tba
+staff,the,227,07,"null, null, null",tba,tba
+staff,the,227,08,"null, null, null",tba,tba
+cobbj,the,228,01,"null, null, null",tba,tba
+staff,the,228,02,"null, null, null",tba,tba
+cobbj,the,272,01,mwf,"1100, 1150",fine_arts_215
+wadeckij,the,275,01,tr,"1100, 1215",fine_arts_130
+sokolovskayaa,the,278,01,tr,"1400, 1515",fine_arts_251
+golebiewskit,the,355,01,mw,"1600, 1715",fine_arts_118
+cobbj,the,372,01,m,"1600, 1845",fine_arts_219
+sokolovskayaa,the,378,01,tr,"1230, 1345",fine_arts_118
+brighthollanda,the,392,01,"null, null, null",tba,tba
+staff,the,480,01,"null, null, null",tba,tba
+staff,the,481,01,"null, null, null",tba,tba
+staff,the,495,01,"null, null, null",tba,tba
+staff,wst,260,01,mwf,"1100, 1150",webb_215
+staff,wst,260,02,tr,"1230, 1345",sports_219
+staff,wst,260,03,tr,"1400, 1515",sports_219
+westberryb,wst,310,01,m,"1600, 1845",webb_212
+staff,wst,315,01,mw,"1600, 1715",webb_216
+garciam,wst,326,01,mwf,"1300, 1350",webb_317
+bachollem,wst,331,01,w,"1600, 1845",goddard_202
+staff,wst,361,01,mwf,"1400, 1450",webb_215
+staff,wst,490,01,"null, null, null",tba,tba

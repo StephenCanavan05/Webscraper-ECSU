@@ -1,5 +1,3 @@
-contact(contactInfo).
-contact(abbatemarcoa, aden_abbatemarco, lecturer, english, 860_465_4570,abbatemarcoa_at_easternctedu).
 contact(abbensettsd, damali_abbensetts, director_transfer_and_transition_advising_advising_center, academic_success_center, 860_465_0443,abbensettsd_at_easternctedu).
 contact(aconforan, nicholas_aconfora, lecturer_communication, communication_film_and_theatre, 860_465_4340,anconforan_at_easternctedu).
 contact(acostaa, athenea_acosta, residence_hall_director, housing_and_residential_life, 860_465_0098,acostaat_at_easternctedu).
