@@ -1240,3 +1240,26 @@ courses(zatowskij, com245,1, t, 1600, 1845, communications_226).
 courses(zatowskij, com291,1, null, null, tba, tba).
 courses(zatowskij, com490,8, null, null, tba, tba).
 courses(zimmittil, edu470,1, mtwrf, 0800, 1530, tba).
+
+
+%Implication needed in this file
+%Tr to t and r
+courses(A, B, C, r, E, F, G) :- courses(A, B, C, tr, E, F, G).
+courses(A, B, C, t, E, F, G) :- courses(A, B, C, tr, E, F, G).
+%MWF
+courses(A, B, C, m, E, F, G) :- courses(A, B, C, mwf, E, F, G).
+courses(A, B, C, w, E, F, G) :- courses(A, B, C, mwf, E, F, G).
+courses(A, B, C, f, E, F, G) :- courses(A, B, C, mwf, E, F, G).
+%mw
+courses(A, B, C, m, E, F, G) :- courses(A, B, C, mw, E, F, G).
+courses(A, B, C, w, E, F, G) :- courses(A, B, C, mw, E, F, G).
+%mtwrf
+courses(A, B, C, m, E, F, G) :- courses(A, B, C, mtwrf, E, F, G).
+courses(A, B, C, t, E, F, G) :- courses(A, B, C, mtwrf, E, F, G).
+courses(A, B, C, w, E, F, G) :- courses(A, B, C, mtwrf, E, F, G).
+courses(A, B, C, r, E, F, G) :- courses(A, B, C, mtwrf, E, F, G).
+courses(A, B, C, f, E, F, G) :- courses(A, B, C, mtwrf, E, F, G).
+%mf
+courses(A, B, C, m, E, F, G) :- courses(A, B, C, mf, E, F, G).
+courses(A, B, C, f, E, F, G) :- courses(A, B, C, mf, E, F, G).
+
