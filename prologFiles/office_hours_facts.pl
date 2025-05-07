@@ -1,585 +1,585 @@
-oh(aidooa, mathematical_sciences, science_157, t, 1100, 1230).
-oh(aidooa, mathematical_sciences, science_157, w, 1200, 1400).
-oh(aidooa, mathematical_sciences, science_157, w, 1200, 1400).
-oh(andersond, health_sciences_and_nursing, goddard_212, m, 0800, 1500).
-oh(andersond, health_sciences_and_nursing, goddard_212, r, 0800, 1500).
-oh(andersond, health_sciences_and_nursing, goddard_212, w, 1100, 1600).
-oh(aventa, business_administration, communications_215, m, 1300, 1400).
-oh(aventa, business_administration, communications_215, w, 1300, 1400).
-oh(ayenio, business_administration, communications_213, null, null, null).
-oh(bachiochip, psychological_science, webb_130, w, 1300, 1500).
-oh(bachollem, world_languages_and_cultures, webb_233, f, 1000, 1100).
-oh(bachollem, world_languages_and_cultures, webb_233, f, 1200, 1300).
-oh(bachollem, world_languages_and_cultures, webb_233, m, 1500, 1700).
-oh(bachollem, world_languages_and_cultures, webb_233, w, 1000, 1100).
-oh(balcerskit, history, webb_332, r, 1100, 1200).
-oh(balcerskit, history, webb_332, t, 1600, 1700).
-oh(balcerskit, history, webb_332, w, 1200, 1500).
-oh(bataillea, health_sciences_and_nursing, goddard_217, m, 1000, 1100).
-oh(bataillea, health_sciences_and_nursing, goddard_217, m, 1200, 1300).
-oh(bataillea, health_sciences_and_nursing, goddard_217, r, 1100, 1200).
-oh(bataillea, health_sciences_and_nursing, goddard_217, w, 1000, 1100).
-oh(bataillea, health_sciences_and_nursing, goddard_217, w, 1200, 1300).
-oh(beauc, computer_science, science_168, f, 0800, 1230).
-oh(beauc, mathematical_sciences, science_168, f, 0800, 1230).
-oh(bellesd, music, fine_arts_234, f, 0900, 0950).
-oh(bellesd, music, fine_arts_234, m, 0900, 0950).
-oh(bellesd, music, fine_arts_234, w, 0900, 0950).
-oh(bellesd, music, fine_arts_234, w, 1300, 1350).
-oh(bergstromlynchc, sociology_anthropology_criminology_and_social_work, webb_433, null, null, null).
-oh(bondoka, computer_science, science_252, f, 0800, 0900).
-oh(bondoka, computer_science, science_252, m, 1200, 1400).
-oh(bondoka, computer_science, science_252, w, 1200, 1400).
-oh(bonsuk, mathematical_sciences, science_156, f, 1300, 1400).
-oh(bonsuk, mathematical_sciences, science_156, m, 1300, 1400).
-oh(bonsuk, mathematical_sciences, science_156, w, 1300, 1400).
-oh(boucherl, health_sciences_and_nursing, goddard_206, m, 1530, 1700).
-oh(boucherl, health_sciences_and_nursing, goddard_206, r, 0900, 1100).
-oh(boucherl, health_sciences_and_nursing, goddard_206, t, 0900, 1100).
-oh(boucherl, health_sciences_and_nursing, goddard_206, w, 1000, 1200).
-oh(bouleyt, education, the_center_for_early_childhood_education_212, r, 0845, 0930).
-oh(bouleyt, education, the_center_for_early_childhood_education_212, t, 1100, 1400).
-oh(bouleyt, education, the_center_for_early_childhood_education_212, t, 1515, 1600).
-oh(bouleyt, education, the_center_for_early_childhood_education_212, w, 1100, 1130).
-oh(brighthollanda, communication_film_and_theatre, fine_arts_223, m, 1400, 1500).
-oh(brighthollanda, communication_film_and_theatre, fine_arts_223, r, 1400, 1600).
-oh(brighthollanda, communication_film_and_theatre, fine_arts_223, t, 1400, 1600).
-oh(brosciousc, political_science_philosophy_geography, webb_353, r, 1045, 1200).
-oh(brosciousc, political_science_philosophy_geography, webb_353, r, 1350, 1420).
-oh(brosciousc, political_science_philosophy_geography, webb_353, t, 1045, 1200).
-oh(brosciousc, political_science_philosophy_geography, webb_353, t, 1350, 1420).
-oh(brosciousc, political_science_philosophy_geography, webb_353, w, 1300, 1430).
-oh(buckw, business_administration, communications_216, r, 1515, 1600).
-oh(buckw, business_administration, communications_216, t, 1515, 1600).
-oh(buckw, business_administration, communications_216, w, 1600, 1700).
-oh(calissij, music, fine_arts_236, f, 1300, 1400).
-oh(calissij, music, fine_arts_236, m, 1200, 1300).
-oh(calissij, music, fine_arts_236, r, 1530, 1700).
-oh(calissij, music, fine_arts_236, t, 1530, 1700).
-oh(canavanp, health_sciences_and_nursing, goddard_205, f, 1200, 1300).
-oh(canavanp, health_sciences_and_nursing, goddard_205, m, 1200, 1330).
-oh(canavanp, health_sciences_and_nursing, goddard_205, t, 1100, 1200).
-oh(canavanp, health_sciences_and_nursing, goddard_205, w, 1200, 1330).
-oh(carenenc, history, webb_331, r, 0800, 0900).
-oh(carenenc, history, webb_331, t, 0800, 0900).
-oh(carenenc, history, webb_331, w, 1200, 1330).
-oh(carrolls, health_sciences_and_nursing, goddard_214, f, 1000, 1200).
-oh(carrolls, health_sciences_and_nursing, goddard_214, m, 1000, 1100).
-oh(carrolls, health_sciences_and_nursing, goddard_214, w, 1000, 1200).
-oh(chank, world_languages_and_cultures, webb_226, m, 1215, 1515).
-oh(chank, world_languages_and_cultures, webb_226, r, 1100, 1130).
-oh(chank, world_languages_and_cultures, webb_226, t, 1000, 1130).
-oh(chattertonc, business_administration, communications_206, f, 1000, 1130).
-oh(chattertonc, business_administration, communications_206, m, 1000, 1130).
-oh(chattertonc, business_administration, communications_206, r, 1330, 1400).
-oh(chattertonc, business_administration, communications_206, w, 1000, 1130).
-oh(chent, art_and_art_history, fine_arts_310, m, 0900, 1200).
-oh(chent, art_and_art_history, fine_arts_310, r, 1530, 1630).
-oh(chent, art_and_art_history, fine_arts_310, t, 1530, 1630).
-oh(chiricom, english, webb_322, f, 1200, 1300).
-oh(chiricom, english, webb_322, f, 1400, 1600).
-oh(citursa, accounting_and_business_information_systems, webb_337, f, 1530, 1630).
-oh(citursa, accounting_and_business_information_systems, webb_337, m, 1200, 1300).
-oh(citursa, accounting_and_business_information_systems, webb_337, r, 1300, 1400).
-oh(citursa, accounting_and_business_information_systems, webb_337, t, 1300, 1400).
-oh(citursa, accounting_and_business_information_systems, webb_337, w, 1630, 1830).
-oh(clementss, political_science_philosophy_geography, webb_326,null, null, null).
-oh(clermontferrandm, english, webb_250, r, 1200, 1230).
-oh(clermontferrandm, english, webb_250, w, 1400, 1600).
-oh(cliffordm, economics_and_finance, communications_227a, r, 1200, 1330).
-oh(cliffordm, economics_and_finance, communications_227a, t, 1100, 1300).
-oh(cliffordm, economics_and_finance, communications_227a, w, 0800, 0930).
-oh(closes, history, webb_320, r, 0715, 0800).
-oh(closes, history, webb_320, t, 0715, 0800).
-oh(closes, history, webb_320, w, 0900, 1000).
-oh(cobbj, communication_film_and_theatre, fine_arts_224, r, 1230, 1400).
-oh(cobbj, communication_film_and_theatre, fine_arts_224, t, 1230, 1400).
-oh(cobbj, communication_film_and_theatre, fine_arts_224, w, 1100, 1300).
-oh(cochrant, music, fine_arts_233, r, 1100, 1300).
-oh(cochrant, music, fine_arts_233, t, 1100, 1300).
-oh(cochrant, music, fine_arts_233, w, 1400, 1500).
-oh(connollyb, biology, science_356_greenhouse_118_120, f, 1200, 1300).
-oh(connollyb, biology, science_356_greenhouse_118_120, m, 1200, 1300).
-oh(connollyb, biology, science_356_greenhouse_118_120, r, 1300, 1400).
-oh(connollyb, biology, science_356_greenhouse_118_120, w, 1000, 1100).
-oh(connollyb, biology, science_356_greenhouse_118_120, w, 1200, 1300).
-oh(cordonl, psychological_science, webb_135, w, 1100, 1400).
-oh(cornicelloa, music, fine_arts_235, f, 1000, 1100).
-oh(cornicelloa, music, fine_arts_235, m, 1000, 1100).
-oh(cornicelloa, music, fine_arts_235, m, 1400, 1500).
-oh(cornicelloa, music, fine_arts_235, w, 1000, 1100).
-oh(cornicelloa, music, fine_arts_235, w, 1400, 1500).
-oh(cotea, health_sciences_and_nursing, goddard_rm_225, f, 0930, 1030).
-oh(cotea, health_sciences_and_nursing, goddard_rm_225, f, 1500, 1600).
-oh(cotea, health_sciences_and_nursing, goddard_rm_225, m, 1030, 1200).
-oh(cotea, health_sciences_and_nursing, goddard_rm_225, w, 1500, 1600).
-oh(cousinsa, psychological_science, webb_132, f, 1000, 1150).
-oh(cousinsa, psychological_science, webb_132, w, 1100, 1150).
-oh(cowlese, biology, science_361, f, 1300, 1400).
-oh(cowlese, biology, science_361, m, 0800, 1000).
-oh(cowlese, biology, science_361, w, 1200, 1400).
-oh(cunninghamb, economics_and_finance, communications_227f, f, 1300, 1400).
-oh(cunninghamb, economics_and_finance, communications_227f, m, 1300, 1500).
-oh(cunninghamb, economics_and_finance, communications_227f, w, 1300, 1500).
-oh(cunninghamw, environmental_earth_science, science_264, r, 1300, 1500).
-oh(cunninghamw, environmental_earth_science, science_264, t, 1530, 1630).
-oh(cunninghamw, environmental_earth_science, science_264, w, 1400, 1600).
-oh(cwiklam, accounting_and_business_information_systems, webb_323, f, 1300, 1700).
-oh(cwiklam, accounting_and_business_information_systems, webb_323, r, 0800, 1700).
-oh(cwiklam, accounting_and_business_information_systems, webb_323, w, 0800, 1700).
-oh(cwiklam, sociology_anthropology_criminology_and_social_work, webb_421, f, 0800, 1200).
-oh(cwiklam, sociology_anthropology_criminology_and_social_work, webb_421, m, 0800, 1700).
-oh(cwiklam, sociology_anthropology_criminology_and_social_work, webb_421, t, 0800, 1700).
-oh(daled, health_sciences_and_nursing, goddard_212c, f, 0915, 1015).
-oh(dalek, mathematical_sciences, science_166, r, 0930, 1100).
-oh(dalek, mathematical_sciences, science_166, t, 0930, 1100).
-oh(dancikg, computer_science, science_257, m, 1500, 1700).
-oh(dancikg, computer_science, science_257, r, 1300, 1400).
-oh(dancikg, computer_science, science_257, r, 1530, 1630).
-oh(dancikg, computer_science, science_257, t, 1300, 1400).
-oh(davisb, history, webb_333, f, 1200, 1400).
-oh(davisb, history, webb_333, m, 1200, 1300).
-oh(davisb, history, webb_333, m, 1500, 1600).
-oh(davisb, history, webb_333, w, 1200, 1300).
-oh(davisb, history, webb_333, w, 1500, 1600).
-oh(davism, mathematical_sciences, science_152, m, 1200, 1430).
-oh(davism, mathematical_sciences, science_152, r, 1230, 1600).
-oh(davism, mathematical_sciences, science_152, t, 1400, 1530).
-oh(dayb, communication_film_and_theatre, fine_arts_232, m, 1200, 1300).
-oh(dayb, communication_film_and_theatre, fine_arts_232, t, 1230, 1330).
-oh(dayb, communication_film_and_theatre, fine_arts_232, w, 1100, 1400).
-oh(derosas, english, webb_236, r, 1300, 1400).
-oh(derosas, english, webb_236, r, 1530, 1630).
-oh(derosas, english, webb_236, t, 1200, 1400).
-oh(derosas, english, webb_236, w, 1300, 1400).
-oh(dillerj, psychological_science, webb_125, f, 0900, 1000).
-oh(dillerj, psychological_science, webb_125, m, 1000, 1100).
-oh(donaghyd, english, webb_235, r, 0830, 1100).
-oh(donaghyd, english, webb_235, t, 0845, 1100).
-oh(donaghyd, english, webb_235, w, 1545, 1600).
-oh(doylem, art_and_art_history, fine_arts_322, f, 1000, 1045).
-oh(doylem, art_and_art_history, fine_arts_322, f, 1500, 1600).
-oh(doylem, art_and_art_history, fine_arts_322, m, 1000, 1045).
-oh(doylem, art_and_art_history, fine_arts_322, m, 1600, 1700).
-oh(doylem, art_and_art_history, fine_arts_322, w, 1500, 1600).
-oh(drewryc, academic_success_center, library_227,null, null, null).
-oh(drzewieckip, environmental_earth_science, science_266, f, 1000, 1300).
-oh(drzewieckip, environmental_earth_science, science_266, m, 1000, 1300).
-oh(drzewieckip, environmental_earth_science, science_266, t, 0900, 1100).
-oh(drzewieckip, environmental_earth_science, science_266, w, 1000, 1300).
-oh(dzurecl, health_sciences_and_nursing, goddard_212, f, 0900, 1100).
-oh(dzurecl, health_sciences_and_nursing, goddard_212, m, 0900, 1100).
-oh(dzurecl, health_sciences_and_nursing, goddard_212, w, 0900, 1100).
-oh(eastonw, political_science_philosophy_geography, webb_326,null, null, null).
-oh(eppk, biology, science_363, m, 1200, 1400).
-oh(eppk, biology, science_363, t, 1300, 1400).
-oh(eppk, biology, science_363, w, 1200, 1400).
-oh(erwinc, business_administration, communications_209, r, 1230, 1345).
-oh(erwinc, business_administration, communications_209, t, 1230, 1345).
-oh(erwinc, business_administration, communications_209, t, 1715, 1845).
-oh(erwinc, business_administration, communications_209, w, 1400, 1500).
-oh(fabrizim, education, webb_129, m, 1430, 1530).
-oh(fabrizim, education, webb_129, r, 0800, 1000).
-oh(fabrizim, education, webb_129, w, 0800, 1000).
-oh(ferrarol, business_administration, communications_215, t, 1100, 1300).
-oh(ferrucis, english, webb_230, f, 1300, 1400).
-oh(ferrucis, english, webb_230, r, 1208, 0900).
-oh(ferrucis, english, webb_230, w, 1200, 1400).
-oh(floodr, communication_film_and_theatre, fine_arts_223, f, 1100, 1200).
-oh(floodr, communication_film_and_theatre, fine_arts_223, m, 0900, 1000).
-oh(floodr, communication_film_and_theatre, fine_arts_223, w, 0900, 1000).
-oh(fryed, history, webb_334, r, 0815, 0930).
-oh(fryed, history, webb_334, r, 1330, 1400).
-oh(fryed, history, webb_334, t, 0815, 0930).
-oh(fryed, history, webb_334, t, 1330, 1400).
-oh(fryed, history, webb_334, w, 1430, 1600).
-oh(fugerem, psychological_science, webb_131, f, 1100, 1240).
-oh(fugerem, psychological_science, webb_131, m, 1400, 1450).
-oh(gaok, computer_science, science_254, f, 1300, 1400).
-oh(gaok, computer_science, science_254, f, 1500, 1600).
-oh(gaok, computer_science, science_254, m, 1300, 1400).
-oh(gaok, computer_science, science_254, m, 1500, 1600).
-oh(gaok, computer_science, science_254, w, 1300, 1400).
-oh(garciam, political_science_philosophy_geography, webb_326,null, null, null).
-oh(grahamm, biology, science_366, f, 1100, 1200).
-oh(grahamm, biology, science_366, m, 1100, 1200).
-oh(grahamm, biology, science_366, m, 1400, 1500).
-oh(grahamm, biology, science_366, w, 1100, 1200).
-oh(grahamm, biology, science_366, w, 1400, 1500).
-oh(grandhis, business_administration, communications_208, w, 1200, 1400).
-oh(greener, art_and_art_history, fine_arts_306, m, 1200, 1500).
-oh(greener, art_and_art_history, fine_arts_306, r, 1500, 1600).
-oh(greener, art_and_art_history, fine_arts_306, t, 1500, 1600).
-oh(grotha, biology, science_354, f, 1200, 1300).
-oh(grotha, biology, science_354, m, 0900, 1000).
-oh(grotha, biology, science_354, w, 1200, 1400).
-oh(grotha, biology, science_354, w, 1500, 1600).
-oh(guom, accounting_and_business_information_systems, webb_341, r, 1220, 1350).
-oh(guom, accounting_and_business_information_systems, webb_341, r, 1520, 1620).
-oh(guom, accounting_and_business_information_systems, webb_341, t, 1220, 1350).
-oh(guom, accounting_and_business_information_systems, webb_341, w, 1300, 1400).
-oh(heenehanm, mathematical_sciences, science_153, f, 0900, 1000).
-oh(heenehanm, mathematical_sciences, science_153, m, 0900, 1000).
-oh(heenehanm, mathematical_sciences, science_153, w, 0900, 1000).
-oh(heenehanm, mathematical_sciences, science_153, w, 1400, 1600).
-oh(hek, physical_sciences, science_454, f, 1130, 1230).
-oh(hek, physical_sciences, science_454, f, 1400, 1500).
-oh(hek, physical_sciences, science_454, m, 1130, 1200).
-oh(hek, physical_sciences, science_454, m, 1400, 1530).
-oh(hek, physical_sciences, science_454, w, 1130, 1200).
-oh(hek, physical_sciences, science_454, w, 1400, 1530).
-oh(hulveyj, biology, science_362, f, 1000, 1100).
-oh(hulveyj, biology, science_362, f, 1200, 1300).
-oh(hulveyj, biology, science_362, m, 1000, 1100).
-oh(hulveyj, biology, science_362, w, 1000, 1100).
-oh(hulveyj, biology, science_362, w, 1200, 1300).
-oh(hwango, music, fine_arts_239, f, 0800, 0900).
-oh(hwango, music, fine_arts_239, f, 1300, 1400).
-oh(hwango, music, fine_arts_239, m, 0800, 0900).
-oh(hwango, music, fine_arts_239, m, 1200, 1300).
-oh(hwango, music, fine_arts_239, w, 0800, 0900).
-oh(hyattj, environmental_earth_science, science_267, f, 1100, 1200).
-oh(hyattj, environmental_earth_science, science_267, m, 1100, 1200).
-oh(hyattj, environmental_earth_science, science_267, m, 1400, 1500).
-oh(hyattj, environmental_earth_science, science_267, w, 1000, 1200).
-oh(idjadij, biology, science_358, f, 1100, 1200).
-oh(idjadij, biology, science_358, t, 1100, 1400).
-oh(idjadij, biology, science_358, w, 1300, 1400).
-oh(islams, physical_sciences, science_458, m, 1330, 1530).
-oh(islams, physical_sciences, science_458, t, 1500, 1600).
-oh(islams, physical_sciences, science_458, w, 1330, 1530).
-oh(jeonj, business_administration, communications_214, null, null, null).
-oh(johnsonkrewalkk, sociology_anthropology_criminology_and_social_work, webb_438, m, 1100, 1430).
-oh(johnsonkrewalkk, sociology_anthropology_criminology_and_social_work, webb_438, r, 0900, 1415).
-oh(johnsonkrewalkk, sociology_anthropology_criminology_and_social_work, webb_438, t, 0900, 1630).
-oh(johnsonkrewalkk, sociology_anthropology_criminology_and_social_work, webb_438, w, 1100, 1430).
-oh(johnsonp, mathematical_sciences, science_155, f, 1400, 1600).
-oh(johnsonp, mathematical_sciences, science_155, m, 1200, 1300).
-oh(johnsonp, mathematical_sciences, science_155, w, 1400, 1600).
-oh(kaneg, business_administration, communications_205, f, 0900, 1000).
-oh(kaneg, business_administration, communications_205, f, 1100, 1200).
-oh(kaneg, business_administration, communications_205, m, 0900, 1000).
-oh(kaneg, business_administration, communications_205, m, 1100, 1200).
-oh(kaneg, business_administration, communications_205, w, 0900, 1000).
-oh(kaneg, business_administration, communications_205, w, 1100, 1200).
-oh(kangm, business_administration, communications_210, r, 1530, 1700).
-oh(kangm, business_administration, communications_210, t, 1530, 1700).
-oh(kangm, business_administration, communications_210, w, 1400, 1600).
-oh(keyesm, psychological_science, webb_133, f, 1500, 1600).
-oh(keyesm, psychological_science, webb_133, m, 1600, 1730).
-oh(keyesm, psychological_science, webb_133, w, 1500, 1730).
-oh(khoramim, mathematical_sciences, science_163, m, 1100, 1300).
-oh(khoramim, mathematical_sciences, science_163, m, 1400, 1500).
-oh(khoramim, mathematical_sciences, science_163, r, 1000, 1100).
-oh(khoramim, mathematical_sciences, science_163, t, 1000, 1100).
-oh(kims, art_and_art_history, fine_arts_318, m, 1600, 1830).
-oh(kims, art_and_art_history, fine_arts_318, r, 1200, 1230).
-oh(kims, art_and_art_history, fine_arts_318, r, 1515, 1600).
-oh(kims, art_and_art_history, fine_arts_318, t, 1200, 1230).
-oh(kims, art_and_art_history, fine_arts_318, t, 1515, 1600).
-oh(koleks, psychological_science, webb_138, m, 1000, 1200).
-oh(koleks, psychological_science, webb_138, r, 1000, 1050).
-oh(koleks, psychological_science, webb_138, t, 1000, 1050).
-oh(kozad, physical_sciences, science_457, f, 0900, 1000).
-oh(kozad, physical_sciences, science_457, m, 0900, 1000).
-oh(kozad, physical_sciences, science_457, m, 1100, 1200).
-oh(kozad, physical_sciences, science_457, w, 0900, 1000).
-oh(kozad, physical_sciences, science_457, w, 1100, 1200).
-oh(krassasn, political_science_philosophy_geography, webb_327, f, 1000, 1100).
-oh(krassasn, political_science_philosophy_geography, webb_327, m, 1000, 1100).
-oh(krassasn, political_science_philosophy_geography, webb_327, m, 1400, 1500).
-oh(krassasn, political_science_philosophy_geography, webb_327, w, 1000, 1100).
-oh(krassasn, political_science_philosophy_geography, webb_327, w, 1400, 1500).
-oh(krebsc, psychological_science, webb_141, f, 1200, 1250).
-oh(krebsc, psychological_science, webb_141, r, 0900, 1130).
-oh(kunenek, accounting_and_business_information_systems, webb_349, r, 1515, 1545).
-oh(kunenek, accounting_and_business_information_systems, webb_349, t, 1515, 1600).
-oh(kunenek, accounting_and_business_information_systems, webb_349, w, 1200, 1300).
-oh(kunenek, accounting_and_business_information_systems, webb_349, w, 1400, 1700).
-oh(kurtim, sociology_anthropology_criminology_and_social_work, webb_441, r, 0900, 1100).
-oh(kurtim, sociology_anthropology_criminology_and_social_work, webb_441, t, 0900, 1100).
-oh(kurtim, sociology_anthropology_criminology_and_social_work, webb_441, w, 1100, 1200).
-oh(kyeii, economics_and_finance, communications_227c, m, 1200, 1600).
-oh(kyeii, economics_and_finance, communications_227c, t, 1030, 1100).
-oh(kyeii, economics_and_finance, communications_227c, w, 0930, 1000).
-oh(lanaganleitzell, psychological_science, webb_142, f, 0830, 0950).
-oh(lanaganleitzell, psychological_science, webb_142, m, 1400, 1500).
-oh(larosec, mathematical_sciences, science_161, f, 0900, 1000).
-oh(larosec, mathematical_sciences, science_161, f, 1215, 1300).
-oh(larosec, mathematical_sciences, science_161, m, 0900, 1000).
-oh(larosec, mathematical_sciences, science_161, m, 1215, 1300).
-oh(larosec, mathematical_sciences, science_161, w, 0900, 1000).
-oh(larosec, mathematical_sciences, science_161, w, 1215, 1300).
-oh(lauxd, biology, science_367, f, 1000, 1100).
-oh(lauxd, biology, science_367, f, 1200, 1400).
-oh(lauxd, biology, science_367, m, 1000, 1100).
-oh(lauxd, biology, science_367, w, 1000, 1100).
-oh(leek, education, the_center_for_early_childhood_education_216, m, 1900, 2000).
-oh(leek, education, the_center_for_early_childhood_education_216, r, 1000, 1200).
-oh(leek, education, the_center_for_early_childhood_education_216, t, 1100, 1300).
-oh(leel, art_and_art_history, fine_arts_319, m, 1215, 1430).
-oh(leel, art_and_art_history, fine_arts_319, t, 1445, 1515).
-oh(leel, art_and_art_history, fine_arts_319, w, 1215, 1430).
-oh(leep, psychological_science, webb_240, m, 1230, 1500).
-oh(leep, psychological_science, webb_240, r, 1400, 1515).
-oh(leep, psychological_science, webb_240, t, 1400, 1515).
-oh(leissa, sociology_anthropology_criminology_and_social_work, webb_432, r, 1530, 1700).
-oh(leissa, sociology_anthropology_criminology_and_social_work, webb_432, w, 1215, 1545).
-oh(leszczynskij, psychological_science, webb_134, f, 1000, 1100).
-oh(leszczynskij, psychological_science, webb_134, w, 1000, 1100).
-oh(leszczynskij, psychological_science, webb_134, w, 1300, 1430).
-oh(liangl, economics_and_finance, communications_227e, r, 0820, 0920).
-oh(liangl, economics_and_finance, communications_227e, t, 0820, 0920).
-oh(liangl, economics_and_finance, communications_227e, w, 0900, 1200).
-oh(lindersonk, academic_affairs, gelsi_228a, f, 0800, 1700).
-oh(liuq, art_and_art_history, fine_arts_320, m, 1000, 1200).
-oh(liuq, art_and_art_history, fine_arts_320, r, 1100, 1230).
-oh(liuq, art_and_art_history, fine_arts_320, t, 1100, 1230).
-oh(liux, education, webb_153, f, 1100, 1200).
-oh(liux, education, webb_153, r, 1130, 1230).
-oh(liux, education, webb_153, r, 1400, 1600).
-oh(liux, education, webb_153, t, 1300, 1400).
-oh(lopesj, communication_film_and_theatre, fine_arts_244, f, 0800, 1700).
-oh(lopesj, music, fine_arts_244, f, 0800, 1700).
-oh(lucink, biology, science_352, f, 1100, 1200).
-oh(lucink, biology, science_352, m, 1100, 1300).
-oh(lucink, biology, science_352, w, 1400, 1600).
-oh(lugow, sociology_anthropology_criminology_and_social_work, webb_434, r, 1100, 1230).
-oh(lugow, sociology_anthropology_criminology_and_social_work, webb_434, t, 1100, 1230).
-oh(lugow, sociology_anthropology_criminology_and_social_work, webb_434, w, 1300, 1530).
-oh(malenczykr, english, webb_254,null, null, null).
-oh(mamar, english, webb_246, r, 1530, 1600).
-oh(mamar, english, webb_246, t, 1530, 1600).
-oh(mamar, english, webb_246, w, 1030, 1230).
-oh(matthewsarmsteade, sociology_anthropology_criminology_and_social_work, webb_430, r, 0700, 0900).
-oh(matthewsarmsteade, sociology_anthropology_criminology_and_social_work, webb_430, t, 0700, 0800).
-oh(matthewsarmsteade, sociology_anthropology_criminology_and_social_work, webb_430, t, 1530, 1630).
-oh(mattinglyw, biology, science_364, f, 1100, 1200).
-oh(mattinglyw, biology, science_364, m, 0900, 1000).
-oh(mattinglyw, biology, science_364, m, 1100, 1200).
-oh(mattinglyw, biology, science_364, w, 0900, 1000).
-oh(mattinglyw, biology, science_364, w, 1100, 1200).
-oh(mcdonnellm, english, webb_420,null, null, null).
-oh(mcneilk, english, webb_234, r, 1345, 1515).
-oh(mcneilk, english, webb_234, w, 1245, 1445).
-oh(mendozabotelhom, political_science_philosophy_geography, webb_325, r, 1200, 1330).
-oh(mendozabotelhom, political_science_philosophy_geography, webb_325, t, 1200, 1330).
-oh(mendozabotelhom, political_science_philosophy_geography, webb_325, w, 1000, 1200).
-oh(metcalfm, environmental_earth_science, science_263, m, 1100, 1230).
-oh(metcalfm, environmental_earth_science, science_263, r, 1100, 1300).
-oh(metcalfm, environmental_earth_science, science_263, w, 1100, 1230).
-oh(michimia, political_science_philosophy_geography, webb_348, f, 1100, 1150).
-oh(michimia, political_science_philosophy_geography, webb_348, m, 1100, 1150).
-oh(michimia, political_science_philosophy_geography, webb_348, w, 1100, 1150).
-oh(mooreheadt, education, webb_149, m, 1130, 1330).
-oh(mooreheadt, education, webb_149, r, 0845, 0915).
-oh(mooreheadt, education, webb_149, t, 0900, 1130).
-oh(moores, history, webb_351, f, 0820, 0900).
-oh(moores, history, webb_351, f, 1000, 1100).
-oh(moores, history, webb_351, m, 0820, 0900).
-oh(moores, history, webb_351, m, 1000, 1100).
-oh(moores, history, webb_351, w, 0820, 0900).
-oh(moores, history, webb_351, w, 1000, 1100).
-oh(morgank, communication_film_and_theatre, fine_arts_229, m, 1000, 1100).
-oh(morgank, communication_film_and_theatre, fine_arts_229, t, 1230, 1400).
-oh(morgank, communication_film_and_theatre, fine_arts_229, w, 1300, 1530).
-oh(moylanw, business_administration, communications_202, m, 1430, 1530).
-oh(moylanw, business_administration, communications_202, r, 1200, 1430).
-oh(moylanw, business_administration, communications_202, t, 1200, 1430).
-oh(moylanw, business_administration, communications_202, w, 1430, 1530).
-oh(murdochb, biology, science_353, m, 0900, 1000).
-oh(murdochb, biology, science_353, r, 0830, 0930).
-oh(murdochb, biology, science_353, r, 1230, 1330).
-oh(murdochb, biology, science_353, t, 0830, 0930).
-oh(murdochb, biology, science_353, t, 1130, 1230).
-oh(nadeauc, health_sciences_and_nursing, goddard_220, f, 0900, 1700).
-oh(nathans, environmental_earth_science, science_262, m, 1300, 1500).
-oh(nathans, environmental_earth_science, science_262, w, 1300, 1600).
-oh(ndiayem, economics_and_finance, communications_227d, f, 1000, 1100).
-oh(ndiayem, economics_and_finance, communications_227d, f, 1400, 1440).
-oh(ndiayem, economics_and_finance, communications_227d, m, 1000, 1100).
-oh(ndiayem, economics_and_finance, communications_227d, m, 1400, 1440).
-oh(ndiayem, economics_and_finance, communications_227d, w, 1000, 1100).
-oh(ndiayem, economics_and_finance, communications_227d, w, 1400, 1440).
-oh(nightingales, sociology_anthropology_criminology_and_social_work, webb_440, r, 1530, 1630).
-oh(nightingales, sociology_anthropology_criminology_and_social_work, webb_440, t, 1300, 1400).
-oh(nightingales, sociology_anthropology_criminology_and_social_work, webb_440, w, 1000, 1300).
-oh(norvaln, business_administration, communications_215, w, 1100, 1300).
-oh(nsiahy, health_sciences_and_nursing, goddard_212d, f, 1300, 1400).
-oh(nsiahy, health_sciences_and_nursing, goddard_212d, m, 0900, 1000).
-oh(nsiahy, health_sciences_and_nursing, goddard_212d, r, 0800, 0900).
-oh(nsiahy, health_sciences_and_nursing, goddard_212d, t, 0900, 1000).
-oh(nsiahy, health_sciences_and_nursing, goddard_212d, w, 1200, 1300).
-oh(oakleyb, environmental_earth_science, science_265, r, 1400, 1530).
-oh(oakleyb, environmental_earth_science, science_265, t, 1400, 1530).
-oh(oakleyb, environmental_earth_science, science_265, w, 0930, 1130).
-oh(ohn, business_administration, communications_212, r, 1100, 1215).
-oh(ohn, business_administration, communications_212, r, 1400, 1500).
-oh(ohn, business_administration, communications_212, t, 1100, 1215).
-oh(ohn, business_administration, communications_212, t, 1400, 1500).
-oh(ohn, business_administration, communications_212, w, 1230, 1300).
-oh(osterndorfw, communication_film_and_theatre, communications_308, f, 1000, 1130).
-oh(osterndorfw, communication_film_and_theatre, communications_308, m, 1000, 1130).
-oh(osterndorfw, communication_film_and_theatre, communications_308, r, 0800, 0900).
-oh(osterndorfw, communication_film_and_theatre, communications_308, t, 0800, 0900).
-oh(osterndorfw, communication_film_and_theatre, communications_308, w, 1000, 1130).
-oh(ostwaldj, history, webb_352, r, 1400, 1600).
-oh(ostwaldj, history, webb_352, t, 1400, 1600).
-oh(ostwaldj, history, webb_352, w, 1400, 1500).
-oh(oterom, english, webb_244, r, 1045, 1145).
-oh(pakdilf, business_administration, communications_207, f, 0900, 1000).
-oh(pakdilf, business_administration, communications_207, m, 0900, 1100).
-oh(pakdilf, business_administration, communications_207, w, 0900, 1100).
-oh(parsonsn, sociology_anthropology_criminology_and_social_work, webb_420, r, 1600, 1645).
-oh(parsonsn, sociology_anthropology_criminology_and_social_work, webb_420, t, 1300, 1345).
-oh(parsonsn, sociology_anthropology_criminology_and_social_work, webb_420, w, 1000, 1330).
-oh(pazametaz, physical_sciences, science_460, m, 1300, 1400).
-oh(pazametaz, physical_sciences, science_460, r, 1530, 1730).
-oh(pazametaz, physical_sciences, science_460, t, 1530, 1730).
-oh(pellegrinid, communication_film_and_theatre, fine_arts_225, f, 1100, 1200).
-oh(pellegrinid, communication_film_and_theatre, fine_arts_225, m, 1300, 1500).
-oh(pellegrinid, communication_film_and_theatre, fine_arts_225, r, 1400, 1600).
-oh(perryk, business_administration, communications_215, m, 1200, 1400).
-oh(perryk, business_administration, communications_215, w, 1200, 1400).
-oh(pestar, sociology_anthropology_criminology_and_social_work, webb_429, f, 0830, 0930).
-oh(pestar, sociology_anthropology_criminology_and_social_work, webb_429, m, 0830, 0930).
-oh(pestar, sociology_anthropology_criminology_and_social_work, webb_429, w, 0830, 0930).
-oh(pestar, sociology_anthropology_criminology_and_social_work, webb_429, w, 1400, 1600).
-oh(rahmanifara, art_and_art_history, fine_arts_312, f, 1200, 1430).
-oh(rahmanifara, art_and_art_history, fine_arts_312, m, 0830, 0900).
-oh(rahmanifara, art_and_art_history, fine_arts_312, m, 1845, 1900).
-oh(rahmanifara, art_and_art_history, fine_arts_312, w, 0830, 0900).
-oh(rahmanifara, art_and_art_history, fine_arts_312, w, 1845, 1900).
-oh(richardss, education, webb_152, m, 1000, 1100).
-oh(richardss, education, webb_152, m, 1500, 1600).
-oh(richardss, education, webb_152, r, 1100, 1200).
-oh(richardss, education, webb_152, w, 1400, 1600).
-oh(riggse, music, fine_arts_238, f, 1130, 1200).
-oh(riggse, music, fine_arts_238, f, 1300, 1400).
-oh(riggse, music, fine_arts_238, r, 1200, 1300).
-oh(riggse, music, fine_arts_238, r, 1500, 1530).
-oh(riggse, music, fine_arts_238, w, 1100, 1200).
-oh(riggse, music, fine_arts_238, w, 1300, 1400).
-oh(robertd, education, the_center_for_early_childhood_education_210, m, 1100, 1200).
-oh(robertd, education, the_center_for_early_childhood_education_210, r, 0730, 0900).
-oh(robertd, education, the_center_for_early_childhood_education_210, r, 1500, 1600).
-oh(robertd, education, the_center_for_early_childhood_education_210, t, 0730, 0900).
-oh(rodriguezl, education, webb_151, r, 1530, 1630).
-oh(rodriguezl, education, webb_151, t, 0930, 1030).
-oh(rodriguezl, education, webb_151, w, 1030, 1200).
-oh(rodriguezl, education, webb_151, w, 1330, 1500).
-oh(rosienej, computer_science, science_256, f, 0800, 0900).
-oh(rosienej, computer_science, science_256, m, 0800, 0900).
-oh(rosienej, computer_science, science_256, m, 1300, 1400).
-oh(rosienej, computer_science, science_256, w, 0800, 0900).
-oh(rosienej, computer_science, science_256, w, 1300, 1400).
-oh(ruggerioa, history, webb_350, m, 1100, 1200).
-oh(rujoubm, accounting_and_business_information_systems, webb_336, r, 1215, 1415).
-oh(rujoubm, accounting_and_business_information_systems, webb_336, t, 1215, 1415).
-oh(rujoubm, accounting_and_business_information_systems, webb_336, w, 1330, 1430).
-oh(rukgaberm, political_science_philosophy_geography, webb_326,null, null, null).
-oh(saenzcambrac, history, webb_350, m, 1200, 1300).
-oh(salterspedneaultk, psychological_science, webb_231, f, 1200, 1400).
-oh(salterspedneaultk, psychological_science, webb_231, m, 1300, 1400).
-oh(salterspedneaultk, psychological_science, webb_231, w, 1200, 1400).
-oh(schallerj, accounting_and_business_information_systems, webb_335, r, 0930, 1030).
-oh(schallerj, accounting_and_business_information_systems, webb_335, t, 0930, 1030).
-oh(schallerj, accounting_and_business_information_systems, webb_335, w, 0930, 1030).
-oh(schallerj, accounting_and_business_information_systems, webb_335, w, 1300, 1500).
-oh(sciscoj, psychological_science, webb_140, m, 1245, 1445).
-oh(sciscoj, psychological_science, webb_140, r, 1245, 1345).
-oh(sciscoj, psychological_science, webb_140, t, 1245, 1345).
-oh(severancet, sociology_anthropology_criminology_and_social_work, webb_424, f, 1000, 1100).
-oh(severancet, sociology_anthropology_criminology_and_social_work, webb_424, m, 1000, 1200).
-oh(severancet, sociology_anthropology_criminology_and_social_work, webb_424, w, 1000, 1200).
-oh(shifrinm, education, webb_144,null, null, null).
-oh(simonn, sociology_anthropology_criminology_and_social_work, webb_453, m, 0800, 0915).
-oh(simonn, sociology_anthropology_criminology_and_social_work, webb_453, r, 0800, 0915).
-oh(simonn, sociology_anthropology_criminology_and_social_work, webb_453, t, 1300, 1330).
-oh(simonn, sociology_anthropology_criminology_and_social_work, webb_453, w, 1000, 1200).
-oh(smithe, health_sciences_and_nursing, goddard_212a, t, 1400, 1600).
-oh(smithe, health_sciences_and_nursing, goddard_212a, w, 1300, 1500).
-oh(sokolovskayaa, communication_film_and_theatre, fine_arts_231, m, 1230, 1430).
-oh(sokolovskayaa, communication_film_and_theatre, fine_arts_231, r, 1400, 1500).
-oh(sokolovskayaa, communication_film_and_theatre, fine_arts_231, t, 1000, 1200).
-oh(speichera, english, webb_253, f, 1200, 1250).
-oh(speichera, english, webb_253, f, 1400, 1450).
-oh(speichera, english, webb_253, m, 1400, 1600).
-oh(speichera, english, webb_253, w, 1000, 1050).
-oh(speichera, english, webb_253, w, 1400, 1430).
-oh(spellmanj, health_sciences_and_nursing, goddard_212, f, 0800, 1430).
-oh(spellmanj, health_sciences_and_nursing, goddard_212, t, 0800, 1500).
-oh(spellmanj, health_sciences_and_nursing, goddard_212, w, 0800, 1330).
-oh(stantonm, sociology_anthropology_criminology_and_social_work, webb_439, r, 1600, 1700).
-oh(stantonm, sociology_anthropology_criminology_and_social_work, webb_439, t, 1030, 1100).
-oh(stantonm, sociology_anthropology_criminology_and_social_work, webb_439, w, 0900, 1230).
-oh(stevensong, political_science_philosophy_geography, webb_348,null, null, null).
-oh(stockerk, political_science_philosophy_geography, webb_356, f, 1000, 1200).
-oh(stockerk, political_science_philosophy_geography, webb_356, m, 1000, 1200).
-oh(stockerk, political_science_philosophy_geography, webb_356, w, 1000, 1200).
-oh(stoloffd, education, webb_150, r, 1000, 1200).
-oh(stoloffd, education, webb_150, t, 1000, 1200).
-oh(stoloffd, education, webb_150, w, 1400, 1500).
-oh(swaminathans, education, the_center_for_early_childhood_education_220, r, 1430, 1630).
-oh(swaminathans, education, the_center_for_early_childhood_education_220, t, 1300, 1500).
-oh(swaminathans, education, the_center_for_early_childhood_education_220, w, 1400, 1500).
-oh(swetzoffs, political_science_philosophy_geography, webb_348, r, 1000, 1200).
-oh(swiftp, political_science_philosophy_geography, webb_326,null, null, null).
-oh(tasneems, computer_science, science_253, r, 1215, 1330).
-oh(tasneems, computer_science, science_253, r, 1515, 1600).
-oh(tasneems, computer_science, science_253, t, 1215, 1330).
-oh(tasneems, computer_science, science_253, t, 1515, 1600).
-oh(tasneems, computer_science, science_253, w, 1430, 1500).
-oh(thapag, health_sciences_and_nursing, goddard_222, f, 0900, 1300).
-oh(thapag, health_sciences_and_nursing, goddard_222, m, 0900, 1030).
-oh(thapag, health_sciences_and_nursing, goddard_222, r, 1100, 1200).
-oh(thapag, health_sciences_and_nursing, goddard_222, t, 1100, 1200).
-oh(thapag, health_sciences_and_nursing, goddard_222, w, 0900, 1200).
-oh(theodraj, political_science_philosophy_geography, webb_348, m, 1000, 1200).
-oh(toedtj, physical_sciences, science_456, f, 1100, 1200).
-oh(toedtj, physical_sciences, science_456, f, 1200, 1300).
-oh(toedtj, physical_sciences, science_456, m, 1100, 1200).
-oh(toedtj, physical_sciences, science_456, m, 1200, 1300).
-oh(toedtj, physical_sciences, science_456, w, 1200, 1300).
-oh(torockioc, english, webb_232, r, 1245, 1400).
-oh(torockioc, english, webb_232, w, 1330, 1430).
-oh(utterbacka, communication_film_and_theatre, fine_arts_309, r, 0830, 0930).
-oh(utterbacka, communication_film_and_theatre, fine_arts_309, r, 1100, 1230).
-oh(utterbacka, communication_film_and_theatre, fine_arts_309, t, 0830, 0930).
-oh(utterbacka, communication_film_and_theatre, fine_arts_309, t, 1100, 1230).
-oh(utterbacka, communication_film_and_theatre, fine_arts_309, w, 1500, 1600).
-oh(vasquezobrient, psychological_science, webb_139, m, 1100, 1300).
-oh(vasquezobrient, psychological_science, webb_139, r, 1400, 1530).
-oh(vasquezobrient, psychological_science, webb_139, t, 1400, 1530).
-oh(veerappanv, biology, science_357, f, 0800, 0900).
-oh(veerappanv, biology, science_357, f, 1300, 1400).
-oh(veerappanv, biology, science_357, m, 0800, 0900).
-oh(veerappanv, biology, science_357, r, 1400, 1500).
-oh(veerappanv, biology, science_357, w, 0800, 0900).
-oh(verrastron, political_science_philosophy_geography, webb_326,null, null, null).
-oh(villanuevae, business_administration, communications_203, f, 0930, 1130).
-oh(villanuevae, business_administration, communications_203, m, 0930, 1130).
-oh(villanuevae, business_administration, communications_203, w, 1300, 1400).
-oh(walterss, health_sciences_and_nursing, goddard_213, f, 0930, 1100).
-oh(walterss, health_sciences_and_nursing, goddard_213, m, 1300, 1500).
-oh(walterss, health_sciences_and_nursing, goddard_213, w, 1230, 1400).
-oh(wardk, mathematical_sciences, science_154, f, 1000, 1100).
-oh(wardk, mathematical_sciences, science_154, m, 1000, 1200).
-oh(wardk, mathematical_sciences, science_154, w, 1000, 1200).
-oh(weatherwaxn, history, webb_350, r, 1230, 1330).
-oh(weatherwaxn, history, webb_350, t, 1230, 1330).
-oh(wildea, business_administration, communications_204, f, 1115, 1145).
-oh(wildea, business_administration, communications_204, f, 1300, 1330).
-oh(wildea, business_administration, communications_204, m, 1115, 1145).
-oh(wildea, business_administration, communications_204, m, 1300, 1330).
-oh(wildea, business_administration, communications_204, t, 1100, 1300).
-oh(wildea, business_administration, communications_204, w, 1115, 1145).
-oh(wildea, business_administration, communications_204, w, 1300, 1330).
-oh(yankovc, mathematical_sciences, science_162, f, 1200, 1300).
-oh(yankovc, mathematical_sciences, science_162, m, 1300, 1500).
-oh(yankovc, mathematical_sciences, science_162, w, 1200, 1400).
-oh(youngbloodj, english, webb_255, f, 1000, 1200).
-oh(youngbloodj, english, webb_255, w, 2300, 1200).
-oh(zatowskij, communication_film_and_theatre, communications_106, m, 1400, 1500).
-oh(zatowskij, communication_film_and_theatre, communications_106, r, 1500, 1700).
-oh(zatowskij, communication_film_and_theatre, communications_106, t, 1300, 1600).
+oh(aidooa, mathematical_sciences, science, 157, t, 1100, 1230).
+oh(aidooa, mathematical_sciences, science, 157, w, 1200, 1400).
+oh(aidooa, mathematical_sciences, science, 157, w, 1200, 1400).
+oh(andersond, health_sciences_and_nursing, goddard, 212, m, 0800, 1500).
+oh(andersond, health_sciences_and_nursing, goddard, 212, r, 0800, 1500).
+oh(andersond, health_sciences_and_nursing, goddard, 212, w, 1100, 1600).
+oh(aventa, business_administration, communications, 215, m, 1300, 1400).
+oh(aventa, business_administration, communications, 215, w, 1300, 1400).
+oh(ayenio, business_administration, communications, 213, null, null, null).
+oh(bachiochip, psychological_science, webb, 130, w, 1300, 1500).
+oh(bachollem, world_languages_and_cultures, webb, 233, f, 1000, 1100).
+oh(bachollem, world_languages_and_cultures, webb, 233, f, 1200, 1300).
+oh(bachollem, world_languages_and_cultures, webb, 233, m, 1500, 1700).
+oh(bachollem, world_languages_and_cultures, webb, 233, w, 1000, 1100).
+oh(balcerskit, history, webb, 332, r, 1100, 1200).
+oh(balcerskit, history, webb, 332, t, 1600, 1700).
+oh(balcerskit, history, webb, 332, w, 1200, 1500).
+oh(bataillea, health_sciences_and_nursing, goddard, 217, m, 1000, 1100).
+oh(bataillea, health_sciences_and_nursing, goddard, 217, m, 1200, 1300).
+oh(bataillea, health_sciences_and_nursing, goddard, 217, r, 1100, 1200).
+oh(bataillea, health_sciences_and_nursing, goddard, 217, w, 1000, 1100).
+oh(bataillea, health_sciences_and_nursing, goddard, 217, w, 1200, 1300).
+oh(beauc, computer_science, science, 168, f, 0800, 1230).
+oh(beauc, mathematical_sciences, science, 168, f, 0800, 1230).
+oh(bellesd, music, fine_arts, 234, f, 0900, 0950).
+oh(bellesd, music, fine_arts, 234, m, 0900, 0950).
+oh(bellesd, music, fine_arts, 234, w, 0900, 0950).
+oh(bellesd, music, fine_arts, 234, w, 1300, 1350).
+oh(bergstromlynchc, sociology_anthropology_criminology_and_social_work, webb, 433, null, null, null).
+oh(bondoka, computer_science, science, 252, f, 0800, 0900).
+oh(bondoka, computer_science, science, 252, m, 1200, 1400).
+oh(bondoka, computer_science, science, 252, w, 1200, 1400).
+oh(bonsuk, mathematical_sciences, science, 156, f, 1300, 1400).
+oh(bonsuk, mathematical_sciences, science, 156, m, 1300, 1400).
+oh(bonsuk, mathematical_sciences, science, 156, w, 1300, 1400).
+oh(boucherl, health_sciences_and_nursing, goddard, 206, m, 1530, 1700).
+oh(boucherl, health_sciences_and_nursing, goddard, 206, r, 0900, 1100).
+oh(boucherl, health_sciences_and_nursing, goddard, 206, t, 0900, 1100).
+oh(boucherl, health_sciences_and_nursing, goddard, 206, w, 1000, 1200).
+oh(bouleyt, education, the_center_for_early_childhood_education, 212, r, 0845, 0930).
+oh(bouleyt, education, the_center_for_early_childhood_education, 212, t, 1100, 1400).
+oh(bouleyt, education, the_center_for_early_childhood_education, 212, t, 1515, 1600).
+oh(bouleyt, education, the_center_for_early_childhood_education, 212, w, 1100, 1130).
+oh(brighthollanda, communication_film_and_theatre, fine_arts, 223, m, 1400, 1500).
+oh(brighthollanda, communication_film_and_theatre, fine_arts, 223, r, 1400, 1600).
+oh(brighthollanda, communication_film_and_theatre, fine_arts, 223, t, 1400, 1600).
+oh(brosciousc, political_science_philosophy_geography, webb, 353, r, 1045, 1200).
+oh(brosciousc, political_science_philosophy_geography, webb, 353, r, 1350, 1420).
+oh(brosciousc, political_science_philosophy_geography, webb, 353, t, 1045, 1200).
+oh(brosciousc, political_science_philosophy_geography, webb, 353, t, 1350, 1420).
+oh(brosciousc, political_science_philosophy_geography, webb, 353, w, 1300, 1430).
+oh(buckw, business_administration, communications, 216, r, 1515, 1600).
+oh(buckw, business_administration, communications, 216, t, 1515, 1600).
+oh(buckw, business_administration, communications, 216, w, 1600, 1700).
+oh(calissij, music, fine_arts, 236, f, 1300, 1400).
+oh(calissij, music, fine_arts, 236, m, 1200, 1300).
+oh(calissij, music, fine_arts, 236, r, 1530, 1700).
+oh(calissij, music, fine_arts, 236, t, 1530, 1700).
+oh(canavanp, health_sciences_and_nursing, goddard, 205, f, 1200, 1300).
+oh(canavanp, health_sciences_and_nursing, goddard, 205, m, 1200, 1330).
+oh(canavanp, health_sciences_and_nursing, goddard, 205, t, 1100, 1200).
+oh(canavanp, health_sciences_and_nursing, goddard, 205, w, 1200, 1330).
+oh(carenenc, history, webb, 331, r, 0800, 0900).
+oh(carenenc, history, webb, 331, t, 0800, 0900).
+oh(carenenc, history, webb, 331, w, 1200, 1330).
+oh(carrolls, health_sciences_and_nursing, goddard, 214, f, 1000, 1200).
+oh(carrolls, health_sciences_and_nursing, goddard, 214, m, 1000, 1100).
+oh(carrolls, health_sciences_and_nursing, goddard, 214, w, 1000, 1200).
+oh(chank, world_languages_and_cultures, webb, 226, m, 1215, 1515).
+oh(chank, world_languages_and_cultures, webb, 226, r, 1100, 1130).
+oh(chank, world_languages_and_cultures, webb, 226, t, 1000, 1130).
+oh(chattertonc, business_administration, communications, 206, f, 1000, 1130).
+oh(chattertonc, business_administration, communications, 206, m, 1000, 1130).
+oh(chattertonc, business_administration, communications, 206, r, 1330, 1400).
+oh(chattertonc, business_administration, communications, 206, w, 1000, 1130).
+oh(chent, art_and_art_history, fine_arts, 310, m, 0900, 1200).
+oh(chent, art_and_art_history, fine_arts, 310, r, 1530, 1630).
+oh(chent, art_and_art_history, fine_arts, 310, t, 1530, 1630).
+oh(chiricom, english, webb, 322, f, 1200, 1300).
+oh(chiricom, english, webb, 322, f, 1400, 1600).
+oh(citursa, accounting_and_business_information_systems, webb, 337, f, 1530, 1630).
+oh(citursa, accounting_and_business_information_systems, webb, 337, m, 1200, 1300).
+oh(citursa, accounting_and_business_information_systems, webb, 337, r, 1300, 1400).
+oh(citursa, accounting_and_business_information_systems, webb, 337, t, 1300, 1400).
+oh(citursa, accounting_and_business_information_systems, webb, 337, w, 1630, 1830).
+oh(clementss, political_science_philosophy_geography, webb, 326,null, null, null).
+oh(clermontferrandm, english, webb, 250, r, 1200, 1230).
+oh(clermontferrandm, english, webb, 250, w, 1400, 1600).
+oh(cliffordm, economics_and_finance, communications, 227, r, 1200, 1330).
+oh(cliffordm, economics_and_finance, communications, 227, t, 1100, 1300).
+oh(cliffordm, economics_and_finance, communications, 227, w, 0800, 0930).
+oh(closes, history, webb, 320, r, 0715, 0800).
+oh(closes, history, webb, 320, t, 0715, 0800).
+oh(closes, history, webb, 320, w, 0900, 1000).
+oh(cobbj, communication_film_and_theatre, fine_arts, 224, r, 1230, 1400).
+oh(cobbj, communication_film_and_theatre, fine_arts, 224, t, 1230, 1400).
+oh(cobbj, communication_film_and_theatre, fine_arts, 224, w, 1100, 1300).
+oh(cochrant, music, fine_arts, 233, r, 1100, 1300).
+oh(cochrant, music, fine_arts, 233, t, 1100, 1300).
+oh(cochrant, music, fine_arts, 233, w, 1400, 1500).
+oh(connollyb, biology, science_356_greenhouse_118, 120, f, 1200, 1300).
+oh(connollyb, biology, science_356_greenhouse_118, 120, m, 1200, 1300).
+oh(connollyb, biology, science_356_greenhouse_118, 120, r, 1300, 1400).
+oh(connollyb, biology, science_356_greenhouse_118, 120, w, 1000, 1100).
+oh(connollyb, biology, science_356_greenhouse_118, 120, w, 1200, 1300).
+oh(cordonl, psychological_science, webb, 135, w, 1100, 1400).
+oh(cornicelloa, music, fine_arts, 235, f, 1000, 1100).
+oh(cornicelloa, music, fine_arts, 235, m, 1000, 1100).
+oh(cornicelloa, music, fine_arts, 235, m, 1400, 1500).
+oh(cornicelloa, music, fine_arts, 235, w, 1000, 1100).
+oh(cornicelloa, music, fine_arts, 235, w, 1400, 1500).
+oh(cotea, health_sciences_and_nursing, goddard_rm, 225, f, 0930, 1030).
+oh(cotea, health_sciences_and_nursing, goddard_rm, 225, f, 1500, 1600).
+oh(cotea, health_sciences_and_nursing, goddard_rm, 225, m, 1030, 1200).
+oh(cotea, health_sciences_and_nursing, goddard_rm, 225, w, 1500, 1600).
+oh(cousinsa, psychological_science, webb, 132, f, 1000, 1150).
+oh(cousinsa, psychological_science, webb, 132, w, 1100, 1150).
+oh(cowlese, biology, science, 361, f, 1300, 1400).
+oh(cowlese, biology, science, 361, m, 0800, 1000).
+oh(cowlese, biology, science, 361, w, 1200, 1400).
+oh(cunninghamb, economics_and_finance, communications, 227, f, 1300, 1400).
+oh(cunninghamb, economics_and_finance, communications, 227, m, 1300, 1500).
+oh(cunninghamb, economics_and_finance, communications, 227, w, 1300, 1500).
+oh(cunninghamw, environmental_earth_science, science, 264, r, 1300, 1500).
+oh(cunninghamw, environmental_earth_science, science, 264, t, 1530, 1630).
+oh(cunninghamw, environmental_earth_science, science, 264, w, 1400, 1600).
+oh(cwiklam, accounting_and_business_information_systems, webb, 323, f, 1300, 1700).
+oh(cwiklam, accounting_and_business_information_systems, webb, 323, r, 0800, 1700).
+oh(cwiklam, accounting_and_business_information_systems, webb, 323, w, 0800, 1700).
+oh(cwiklam, sociology_anthropology_criminology_and_social_work, webb, 421, f, 0800, 1200).
+oh(cwiklam, sociology_anthropology_criminology_and_social_work, webb, 421, m, 0800, 1700).
+oh(cwiklam, sociology_anthropology_criminology_and_social_work, webb, 421, t, 0800, 1700).
+oh(daled, health_sciences_and_nursing, goddard, 212, f, 0915, 1015).
+oh(dalek, mathematical_sciences, science, 166, r, 0930, 1100).
+oh(dalek, mathematical_sciences, science, 166, t, 0930, 1100).
+oh(dancikg, computer_science, science, 257, m, 1500, 1700).
+oh(dancikg, computer_science, science, 257, r, 1300, 1400).
+oh(dancikg, computer_science, science, 257, r, 1530, 1630).
+oh(dancikg, computer_science, science, 257, t, 1300, 1400).
+oh(davisb, history, webb, 333, f, 1200, 1400).
+oh(davisb, history, webb, 333, m, 1200, 1300).
+oh(davisb, history, webb, 333, m, 1500, 1600).
+oh(davisb, history, webb, 333, w, 1200, 1300).
+oh(davisb, history, webb, 333, w, 1500, 1600).
+oh(davism, mathematical_sciences, science, 152, m, 1200, 1430).
+oh(davism, mathematical_sciences, science, 152, r, 1230, 1600).
+oh(davism, mathematical_sciences, science, 152, t, 1400, 1530).
+oh(dayb, communication_film_and_theatre, fine_arts, 232, m, 1200, 1300).
+oh(dayb, communication_film_and_theatre, fine_arts, 232, t, 1230, 1330).
+oh(dayb, communication_film_and_theatre, fine_arts, 232, w, 1100, 1400).
+oh(derosas, english, webb, 236, r, 1300, 1400).
+oh(derosas, english, webb, 236, r, 1530, 1630).
+oh(derosas, english, webb, 236, t, 1200, 1400).
+oh(derosas, english, webb, 236, w, 1300, 1400).
+oh(dillerj, psychological_science, webb, 125, f, 0900, 1000).
+oh(dillerj, psychological_science, webb, 125, m, 1000, 1100).
+oh(donaghyd, english, webb, 235, r, 0830, 1100).
+oh(donaghyd, english, webb, 235, t, 0845, 1100).
+oh(donaghyd, english, webb, 235, w, 1545, 1600).
+oh(doylem, art_and_art_history, fine_arts, 322, f, 1000, 1045).
+oh(doylem, art_and_art_history, fine_arts, 322, f, 1500, 1600).
+oh(doylem, art_and_art_history, fine_arts, 322, m, 1000, 1045).
+oh(doylem, art_and_art_history, fine_arts, 322, m, 1600, 1700).
+oh(doylem, art_and_art_history, fine_arts, 322, w, 1500, 1600).
+oh(drewryc, academic_success_center, library, 227,null, null, null).
+oh(drzewieckip, environmental_earth_science, science, 266, f, 1000, 1300).
+oh(drzewieckip, environmental_earth_science, science, 266, m, 1000, 1300).
+oh(drzewieckip, environmental_earth_science, science, 266, t, 0900, 1100).
+oh(drzewieckip, environmental_earth_science, science, 266, w, 1000, 1300).
+oh(dzurecl, health_sciences_and_nursing, goddard, 212, f, 0900, 1100).
+oh(dzurecl, health_sciences_and_nursing, goddard, 212, m, 0900, 1100).
+oh(dzurecl, health_sciences_and_nursing, goddard, 212, w, 0900, 1100).
+oh(eastonw, political_science_philosophy_geography, webb, 326,null, null, null).
+oh(eppk, biology, science, 363, m, 1200, 1400).
+oh(eppk, biology, science, 363, t, 1300, 1400).
+oh(eppk, biology, science, 363, w, 1200, 1400).
+oh(erwinc, business_administration, communications, 209, r, 1230, 1345).
+oh(erwinc, business_administration, communications, 209, t, 1230, 1345).
+oh(erwinc, business_administration, communications, 209, t, 1715, 1845).
+oh(erwinc, business_administration, communications, 209, w, 1400, 1500).
+oh(fabrizim, education, webb, 129, m, 1430, 1530).
+oh(fabrizim, education, webb, 129, r, 0800, 1000).
+oh(fabrizim, education, webb, 129, w, 0800, 1000).
+oh(ferrarol, business_administration, communications, 215, t, 1100, 1300).
+oh(ferrucis, english, webb, 230, f, 1300, 1400).
+oh(ferrucis, english, webb, 230, r, 1208, 0900).
+oh(ferrucis, english, webb, 230, w, 1200, 1400).
+oh(floodr, communication_film_and_theatre, fine_arts, 223, f, 1100, 1200).
+oh(floodr, communication_film_and_theatre, fine_arts, 223, m, 0900, 1000).
+oh(floodr, communication_film_and_theatre, fine_arts, 223, w, 0900, 1000).
+oh(fryed, history, webb, 334, r, 0815, 0930).
+oh(fryed, history, webb, 334, r, 1330, 1400).
+oh(fryed, history, webb, 334, t, 0815, 0930).
+oh(fryed, history, webb, 334, t, 1330, 1400).
+oh(fryed, history, webb, 334, w, 1430, 1600).
+oh(fugerem, psychological_science, webb, 131, f, 1100, 1240).
+oh(fugerem, psychological_science, webb, 131, m, 1400, 1450).
+oh(gaok, computer_science, science, 254, f, 1300, 1400).
+oh(gaok, computer_science, science, 254, f, 1500, 1600).
+oh(gaok, computer_science, science, 254, m, 1300, 1400).
+oh(gaok, computer_science, science, 254, m, 1500, 1600).
+oh(gaok, computer_science, science, 254, w, 1300, 1400).
+oh(garciam, political_science_philosophy_geography, webb, 326,null, null, null).
+oh(grahamm, biology, science, 366, f, 1100, 1200).
+oh(grahamm, biology, science, 366, m, 1100, 1200).
+oh(grahamm, biology, science, 366, m, 1400, 1500).
+oh(grahamm, biology, science, 366, w, 1100, 1200).
+oh(grahamm, biology, science, 366, w, 1400, 1500).
+oh(grandhis, business_administration, communications, 208, w, 1200, 1400).
+oh(greener, art_and_art_history, fine_arts, 306, m, 1200, 1500).
+oh(greener, art_and_art_history, fine_arts, 306, r, 1500, 1600).
+oh(greener, art_and_art_history, fine_arts, 306, t, 1500, 1600).
+oh(grotha, biology, science, 354, f, 1200, 1300).
+oh(grotha, biology, science, 354, m, 0900, 1000).
+oh(grotha, biology, science, 354, w, 1200, 1400).
+oh(grotha, biology, science, 354, w, 1500, 1600).
+oh(guom, accounting_and_business_information_systems, webb, 341, r, 1220, 1350).
+oh(guom, accounting_and_business_information_systems, webb, 341, r, 1520, 1620).
+oh(guom, accounting_and_business_information_systems, webb, 341, t, 1220, 1350).
+oh(guom, accounting_and_business_information_systems, webb, 341, w, 1300, 1400).
+oh(heenehanm, mathematical_sciences, science, 153, f, 0900, 1000).
+oh(heenehanm, mathematical_sciences, science, 153, m, 0900, 1000).
+oh(heenehanm, mathematical_sciences, science, 153, w, 0900, 1000).
+oh(heenehanm, mathematical_sciences, science, 153, w, 1400, 1600).
+oh(hek, physical_sciences, science, 454, f, 1130, 1230).
+oh(hek, physical_sciences, science, 454, f, 1400, 1500).
+oh(hek, physical_sciences, science, 454, m, 1130, 1200).
+oh(hek, physical_sciences, science, 454, m, 1400, 1530).
+oh(hek, physical_sciences, science, 454, w, 1130, 1200).
+oh(hek, physical_sciences, science, 454, w, 1400, 1530).
+oh(hulveyj, biology, science, 362, f, 1000, 1100).
+oh(hulveyj, biology, science, 362, f, 1200, 1300).
+oh(hulveyj, biology, science, 362, m, 1000, 1100).
+oh(hulveyj, biology, science, 362, w, 1000, 1100).
+oh(hulveyj, biology, science, 362, w, 1200, 1300).
+oh(hwango, music, fine_arts, 239, f, 0800, 0900).
+oh(hwango, music, fine_arts, 239, f, 1300, 1400).
+oh(hwango, music, fine_arts, 239, m, 0800, 0900).
+oh(hwango, music, fine_arts, 239, m, 1200, 1300).
+oh(hwango, music, fine_arts, 239, w, 0800, 0900).
+oh(hyattj, environmental_earth_science, science, 267, f, 1100, 1200).
+oh(hyattj, environmental_earth_science, science, 267, m, 1100, 1200).
+oh(hyattj, environmental_earth_science, science, 267, m, 1400, 1500).
+oh(hyattj, environmental_earth_science, science, 267, w, 1000, 1200).
+oh(idjadij, biology, science, 358, f, 1100, 1200).
+oh(idjadij, biology, science, 358, t, 1100, 1400).
+oh(idjadij, biology, science, 358, w, 1300, 1400).
+oh(islams, physical_sciences, science, 458, m, 1330, 1530).
+oh(islams, physical_sciences, science, 458, t, 1500, 1600).
+oh(islams, physical_sciences, science, 458, w, 1330, 1530).
+oh(jeonj, business_administration, communications, 214, null, null, null).
+oh(johnsonkrewalkk, sociology_anthropology_criminology_and_social_work, webb, 438, m, 1100, 1430).
+oh(johnsonkrewalkk, sociology_anthropology_criminology_and_social_work, webb, 438, r, 0900, 1415).
+oh(johnsonkrewalkk, sociology_anthropology_criminology_and_social_work, webb, 438, t, 0900, 1630).
+oh(johnsonkrewalkk, sociology_anthropology_criminology_and_social_work, webb, 438, w, 1100, 1430).
+oh(johnsonp, mathematical_sciences, science, 155, f, 1400, 1600).
+oh(johnsonp, mathematical_sciences, science, 155, m, 1200, 1300).
+oh(johnsonp, mathematical_sciences, science, 155, w, 1400, 1600).
+oh(kaneg, business_administration, communications, 205, f, 0900, 1000).
+oh(kaneg, business_administration, communications, 205, f, 1100, 1200).
+oh(kaneg, business_administration, communications, 205, m, 0900, 1000).
+oh(kaneg, business_administration, communications, 205, m, 1100, 1200).
+oh(kaneg, business_administration, communications, 205, w, 0900, 1000).
+oh(kaneg, business_administration, communications, 205, w, 1100, 1200).
+oh(kangm, business_administration, communications, 210, r, 1530, 1700).
+oh(kangm, business_administration, communications, 210, t, 1530, 1700).
+oh(kangm, business_administration, communications, 210, w, 1400, 1600).
+oh(keyesm, psychological_science, webb, 133, f, 1500, 1600).
+oh(keyesm, psychological_science, webb, 133, m, 1600, 1730).
+oh(keyesm, psychological_science, webb, 133, w, 1500, 1730).
+oh(khoramim, mathematical_sciences, science, 163, m, 1100, 1300).
+oh(khoramim, mathematical_sciences, science, 163, m, 1400, 1500).
+oh(khoramim, mathematical_sciences, science, 163, r, 1000, 1100).
+oh(khoramim, mathematical_sciences, science, 163, t, 1000, 1100).
+oh(kims, art_and_art_history, fine_arts, 318, m, 1600, 1830).
+oh(kims, art_and_art_history, fine_arts, 318, r, 1200, 1230).
+oh(kims, art_and_art_history, fine_arts, 318, r, 1515, 1600).
+oh(kims, art_and_art_history, fine_arts, 318, t, 1200, 1230).
+oh(kims, art_and_art_history, fine_arts, 318, t, 1515, 1600).
+oh(koleks, psychological_science, webb, 138, m, 1000, 1200).
+oh(koleks, psychological_science, webb, 138, r, 1000, 1050).
+oh(koleks, psychological_science, webb, 138, t, 1000, 1050).
+oh(kozad, physical_sciences, science, 457, f, 0900, 1000).
+oh(kozad, physical_sciences, science, 457, m, 0900, 1000).
+oh(kozad, physical_sciences, science, 457, m, 1100, 1200).
+oh(kozad, physical_sciences, science, 457, w, 0900, 1000).
+oh(kozad, physical_sciences, science, 457, w, 1100, 1200).
+oh(krassasn, political_science_philosophy_geography, webb, 327, f, 1000, 1100).
+oh(krassasn, political_science_philosophy_geography, webb, 327, m, 1000, 1100).
+oh(krassasn, political_science_philosophy_geography, webb, 327, m, 1400, 1500).
+oh(krassasn, political_science_philosophy_geography, webb, 327, w, 1000, 1100).
+oh(krassasn, political_science_philosophy_geography, webb, 327, w, 1400, 1500).
+oh(krebsc, psychological_science, webb, 141, f, 1200, 1250).
+oh(krebsc, psychological_science, webb, 141, r, 0900, 1130).
+oh(kunenek, accounting_and_business_information_systems, webb, 349, r, 1515, 1545).
+oh(kunenek, accounting_and_business_information_systems, webb, 349, t, 1515, 1600).
+oh(kunenek, accounting_and_business_information_systems, webb, 349, w, 1200, 1300).
+oh(kunenek, accounting_and_business_information_systems, webb, 349, w, 1400, 1700).
+oh(kurtim, sociology_anthropology_criminology_and_social_work, webb, 441, r, 0900, 1100).
+oh(kurtim, sociology_anthropology_criminology_and_social_work, webb, 441, t, 0900, 1100).
+oh(kurtim, sociology_anthropology_criminology_and_social_work, webb, 441, w, 1100, 1200).
+oh(kyeii, economics_and_finance, communications, 227, m, 1200, 1600).
+oh(kyeii, economics_and_finance, communications, 227, t, 1030, 1100).
+oh(kyeii, economics_and_finance, communications, 227, w, 0930, 1000).
+oh(lanaganleitzell, psychological_science, webb, 142, f, 0830, 0950).
+oh(lanaganleitzell, psychological_science, webb, 142, m, 1400, 1500).
+oh(larosec, mathematical_sciences, science, 161, f, 0900, 1000).
+oh(larosec, mathematical_sciences, science, 161, f, 1215, 1300).
+oh(larosec, mathematical_sciences, science, 161, m, 0900, 1000).
+oh(larosec, mathematical_sciences, science, 161, m, 1215, 1300).
+oh(larosec, mathematical_sciences, science, 161, w, 0900, 1000).
+oh(larosec, mathematical_sciences, science, 161, w, 1215, 1300).
+oh(lauxd, biology, science, 367, f, 1000, 1100).
+oh(lauxd, biology, science, 367, f, 1200, 1400).
+oh(lauxd, biology, science, 367, m, 1000, 1100).
+oh(lauxd, biology, science, 367, w, 1000, 1100).
+oh(leek, education, the_center_for_early_childhood_education, 216, m, 1900, 2000).
+oh(leek, education, the_center_for_early_childhood_education, 216, r, 1000, 1200).
+oh(leek, education, the_center_for_early_childhood_education, 216, t, 1100, 1300).
+oh(leel, art_and_art_history, fine_arts, 319, m, 1215, 1430).
+oh(leel, art_and_art_history, fine_arts, 319, t, 1445, 1515).
+oh(leel, art_and_art_history, fine_arts, 319, w, 1215, 1430).
+oh(leep, psychological_science, webb, 240, m, 1230, 1500).
+oh(leep, psychological_science, webb, 240, r, 1400, 1515).
+oh(leep, psychological_science, webb, 240, t, 1400, 1515).
+oh(leissa, sociology_anthropology_criminology_and_social_work, webb, 432, r, 1530, 1700).
+oh(leissa, sociology_anthropology_criminology_and_social_work, webb, 432, w, 1215, 1545).
+oh(leszczynskij, psychological_science, webb, 134, f, 1000, 1100).
+oh(leszczynskij, psychological_science, webb, 134, w, 1000, 1100).
+oh(leszczynskij, psychological_science, webb, 134, w, 1300, 1430).
+oh(liangl, economics_and_finance, communications, 227, r, 0820, 0920).
+oh(liangl, economics_and_finance, communications, 227, t, 0820, 0920).
+oh(liangl, economics_and_finance, communications, 227, w, 0900, 1200).
+oh(lindersonk, academic_affairs, gelsi, 228, f, 0800, 1700).
+oh(liuq, art_and_art_history, fine_arts, 320, m, 1000, 1200).
+oh(liuq, art_and_art_history, fine_arts, 320, r, 1100, 1230).
+oh(liuq, art_and_art_history, fine_arts, 320, t, 1100, 1230).
+oh(liux, education, webb, 153, f, 1100, 1200).
+oh(liux, education, webb, 153, r, 1130, 1230).
+oh(liux, education, webb, 153, r, 1400, 1600).
+oh(liux, education, webb, 153, t, 1300, 1400).
+oh(lopesj, communication_film_and_theatre, fine_arts, 244, f, 0800, 1700).
+oh(lopesj, music, fine_arts, 244, f, 0800, 1700).
+oh(lucink, biology, science, 352, f, 1100, 1200).
+oh(lucink, biology, science, 352, m, 1100, 1300).
+oh(lucink, biology, science, 352, w, 1400, 1600).
+oh(lugow, sociology_anthropology_criminology_and_social_work, webb, 434, r, 1100, 1230).
+oh(lugow, sociology_anthropology_criminology_and_social_work, webb, 434, t, 1100, 1230).
+oh(lugow, sociology_anthropology_criminology_and_social_work, webb, 434, w, 1300, 1530).
+oh(malenczykr, english, webb, 254,null, null, null).
+oh(mamar, english, webb, 246, r, 1530, 1600).
+oh(mamar, english, webb, 246, t, 1530, 1600).
+oh(mamar, english, webb, 246, w, 1030, 1230).
+oh(matthewsarmsteade, sociology_anthropology_criminology_and_social_work, webb, 430, r, 0700, 0900).
+oh(matthewsarmsteade, sociology_anthropology_criminology_and_social_work, webb, 430, t, 0700, 0800).
+oh(matthewsarmsteade, sociology_anthropology_criminology_and_social_work, webb, 430, t, 1530, 1630).
+oh(mattinglyw, biology, science, 364, f, 1100, 1200).
+oh(mattinglyw, biology, science, 364, m, 0900, 1000).
+oh(mattinglyw, biology, science, 364, m, 1100, 1200).
+oh(mattinglyw, biology, science, 364, w, 0900, 1000).
+oh(mattinglyw, biology, science, 364, w, 1100, 1200).
+oh(mcdonnellm, english, webb, 420,null, null, null).
+oh(mcneilk, english, webb, 234, r, 1345, 1515).
+oh(mcneilk, english, webb, 234, w, 1245, 1445).
+oh(mendozabotelhom, political_science_philosophy_geography, webb, 325, r, 1200, 1330).
+oh(mendozabotelhom, political_science_philosophy_geography, webb, 325, t, 1200, 1330).
+oh(mendozabotelhom, political_science_philosophy_geography, webb, 325, w, 1000, 1200).
+oh(metcalfm, environmental_earth_science, science, 263, m, 1100, 1230).
+oh(metcalfm, environmental_earth_science, science, 263, r, 1100, 1300).
+oh(metcalfm, environmental_earth_science, science, 263, w, 1100, 1230).
+oh(michimia, political_science_philosophy_geography, webb, 348, f, 1100, 1150).
+oh(michimia, political_science_philosophy_geography, webb, 348, m, 1100, 1150).
+oh(michimia, political_science_philosophy_geography, webb, 348, w, 1100, 1150).
+oh(mooreheadt, education, webb, 149, m, 1130, 1330).
+oh(mooreheadt, education, webb, 149, r, 0845, 0915).
+oh(mooreheadt, education, webb, 149, t, 0900, 1130).
+oh(moores, history, webb, 351, f, 0820, 0900).
+oh(moores, history, webb, 351, f, 1000, 1100).
+oh(moores, history, webb, 351, m, 0820, 0900).
+oh(moores, history, webb, 351, m, 1000, 1100).
+oh(moores, history, webb, 351, w, 0820, 0900).
+oh(moores, history, webb, 351, w, 1000, 1100).
+oh(morgank, communication_film_and_theatre, fine_arts, 229, m, 1000, 1100).
+oh(morgank, communication_film_and_theatre, fine_arts, 229, t, 1230, 1400).
+oh(morgank, communication_film_and_theatre, fine_arts, 229, w, 1300, 1530).
+oh(moylanw, business_administration, communications, 202, m, 1430, 1530).
+oh(moylanw, business_administration, communications, 202, r, 1200, 1430).
+oh(moylanw, business_administration, communications, 202, t, 1200, 1430).
+oh(moylanw, business_administration, communications, 202, w, 1430, 1530).
+oh(murdochb, biology, science, 353, m, 0900, 1000).
+oh(murdochb, biology, science, 353, r, 0830, 0930).
+oh(murdochb, biology, science, 353, r, 1230, 1330).
+oh(murdochb, biology, science, 353, t, 0830, 0930).
+oh(murdochb, biology, science, 353, t, 1130, 1230).
+oh(nadeauc, health_sciences_and_nursing, goddard, 220, f, 0900, 1700).
+oh(nathans, environmental_earth_science, science, 262, m, 1300, 1500).
+oh(nathans, environmental_earth_science, science, 262, w, 1300, 1600).
+oh(ndiayem, economics_and_finance, communications, 227, f, 1000, 1100).
+oh(ndiayem, economics_and_finance, communications, 227, f, 1400, 1440).
+oh(ndiayem, economics_and_finance, communications, 227, m, 1000, 1100).
+oh(ndiayem, economics_and_finance, communications, 227, m, 1400, 1440).
+oh(ndiayem, economics_and_finance, communications, 227, w, 1000, 1100).
+oh(ndiayem, economics_and_finance, communications, 227, w, 1400, 1440).
+oh(nightingales, sociology_anthropology_criminology_and_social_work, webb, 440, r, 1530, 1630).
+oh(nightingales, sociology_anthropology_criminology_and_social_work, webb, 440, t, 1300, 1400).
+oh(nightingales, sociology_anthropology_criminology_and_social_work, webb, 440, w, 1000, 1300).
+oh(norvaln, business_administration, communications, 215, w, 1100, 1300).
+oh(nsiahy, health_sciences_and_nursing, goddard, 212, f, 1300, 1400).
+oh(nsiahy, health_sciences_and_nursing, goddard, 212, m, 0900, 1000).
+oh(nsiahy, health_sciences_and_nursing, goddard, 212, r, 0800, 0900).
+oh(nsiahy, health_sciences_and_nursing, goddard, 212, t, 0900, 1000).
+oh(nsiahy, health_sciences_and_nursing, goddard, 212, w, 1200, 1300).
+oh(oakleyb, environmental_earth_science, science, 265, r, 1400, 1530).
+oh(oakleyb, environmental_earth_science, science, 265, t, 1400, 1530).
+oh(oakleyb, environmental_earth_science, science, 265, w, 0930, 1130).
+oh(ohn, business_administration, communications, 212, r, 1100, 1215).
+oh(ohn, business_administration, communications, 212, r, 1400, 1500).
+oh(ohn, business_administration, communications, 212, t, 1100, 1215).
+oh(ohn, business_administration, communications, 212, t, 1400, 1500).
+oh(ohn, business_administration, communications, 212, w, 1230, 1300).
+oh(osterndorfw, communication_film_and_theatre, communications, 308, f, 1000, 1130).
+oh(osterndorfw, communication_film_and_theatre, communications, 308, m, 1000, 1130).
+oh(osterndorfw, communication_film_and_theatre, communications, 308, r, 0800, 0900).
+oh(osterndorfw, communication_film_and_theatre, communications, 308, t, 0800, 0900).
+oh(osterndorfw, communication_film_and_theatre, communications, 308, w, 1000, 1130).
+oh(ostwaldj, history, webb, 352, r, 1400, 1600).
+oh(ostwaldj, history, webb, 352, t, 1400, 1600).
+oh(ostwaldj, history, webb, 352, w, 1400, 1500).
+oh(oterom, english, webb, 244, r, 1045, 1145).
+oh(pakdilf, business_administration, communications, 207, f, 0900, 1000).
+oh(pakdilf, business_administration, communications, 207, m, 0900, 1100).
+oh(pakdilf, business_administration, communications, 207, w, 0900, 1100).
+oh(parsonsn, sociology_anthropology_criminology_and_social_work, webb, 420, r, 1600, 1645).
+oh(parsonsn, sociology_anthropology_criminology_and_social_work, webb, 420, t, 1300, 1345).
+oh(parsonsn, sociology_anthropology_criminology_and_social_work, webb, 420, w, 1000, 1330).
+oh(pazametaz, physical_sciences, science, 460, m, 1300, 1400).
+oh(pazametaz, physical_sciences, science, 460, r, 1530, 1730).
+oh(pazametaz, physical_sciences, science, 460, t, 1530, 1730).
+oh(pellegrinid, communication_film_and_theatre, fine_arts, 225, f, 1100, 1200).
+oh(pellegrinid, communication_film_and_theatre, fine_arts, 225, m, 1300, 1500).
+oh(pellegrinid, communication_film_and_theatre, fine_arts, 225, r, 1400, 1600).
+oh(perryk, business_administration, communications, 215, m, 1200, 1400).
+oh(perryk, business_administration, communications, 215, w, 1200, 1400).
+oh(pestar, sociology_anthropology_criminology_and_social_work, webb, 429, f, 0830, 0930).
+oh(pestar, sociology_anthropology_criminology_and_social_work, webb, 429, m, 0830, 0930).
+oh(pestar, sociology_anthropology_criminology_and_social_work, webb, 429, w, 0830, 0930).
+oh(pestar, sociology_anthropology_criminology_and_social_work, webb, 429, w, 1400, 1600).
+oh(rahmanifara, art_and_art_history, fine_arts, 312, f, 1200, 1430).
+oh(rahmanifara, art_and_art_history, fine_arts, 312, m, 0830, 0900).
+oh(rahmanifara, art_and_art_history, fine_arts, 312, m, 1845, 1900).
+oh(rahmanifara, art_and_art_history, fine_arts, 312, w, 0830, 0900).
+oh(rahmanifara, art_and_art_history, fine_arts, 312, w, 1845, 1900).
+oh(richardss, education, webb, 152, m, 1000, 1100).
+oh(richardss, education, webb, 152, m, 1500, 1600).
+oh(richardss, education, webb, 152, r, 1100, 1200).
+oh(richardss, education, webb, 152, w, 1400, 1600).
+oh(riggse, music, fine_arts, 238, f, 1130, 1200).
+oh(riggse, music, fine_arts, 238, f, 1300, 1400).
+oh(riggse, music, fine_arts, 238, r, 1200, 1300).
+oh(riggse, music, fine_arts, 238, r, 1500, 1530).
+oh(riggse, music, fine_arts, 238, w, 1100, 1200).
+oh(riggse, music, fine_arts, 238, w, 1300, 1400).
+oh(robertd, education, the_center_for_early_childhood_education, 210, m, 1100, 1200).
+oh(robertd, education, the_center_for_early_childhood_education, 210, r, 0730, 0900).
+oh(robertd, education, the_center_for_early_childhood_education, 210, r, 1500, 1600).
+oh(robertd, education, the_center_for_early_childhood_education, 210, t, 0730, 0900).
+oh(rodriguezl, education, webb, 151, r, 1530, 1630).
+oh(rodriguezl, education, webb, 151, t, 0930, 1030).
+oh(rodriguezl, education, webb, 151, w, 1030, 1200).
+oh(rodriguezl, education, webb, 151, w, 1330, 1500).
+oh(rosienej, computer_science, science, 256, f, 0800, 0900).
+oh(rosienej, computer_science, science, 256, m, 0800, 0900).
+oh(rosienej, computer_science, science, 256, m, 1300, 1400).
+oh(rosienej, computer_science, science, 256, w, 0800, 0900).
+oh(rosienej, computer_science, science, 256, w, 1300, 1400).
+oh(ruggerioa, history, webb, 350, m, 1100, 1200).
+oh(rujoubm, accounting_and_business_information_systems, webb, 336, r, 1215, 1415).
+oh(rujoubm, accounting_and_business_information_systems, webb, 336, t, 1215, 1415).
+oh(rujoubm, accounting_and_business_information_systems, webb, 336, w, 1330, 1430).
+oh(rukgaberm, political_science_philosophy_geography, webb, 326,null, null, null).
+oh(saenzcambrac, history, webb, 350, m, 1200, 1300).
+oh(salterspedneaultk, psychological_science, webb, 231, f, 1200, 1400).
+oh(salterspedneaultk, psychological_science, webb, 231, m, 1300, 1400).
+oh(salterspedneaultk, psychological_science, webb, 231, w, 1200, 1400).
+oh(schallerj, accounting_and_business_information_systems, webb, 335, r, 0930, 1030).
+oh(schallerj, accounting_and_business_information_systems, webb, 335, t, 0930, 1030).
+oh(schallerj, accounting_and_business_information_systems, webb, 335, w, 0930, 1030).
+oh(schallerj, accounting_and_business_information_systems, webb, 335, w, 1300, 1500).
+oh(sciscoj, psychological_science, webb, 140, m, 1245, 1445).
+oh(sciscoj, psychological_science, webb, 140, r, 1245, 1345).
+oh(sciscoj, psychological_science, webb, 140, t, 1245, 1345).
+oh(severancet, sociology_anthropology_criminology_and_social_work, webb, 424, f, 1000, 1100).
+oh(severancet, sociology_anthropology_criminology_and_social_work, webb, 424, m, 1000, 1200).
+oh(severancet, sociology_anthropology_criminology_and_social_work, webb, 424, w, 1000, 1200).
+oh(shifrinm, education, webb, 144,null, null, null).
+oh(simonn, sociology_anthropology_criminology_and_social_work, webb, 453, m, 0800, 0915).
+oh(simonn, sociology_anthropology_criminology_and_social_work, webb, 453, r, 0800, 0915).
+oh(simonn, sociology_anthropology_criminology_and_social_work, webb, 453, t, 1300, 1330).
+oh(simonn, sociology_anthropology_criminology_and_social_work, webb, 453, w, 1000, 1200).
+oh(smithe, health_sciences_and_nursing, goddard, 212, t, 1400, 1600).
+oh(smithe, health_sciences_and_nursing, goddard, 212, w, 1300, 1500).
+oh(sokolovskayaa, communication_film_and_theatre, fine_arts, 231, m, 1230, 1430).
+oh(sokolovskayaa, communication_film_and_theatre, fine_arts, 231, r, 1400, 1500).
+oh(sokolovskayaa, communication_film_and_theatre, fine_arts, 231, t, 1000, 1200).
+oh(speichera, english, webb, 253, f, 1200, 1250).
+oh(speichera, english, webb, 253, f, 1400, 1450).
+oh(speichera, english, webb, 253, m, 1400, 1600).
+oh(speichera, english, webb, 253, w, 1000, 1050).
+oh(speichera, english, webb, 253, w, 1400, 1430).
+oh(spellmanj, health_sciences_and_nursing, goddard, 212, f, 0800, 1430).
+oh(spellmanj, health_sciences_and_nursing, goddard, 212, t, 0800, 1500).
+oh(spellmanj, health_sciences_and_nursing, goddard, 212, w, 0800, 1330).
+oh(stantonm, sociology_anthropology_criminology_and_social_work, webb, 439, r, 1600, 1700).
+oh(stantonm, sociology_anthropology_criminology_and_social_work, webb, 439, t, 1030, 1100).
+oh(stantonm, sociology_anthropology_criminology_and_social_work, webb, 439, w, 0900, 1230).
+oh(stevensong, political_science_philosophy_geography, webb, 348,null, null, null).
+oh(stockerk, political_science_philosophy_geography, webb, 356, f, 1000, 1200).
+oh(stockerk, political_science_philosophy_geography, webb, 356, m, 1000, 1200).
+oh(stockerk, political_science_philosophy_geography, webb, 356, w, 1000, 1200).
+oh(stoloffd, education, webb, 150, r, 1000, 1200).
+oh(stoloffd, education, webb, 150, t, 1000, 1200).
+oh(stoloffd, education, webb, 150, w, 1400, 1500).
+oh(swaminathans, education, the_center_for_early_childhood_education, 220, r, 1430, 1630).
+oh(swaminathans, education, the_center_for_early_childhood_education, 220, t, 1300, 1500).
+oh(swaminathans, education, the_center_for_early_childhood_education, 220, w, 1400, 1500).
+oh(swetzoffs, political_science_philosophy_geography, webb, 348, r, 1000, 1200).
+oh(swiftp, political_science_philosophy_geography, webb, 326,null, null, null).
+oh(tasneems, computer_science, science, 253, r, 1215, 1330).
+oh(tasneems, computer_science, science, 253, r, 1515, 1600).
+oh(tasneems, computer_science, science, 253, t, 1215, 1330).
+oh(tasneems, computer_science, science, 253, t, 1515, 1600).
+oh(tasneems, computer_science, science, 253, w, 1430, 1500).
+oh(thapag, health_sciences_and_nursing, goddard, 222, f, 0900, 1300).
+oh(thapag, health_sciences_and_nursing, goddard, 222, m, 0900, 1030).
+oh(thapag, health_sciences_and_nursing, goddard, 222, r, 1100, 1200).
+oh(thapag, health_sciences_and_nursing, goddard, 222, t, 1100, 1200).
+oh(thapag, health_sciences_and_nursing, goddard, 222, w, 0900, 1200).
+oh(theodraj, political_science_philosophy_geography, webb, 348, m, 1000, 1200).
+oh(toedtj, physical_sciences, science, 456, f, 1100, 1200).
+oh(toedtj, physical_sciences, science, 456, f, 1200, 1300).
+oh(toedtj, physical_sciences, science, 456, m, 1100, 1200).
+oh(toedtj, physical_sciences, science, 456, m, 1200, 1300).
+oh(toedtj, physical_sciences, science, 456, w, 1200, 1300).
+oh(torockioc, english, webb, 232, r, 1245, 1400).
+oh(torockioc, english, webb, 232, w, 1330, 1430).
+oh(utterbacka, communication_film_and_theatre, fine_arts, 309, r, 0830, 0930).
+oh(utterbacka, communication_film_and_theatre, fine_arts, 309, r, 1100, 1230).
+oh(utterbacka, communication_film_and_theatre, fine_arts, 309, t, 0830, 0930).
+oh(utterbacka, communication_film_and_theatre, fine_arts, 309, t, 1100, 1230).
+oh(utterbacka, communication_film_and_theatre, fine_arts, 309, w, 1500, 1600).
+oh(vasquezobrient, psychological_science, webb, 139, m, 1100, 1300).
+oh(vasquezobrient, psychological_science, webb, 139, r, 1400, 1530).
+oh(vasquezobrient, psychological_science, webb, 139, t, 1400, 1530).
+oh(veerappanv, biology, science, 357, f, 0800, 0900).
+oh(veerappanv, biology, science, 357, f, 1300, 1400).
+oh(veerappanv, biology, science, 357, m, 0800, 0900).
+oh(veerappanv, biology, science, 357, r, 1400, 1500).
+oh(veerappanv, biology, science, 357, w, 0800, 0900).
+oh(verrastron, political_science_philosophy_geography, webb, 326,null, null, null).
+oh(villanuevae, business_administration, communications, 203, f, 0930, 1130).
+oh(villanuevae, business_administration, communications, 203, m, 0930, 1130).
+oh(villanuevae, business_administration, communications, 203, w, 1300, 1400).
+oh(walterss, health_sciences_and_nursing, goddard, 213, f, 0930, 1100).
+oh(walterss, health_sciences_and_nursing, goddard, 213, m, 1300, 1500).
+oh(walterss, health_sciences_and_nursing, goddard, 213, w, 1230, 1400).
+oh(wardk, mathematical_sciences, science, 154, f, 1000, 1100).
+oh(wardk, mathematical_sciences, science, 154, m, 1000, 1200).
+oh(wardk, mathematical_sciences, science, 154, w, 1000, 1200).
+oh(weatherwaxn, history, webb, 350, r, 1230, 1330).
+oh(weatherwaxn, history, webb, 350, t, 1230, 1330).
+oh(wildea, business_administration, communications, 204, f, 1115, 1145).
+oh(wildea, business_administration, communications, 204, f, 1300, 1330).
+oh(wildea, business_administration, communications, 204, m, 1115, 1145).
+oh(wildea, business_administration, communications, 204, m, 1300, 1330).
+oh(wildea, business_administration, communications, 204, t, 1100, 1300).
+oh(wildea, business_administration, communications, 204, w, 1115, 1145).
+oh(wildea, business_administration, communications, 204, w, 1300, 1330).
+oh(yankovc, mathematical_sciences, science, 162, f, 1200, 1300).
+oh(yankovc, mathematical_sciences, science, 162, m, 1300, 1500).
+oh(yankovc, mathematical_sciences, science, 162, w, 1200, 1400).
+oh(youngbloodj, english, webb, 255, f, 1000, 1200).
+oh(youngbloodj, english, webb, 255, w, 2300, 1200).
+oh(zatowskij, communication_film_and_theatre, communications, 106, m, 1400, 1500).
+oh(zatowskij, communication_film_and_theatre, communications, 106, r, 1500, 1700).
+oh(zatowskij, communication_film_and_theatre, communications, 106, t, 1300, 1600).

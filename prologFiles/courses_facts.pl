@@ -1,1265 +1,1268 @@
-courses(abbatemarcoa, eng260,2, tr, 1100, 1215, goddard_208).
-courses(abbatemarcoa, wst260,1, tr, 1230, 1345, goddard_208).
-courses(abbatemarcoa, wst260,2, tr, 1100, 1215, goddard_208).
-courses(aconforan, com410,1, m, 1600, 1845, communications_107).
-courses(ahmadis, che213,3, t, 1600, 1850, science_440).
-courses(ahmadis, che213,4, t, 1900, 2150, science_440).
-courses(aidooa, mat155p,2, tr, 0930, 1045, science_114).
-courses(aidooa, mat155p,2, w, 1000, 1150, science_116).
-courses(aidooa, mat230,2, tr, 1230, 1345, science_116).
-courses(aidooa, mat340,1, tr, 1400, 1515, science_132).
-courses(aidooa, mat340,1, w, 1400, 1450, science_238).
-courses(albinie, bis362,1, m, 1600, 1845, webb_307).
-courses(alexanderj, hsc370,1, tr, 0930, 1045, goddard_123).
-courses(alkhamaieshs, bis370,1, tr, 1730, 1845, webb_307).
-courses(alkhamaieshs, bis370,2, tr, 1900, 2015, webb_307).
-courses(allene, mat135p,3, tr, 0800, 0950, science_117).
-courses(ammarim, com220,1, t, 1900, 2145, communications_114a).
-courses(ammarim, com220,1, t, 1900, 2145, communications_114b).
-courses(ammarim, com220,1, t, 1900, 2145, communications_114d).
-courses(ammarim, com220,3, t, 1600, 1845, communications_114a).
-courses(ammarim, com220,3, t, 1600, 1845, communications_114b).
-courses(ammarim, com220,3, t, 1600, 1845, communications_114d).
-courses(ammarim, flm220,1, t, 1900, 2145, communications_114d).
-courses(ammarim, flm220,3, t, 1600, 1845, communications_114d).
-courses(andersong, hsc356,1, mwf, 0900, 0950, sports_219).
-courses(armstrongn, spa211,1, mwf, 1000, 1050, webb_114).
-courses(armstrongn, spa490,1, null, null, tba, tba).
-courses(ashtonf, edu523,1, null, null, tba, tba).
-courses(ashtonf, edu571,1, mtwrf, 0800, 1530, tba).
-courses(aventa, bus225,1, mwf, 1200, 1250, communications_109).
-courses(aventa, bus225,3, mwf, 1000, 1050, communications_108).
-courses(azzaroe, soc220,1, t, 1900, 2145, webb_214).
-courses(azzaroe, soc325,1, m, 1900, 2145, webb_313).
-courses(babars, soc100,2, mwf, 1100, 1150, webb_212).
-courses(babars, soc100,3, mwf, 1200, 1250, webb_212).
-courses(bachiochip, org696,1, null, null, tba, tba).
-courses(bachiochip, psy303,1, tr, 1100, 1215, webb_315).
-courses(bachiochip, psy305,1, tr, 1400, 1515, webb_216).
-courses(bachiochip, psy327,1, mw, 1600, 1715, webb_206).
-courses(bachiochip, psy327,1, null, null, tba, tba).
-courses(bachiochip, psy480,2, null, null, tba, tba).
-courses(bachiochip, psy480,3, null, null, tba, tba).
-courses(bachiochip, psy480,6, null, null, tba, tba).
-courses(bachiochip, psy490,6, null, null, tba, tba).
-courses(bachiochip, psy497,1, null, null, tba, tba).
-courses(bachollem, flm223,1, m, 1200, 1445, goddard_200).
-courses(bachollem, flm223,2, w, 1200, 1445, goddard_200).
-courses(bachollem, fre120,1, mwf, 1100, 1150, goddard_200).
-courses(bachollem, fre223,1, m, 1200, 1445, goddard_200).
-courses(bachollem, fre223,2, w, 1200, 1445, goddard_200).
-courses(balcerskit, his325,1, w, 1600, 1845, webb_215).
-courses(balcerskit, his480,4, null, null, tba, tba).
-courses(ballenad, mus113,5, t, 1900, 2020, fine_arts_110).
-courses(ballenad, mus114,3, mwf, 1000, 1050, fine_arts_212).
-courses(ballenad, mus114,4, mwf, 1100, 1150, fine_arts_212).
-courses(ballenad, mus356,39, null, null, tba, tba).
-courses(ballenad, mus356,40, null, null, tba, tba).
-courses(balought, mus100,1, mwf, 0800, 0850, fine_arts_110).
-courses(balought, mus100,2, mwf, 0900, 0950, fine_arts_110).
-courses(banee, hsc215,1, r, 0800, 1050, science_237).
-courses(banee, hsc391,3, null, null, tba, tba).
-courses(bartonek, art219,2, t, 0930, 1215, fine_arts_323).
-courses(bartonek, art219,2, t, 0930, 1215, fine_arts_328).
-courses(bataillea, hon488,18, null, null, tba, tba).
-courses(bataillea, hsc308,1, mwf, 0900, 0950, goddard_200).
-courses(bataillea, hsc319,1, mwf, 1100, 1150, goddard_223).
-courses(bataillea, hsc319,1, r, 0800, 1050, goddard_127).
-courses(bataillea, hsc319,1, r, 1230, 1520, goddard_127).
-courses(bataillea, hsc319,2, mwf, 1300, 1350, goddard_223).
-courses(bataillea, hsc380,2, null, null, tba, tba).
-courses(beebej, hsc444,1, tr, 1730, 2145, goddard_123).
-courses(beebej, hsc491,4, null, null, tba, tba).
-courses(beebyc, art140,3, tr, 1600, 1715, fine_arts_305).
-courses(beeverj, hsc225,2, tr, 0800, 0915, goddard_208).
-courses(beeverj, hsc408,1, tr, 0930, 1045, goddard_208).
-courses(bellesd, mus103,1, mw, 1730, 1845, fine_arts_110).
-courses(bellesd, mus113,1, wf, 1500, 1550, fine_arts_110).
-courses(bellesd, mus480,2, null, null, tba, tba).
-courses(bellesd, mus480,7, null, null, tba, tba).
-courses(bellesd, mus480,8, null, null, tba, tba).
-courses(bisantzj, art214,1, w, 0900, 1145, fine_arts_330).
-courses(bissonnettea, hsc235,1, mwf, 1300, 1350, goddard_117).
-courses(bissonnettea, hsc438,1, mwf, 1400, 1450, goddard_117).
-courses(blainj, nur424,1, null, null, tba, tba).
-courses(blancaflors, hsc438,2, tr, 1230, 1345, goddard_201).
-courses(blancaflors, pbh440,1, tr, 1400, 1515, goddard_208).
-courses(bondoka, csc210,2, mwf, 1100, 1150, science_133).
-courses(bondoka, csc251,1, mwf, 0900, 0950, science_135).
-courses(bondoka, csc251,2, mwf, 1000, 1050, science_135).
-courses(bouleyt, ece215,1, tr, 1400, 1515, the_center_for_early_childhood_education_170).
-courses(bouleyt, ece355,1, r, 0930, 1215, the_center_for_early_childhood_education_175).
-courses(bouleyt, ece400,1, t, 1600, 1845, the_center_for_early_childhood_education_175).
-courses(bouleyt, ece480,1, null, null, tba, tba).
-courses(bouleyt, ece516,1, null, null, tba, tba).
-courses(bouleyt, edu696,8, null, null, tba, tba).
-courses(breslind, soc100,6, tr, 1600, 1715, webb_313).
-courses(breslind, soc250,1, tr, 1400, 1515, communications_109).
-courses(brighthollanda, the228,2, null, null, tba, tba).
-courses(brighthollanda, the392,1, null, null, tba, tba).
-courses(brighthollanda, the474,1, tr, 1600, 1715, fine_arts_219).
-courses(brighthollanda, the475,1, null, null, tba, tba).
-courses(bronsonm, mus356,41, null, null, tba, tba).
-courses(brosciousc, hon488,8, null, null, tba, tba).
-courses(brosciousc, psc201,1, tr, 0930, 1045, webb_113).
-courses(brosciousc, psc201,2, tr, 1230, 1345, webb_113).
-courses(browns, soc346,1, r, 1600, 1845, science_116).
-courses(brunellek, mat139p,1, mwf, 0900, 0950, webb_114).
-courses(brunellek, mat139p,1, w, 0800, 0850, webb_114).
-courses(buckw, bus301,2, tr, 0930, 1045, goddard_200).
-courses(buckw, bus301,3, tr, 1100, 1215, goddard_200).
-courses(buckw, bus351,1, tr, 1400, 1515, communications_201).
-courses(buckw, bus351,2, tr, 1600, 1715, communications_108).
-courses(buckw, bus480,3, null, null, tba, tba).
-courses(burnsn, soc240,1, tr, 1100, 1215, webb_313).
-courses(burnsn, wst240,1, tr, 1100, 1215, webb_313).
-courses(busij, dsc505,25, null, null, tba, online).
-courses(bussierej, mat216,5, tr, 1600, 1715, science_238).
-courses(calissij, lac100,1, tr, 1230, 1345, fine_arts_118).
-courses(calissij, lac101,1, m, 1000, 1050, fine_arts_115).
-courses(calissij, mus113,2, f, 1530, 1650, fine_arts_108).
-courses(calissij, mus120,1, tr, 1400, 1515, fine_arts_110).
-courses(calissij, mus215,1, w, 1000, 1050, fine_arts_108).
-courses(calissij, mus215,2, f, 1000, 1050, fine_arts_108).
-courses(calissij, mus234,1, mwf, 1100, 1150, fine_arts_305).
-courses(calissij, mus356,20, null, null, tba, tba).
-courses(calissij, mus480,3, null, null, tba, tba).
-courses(calissij, mus480,6, null, null, tba, tba).
-courses(calissir, mus114,1, tr, 0930, 1045, fine_arts_212).
-courses(calissir, mus114,2, tr, 1100, 1215, fine_arts_212).
-courses(calissir, mus356,21, null, null, tba, tba).
-courses(canavanp, hsc210,1, mwf, 1100, 1150, communications_107).
-courses(canavanp, hsc318,1, mwf, 1000, 1050, goddard_223).
-courses(canavanp, hsc318,1, t, 0800, 1050, goddard_127).
-courses(canavanp, hsc318,1, t, 1230, 1520, goddard_127).
-courses(canavanp, hsc318,2, m, 1500, 1750, goddard_127).
-courses(canavanp, hsc391,1, null, null, tba, tba).
-courses(canavanp, hsc480,1, null, null, tba, tba).
-courses(canavanp, hsc480,2, null, null, tba, tba).
-courses(candlerj, che217,1, m, 1900, 2150, science_441).
-courses(candlerj, che217,1, t, 1900, 2150, science_441).
-courses(capalboh, acc410,1, r, 1600, 1845, webb_113).
-courses(capalboh, acc531,25, null, null, tba, tba).
-courses(carenenc, his101,1, tr, 0930, 1045, science_231).
-courses(carenenc, his379,1, tr, 1100, 1215, library_436).
-courses(cariddik, art212,1, mw, 1600, 1750, fine_arts_305).
-courses(carlsonh, ees207,1, r, 1600, 1750, science_417).
-courses(carlsonh, ees207,2, t, 1600, 1750, science_417).
-courses(carlsonh, ees207,3, w, 1600, 1750, science_417).
-courses(carlsonr, com220,2, m, 1600, 1845, communications_114a).
-courses(carlsonr, com220,2, m, 1600, 1845, communications_114b).
-courses(carlsonr, com220,2, m, 1600, 1845, communications_114d).
-courses(carlsonr, flm220,2, m, 1600, 1845, communications_114d).
-courses(carrolls, ant302,1, tr, 0930, 1045, goddard_223).
-courses(carrolls, hon488,7, null, null, tba, tba).
-courses(carrolls, hsc209,1, m, 1600, 1845, goddard_216).
-courses(carrolls, hsc302,1, tr, 0930, 1045, goddard_223).
-courses(carrolls, hsc390,1, null, null, tba, tba).
-courses(carrolls, hsc391,2, null, null, tba, tba).
-courses(carrolls, hsc480,3, null, null, tba, tba).
-courses(carrolls, hsc480,4, null, null, tba, tba).
-courses(carrolls, hsc480,6, null, null, tba, tba).
-courses(carrolls, hsc490,1, null, null, tba, tba).
-courses(carrolls, hsc491,3, null, null, tba, tba).
-courses(carrolls, pbh209,1, m, 1600, 1845, goddard_216).
-courses(carrolls, pbh350,1, tr, 1100, 1215, goddard_223).
-courses(carrolls, pbh494,1, null, null, tba, tba).
-courses(carrolls, pbh494,2, null, null, tba, tba).
-courses(carrolls, pbh494,3, null, null, tba, tba).
-courses(cassidys, eng100,5, mwf, 1100, 1150, webb_206).
-courses(castron, csc215,1, tr, 0800, 0915, science_135).
-courses(chadwickj, ehs210,1, tr, 1230, 1345, science_202).
-courses(chank, spa492,1, null, null, tba, tba).
-courses(chank, spa492,2, null, null, tba, tba).
-courses(chank, spa492,3, null, null, tba, tba).
-courses(chattertonc, bus240,1, mwf, 0900, 0950, communications_201).
-courses(chattertonc, bus340,1, r, 0930, 1215, communications_201).
-courses(chattertonc, bus490,1, m, 1900, 2015, communications_201).
-courses(chattertonc, bus490,2, r, 0800, 0915, communications_201).
-courses(chent, art124,1, tr, 0930, 1215, fine_arts_327).
-courses(chent, art327,1, m, 1200, 1445, fine_arts_330).
-courses(chent, art329,1, tr, 1230, 1515, fine_arts_327).
-courses(chent, art480,1, null, null, tba, tba).
-courses(chent, art480,5, null, null, tba, tba).
-courses(chent, art480,9, null, null, tba, tba).
-courses(chent, art487,1, null, null, tba, tba).
-courses(chent, art490,2, null, null, tba, tba).
-courses(chirakulmaddenp, che213,6, r, 1100, 1350, science_440).
-courses(chirakulmaddenp, che213,7, r, 1400, 1650, science_440).
-courses(chiricom, eng257,1, mwf, 1300, 1350, webb_313).
-courses(chiricom, eng461,1, m, 1600, 1845, communications_219).
-courses(chiricom, eng480,3, null, null, tba, tba).
-courses(chiricom, eng481,1, null, null, tba, tba).
-courses(chiricom, eng494,5, null, null, tba, tba).
-courses(chiricom, lac200,1, mwf, 1100, 1150, goddard_216).
-courses(christopherm, psy203,1, w, 1600, 1845, science_116).
-courses(citursa, bis373,1, mf, 1400, 1515, webb_407).
-courses(citursa, bis379,1, m, 1600, 1845, webb_407).
-courses(citursa, bis447,2, tr, 1100, 1215, webb_407).
-courses(citursa, bis461,1, mw, 1900, 2015, webb_407).
-courses(citursa, bis480,1, null, null, tba, tba).
-courses(clementss, geo331,1, tr, 0930, 1045, library_436).
-courses(clementss, hsc209,2, tr, 1600, 1715, goddard_208).
-courses(clementss, pbh209,2, tr, 1600, 1715, goddard_208).
-courses(clermontferrandm, eng177,1, tr, 1230, 1345, webb_212).
-courses(clermontferrandm, eng241,3, tr, 1400, 1515, webb_212).
-courses(clermontferrandm, eng337,1, tr, 1600, 1715, webb_114).
-courses(clermontferrandm, eng462,2, w, 1600, 1845, webb_213).
-courses(clermontferrandm, eng480,2, null, null, tba, tba).
-courses(clermontferrandm, eng494,1, null, null, tba, tba).
-courses(clermontferrandm, eng494,4, null, null, tba, tba).
-courses(clermontferrandm, eng495,2, null, null, tba, tba).
-courses(clermontferrandm, eng499,2, null, null, tba, tba).
-courses(cliffordm, eco479,1, tr, 0930, 1045, goddard_203).
-courses(cliffordm, eco479,3, tr, 0800, 0915, goddard_203).
-courses(cliffordm, eco480,1, null, null, tba, tba).
-courses(cliffordm, eco480,2, null, null, tba, tba).
-courses(cliffordm, eco480,3, null, null, tba, tba).
-courses(cliffordm, eco480,4, null, null, tba, tba).
-courses(cliffordm, eco480,5, null, null, tba, tba).
-courses(cliffordm, fin438,1, w, 1900, 2145, goddard_200).
-courses(cliffordm, fin462,1, tr, 0930, 1045, goddard_203).
-courses(cliffordm, fin462,3, tr, 0800, 0915, goddard_203).
-courses(closes, his120,1, tr, 0800, 0915, webb_315).
-courses(closes, his120,2, tr, 1400, 1515, webb_315).
-courses(closes, his121,1, tr, 1230, 1345, webb_315).
-courses(closes, his322,1, tr, 0930, 1045, webb_315).
-courses(closes, his480,5, null, null, tba, tba).
-courses(cobbj, com490,1, null, null, tba, tba).
-courses(cobbj, hon361,1, t, 1600, 1845, fine_arts_115).
-courses(cobbj, the174,1, tr, 0930, 1045, fine_arts_219).
-courses(cobbj, the272,1, tr, 1400, 1515, fine_arts_215).
-courses(cobbj, the365,1, tr, 1230, 1345, fine_arts_219).
-courses(cobbj, the475,1, null, null, tba, tba).
-courses(cobbj, the480,1, null, null, tba, tba).
-courses(cobbj, the480,3, null, null, tba, tba).
-courses(cochrant, hon375,1, w, 1500, 1550, fine_arts_115).
-courses(cochrant, mus236,1, tr, 0930, 1045, fine_arts_108).
-courses(cochrant, mus480,1, null, null, tba, tba).
-courses(cochrant, mus480,5, null, null, tba, tba).
-courses(coffeyk, mat135p,2, f, 1000, 1050, webb_112).
-courses(coffeyk, mat135p,2, mwf, 0900, 0950, webb_112).
-courses(coffeyk, mat135p,4, f, 1300, 1350, science_137).
-courses(coffeyk, mat135p,4, mwf, 1400, 1450, science_137).
-courses(collinsg, flm321,1, r, 1900, 2145, communications_107).
-courses(congdonv, eng100,10, tr, 0930, 1045, science_233).
-courses(connollyb, bio222,1, mwf, 1100, 1150, science_416).
-courses(connollyb, bio222,1, r, 0930, 1220, science_318).
-courses(connollyb, bio380,10, null, null, tba, tba).
-courses(connollyb, bio380,3, null, null, tba, tba).
-courses(connollyb, bio380,5, null, null, tba, tba).
-courses(connollyb, bio438,1, mwf, 1300, 1350, science_416).
-courses(connollyb, bio438,1, r, 1400, 1650, science_318).
-courses(connollyb, bio480,9, null, null, tba, tba).
-courses(connollyb, bio490,7, null, null, tba, tba).
-courses(cookk, edu412,1, t, 1600, 1845, webb_215).
-courses(cordonl, psy409,1, tr, 0800, 0915, webb_313).
-courses(cordonl, psy409,2, tr, 0930, 1045, webb_313).
-courses(cordonl, psy419,1, tr, 1230, 1345, webb_313).
-courses(cordonl, psy419,2, tr, 1400, 1515, webb_313).
-courses(cordonl, psy480,7, null, null, tba, tba).
-courses(cornicelloa, mus113,3, m, 1600, 1730, fine_arts_108).
-courses(cornicelloa, mus205,1, mwf, 1100, 1150, fine_arts_108).
-courses(cornicelloa, mus356,16, null, null, tba, tba).
-courses(cornicelloa, mus372,1, mwf, 1300, 1350, fine_arts_243).
-courses(cotea, hsc318,2, mwf, 1300, 1350, goddard_208).
-courses(cotea, hsc318,3, mwf, 1400, 1450, goddard_208).
-courses(cotea, nur372,1, mw, 0900, 1030, goddard_117).
-courses(cotea, nur403,1, wf, 1100, 1230, science_137).
-courses(cousinsa, psy227,1, mwf, 0800, 0910, webb_314).
-courses(cousinsa, psy315,1, mwf, 1200, 1250, webb_317).
-courses(cousinsa, psy319,1, mwf, 1300, 1350, webb_317).
-courses(cousinsa, psy390,1, w, 1000, 1050, webb_407).
-courses(cousinsa, psy490,11, null, null, tba, tba).
-courses(cousinsa, psy491,12, null, null, tba, tba).
-courses(cousinsa, wst315,1, mwf, 1200, 1250, webb_317).
-courses(couturepalmerinop, ant201,25, null, null, tba, online).
-courses(couturepalmerinop, ant222,25, null, null, tba, online).
-courses(couturepalmerinop, cas201,25, null, null, tba, tba).
-courses(couturepalmerinop, cas222,25, null, null, tba, online).
-courses(cowlese, bio301,1, t, 1600, 1845, science_116).
-courses(cowlese, bio424,1, mwf, 1000, 1050, science_416).
-courses(cowlese, bio424,1, t, 0930, 1220, science_335).
-courses(cowlese, pbh301,1, t, 1600, 1845, science_116).
-courses(coxp, hpe310,1, w, 1900, 2145, goddard_208).
-courses(cruzd, edu696,4, null, null, tba, tba).
-courses(cunninghamb, eco200,2, mwf, 1000, 1050, goddard_203).
-courses(cunninghamb, eco325,1, mwf, 1200, 1250, communications_201).
-courses(cunninghamb, eco325,2, mwf, 1100, 1150, communications_201).
-courses(cunninghamw, ees104,1, tr, 0930, 1045, science_236).
-courses(cunninghamw, ees271,1, null, null, tba, online).
-courses(cunninghamw, ees271,1, t, 1730, 1815, science_232).
-courses(cunninghamw, ees330,1, t, 1230, 1520, science_232).
-courses(cunninghamw, ees330,1, tr, 1100, 1215, science_232).
-courses(cunninghamw, ees333,1, w, 1300, 1350, science_232).
-courses(curtiss, com101,1, mwf, 1100, 1150, fine_arts_115).
-courses(curtiss, com230,3, tr, 0930, 1045, communications_108).
-courses(dahmanif, fre492,1, null, null, tba, tba).
-courses(dahmanif, fre492,2, null, null, tba, tba).
-courses(daled, hsc320,1, mwf, 1200, 1250, goddard_117).
-courses(daled, hsc332,1, tr, 1100, 1215, goddard_117).
-courses(daled, hsc342,1, tr, 0800, 0915, goddard_200).
-courses(daled, hsc450,1, mwf, 1100, 1150, goddard_117).
-courses(dalek, mat216,4, tr, 0800, 0915, science_234).
-courses(daleoj, mus107,1, w, 1900, 2130, fine_arts_108).
-courses(dancikg, csc314,1, tr, 1400, 1515, science_138).
-courses(dancikg, csc450,1, tr, 0930, 1045, science_138).
-courses(dancikg, csc490,1, null, null, tba, tba).
-courses(dancikg, hon488,10, null, null, tba, tba).
-courses(dancikg, hon488,9, null, null, tba, tba).
-courses(davisb, his116,1, mwf, 0900, 0950, library_436).
-courses(davisb, his116,2, mwf, 1300, 1350, library_436).
-courses(davisb, his200,1, mwf, 1000, 1110, library_266).
-courses(davisb, his373,1, mwf, 1400, 1450, webb_212).
-courses(davisb, his480,1, null, null, tba, tba).
-courses(davism, dsc501,25, null, null, tba, online).
-courses(davism, dsc504,25, null, null, tba, online).
-courses(dayb, cft401,1, m, 1400, 1450, communications_226).
-courses(dayb, com220,4, tr, 1100, 1215, communications_226).
-courses(dayb, com357,1, tr, 0930, 1045, communications_226).
-courses(dayb, com380,1, tr, 1400, 1550, fine_arts_115).
-courses(dayb, com490,5, null, null, tba, tba).
-courses(dayb, flm220,4, tr, 1100, 1215, communications_226).
-courses(dayb, flm380,1, tr, 1400, 1550, fine_arts_115).
-courses(daysluketichp, fin350,1, t, 1600, 1845, communications_218).
-courses(deckerg, bus436,1, t, 1900, 2145, communications_109).
-courses(delaneye, mus113,8, r, 1230, 1345, fine_arts_110).
-courses(delaneye, mus118,1, tr, 1400, 1515, fine_arts_108).
-courses(delaneye, mus356,12, null, null, tba, tba).
-courses(delaneye, mus395,3, null, null, tba, tba).
-courses(delaneye, mus456,12, null, null, tba, tba).
-courses(delimal, ees204,1, tr, 1230, 1345, science_236).
-courses(delimal, ees204,2, tr, 1100, 1215, science_236).
-courses(delrioj, eng241,1, mwf, 0900, 0950, webb_213).
-courses(delrioj, eng241,2, mwf, 1000, 1050, webb_213).
-courses(derosas, eng207,1, tr, 1400, 1515, webb_115).
-courses(derosas, eng380,1, w, 1600, 1845, webb_115).
-courses(derosas, eng493,4, null, null, tba, tba).
-courses(derosas, eng494,3, null, null, tba, tba).
-courses(derosas, eng499,5, null, null, tba, tba).
-courses(desousad, art217,1, tr, 1600, 1845, fine_arts_125).
-courses(dewildea, bus250,1, m, 1600, 1845, communications_218).
-courses(dewildea, bus250,2, mwf, 1000, 1050, communications_109).
-courses(dewildea, bus301,1, mwf, 0900, 0950, communications_109).
-courses(dewildea, bus301,4, mwf, 1200, 1250, communications_108).
-courses(dewildea, hpe117,1, mwf, 1400, 1450, goddard_201).
-courses(dexterr, bis205,5, w, 1900, 2145, webb_307).
-courses(dexterr, org696,2, null, null, tba, tba).
-courses(difrancoa, hpe104,1, m, 1600, 1845, goddard_201).
-courses(difrancoa, hpe201,1, w, 1600, 1845, goddard_208).
-courses(difrancoa, hpe201,2, w, 1600, 1845, goddard_208).
-courses(dillerj, lac200,1, mwf, 1100, 1150, goddard_216).
-courses(dillerj, psy101,1, m, 0900, 0950, webb_216).
-courses(dillerj, psy417,1, mwf, 0800, 0850, webb_216).
-courses(dillerj, psy480,1, null, null, tba, tba).
-courses(dillerj, psy491,4, null, null, tba, tba).
-courses(donaghyd, eng238,1, tr, 1400, 1515, webb_206).
-courses(donaghyd, eng302,1, tr, 1100, 1215, science_134).
-courses(donaghyd, eng382,1, tr, 1230, 1345, science_134).
-courses(donaghyd, eng480,1, null, null, tba, tba).
-courses(donaghyd, eng493,3, null, null, tba, tba).
-courses(donaghyd, eng495,1, null, null, tba, tba).
-courses(donaghyd, eng495,3, null, null, tba, tba).
-courses(donohuek, bis205,1, tr, 0800, 0915, webb_307).
-courses(donohuek, bis365,1, tr, 0930, 1045, webb_407).
-courses(donohuek, bis480,2, null, null, tba, tba).
-courses(dotsont, nur205,1, tr, 1600, 1715, goddard_117).
-courses(dotsont, nur205,2, tr, 1400, 1515, goddard_117).
-courses(dowdelld, mgt502,25, null, null, tba, tba).
-courses(dowdelld, mgt502,26, null, null, tba, online).
-courses(doylem, art401,1, wf, 1300, 1450, fine_arts_305).
-courses(doylem, art480,11, null, null, tba, tba).
-courses(doylem, art480,13, null, null, tba, tba).
-courses(doylem, art480,6, null, null, tba, tba).
-courses(doylem, art486,1, null, null, tba, tba).
-courses(doylem, art490,3, null, null, tba, tba).
-courses(doylem, lac200,1, mwf, 1100, 1150, goddard_216).
-courses(drewryc, iip200,1, null, null, tba, tba).
-courses(drewryc, iip300,1, null, null, tba, tba).
-courses(drewryc, iip300,2, null, null, tba, tba).
-courses(drewryc, isp300,1, null, null, tba, tba).
-courses(drewryc, isp301,1, null, null, tba, tba).
-courses(drewryc, nse300,1, null, null, tba, tba).
-courses(drewryt, ece301,1, null, null, tba, tba).
-courses(drewryt, edu301,1, null, null, tba, tba).
-courses(drewryt, edu401,1, null, null, tba, tba).
-courses(drewt, art342,1, tr, 0930, 1215, fine_arts_330).
-courses(drewt, art480,24, null, null, tba, tba).
-courses(drzewieckip, ees130,1, m, 1400, 1650, science_216).
-courses(drzewieckip, ees130,1, mwf, 0900, 0950, science_216).
-courses(drzewieckip, ees271,1, null, null, tba, online).
-courses(drzewieckip, ees271,1, t, 1730, 1815, science_232).
-courses(drzewieckip, lac100,2, mwf, 1100, 1150, science_216).
-courses(drzewieckip, lac101,2, w, 1200, 1250, science_216).
-courses(dunnacks, ece445,1, mtwrf, 0800, 1530, tba).
-courses(dunnacks, ece566,1, null, null, tba, tba).
-courses(dziavitk, edu410,1, m, 1600, 1845, webb_215).
-courses(dziavitk, edu510,1, m, 1600, 1845, webb_215).
-courses(dzurecd, hsc425,1, m, 1400, 1650, science_341).
-courses(dzurecd, hsc425,1, mwf, 0800, 0850, goddard_200).
-courses(dzurecd, hsc491,1, null, null, tba, tba).
-courses(dzurecl, hsc225,1, tr, 1230, 1345, goddard_200).
-courses(dzurecl, hsc225,3, mwf, 1300, 1350, goddard_216).
-courses(dzurecl, hsc225,4, mwf, 1100, 1150, goddard_203).
-courses(eastonw, psc100,1, mwf, 0900, 0950, webb_110).
-courses(eastonw, psc300,1, tr, 1230, 1345, webb_112).
-courses(echolsc, mus250,1, tr, 1100, 1215, fine_arts_243).
-courses(echolsc, mus250,2, tr, 1230, 1345, fine_arts_243).
-courses(eckenrothg, eco201,6, tr, 1400, 1515, goddard_203).
-courses(eckenrothg, fin490,1, r, 1600, 1715, communications_218).
-courses(elfoulyr, csc360,1, tr, 1100, 1215, science_135).
-courses(elfoulyr, csc360,4, tr, 1230, 1345, science_138).
-courses(eliaa, art111,1, mw, 0900, 1145, fine_arts_125).
-courses(eliaa, art235,3, m, 1200, 1445, fine_arts_125).
-courses(eppk, bio319,1, t, 0900, 1050, science_331).
-courses(eppk, bio320,1, null, null, tba, tba).
-courses(eppk, bio380,6, null, null, tba, tba).
-courses(eppk, bio466,1, m, 1400, 1650, science_416).
-courses(eppk, bio466,2, w, 1400, 1650, science_416).
-courses(eppk, bio480,4, null, null, tba, tba).
-courses(eriksoussia, flm219,1, m, 1600, 1845, webb_112).
-courses(eriksoussia, las219,1, m, 1600, 1845, webb_112).
-courses(eriksoussia, spa219,1, m, 1600, 1845, webb_112).
-courses(erwinc, bus201,2, tr, 0930, 1045, communications_218).
-courses(erwinc, bus201,3, tr, 1100, 1215, communications_218).
-courses(erwinc, bus331,1, t, 1900, 2145, communications_108).
-courses(erwinc, bus431,3, tr, 1400, 1515, goddard_201).
-courses(espinozaa, edu502,1, null, null, tba, tba).
-courses(espinozaa, edu573,1, mtwrf, 0800, 1530, tba).
-courses(evesk, eng100,6, tr, 1600, 1715, webb_206).
-courses(fabrizim, edu425,2, m, 1900, 2145, communications_108).
-courses(fabrizim, edu480,1, null, null, tba, tba).
-courses(fabrizim, edu525,2, m, 1900, 2145, communications_108).
-courses(fabrizim, edu696,6, null, null, tba, tba).
-courses(ferrarol, bus333,1, m, 1600, 1845, communications_201).
-courses(ferrarol, mgt505,25, null, null, tba, tba).
-courses(ferrucis, eng190,1, tr, 0930, 1045, science_134).
-courses(ferrucis, eng190,2, tr, 1100, 1215, webb_213).
-courses(ferrucis, eng495,5, null, null, tba, tba).
-courses(ferrucis, eng499,3, null, null, tba, tba).
-courses(fisterk, mat099,3, mwf, 1400, 1450, webb_314).
-courses(fisterk, mat135p,5, mw, 1600, 1750, science_132).
-courses(floodr, cft205,1, mwf, 1000, 1110, communications_226).
-courses(floodr, com480,4, null, null, tba, tba).
-courses(floodr, com490,2, null, null, tba, tba).
-courses(floodr, eng255,1, mwf, 0900, 0950, communications_218).
-courses(floodr, eng308,1, m, 1600, 1845, fine_arts_115).
-courses(floodr, the308,1, m, 1600, 1845, fine_arts_115).
-courses(floodr, the480,6, null, null, tba, tba).
-courses(fortew, eco200,3, tr, 0930, 1045, goddard_201).
-courses(fortew, eco200,4, tr, 1100, 1215, goddard_201).
-courses(foyl, acc302,1, tr, 1100, 1215, science_132).
-courses(foyl, acc416,1, tr, 1230, 1345, science_132).
-courses(frainm, hpe210,1, w, 1600, 1845, goddard_216).
-courses(frainm, hpe210,3, w, 1900, 2145, goddard_216).
-courses(francob, art140,2, tr, 1230, 1345, fine_arts_305).
-courses(francob, art212,2, tr, 1400, 1550, fine_arts_305).
-courses(frescohawesc, hpe104,4, w, 1600, 1845, goddard_201).
-courses(freunde, com230,1, t, 1600, 1845, communications_109).
-courses(freunde, com230,2, w, 1600, 1845, communications_218).
-courses(fryed, his230,1, tr, 1100, 1215, webb_214).
-courses(fryed, his230,2, w, 1600, 1845, webb_216).
-courses(fryed, his230,3, tr, 1600, 1715, webb_214).
-courses(fryed, his267,1, w, 1900, 2145, webb_317).
-courses(fryed, his365,2, tr, 1400, 1515, webb_113).
-courses(fryed, his481,1, null, null, tba, tba).
-courses(fryed, his491,4, null, null, tba, tba).
-courses(fugerem, hon362,1, mwf, 1300, 1350, webb_213).
-courses(fugerem, psy202,1, mwf, 0900, 0950, webb_317).
-courses(fugerem, psy202,2, mwf, 1000, 1050, webb_317).
-courses(fugerem, psy490,10, null, null, tba, tba).
-courses(fugerem, psy491,13, null, null, tba, tba).
-courses(fultons, psy206,3, tr, 1730, 1845, webb_317).
-courses(gageoneam, mat135p,6, tr, 1400, 1550, science_114).
-courses(gageoneam, mat135p,7, tr, 1600, 1750, science_117).
-courses(galvezd, edu222,3, w, 1900, 2145, the_center_for_early_childhood_education_167).
-courses(galvezd, edu505,25, null, null, tba, tba).
-courses(galvezd, edu696,2, null, null, tba, tba).
-courses(gaok, csc270,1, mwf, 1000, 1050, science_138).
-courses(gaok, csc270,2, mwf, 1400, 1450, science_138).
-courses(gaok, csc445,1, mwf, 1100, 1150, science_138).
-courses(gaok, csc445,2, mw, 1600, 1715, science_138).
-courses(gaok, hon488,1, null, null, tba, tba).
-courses(garciam, psc211,1, mwf, 1100, 1150, science_117).
-courses(garciam, psc350,1, tr, 1100, 1215, webb_113).
-courses(geers, nur424,1, null, null, tba, tba).
-courses(girasolia, psy247,2, mw, 1900, 2050, webb_314).
-courses(golebiewskit, the276,1, tr, 1600, 1715, fine_arts_118).
-courses(golebiewskit, the277,1, m, 1600, 1845, webb_314).
-courses(golebiewskit, the480,10, null, null, tba, tba).
-courses(golebiewskit, the480,5, null, null, tba, tba).
-courses(golebiewskit, the481,1, null, null, tba, tba).
-courses(goodmand, eco201,5, tr, 1100, 1215, goddard_216).
-courses(goodmand, eco331,1, tr, 0930, 1045, communications_107).
-courses(goyettel, nur424,1, null, null, tba, tba).
-courses(grahamm, bio305,1, mwf, 1300, 1350, science_104).
-courses(grahamm, bio336,1, mwf, 1200, 1250, science_432).
-courses(grahamm, bio336,1, r, 1100, 1350, science_333).
-courses(grahamm, bio380,4, null, null, tba, tba).
-courses(grahamm, bio380,7, null, null, tba, tba).
-courses(grahamm, bio480,3, null, null, tba, tba).
-courses(grandhis, bus428,1, tr, 1230, 1345, science_234).
-courses(grandhis, bus480,6, null, null, tba, tba).
-courses(grandhis, bus492,2, null, null, tba, tba).
-courses(grandhis, mgt508,25, null, null, tba, tba).
-courses(greenb, acc412,1, m, 1600, 1845, webb_315).
-courses(greener, art111,2, tr, 1200, 1445, fine_arts_125).
-courses(greener, art235,1, f, 1200, 1445, fine_arts_125).
-courses(greener, art315,1, tr, 1600, 1845, fine_arts_122).
-courses(greener, art480,17, null, null, tba, tba).
-courses(greener, art480,20, null, null, tba, tba).
-courses(greener, art480,22, null, null, tba, tba).
-courses(greener, art480,4, null, null, tba, tba).
-courses(greener, art485,1, mw, 1600, 1845, fine_arts_122).
-courses(greener, art485,1, mw, 1600, 1845, fine_arts_247).
-courses(greener, art485,1, mw, 1600, 1845, fine_arts_323).
-courses(greener, hon488,12, null, null, tba, tba).
-courses(grosjeanb, bus225,6, tr, 1100, 1215, communications_107).
-courses(grosjeanb, bus326,1, t, 1900, 2145, communications_218).
-courses(grotha, bio210,1, mwf, 1000, 1050, science_134).
-courses(grotha, bio230,1, m, 1400, 1650, science_335).
-courses(grotha, bio230,1, mwf, 1100, 1150, science_134).
-courses(grotha, bio380,2, null, null, tba, tba).
-courses(grotha, bio490,3, null, null, tba, tba).
-courses(grotha, hon488,6, null, null, tba, tba).
-courses(guarinob, art110,1, mw, 0900, 1145, fine_arts_328).
-courses(guildc, art202,3, tr, 0930, 1215, fine_arts_331).
-courses(guom, acc201,2, tr, 0930, 1045, science_137).
-courses(guom, acc201,3, tr, 1100, 1215, science_137).
-courses(guom, acc301,1, tr, 1400, 1515, goddard_216).
-courses(guom, acc303,1, w, 1600, 1845, webb_315).
-courses(guom, hon488,4, null, null, tba, tba).
-courses(gyurem, bio314,1, r, 0930, 1120, science_331).
-courses(gyurem, bio314,2, r, 1230, 1420, science_331).
-courses(gyurem, bio314,3, r, 1600, 1750, science_331).
-courses(gyurem, bio490,8, null, null, tba, tba).
-courses(hallm, psy100,3, tr, 1600, 1715, webb_317).
-courses(halls, bus225,2, w, 1600, 1845, communications_201).
-courses(heenehanm, hon488,14, null, null, tba, tba).
-courses(heenehanm, lac200,2, mwf, 1300, 1350, science_134).
-courses(heenehanm, mat230,1, mwf, 1000, 1050, science_132).
-courses(heenehanm, mat320,1, mwf, 1200, 1250, science_132).
-courses(hek, che211,1, mwf, 0900, 0950, science_117).
-courses(hek, che211,2, mwf, 1000, 1050, science_117).
-courses(hek, che211,3, mwf, 1300, 1350, science_117).
-courses(hek, che480,2, null, null, tba, tba).
-courses(hek, che480,3, null, null, tba, tba).
-courses(henryj, hpe104,5, t, 1600, 1845, goddard_200).
-courses(henryj, hpe104,8, m, 1600, 1845, goddard_202).
-courses(hollandj, art332,1, wf, 1200, 1445, fine_arts_330).
-courses(hollandj, lac100,3, mwf, 1000, 1050, fine_arts_118).
-courses(hollandj, lac101,3, m, 0900, 0950, fine_arts_118).
-courses(houldcroftt, the281,1, w, 1600, 1845, fine_arts_243).
-courses(hulveyj, bio120,1, m, 1400, 1650, science_331).
-courses(hulveyj, bio120,1, mwf, 1100, 1150, science_231).
-courses(hulveyj, bio334,1, mwf, 0900, 0950, science_231).
-courses(hulveyj, bio334,1, w, 1400, 1650, science_341).
-courses(hulveyj, bio380,8, null, null, tba, tba).
-courses(hulveyj, bio480,6, null, null, tba, tba).
-courses(hulveyj, bio491,5, null, null, tba, tba).
-courses(hwango, mus214,1, mwf, 0900, 0950, fine_arts_212).
-courses(hwango, mus330,1, mwf, 1100, 1150, fine_arts_307).
-courses(hwango, mus356,22, null, null, tba, tba).
-courses(hwango, mus395,2, null, null, tba, tba).
-courses(hwango, mus456,22, null, null, tba, tba).
-courses(hyattd, ees224,1, t, 1400, 1650, science_215).
-courses(hyattd, ees224,1, t, 1400, 1650, science_219).
-courses(hyattd, ees224,1, tr, 0930, 1045, science_215).
-courses(hyattd, ees224,1, w, 1400, 1650, science_215).
-courses(hyattd, ees224,1, w, 1400, 1650, science_219).
-courses(hyattd, ees392,1, null, null, tba, tba).
-courses(hyattd, ees441,1, r, 1400, 1650, science_219).
-courses(idjadij, bio280,2, null, null, tba, tba).
-courses(idjadij, bio319,1, t, 0900, 1050, science_331).
-courses(idjadij, bio320,1, null, null, tba, tba).
-courses(idjadij, bio380,12, null, null, tba, tba).
-courses(islams, che211,4, mw, 1600, 1715, science_117).
-courses(islams, che211,5, mw, 1730, 1845, science_117).
-courses(islams, che425,1, f, 1400, 1750, science_434).
-courses(islams, che425,1, mwf, 1200, 1250, science_231).
-courses(islams, che492,1, null, null, tba, tba).
-courses(jacobsm, bio204,5, m, 1600, 1845, science_320).
-courses(jacobsm, bio204,6, tr, 1730, 1845, science_320).
-courses(jahani, csc202,1, tr, 1400, 1515, science_135).
-courses(jahani, csc231,1, mwf, 1100, 1150, science_139).
-courses(jaross, mat140,1, m, 1600, 1715, science_238).
-courses(jaross, mat140,1, w, 1600, 1715, science_137).
-courses(jendrewskir, spa111,3, mw, 1730, 1845, science_134).
-courses(johnsond, bis447,1, t, 1900, 2145, webb_407).
-courses(johnsonj, csc210,1, mwf, 0900, 0950, science_138).
-courses(johnsonj, csc210,3, mwf, 1000, 1050, science_139).
-courses(johnsonp, mat139p,2, tr, 1600, 1750, science_132).
-courses(johnsonp, mat315,1, m, 1400, 1450, science_238).
-courses(johnsonp, mat315,1, mwf, 1300, 1350, science_238).
-courses(johnsonp, mat362,1, tr, 1900, 2015, science_114).
-courses(johnsonp, mat480,3, null, null, tba, tba).
-courses(johnsonp, mat480,4, null, null, tba, tba).
-courses(johnsons, eng100,3, mwf, 1300, 1350, webb_206).
-courses(johnsons, eng100p,6, mf, 1100, 1240, webb_307).
-courses(johnsons, eng100p,6, w, 1100, 1150, webb_307).
-courses(joinerk, hsc318,3, t, 1600, 1850, goddard_127).
-courses(joinerk, hsc318,3, w, 0800, 1050, goddard_127).
-courses(kaneg, bus342,1, mwf, 1200, 1250, communications_107).
-courses(kaneg, bus342,2, mwf, 1000, 1050, communications_201).
-courses(kaneg, bus411,1, mwf, 1300, 1350, communications_107).
-courses(kaneg, bus480,5, null, null, tba, tba).
-courses(kangm, bus327,1, tr, 1400, 1515, science_234).
-courses(kangm, bus429,1, w, 1600, 1845, science_234).
-courses(kangm, com480,2, null, null, tba, tba).
-courses(kangm, com490,3, null, null, tba, tba).
-courses(karrenbergj, eco100,2, mwf, 1300, 1350, communications_201).
-courses(karrenbergj, eco100,3, mwf, 1400, 1450, communications_201).
-courses(keaned, swk420,2, t, 1600, 1845, webb_112).
-courses(kerrm, ast214,1, r, 1100, 1200, planetarium).
-courses(kerrm, ast214,1, t, 1100, 1200, planetarium).
-courses(kerrm, ast214,1, tr, 0930, 1045, planetarium).
-courses(kerrm, phy205,1, r, 1400, 1550, science_403).
-courses(keyesm, psy212,1, mwf, 1400, 1450, communications_108).
-courses(keyesm, psy212,2, mwf, 1100, 1150, communications_108).
-courses(keyesm, psy247,1, mwf, 1200, 1310, webb_314).
-courses(keyesm, psy490,1, null, null, tba, tba).
-courses(khadev, ees205,2, w, 1900, 2145, science_114).
-courses(khowm, hpe141,1, tr, 0930, 1045, sports_104).
-courses(khowm, hpe143,1, tr, 0800, 0915, sports_104).
-courses(kims, art213,1, tr, 1600, 1845, fine_arts_330).
-courses(kims, art436,1, tr, 1230, 1515, fine_arts_330).
-courses(kims, art480,18, null, null, tba, tba).
-courses(kims, art480,8, null, null, tba, tba).
-courses(koleks, psy227,2, tr, 0800, 0950, webb_314).
-courses(koleks, psy227,3, tr, 1100, 1250, webb_314).
-courses(koleks, psy247,3, tr, 1400, 1550, webb_314).
-courses(koleks, psy480,5, null, null, tba, tba).
-courses(koleks, psy490,9, null, null, tba, tba).
-courses(koleks, psy491,10, null, null, tba, tba).
-courses(koleks, psy491,7, null, null, tba, tba).
-courses(koleks, psy491,8, null, null, tba, tba).
-courses(kozad, che213,8, m, 1900, 2150, science_440).
-courses(kozad, che217,1, mwf, 1000, 1050, science_104).
-courses(krassasn, phi480,3, null, null, tba, tba).
-courses(krassasn, psc325,1, mwf, 1100, 1150, webb_210).
-courses(krassasn, psc400,1, mwf, 1300, 1350, webb_115).
-courses(krassasn, psc480,1, null, null, tba, tba).
-courses(krassasn, psc495,1, null, null, tba, tba).
-courses(krebsc, hon488,2, null, null, tba, tba).
-courses(krebsc, psy101,2, r, 1230, 1320, science_117).
-courses(krebsc, psy205,1, mwf, 0900, 0950, webb_212).
-courses(krebsc, psy205,2, mwf, 1000, 1050, webb_212).
-courses(krebsc, psy246,1, mwf, 1100, 1150, webb_314).
-courses(krebsc, psy390,2, m, 1400, 1450, science_115).
-courses(krebsc, psy407,1, mwf, 1300, 1350, webb_216).
-courses(krebsc, psy490,8, null, null, tba, tba).
-courses(krebsc, psy491,14, null, null, tba, tba).
-courses(kunenen, bis205,4, tr, 0930, 1045, webb_307).
-courses(kunenen, bis370,1, tr, 1730, 1845, webb_307).
-courses(kunenen, bis370,2, tr, 1900, 2015, webb_307).
-courses(kunenen, bis449,1, tr, 1230, 1345, webb_407).
-courses(kunenen, bis449,2, tr, 1400, 1515, webb_407).
-courses(kurtim, crm210,1, r, 1600, 1845, goddard_223).
-courses(kurtim, crm480,2, null, null, tba, tba).
-courses(kurtim, soc350,1, tr, 1400, 1550, goddard_223).
-courses(kurtim, soc350,2, tr, 1100, 1250, webb_114).
-courses(kwakuk, bio305,2, t, 1600, 1845, science_104).
-courses(kyeii, fin245,1, mwf, 1100, 1150, goddard_202).
-courses(kyeii, fin245,3, tr, 1100, 1215, goddard_203).
-courses(kyeii, fin245,6, mwf, 1000, 1050, goddard_202).
-courses(kyeii, fin335,1, m, 1600, 1845, goddard_203).
-courses(kylek, hsc215,1, f, 0800, 1050, science_237).
-courses(kylek, hsc215,1, t, 0800, 1050, science_237).
-courses(kylek, hsc491,5, null, null, tba, tba).
-courses(laddj, mat155p,1, mw, 1400, 1450, science_132).
-courses(laddj, mat155p,1, mwf, 1300, 1350, science_132).
-courses(lamarchel, edu501,1, null, null, tba, tba).
-courses(lanaganleitzell, psy306,1, mwf, 1100, 1150, webb_315).
-courses(lanaganleitzell, psy318,1, mwf, 1200, 1250, webb_315).
-courses(lanaganleitzell, psy480,4, null, null, tba, tba).
-courses(lanaganleitzell, psy491,6, null, null, tba, tba).
-courses(laportek, ece405,1, m, 1600, 1845, the_center_for_early_childhood_education_167).
-courses(laportek, ece506,1, m, 1600, 1845, the_center_for_early_childhood_education_167).
-courses(laportek, edu465,2, t, 1900, 2145, webb_213).
-courses(laportek, edu565,2, t, 1900, 2145, webb_213).
-courses(larosec, mat216,1, mwf, 1400, 1450, science_234).
-courses(larosec, mat216,2, mwf, 1300, 1350, science_234).
-courses(larosec, mat217,1, mwf, 1000, 1050, science_234).
-courses(larosec, mat343,1, mwf, 1100, 1150, science_238).
-courses(lauxd, bio140,1, mwf, 0900, 0950, science_104).
-courses(lauxd, bio140,1, w, 1400, 1650, science_334).
-courses(lauxd, bio380,11, null, null, tba, tba).
-courses(lauxd, bio462,1, m, 1400, 1650, science_334).
-courses(lauxd, bio462,1, mwf, 1100, 1150, science_432).
-courses(lauxd, bio480,8, null, null, tba, tba).
-courses(lauxd, bio490,1, null, null, tba, tba).
-courses(lavoiem, csc212,1, tr, 0930, 1045, science_135).
-courses(leek, ece420,1, m, 1600, 1845, the_center_for_early_childhood_education_175).
-courses(leek, ece505,1, m, 1600, 1845, the_center_for_early_childhood_education_175).
-courses(leek, edu200,2, tr, 1400, 1515, the_center_for_early_childhood_education_167).
-courses(leek, edu612,25, null, null, tba, tba).
-courses(leep, psy302,1, tr, 1100, 1215, webb_317).
-courses(leep, psy302,2, tr, 1230, 1345, webb_317).
-courses(leep, psy410,1, tr, 1600, 1715, webb_315).
-courses(leep, psy490,4, null, null, tba, tba).
-courses(leep, psy491,11, null, null, tba, tba).
-courses(leep, psy496,1, m, 1600, 1650, webb_115).
-courses(leissa, ant125,1, tr, 1400, 1515, webb_112).
-courses(leissa, ant221,25, null, null, tba, online).
-courses(leissa, ant365,1, tr, 1100, 1215, science_432).
-courses(leissa, ant400,1, w, 1600, 1845, webb_317).
-courses(leissa, ant490,1, null, null, tba, tba).
-courses(leszczynskij, psy210,1, mwf, 1100, 1150, webb_216).
-courses(leszczynskij, psy314,1, mwf, 0800, 0850, webb_315).
-courses(leszczynskij, psy314,2, mwf, 0900, 0950, webb_315).
-courses(leszczynskij, psy435,1, mwf, 1200, 1250, webb_216).
-courses(leszczynskij, psy471,1, m, 1000, 1050, webb_216).
-courses(leszczynskij, psy490,3, null, null, tba, tba).
-courses(leszczynskij, psy491,1, null, null, tba, tba).
-courses(leszczynskij, psy491,3, null, null, tba, tba).
-courses(lewisj, swk450,2, t, 1230, 1515, goddard_202).
-courses(liangl, fin445,1, tr, 1100, 1215, communications_109).
-courses(liangl, fin445,2, tr, 0930, 1045, communications_109).
-courses(liangl, fin446,1, tr, 1400, 1515, goddard_200).
-courses(lil, art343,1, mw, 0900, 1145, fine_arts_327).
-courses(lil, art480,12, null, null, tba, tba).
-courses(lil, art480,19, null, null, tba, tba).
-courses(lil, art480,2, null, null, tba, tba).
-courses(lil, art480,21, null, null, tba, tba).
-courses(lil, art480,3, null, null, tba, tba).
-courses(lil, art485,1, mw, 1600, 1845, fine_arts_122).
-courses(lil, art485,1, mw, 1600, 1845, fine_arts_247).
-courses(lil, art485,1, mw, 1600, 1845, fine_arts_323).
-courses(liuq, art202,1, tr, 1600, 1845, fine_arts_331).
-courses(liuq, art205,1, tr, 1230, 1515, fine_arts_331).
-courses(liuq, art219,1, m, 1200, 1445, fine_arts_326).
-courses(liuq, art480,10, null, null, tba, tba).
-courses(liuq, art490,4, null, null, tba, tba).
-courses(liux, dsc503,25, null, null, tba, online).
-courses(liux, dsc503,26, null, null, tba, online).
-courses(liux, edu357,3, r, 1600, 1845, webb_210).
-courses(liux, edu404,1, f, 1200, 1445, webb_113).
-courses(longe, eng100,9, mwf, 1000, 1050, webb_206).
-courses(lucink, bio204,1, tr, 1100, 1215, science_320).
-courses(lucink, bio204,2, tr, 1230, 1345, science_320).
-courses(lucink, bio280,1, null, null, tba, tba).
-courses(lucink, bio350,1, m, 1400, 1650, science_315).
-courses(lucink, bio350,1, mwf, 1000, 1050, science_432).
-courses(lucink, bio380,1, null, null, tba, tba).
-courses(lucink, bio480,1, null, null, tba, tba).
-courses(lucink, bio480,5, null, null, tba, tba).
-courses(lucink, bio490,5, null, null, tba, tba).
-courses(lucink, bio491,4, null, null, tba, tba).
-courses(lugow, crm450,1, w, 1600, 1845, webb_313).
-courses(lugow, crm450,2, w, 1900, 2145, webb_313).
-courses(lugow, crm480,3, null, null, tba, tba).
-courses(lugow, soc480,3, null, null, tba, tba).
-courses(lugow, soc480,5, null, null, tba, tba).
-courses(luxenbergh, eng100,11, tr, 1100, 1215, science_133).
-courses(luxenbergh, eng100p,3, m, 1400, 1540, webb_316).
-courses(luxenbergh, eng100p,3, tr, 1400, 1515, webb_316).
-courses(madenjianwybierackik, hpe140,1, mwf, 1100, 1150, fine_arts_219).
-courses(madenjianwybierackik, hpe140,2, mwf, 1100, 1150, fine_arts_219).
-courses(madenjianwybierackik, hpe140,3, mwf, 1200, 1250, fine_arts_219).
-courses(madenjianwybierackik, hpe140,4, mwf, 1200, 1250, fine_arts_219).
-courses(mamar, eng125,1, tr, 1600, 1715, webb_216).
-courses(mamar, eng125,2, tr, 1400, 1515, webb_210).
-courses(mamar, eng225,1, tr, 1730, 1845, webb_216).
-courses(mamar, eng353,1, tr, 1230, 1345, science_231).
-courses(manfredie, hpe210,2, tr, 1230, 1345, goddard_216).
-courses(manfredie, hpe361,1, t, 0930, 1030, sports_219).
-courses(manfredie, hpe361,1, t, 1030, 1215, sports_201).
-courses(marrettc, ced300,1, null, null, tba, tba).
-courses(matthewsarmsteade, swk320,2, t, 0800, 1045, webb_215).
-courses(matthewsarmsteade, swk450,1, t, 1230, 1515, webb_213).
-courses(mattinglyb, bio240,2, mwf, 1000, 1050, science_231).
-courses(mattinglyb, bio240,2, t, 1100, 1350, science_331).
-courses(mattinglyb, bio319,1, t, 0900, 1050, science_331).
-courses(mattinglyb, bio320,1, null, null, tba, tba).
-courses(mattinglyb, bio490,6, null, null, tba, tba).
-courses(mccartyg, soc100,4, mwf, 0900, 0950, goddard_216).
-courses(mccartyg, soc100,5, mwf, 1000, 1050, goddard_216).
-courses(mckeem, art110,2, tr, 0930, 1215, fine_arts_326).
-courses(mcneilk, eng100p,1, tr, 0930, 1045, webb_316).
-courses(mcneilk, eng100p,1, w, 0900, 1040, webb_316).
-courses(mcneilk, eng100p,2, tr, 1100, 1215, webb_316).
-courses(mcneilk, eng100p,2, w, 1100, 1240, webb_316).
-courses(mcneilk, eng215,1, tr, 1230, 1345, communications_201).
-courses(mendozabotelhom, phi498,1, null, null, tba, tba).
-courses(mendozabotelhom, psc208,1, tr, 0930, 1045, webb_212).
-courses(mendozabotelhom, psc208,2, tr, 1400, 1515, science_116).
-courses(mendozabotelhom, psc460,1, t, 1600, 1845, webb_115).
-courses(mendozabotelhom, psc480,2, null, null, tba, tba).
-courses(mendozabotelhom, psc498,1, null, null, tba, tba).
-courses(metcalfm, ees300,1, mw, 1730, 1845, science_215).
-courses(metcalfm, ees301,1, w, 1300, 1550, science_233).
-courses(metcalfm, ees322,1, m, 1300, 1550, science_202).
-courses(metcalfm, ees322,1, mw, 1600, 1715, science_202).
-courses(metcalfm, ees480,1, null, null, tba, tba).
-courses(metcalfm, ees480,2, null, null, tba, tba).
-courses(metcalfm, ees480,3, null, null, tba, tba).
-courses(metcalfm, hon488,15, null, null, tba, tba).
-courses(michimia, geo100,1, mwf, 1000, 1050, goddard_201).
-courses(michimia, geo332,1, mwf, 0900, 0950, goddard_208).
-courses(misikoc, acc201,1, t, 1600, 1845, goddard_223).
-courses(misikoc, acc202,1, m, 1600, 1845, webb_216).
-courses(montemerloj, eco100,1, tr, 1230, 1345, communications_108).
-courses(montemerloj, eco201,4, tr, 0930, 1045, goddard_216).
-courses(mooneym, nur424,1, null, null, tba, tba).
-courses(mooreheadt, edu480,2, null, null, tba, tba).
-courses(mooreheadt, edu632,25, null, null, tba, tba).
-courses(mooreheadt, edu680,25, null, null, tba, online).
-courses(moores, his231,1, mwf, 0900, 0950, fine_arts_305).
-courses(moores, his337,1, mwf, 1300, 1350, webb_315).
-courses(moores, his406,1, mwf, 1100, 1210, webb_213).
-courses(moores, his480,2, null, null, tba, tba).
-courses(moores, his480,3, null, null, tba, tba).
-courses(moores, his491,1, null, null, tba, tba).
-courses(moores, his491,2, null, null, tba, tba).
-courses(moores, his491,3, null, null, tba, tba).
-courses(moores, hon488,3, null, null, tba, tba).
-courses(moranr, art202,2, mw, 0900, 1145, fine_arts_331).
-courses(morgank, cft100,2, f, 1200, 1445, fine_arts_118).
-courses(morgank, hon488,5, null, null, tba, tba).
-courses(morgank, the227,2, null, null, tba, tba).
-courses(morgank, the227,4, null, null, tba, tba).
-courses(morgank, the480,2, null, null, tba, tba).
-courses(morgank, the480,4, null, null, tba, tba).
-courses(morgank, the495,1, null, null, tba, tba).
-courses(moylanw, bus321,1, mw, 1600, 1715, communications_109).
-courses(moylanw, bus325,1, mw, 1730, 1845, communications_109).
-courses(murdochb, bio140,1, r, 0930, 1220, science_334).
-courses(murdochb, bio302,1, t, 0930, 1120, science_341).
-courses(murdochb, bio302,2, t, 1230, 1420, science_341).
-courses(murdochb, bio380,9, null, null, tba, tba).
-courses(murdochb, bio480,7, null, null, tba, tba).
-courses(murdochb, bio490,2, null, null, tba, tba).
-courses(murdochb, bio490,4, null, null, tba, tba).
-courses(murdochb, bio491,1, null, null, tba, tba).
-courses(murdochb, bio491,2, null, null, tba, tba).
-courses(murdochb, pbh302,1, t, 0930, 1120, science_341).
-courses(murdochb, pbh302,2, t, 1230, 1420, science_341).
-courses(murphyj, com100,2, mwf, 1000, 1050, communications_107).
-courses(nadeauc, nur424,1, mw, 1600, 1715, goddard_117).
-courses(nardellas, bus225,4, tr, 1230, 1345, communications_107).
-courses(nardellas, bus225,5, tr, 1400, 1515, communications_107).
-courses(nathans, ees200,2, mwf, 1100, 1150, science_236).
-courses(nathans, ees205,1, mwf, 1000, 1050, science_236).
-courses(nathans, ees402,1, mwf, 0900, 0950, science_219).
-courses(nathans, ees402,1, mwf, 0900, 0950, science_236).
-courses(ndiayem, eco200,1, mwf, 1100, 1150, communications_109).
-courses(ndiayem, eco201,1, mwf, 1200, 1250, goddard_203).
-courses(ndiayem, eco201,2, mwf, 1300, 1350, goddard_203).
-courses(ndiayem, eco301,1, mwf, 0900, 0950, goddard_223).
-courses(nicholss, ees323,1, w, 1600, 1845, science_233).
-courses(nightingales, swk300,1, r, 1230, 1515, webb_213).
-courses(nightingales, swk333,2, r, 0800, 1045, webb_213).
-courses(nightingales, swk333,2, r, 1100, 1150, science_234).
-courses(nightingales, swk420,1, t, 0800, 1045, webb_213).
-courses(nightingales, swk480,1, null, null, tba, tba).
-courses(nightingales, wst490,1, null, null, tba, tba).
-courses(norvaln, bus201,5, t, 1600, 1845, goddard_203).
-courses(norvaln, bus201,7, tr, 1400, 1515, communications_218).
-courses(nsiahy, hsc404,1, mwf, 1100, 1150, goddard_208).
-courses(oakleyb, ees104,2, tr, 1100, 1215, science_215).
-courses(oakleyb, ees456,1, tr, 0930, 1045, science_216).
-courses(oakleyb, ees480,4, null, null, tba, tba).
-courses(oakleyb, ees491,1, null, null, tba, tba).
-courses(obrienm, the280,1, tr, 0930, 1045, fine_arts_117).
-courses(obrienm, the280,1, tr, 0930, 1045, fine_arts_243).
-courses(ohn, bus431,1, tr, 1230, 1345, communications_218).
-courses(ohn, bus431,2, tr, 0930, 1045, goddard_202).
-courses(ohn, mgt506,25, null, null, tba, tba).
-courses(ohn, org696,4, null, null, tba, tba).
-courses(ohn, org696,5, null, null, tba, tba).
-courses(onealf, lac200,3, mwf, 1300, 1350, fine_arts_110).
-courses(onealf, mus113,6, m, 1500, 1550, fine_arts_108).
-courses(onealf, mus160,1, mwf, 1400, 1450, fine_arts_307).
-courses(onyey, csc205,1, tr, 1230, 1345, science_133).
-courses(onyey, csc205,2, tr, 1400, 1515, science_133).
-courses(opied, art122,1, tr, 1600, 1845, fine_arts_327).
-courses(oseibonsuk, mat135,2, mwf, 1400, 1450, science_114).
-courses(oseibonsuk, mat155,1, m, 1000, 1050, science_116).
-courses(oseibonsuk, mat155,1, mwf, 0900, 0950, science_116).
-courses(oseibonsuk, mat244,1, mwf, 1100, 1150, science_132).
-courses(oseibonsuk, mat244,1, w, 1200, 1250, science_116).
-courses(oseibonsuk, mat480,2, null, null, tba, tba).
-courses(osterndorfw, com301,1, mwf, 1200, 1250, fine_arts_115).
-courses(osterndorfw, com330,1, mwf, 0900, 0950, fine_arts_307).
-courses(osterndorfw, com400,1, tr, 0930, 1045, fine_arts_307).
-courses(osterndorfw, com403,1, tr, 1100, 1215, fine_arts_307).
-courses(osterndorfw, com490,7, null, null, tba, tba).
-courses(ostwaldj, his362,1, tr, 1600, 1715, goddard_216).
-courses(ostwaldj, his386,1, tr, 1230, 1345, webb_206).
-courses(oterom, eng100,1, tr, 0800, 0915, webb_206).
-courses(oterom, eng100,2, tr, 0930, 1045, webb_206).
-courses(oterom, eng338,1, tr, 1230, 1345, science_416).
-courses(oterom, eng341,1, tr, 1400, 1515, science_416).
-courses(oterom, eng494,2, null, null, tba, tba).
-courses(pakdilf, bus410,1, w, 1600, 1845, webb_314).
-courses(pakdilf, bus480,1, null, null, tba, tba).
-courses(pakdilf, bus480,2, null, null, tba, tba).
-courses(pakdilf, bus492,1, null, null, tba, tba).
-courses(pakdilf, bus492,3, null, null, tba, tba).
-courses(pakdilf, hon488,19, null, null, tba, tba).
-courses(pakdilf, osc260,3, mwf, 0800, 0850, communications_201).
-courses(parcinskia, che213,1, m, 1100, 1350, science_440).
-courses(parcinskia, che213,2, m, 1400, 1650, science_440).
-courses(pareram, spa111,2, mwf, 0900, 0950, science_134).
-courses(pareram, spa311,1, mwf, 1200, 1250, goddard_201).
-courses(parsonsn, soc311,1, tr, 0930, 1045, webb_214).
-courses(parsonsn, soc351,1, tr, 1100, 1250, webb_307).
-courses(parsonsn, soc351,2, tr, 1400, 1550, science_115).
-courses(parsonsn, soc492,2, null, null, tba, tba).
-courses(pasinij, bio204,3, tr, 0800, 0915, science_320).
-courses(pasinij, bio204,4, tr, 0930, 1045, science_320).
-courses(pazametaz, phs105,1, tr, 1400, 1515, science_431).
-courses(pazametaz, phy205,1, m, 1400, 1550, science_403).
-courses(pazametaz, phy205,1, tr, 1230, 1345, science_431).
-courses(peacockj, ece565,1, mtwrf, 0800, 1530, tba).
-courses(peacockj, edu471,1, mtwrf, 0800, 1530, tba).
-courses(peacockj, edu521,1, null, null, tba, tba).
-courses(pellegrinid, cft100,1, f, 1200, 1445, fine_arts_117).
-courses(pellegrinid, lac101,4, m, 1600, 1650, fine_arts_118).
-courses(pellegrinid, the228,1, null, null, tba, tba).
-courses(pellegrinid, the265,1, tr, 1100, 1250, fine_arts_115).
-courses(pellegrinid, the480,7, null, null, tba, tba).
-courses(pellegrinid, the480,8, null, null, tba, tba).
-courses(penaaliceag, spa404,1, tr, 1100, 1215, sports_219).
-courses(perryk, bus201,1, mwf, 1000, 1050, communications_218).
-courses(perryk, bus201,6, mwf, 1100, 1150, communications_218).
-courses(pestar, crm320,1, mwf, 1100, 1150, webb_313).
-courses(pestar, crm320,2, mwf, 1200, 1250, webb_313).
-courses(pestar, crm410,1, mwf, 1000, 1050, webb_313).
-courses(pestar, crm480,1, null, null, tba, tba).
-courses(pestar, soc480,2, null, null, tba, tba).
-courses(peterosr, eco479,2, w, 1600, 1845, communications_108).
-courses(peterosr, fin462,2, w, 1600, 1845, communications_108).
-courses(peterosr, fin480,1, null, null, tba, tba).
-courses(petrikovskyh, art233,1, mw, 1300, 1450, fine_arts_115).
-courses(petrikovskyh, art480,14, null, null, tba, tba).
-courses(pimentalc, swk450,3, t, 1230, 1515, goddard_204).
-courses(pinckneys, art140,1, tr, 0930, 1045, fine_arts_305).
-courses(pinckneys, art313,1, tr, 1100, 1215, fine_arts_305).
-courses(porebskab, hsc215,1, m, 1600, 1850, science_237).
-courses(porebskab, hsc215,1, w, 0900, 1150, science_237).
-courses(porebskab, hsc215,1, w, 1200, 1450, science_237).
-courses(porebskab, hsc291,1, null, null, tba, tba).
-courses(porebskab, hsc491,2, null, null, tba, tba).
-courses(pozdnyakovaz, mat135p,1, m, 0900, 0950, goddard_203).
-courses(pozdnyakovaz, mat135p,1, mwf, 0800, 0850, goddard_203).
-courses(pozdnyakovaz, mat216,3, mwf, 1100, 1150, science_234).
-courses(quickb, eng100p,4, tr, 1600, 1715, webb_316).
-courses(quickb, eng100p,4, w, 1600, 1740, webb_316).
-courses(rahmanifara, art215,1, mw, 0900, 1145, fine_arts_323).
-courses(rahmanifara, art308,1, mw, 0900, 1145, fine_arts_323).
-courses(rahmanifara, art352,1, mw, 1200, 1445, fine_arts_331).
-courses(rahmanifara, art470,1, mw, 1200, 1445, fine_arts_331).
-courses(rahmanifara, art480,15, null, null, tba, tba).
-courses(rahmanifara, art485,1, mw, 1600, 1845, fine_arts_122).
-courses(rahmanifara, art485,1, mw, 1600, 1845, fine_arts_247).
-courses(rahmanifara, art485,1, mw, 1600, 1845, fine_arts_323).
-courses(rahmanifara, art490,1, null, null, tba, tba).
-courses(reays, bis205,2, mwf, 0800, 0850, webb_307).
-courses(reays, bis205,3, mwf, 0900, 0950, webb_307).
-courses(reynoldsj, eng100,7, mwf, 1200, 1250, webb_206).
-courses(reynoldsj, eng100,8, mwf, 1100, 1150, science_233).
-courses(rezain, ece410,1, w, 1600, 1845, the_center_for_early_childhood_education_175).
-courses(rezain, ece501,1, w, 1600, 1845, the_center_for_early_childhood_education_175).
-courses(richardss, edu417,1, m, 1200, 1445, webb_113).
-courses(richardss, edu465,1, m, 1900, 2145, webb_113).
-courses(richardss, edu480,3, null, null, tba, tba).
-courses(richardss, edu480,4, null, null, tba, tba).
-courses(richardss, edu516,1, w, 1600, 1845, webb_113).
-courses(richardss, edu565,1, m, 1900, 2145, webb_113).
-courses(richardss, edu696,7, null, null, tba, tba).
-courses(riggse, mus113,4, r, 1730, 1845, fine_arts_108).
-courses(riggse, mus356,33, null, null, tba, tba).
-courses(riggse, mus395,1, null, null, tba, tba).
-courses(riggse, mus456,34, null, null, tba, tba).
-courses(riggse, mus480,4, null, null, tba, tba).
-courses(rijsj, swk360,1, t, 1600, 1845, library_436).
-courses(robertd, hpe104,6, tr, 0930, 1045, the_center_for_early_childhood_education_167).
-courses(robertd, hpe104,7, tr, 1100, 1215, the_center_for_early_childhood_education_167).
-courses(robertd, hpe475,1, mtwrf, 0800, 1530, tba).
-courses(robertd, hpe476,1, r, 1600, 1845, the_center_for_early_childhood_education_167).
-courses(robertd, hpe490,1, null, null, tba, tba).
-courses(robertst, edu200,1, tr, 1100, 1215, science_117).
-courses(robertst, edu582,1, null, null, tba, online).
-courses(robertst, edu582,1, r, 1600, 1845, webb_215).
-courses(robinsonm, edu694,1, mtwrf, 0800, 1530, tba).
-courses(robinsonm, edu694,2, mtwrf, 0800, 1530, tba).
-courses(rochonr, eng260,3, mwf, 0900, 0950, webb_113).
-courses(rochonr, wst260,3, mwf, 0900, 0950, webb_113).
-courses(rodriguezd, swk312,2, t, 1230, 1515, science_137).
-courses(rodriguezd, swk320,1, t, 0800, 1045, webb_114).
-courses(rodriguezl, edu222,1, tr, 1100, 1215, the_center_for_early_childhood_education_170).
-courses(rodriguezl, edu357,4, tr, 1400, 1515, communications_108).
-courses(rodriguezl, edu425,1, t, 1600, 1845, science_432).
-courses(rodriguezl, edu525,1, t, 1600, 1845, science_432).
-courses(rodriguezl, edu696,1, null, null, tba, tba).
-courses(rosienej, csc230,1, mwf, 1100, 1150, science_135).
-courses(rosienej, csc335,1, mwf, 1000, 1050, science_133).
-courses(rosienej, csc335,2, mwf, 0900, 0950, science_139).
-courses(rosienej, csc340,1, mw, 1600, 1715, science_139).
-courses(rosienej, csc480,1, null, null, tba, tba).
-courses(rowettc, hpe327,1, t, 1600, 1845, the_center_for_early_childhood_education_170).
-courses(rowettc, hpe340,1, t, 1900, 2145, the_center_for_early_childhood_education_170).
-courses(rowettc, hpe480,1, null, null, tba, tba).
-courses(ruddyj, edu490,1, null, null, tba, tba).
-courses(rujoubm, acc311,1, tr, 0930, 1045, science_115).
-courses(rujoubm, acc420,1, tr, 1100, 1215, science_115).
-courses(rukgaberm, phi120,1, mwf, 1400, 1450, library_436).
-courses(rukgaberm, phi330,1, tr, 1100, 1215, goddard_202).
-courses(ryens, fin245,2, mwf, 1200, 1250, goddard_202).
-courses(ryens, fin347,1, mwf, 1300, 1350, webb_210).
-courses(saenzcambrac, his255,1, mwf, 1100, 1150, webb_317).
-courses(salterspedneaultk, psy100,1, mwf, 1000, 1050, webb_110).
-courses(salterspedneaultk, psy100,2, mwf, 1100, 1150, webb_110).
-courses(salterspedneaultk, psy450,1, mwf, 1400, 1450, webb_213).
-courses(salterspedneaultk, psy490,7, null, null, tba, tba).
-courses(salterspedneaultk, psy491,5, null, null, tba, tba).
-courses(salterspedneaultk, psy496,2, f, 0900, 0950, webb_115).
-courses(sandeenj, ees200,1, t, 1600, 1845, science_236).
-courses(sanfordl, hpe127,1, tr, 1900, 2015, sports_104).
-courses(sanfordl, hpe140,5, tr, 1730, 1845, sports_104).
-courses(sanfordl, hpe140,6, tr, 1730, 1845, sports_104).
-courses(saponaroj, eco201,7, m, 1600, 1845, goddard_208).
-courses(sarikhanikhoramim, mat243,2, m, 1300, 1350, science_137).
-courses(sarikhanikhoramim, mat243,2, tr, 1100, 1215, science_114).
-courses(sarikhanikhoramim, mat355,1, tr, 1230, 1345, science_114).
-courses(sarikhanikhoramim, mat480,1, null, null, tba, tba).
-courses(sarikhanikhoramim, mat490,1, null, null, tba, tba).
-courses(schallerj, bis442,1, w, 1600, 1845, science_115).
-courses(schallerj, osc260,1, tr, 1100, 1215, webb_212).
-courses(schallerj, osc360,1, tr, 1400, 1515, webb_307).
-courses(sciscoj, psy327,3, null, null, tba, tba).
-courses(sciscoj, psy327,3, tr, 0930, 1045, science_234).
-courses(sciscoj, psy418,1, tr, 1400, 1515, webb_214).
-courses(sciscoj, psy460,1, tr, 1100, 1215, webb_112).
-courses(sciscoj, psy490,2, null, null, tba, tba).
-courses(sciscoj, psy491,2, null, null, tba, tba).
-courses(sciscoj, psy491,9, null, null, tba, tba).
-courses(serranom, pbh228,1, tr, 1230, 1345, goddard_223).
-courses(serranom, pbh228,2, tr, 1600, 1715, goddard_202).
-courses(severancet, crm475,1, m, 0800, 0850, webb_215).
-courses(severancet, crm480,4, null, null, tba, tba).
-courses(severancet, crm480,5, null, null, tba, tba).
-courses(severancet, crm490,1, null, null, tba, tba).
-courses(severancet, crm490,2, null, null, tba, tba).
-courses(severancet, crm490,3, null, null, tba, tba).
-courses(severancet, soc307,1, mwf, 0900, 0950, webb_313).
-courses(shendec, csc360,2, mw, 1600, 1715, science_133).
-courses(shepardtorresr, ant106,1, tr, 0930, 1045, webb_110).
-courses(shepardtorresr, ant364,1, tr, 1100, 1215, science_116).
-courses(sholesz, msc132,3, w, 1300, 1350, library_266).
-courses(sholesz, msc146,2, w, 1400, 1600, library_266).
-courses(simonn, soc100,1, tr, 1400, 1515, webb_317).
-courses(simonn, soc201,1, w, 0900, 0950, webb_216).
-courses(simonn, soc300,1, tr, 0930, 1045, webb_210).
-courses(simonn, soc400,1, tr, 1100, 1250, webb_210).
-courses(simonn, soc480,1, null, null, tba, tba).
-courses(simonn, soc480,4, null, null, tba, tba).
-courses(simonn, soc490,1, null, null, tba, tba).
-courses(simonn, soc490,2, null, null, tba, tba).
-courses(simonn, soc491,1, null, null, tba, tba).
-courses(simonn, soc491,2, null, null, tba, tba).
-courses(simonn, soc492,1, null, null, tba, tba).
-courses(simonn, soc492,3, null, null, tba, tba).
-courses(simonn, soc493,1, null, null, tba, tba).
-courses(simonn, soc493,2, null, null, tba, tba).
-courses(slutskyd, phi220,1, mw, 1600, 1715, goddard_223).
-courses(smithe, hsc215,1, m, 1300, 1550, science_237).
-courses(smithe, hsc215,1, tr, 1230, 1345, goddard_117).
-courses(smithe, hsc215,2, mwf, 1200, 1250, goddard_216).
-courses(smithe, hsc215,3, tr, 1100, 1215, communications_108).
-courses(smithe, hsc291,2, null, null, tba, tba).
-courses(smithe, hsc391,4, null, null, tba, tba).
-courses(sokolovskayaa, com490,9, null, null, tba, tba).
-courses(sokolovskayaa, the226,1, null, null, tba, tba).
-courses(sokolovskayaa, the227,7, null, null, tba, tba).
-courses(sokolovskayaa, the278,1, tr, 1600, 1715, fine_arts_251).
-courses(sokolovskayaa, the279,1, tr, 1230, 1345, communications_109).
-courses(sokolovskayaa, the475,1, null, null, tba, tba).
-courses(sokolovskayaa, the480,9, null, null, tba, tba).
-courses(soleymanpourr, csc360,3, tr, 1600, 1715, science_135).
-courses(speichera, eng223,2, mwf, 1100, 1150, webb_214).
-courses(speichera, eng328,1, mwf, 1300, 1350, webb_215).
-courses(speichera, eng493,2, null, null, tba, tba).
-courses(speichera, eng495,4, null, null, tba, tba).
-courses(speichera, eng499,1, null, null, tba, tba).
-courses(speichera, hon488,13, null, null, tba, tba).
-courses(stantonm, swk300,2, t, 1230, 1515, webb_215).
-courses(stantonm, swk312,1, r, 1230, 1515, webb_215).
-courses(stantonm, swk333,1, r, 0800, 1045, webb_215).
-courses(stantonm, swk333,1, r, 1100, 1150, webb_206).
-courses(stantonm, swk480,2, null, null, tba, tba).
-courses(stantonm, swk480,3, null, null, tba, tba).
-courses(stantonm, swk480,4, null, null, tba, tba).
-courses(stockerk, phi215,1, mwf, 0900, 0950, webb_214).
-courses(stockerk, phi480,1, null, null, tba, tba).
-courses(stockerk, phi480,2, null, null, tba, tba).
-courses(stoloffd, edu357,2, w, 1600, 1845, webb_210).
-courses(stoloffd, edu511,25, null, null, tba, online).
-courses(stoloffd, edu555,25, null, null, tba, online).
-courses(stoloffd, edu696,5, null, null, tba, tba).
-courses(stoloffd, lac400,1, w, 1900, 2145, webb_210).
-courses(swaminathans, ece330,1, t, 0930, 1215, the_center_for_early_childhood_education_175).
-courses(swaminathans, ece401,1, null, null, tba, tba).
-courses(swaminathans, ece696,1, null, null, tba, tba).
-courses(swaminathans, edu697,25, null, null, tba, online).
-courses(swansons, che213,5, w, 1600, 1850, science_440).
-courses(swansons, che213,9, w, 1900, 2150, science_440).
-courses(swetzoffs, psc217,1, tr, 1230, 1345, library_436).
-courses(swetzoffs, psc310,1, tr, 1400, 1515, science_117).
-courses(swiftp, phi210,1, tr, 0930, 1045, fine_arts_115).
-courses(swiftp, phi340,1, tr, 1400, 1515, library_436).
-courses(switchenkod, hpe328,1, tr, 1600, 1715, sports_221).
-courses(switchenkod, hpe329,1, tr, 0800, 0915, sports_221).
-courses(switchenkok, hpe362,1, r, 0930, 1030, sports_219).
-courses(switchenkok, hpe362,1, r, 1030, 1215, sports_201).
-courses(synnottc, bus201,4, mwf, 0900, 0950, communications_108).
-courses(szymkiewiczr, eng100,4, tr, 1100, 1215, science_233).
-courses(szymkiewiczr, eng100p,5, tr, 1230, 1345, webb_316).
-courses(szymkiewiczr, eng100p,5, w, 1300, 1440, webb_316).
-courses(tackettm, hsc318,2, m, 0800, 1050, goddard_127).
-courses(tackettm, hsc319,2, f, 0800, 1050, goddard_127).
-courses(tarriconed, psy206,1, mw, 1730, 1845, webb_214).
-courses(tasneems, csc180,1, tr, 1100, 1215, science_138).
-courses(tasneems, csc440,1, tr, 1400, 1515, science_139).
-courses(tasneems, csc440,2, r, 1600, 1845, science_138).
-courses(tasneems, csc485,1, null, null, tba, tba).
-courses(tasneems, hon488,16, null, null, tba, tba).
-courses(taylorm, eng201,1, mwf, 1100, 1150, webb_114).
-courses(taylorm, eng205,2, mwf, 0900, 0950, library_266).
-courses(terryb, eng205,1, tr, 0800, 0915, webb_112).
-courses(terryb, eng205,3, tr, 0930, 1045, webb_112).
-courses(thapag, hsc319,2, f, 1400, 1650, goddard_127).
-courses(thapag, hsc491,6, null, null, tba, tba).
-courses(thomasj, mus356,24, null, null, tba, tba).
-courses(thompsona, msc253,1, f, 1300, 1700, tba).
-courses(thompsona, msc253,1, w, 1325, 1525, tba).
-courses(toczylowskib, art230,1, wf, 1200, 1445, fine_arts_247).
-courses(toedtj, che318,1, mwf, 1300, 1350, science_432).
-courses(toedtj, che319,1, t, 1400, 1650, science_434).
-courses(toedtj, che480,1, null, null, tba, tba).
-courses(toedtj, che490,1, null, null, tba, tba).
-courses(tomanellij, edu222,2, tr, 0800, 0915, webb_317).
-courses(tonera, mus356,9, null, null, tba, tba).
-courses(torockioc, eng301,1, tr, 1400, 1515, library_266).
-courses(torockioc, eng372,1, w, 1600, 1845, webb_112).
-courses(torockioc, eng462,1, t, 1600, 1845, webb_213).
-courses(torockioc, eng493,1, null, null, tba, tba).
-courses(torockioc, eng499,4, null, null, tba, tba).
-courses(torockioc, hon488,11, null, null, tba, tba).
-courses(tracyj, hpe326,1, r, 0800, 0915, fine_arts_219).
-courses(tracyj, hpe326,1, t, 0800, 0915, sports_219).
-courses(tranl, ees112,1, w, 1730, 1915, science_236).
-courses(tranl, ees112,2, t, 1730, 1915, science_215).
-courses(trubeyp, swk200,1, r, 1230, 1515, science_137).
-courses(turgeonk, dsc508,25, null, null, tba, online).
-courses(utterbacka, com120,1, tr, 0930, 1045, communications_114a).
-courses(utterbacka, com120,1, tr, 0930, 1045, communications_114b).
-courses(utterbacka, com120,1, tr, 0930, 1045, communications_114d).
-courses(utterbacka, com290,1, null, null, tba, tba).
-courses(utterbacka, com300,2, tr, 1230, 1345, fine_arts_307).
-courses(utterbacka, com425,1, w, 1600, 1845, communications_114a).
-courses(utterbacka, com425,1, w, 1600, 1845, communications_114b).
-courses(utterbacka, com425,1, w, 1600, 1845, communications_114d).
-courses(utterbacka, com480,1, null, null, tba, tba).
-courses(utterbacka, com480,3, null, null, tba, tba).
-courses(utterbacka, com490,6, null, null, tba, tba).
-courses(vailm, acc411,1, t, 1600, 1845, webb_113).
-courses(vailm, acc520,25, null, null, tba, tba).
-courses(vasquezobrient, hon488,17, null, null, tba, tba).
-courses(vasquezobrient, psy206,2, tr, 0930, 1045, webb_216).
-courses(vasquezobrient, psy327,2, null, null, tba, tba).
-courses(vasquezobrient, psy327,2, tr, 1600, 1715, webb_314).
-courses(vasquezobrient, psy434,1, tr, 1230, 1345, webb_216).
-courses(vasquezobrient, psy471,1, m, 1000, 1050, webb_216).
-courses(vasquezobrient, psy491,15, null, null, tba, tba).
-courses(veerappanv, bio304,1, mwf, 0900, 0950, science_137).
-courses(veerappanv, bio304,2, mwf, 1000, 1050, science_137).
-courses(veerappanv, bio460,1, mwf, 1200, 1250, science_416).
-courses(veerappanv, bio460,1, r, 0930, 1220, science_335).
-courses(veerappanv, bio480,2, null, null, tba, tba).
-courses(veerappanv, bio491,3, null, null, tba, tba).
-courses(verrastron, phi120,2, mwf, 1100, 1150, library_436).
-courses(verrastron, phi365,1, tr, 1600, 1715, goddard_201).
-courses(verrastron, psc365,1, tr, 1600, 1715, goddard_201).
-courses(vijayasekarj, edu696,3, null, null, tba, tba).
-courses(vijayasekarj, spa111,1, mwf, 1100, 1150, webb_112).
-courses(vijayasekarj, spa492,4, null, null, tba, tba).
-courses(villanuevae, bus307,1, mwf, 1200, 1250, communications_218).
-courses(villanuevae, bus450,1, mwf, 0800, 0850, communications_218).
-courses(villanuevae, bus480,4, null, null, tba, tba).
-courses(vob, org696,3, null, null, tba, tba).
-courses(vogtd, hpe104,3, r, 1600, 1845, goddard_200).
-courses(vogtd, hpe104,9, w, 1600, 1845, goddard_203).
-courses(volkmanv, eco201,3, mwf, 0900, 0950, goddard_201).
-courses(volkmanv, eco305,1, mwf, 1000, 1050, webb_307).
-courses(wadeckij, the227,1, null, null, tba, tba).
-courses(walterss, hsc380,1, null, null, tba, tba).
-courses(walterss, hsc400,1, mwf, 1200, 1310, science_115).
-courses(walterss, hsc480,7, null, null, tba, tba).
-courses(walterss, hsc480,8, null, null, tba, tba).
-courses(walterss, pbh206,1, mwf, 1100, 1150, goddard_201).
-courses(walterss, pbh330,1, mwf, 1000, 1050, goddard_208).
-courses(walterss, pbh494,4, null, null, tba, tba).
-courses(wardk, lac200,2, mwf, 1300, 1350, science_134).
-courses(wardk, mat341,1, mwf, 0900, 0950, science_132).
-courses(washburns, mus356,31, null, null, tba, tba).
-courses(washburns, mus356,32, null, null, tba, tba).
-courses(wasielewskit, bio200,1, tr, 0930, 1045, science_416).
-courses(wasielewskit, bio200,2, tr, 1100, 1215, science_416).
-courses(watkinsk, mus107,1, w, 1900, 2130, fine_arts_108).
-courses(weirl, eco215,1, tr, 1100, 1215, science_238).
-courses(weirl, eco215,2, tr, 1230, 1345, science_238).
-courses(wellesr, the227,3, null, null, tba, tba).
-courses(wellesr, the227,6, null, null, tba, tba).
-courses(weselcouchc, csc249,1, m, 1600, 1845, science_135).
-courses(westberryb, soc310,1, m, 1900, 2145, science_116).
-courses(westberryb, soc318,1, m, 1600, 1845, science_116).
-courses(westberryb, wst310,1, m, 1900, 2145, science_116).
-courses(whiteheadb, mat099,1, mwf, 0900, 0950, science_234).
-courses(whiteheadb, mat135,1, mwf, 0800, 0850, science_132).
-courses(whitej, edu357,1, t, 1600, 1845, webb_210).
-courses(whitej, lap430,1, w, 1900, 2145, webb_113).
-courses(williamsone, ant337,1, mwf, 0800, 0850, webb_214).
-courses(williamsone, ant345,1, mwf, 0900, 0950, webb_215).
-courses(wintnerj, art250,1, tr, 1730, 1845, fine_arts_305).
-courses(woodmanseek, hpe104,2, w, 1600, 1845, goddard_202).
-courses(wraym, osc260,2, t, 1600, 1845, communications_201).
-courses(wus, mat099,2, tr, 1600, 1715, science_234).
-courses(wus, mat135,3, tr, 0930, 1045, science_132).
-courses(yankovc, mat243,1, mwf, 0900, 0950, science_114).
-courses(yankovc, mat243,1, w, 0800, 0850, science_114).
-courses(yankovc, mat243,3, mwf, 1100, 1150, science_114).
-courses(yankovc, mat243,3, w, 1200, 1250, science_114).
-courses(yankovc, mat421,1, mwf, 1000, 1050, science_114).
-courses(youngbloodj, eng201,2, mwf, 1200, 1250, webb_114).
-courses(youngbloodj, eng330,1, mf, 1400, 1515, webb_114).
-courses(youngbloodj, hon361,2, mw, 1600, 1715, webb_114).
-courses(zablonskim, edu405,1, r, 1600, 1845, webb_212).
-courses(zatowskij, com245,1, t, 1600, 1845, communications_226).
-courses(zatowskij, com291,1, null, null, tba, tba).
-courses(zatowskij, com490,8, null, null, tba, tba).
-courses(zimmittil, edu470,1, mtwrf, 0800, 1530, tba).
+courses(abbatemarcoa, eng260,2, tr, 1100, 1215, goddard, 208).
+courses(abbatemarcoa, wst260,1, tr, 1230, 1345, goddard, 208).
+courses(abbatemarcoa, wst260,2, tr, 1100, 1215, goddard, 208).
+courses(aconforan, com410,1, m, 1600, 1845, communications, 107).
+courses(ahmadis, che213,3, t, 1600, 1850, science, 440).
+courses(ahmadis, che213,4, t, 1900, 2150, science, 440).
+courses(aidooa, mat155p,2, tr, 0930, 1045, science, 114).
+courses(aidooa, mat155p,2, w, 1000, 1150, science, 116).
+courses(aidooa, mat230,2, tr, 1230, 1345, science, 116).
+courses(aidooa, mat340,1, tr, 1400, 1515, science, 132).
+courses(aidooa, mat340,1, w, 1400, 1450, science, 238).
+courses(albinie, bis362,1, m, 1600, 1845, webb, 307).
+courses(alexanderj, hsc370,1, tr, 0930, 1045, goddard, 123).
+courses(alkhamaieshs, bis370,1, tr, 1730, 1845, webb, 307).
+courses(alkhamaieshs, bis370,2, tr, 1900, 2015, webb, 307).
+courses(allene, mat135p,3, tr, 0800, 0950, science, 117).
+courses(ammarim, com220,1, t, 1900, 2145, communications, 114).
+courses(ammarim, com220,1, t, 1900, 2145, communications, 114).
+courses(ammarim, com220,1, t, 1900, 2145, communications, 114).
+courses(ammarim, com220,3, t, 1600, 1845, communications, 114).
+courses(ammarim, com220,3, t, 1600, 1845, communications, 114).
+courses(ammarim, com220,3, t, 1600, 1845, communications, 114).
+courses(ammarim, flm220,1, t, 1900, 2145, communications, 114).
+courses(ammarim, flm220,3, t, 1600, 1845, communications, 114).
+courses(andersong, hsc356,1, mwf, 0900, 0950, sports, 219).
+courses(armstrongn, spa211,1, mwf, 1000, 1050, webb, 114).
+courses(armstrongn, spa490,1, null, null, tba, tba, tba).
+courses(ashtonf, edu523,1, null, null, tba, tba, tba).
+courses(ashtonf, edu571,1, mtwrf, 0800, 1530, tba, tba).
+courses(aventa, bus225,1, mwf, 1200, 1250, communications, 109).
+courses(aventa, bus225,3, mwf, 1000, 1050, communications, 108).
+courses(azzaroe, soc220,1, t, 1900, 2145, webb, 214).
+courses(azzaroe, soc325,1, m, 1900, 2145, webb, 313).
+courses(babars, soc100,2, mwf, 1100, 1150, webb, 212).
+courses(babars, soc100,3, mwf, 1200, 1250, webb, 212).
+courses(bachiochip, org696,1, null, null, tba, tba, tba).
+courses(bachiochip, psy303,1, tr, 1100, 1215, webb, 315).
+courses(bachiochip, psy305,1, tr, 1400, 1515, webb, 216).
+courses(bachiochip, psy327,1, mw, 1600, 1715, webb, 206).
+courses(bachiochip, psy327,1, null, null, tba, tba, tba).
+courses(bachiochip, psy480,2, null, null, tba, tba, tba).
+courses(bachiochip, psy480,3, null, null, tba, tba, tba).
+courses(bachiochip, psy480,6, null, null, tba, tba, tba).
+courses(bachiochip, psy490,6, null, null, tba, tba, tba).
+courses(bachiochip, psy497,1, null, null, tba, tba, tba).
+courses(bachollem, flm223,1, m, 1200, 1445, goddard, 200).
+courses(bachollem, flm223,2, w, 1200, 1445, goddard, 200).
+courses(bachollem, fre120,1, mwf, 1100, 1150, goddard, 200).
+courses(bachollem, fre223,1, m, 1200, 1445, goddard, 200).
+courses(bachollem, fre223,2, w, 1200, 1445, goddard, 200).
+courses(balcerskit, his325,1, w, 1600, 1845, webb, 215).
+courses(balcerskit, his480,4, null, null, tba, tba, tba).
+courses(ballenad, mus113,5, t, 1900, 2020, fine_arts, 110).
+courses(ballenad, mus114,3, mwf, 1000, 1050, fine_arts, 212).
+courses(ballenad, mus114,4, mwf, 1100, 1150, fine_arts, 212).
+courses(ballenad, mus356,39, null, null, tba, tba, tba).
+courses(ballenad, mus356,40, null, null, tba, tba, tba).
+courses(balought, mus100,1, mwf, 0800, 0850, fine_arts, 110).
+courses(balought, mus100,2, mwf, 0900, 0950, fine_arts, 110).
+courses(banee, hsc215,1, r, 0800, 1050, science, 237).
+courses(banee, hsc391,3, null, null, tba, tba, tba).
+courses(bartonek, art219,2, t, 0930, 1215, fine_arts, 323).
+courses(bartonek, art219,2, t, 0930, 1215, fine_arts, 328).
+courses(bataillea, hon488,18, null, null, tba, tba, tba).
+courses(bataillea, hsc308,1, mwf, 0900, 0950, goddard, 200).
+courses(bataillea, hsc319,1, mwf, 1100, 1150, goddard, 223).
+courses(bataillea, hsc319,1, r, 0800, 1050, goddard, 127).
+courses(bataillea, hsc319,1, r, 1230, 1520, goddard, 127).
+courses(bataillea, hsc319,2, mwf, 1300, 1350, goddard, 223).
+courses(bataillea, hsc380,2, null, null, tba, tba, tba).
+courses(beebej, hsc444,1, tr, 1730, 2145, goddard, 123).
+courses(beebej, hsc491,4, null, null, tba, tba, tba).
+courses(beebyc, art140,3, tr, 1600, 1715, fine_arts, 305).
+courses(beeverj, hsc225,2, tr, 0800, 0915, goddard, 208).
+courses(beeverj, hsc408,1, tr, 0930, 1045, goddard, 208).
+courses(bellesd, mus103,1, mw, 1730, 1845, fine_arts, 110).
+courses(bellesd, mus113,1, wf, 1500, 1550, fine_arts, 110).
+courses(bellesd, mus480,2, null, null, tba, tba, tba).
+courses(bellesd, mus480,7, null, null, tba, tba, tba).
+courses(bellesd, mus480,8, null, null, tba, tba, tba).
+courses(bisantzj, art214,1, w, 0900, 1145, fine_arts, 330).
+courses(bissonnettea, hsc235,1, mwf, 1300, 1350, goddard, 117).
+courses(bissonnettea, hsc438,1, mwf, 1400, 1450, goddard, 117).
+courses(blainj, nur424,1, null, null, tba, tba, tba).
+courses(blancaflors, hsc438,2, tr, 1230, 1345, goddard, 201).
+courses(blancaflors, pbh440,1, tr, 1400, 1515, goddard, 208).
+courses(bondoka, csc210,2, mwf, 1100, 1150, science, 133).
+courses(bondoka, csc251,1, mwf, 0900, 0950, science, 135).
+courses(bondoka, csc251,2, mwf, 1000, 1050, science, 135).
+courses(bouleyt, ece215,1, tr, 1400, 1515, the_center_for_early_childhood_education, 170).
+courses(bouleyt, ece355,1, r, 0930, 1215, the_center_for_early_childhood_education, 175).
+courses(bouleyt, ece400,1, t, 1600, 1845, the_center_for_early_childhood_education, 175).
+courses(bouleyt, ece480,1, null, null, tba, tba, tba).
+courses(bouleyt, ece516,1, null, null, tba, tba, tba).
+courses(bouleyt, edu696,8, null, null, tba, tba, tba).
+courses(breslind, soc100,6, tr, 1600, 1715, webb, 313).
+courses(breslind, soc250,1, tr, 1400, 1515, communications, 109).
+courses(brighthollanda, the228,2, null, null, tba, tba, tba).
+courses(brighthollanda, the392,1, null, null, tba, tba, tba).
+courses(brighthollanda, the474,1, tr, 1600, 1715, fine_arts, 219).
+courses(brighthollanda, the475,1, null, null, tba, tba, tba).
+courses(bronsonm, mus356,41, null, null, tba, tba, tba).
+courses(brosciousc, hon488,8, null, null, tba, tba, tba).
+courses(brosciousc, psc201,1, tr, 0930, 1045, webb, 113).
+courses(brosciousc, psc201,2, tr, 1230, 1345, webb, 113).
+courses(browns, soc346,1, r, 1600, 1845, science, 116).
+courses(brunellek, mat139p,1, mwf, 0900, 0950, webb, 114).
+courses(brunellek, mat139p,1, w, 0800, 0850, webb, 114).
+courses(buckw, bus301,2, tr, 0930, 1045, goddard, 200).
+courses(buckw, bus301,3, tr, 1100, 1215, goddard, 200).
+courses(buckw, bus351,1, tr, 1400, 1515, communications, 201).
+courses(buckw, bus351,2, tr, 1600, 1715, communications, 108).
+courses(buckw, bus480,3, null, null, tba, tba, tba).
+courses(burnsn, soc240,1, tr, 1100, 1215, webb, 313).
+courses(burnsn, wst240,1, tr, 1100, 1215, webb, 313).
+courses(busij, dsc505,25, null, null, tba, online, online).
+courses(bussierej, mat216,5, tr, 1600, 1715, science, 238).
+courses(calissij, lac100,1, tr, 1230, 1345, fine_arts, 118).
+courses(calissij, lac101,1, m, 1000, 1050, fine_arts, 115).
+courses(calissij, mus113,2, f, 1530, 1650, fine_arts, 108).
+courses(calissij, mus120,1, tr, 1400, 1515, fine_arts, 110).
+courses(calissij, mus215,1, w, 1000, 1050, fine_arts, 108).
+courses(calissij, mus215,2, f, 1000, 1050, fine_arts, 108).
+courses(calissij, mus234,1, mwf, 1100, 1150, fine_arts, 305).
+courses(calissij, mus356,20, null, null, tba, tba, tba).
+courses(calissij, mus480,3, null, null, tba, tba, tba).
+courses(calissij, mus480,6, null, null, tba, tba, tba).
+courses(calissir, mus114,1, tr, 0930, 1045, fine_arts, 212).
+courses(calissir, mus114,2, tr, 1100, 1215, fine_arts, 212).
+courses(calissir, mus356,21, null, null, tba, tba, tba).
+courses(canavanp, hsc210,1, mwf, 1100, 1150, communications, 107).
+courses(canavanp, hsc318,1, mwf, 1000, 1050, goddard, 223).
+courses(canavanp, hsc318,1, t, 0800, 1050, goddard, 127).
+courses(canavanp, hsc318,1, t, 1230, 1520, goddard, 127).
+courses(canavanp, hsc318,2, m, 1500, 1750, goddard, 127).
+courses(canavanp, hsc391,1, null, null, tba, tba, tba).
+courses(canavanp, hsc480,1, null, null, tba, tba, tba).
+courses(canavanp, hsc480,2, null, null, tba, tba, tba).
+courses(candlerj, che217,1, m, 1900, 2150, science, 441).
+courses(candlerj, che217,1, t, 1900, 2150, science, 441).
+courses(capalboh, acc410,1, r, 1600, 1845, webb, 113).
+courses(capalboh, acc531,25, null, null, tba, tba, tba).
+courses(carenenc, his101,1, tr, 0930, 1045, science, 231).
+courses(carenenc, his379,1, tr, 1100, 1215, library, 436).
+courses(cariddik, art212,1, mw, 1600, 1750, fine_arts, 305).
+courses(carlsonh, ees207,1, r, 1600, 1750, science, 417).
+courses(carlsonh, ees207,2, t, 1600, 1750, science, 417).
+courses(carlsonh, ees207,3, w, 1600, 1750, science, 417).
+courses(carlsonr, com220,2, m, 1600, 1845, communications, 114).
+courses(carlsonr, com220,2, m, 1600, 1845, communications, 114).
+courses(carlsonr, com220,2, m, 1600, 1845, communications, 114).
+courses(carlsonr, flm220,2, m, 1600, 1845, communications, 114).
+courses(carrolls, ant302,1, tr, 0930, 1045, goddard, 223).
+courses(carrolls, hon488,7, null, null, tba, tba, tba).
+courses(carrolls, hsc209,1, m, 1600, 1845, goddard, 216).
+courses(carrolls, hsc302,1, tr, 0930, 1045, goddard, 223).
+courses(carrolls, hsc390,1, null, null, tba, tba, tba).
+courses(carrolls, hsc391,2, null, null, tba, tba, tba).
+courses(carrolls, hsc480,3, null, null, tba, tba, tba).
+courses(carrolls, hsc480,4, null, null, tba, tba, tba).
+courses(carrolls, hsc480,6, null, null, tba, tba, tba).
+courses(carrolls, hsc490,1, null, null, tba, tba, tba).
+courses(carrolls, hsc491,3, null, null, tba, tba, tba).
+courses(carrolls, pbh209,1, m, 1600, 1845, goddard, 216).
+courses(carrolls, pbh350,1, tr, 1100, 1215, goddard, 223).
+courses(carrolls, pbh494,1, null, null, tba, tba, tba).
+courses(carrolls, pbh494,2, null, null, tba, tba, tba).
+courses(carrolls, pbh494,3, null, null, tba, tba, tba).
+courses(cassidys, eng100,5, mwf, 1100, 1150, webb, 206).
+courses(castron, csc215,1, tr, 0800, 0915, science, 135).
+courses(chadwickj, ehs210,1, tr, 1230, 1345, science, 202).
+courses(chank, spa492,1, null, null, tba, tba, tba).
+courses(chank, spa492,2, null, null, tba, tba, tba).
+courses(chank, spa492,3, null, null, tba, tba, tba).
+courses(chattertonc, bus240,1, mwf, 0900, 0950, communications, 201).
+courses(chattertonc, bus340,1, r, 0930, 1215, communications, 201).
+courses(chattertonc, bus490,1, m, 1900, 2015, communications, 201).
+courses(chattertonc, bus490,2, r, 0800, 0915, communications, 201).
+courses(chent, art124,1, tr, 0930, 1215, fine_arts, 327).
+courses(chent, art327,1, m, 1200, 1445, fine_arts, 330).
+courses(chent, art329,1, tr, 1230, 1515, fine_arts, 327).
+courses(chent, art480,1, null, null, tba, tba, tba).
+courses(chent, art480,5, null, null, tba, tba, tba).
+courses(chent, art480,9, null, null, tba, tba, tba).
+courses(chent, art487,1, null, null, tba, tba, tba).
+courses(chent, art490,2, null, null, tba, tba, tba).
+courses(chirakulmaddenp, che213,6, r, 1100, 1350, science, 440).
+courses(chirakulmaddenp, che213,7, r, 1400, 1650, science, 440).
+courses(chiricom, eng257,1, mwf, 1300, 1350, webb, 313).
+courses(chiricom, eng461,1, m, 1600, 1845, communications, 219).
+courses(chiricom, eng480,3, null, null, tba, tba, tba).
+courses(chiricom, eng481,1, null, null, tba, tba, tba).
+courses(chiricom, eng494,5, null, null, tba, tba, tba).
+courses(chiricom, lac200,1, mwf, 1100, 1150, goddard, 216).
+courses(christopherm, psy203,1, w, 1600, 1845, science, 116).
+courses(citursa, bis373,1, mf, 1400, 1515, webb, 407).
+courses(citursa, bis379,1, m, 1600, 1845, webb, 407).
+courses(citursa, bis447,2, tr, 1100, 1215, webb, 407).
+courses(citursa, bis461,1, mw, 1900, 2015, webb, 407).
+courses(citursa, bis480,1, null, null, tba, tba, tba).
+courses(clementss, geo331,1, tr, 0930, 1045, library, 436).
+courses(clementss, hsc209,2, tr, 1600, 1715, goddard, 208).
+courses(clementss, pbh209,2, tr, 1600, 1715, goddard, 208).
+courses(clermontferrandm, eng177,1, tr, 1230, 1345, webb, 212).
+courses(clermontferrandm, eng241,3, tr, 1400, 1515, webb, 212).
+courses(clermontferrandm, eng337,1, tr, 1600, 1715, webb, 114).
+courses(clermontferrandm, eng462,2, w, 1600, 1845, webb, 213).
+courses(clermontferrandm, eng480,2, null, null, tba, tba, tba).
+courses(clermontferrandm, eng494,1, null, null, tba, tba, tba).
+courses(clermontferrandm, eng494,4, null, null, tba, tba, tba).
+courses(clermontferrandm, eng495,2, null, null, tba, tba, tba).
+courses(clermontferrandm, eng499,2, null, null, tba, tba, tba).
+courses(cliffordm, eco479,1, tr, 0930, 1045, goddard, 203).
+courses(cliffordm, eco479,3, tr, 0800, 0915, goddard, 203).
+courses(cliffordm, eco480,1, null, null, tba, tba, tba).
+courses(cliffordm, eco480,2, null, null, tba, tba, tba).
+courses(cliffordm, eco480,3, null, null, tba, tba, tba).
+courses(cliffordm, eco480,4, null, null, tba, tba, tba).
+courses(cliffordm, eco480,5, null, null, tba, tba, tba).
+courses(cliffordm, fin438,1, w, 1900, 2145, goddard, 200).
+courses(cliffordm, fin462,1, tr, 0930, 1045, goddard, 203).
+courses(cliffordm, fin462,3, tr, 0800, 0915, goddard, 203).
+courses(closes, his120,1, tr, 0800, 0915, webb, 315).
+courses(closes, his120,2, tr, 1400, 1515, webb, 315).
+courses(closes, his121,1, tr, 1230, 1345, webb, 315).
+courses(closes, his322,1, tr, 0930, 1045, webb, 315).
+courses(closes, his480,5, null, null, tba, tba, tba).
+courses(cobbj, com490,1, null, null, tba, tba, tba).
+courses(cobbj, hon361,1, t, 1600, 1845, fine_arts, 115).
+courses(cobbj, the174,1, tr, 0930, 1045, fine_arts, 219).
+courses(cobbj, the272,1, tr, 1400, 1515, fine_arts, 215).
+courses(cobbj, the365,1, tr, 1230, 1345, fine_arts, 219).
+courses(cobbj, the475,1, null, null, tba, tba, tba).
+courses(cobbj, the480,1, null, null, tba, tba, tba).
+courses(cobbj, the480,3, null, null, tba, tba, tba).
+courses(cochrant, hon375,1, w, 1500, 1550, fine_arts, 115).
+courses(cochrant, mus236,1, tr, 0930, 1045, fine_arts, 108).
+courses(cochrant, mus480,1, null, null, tba, tba, tba).
+courses(cochrant, mus480,5, null, null, tba, tba, tba).
+courses(coffeyk, mat135p,2, f, 1000, 1050, webb, 112).
+courses(coffeyk, mat135p,2, mwf, 0900, 0950, webb, 112).
+courses(coffeyk, mat135p,4, f, 1300, 1350, science, 137).
+courses(coffeyk, mat135p,4, mwf, 1400, 1450, science, 137).
+courses(collinsg, flm321,1, r, 1900, 2145, communications, 107).
+courses(congdonv, eng100,10, tr, 0930, 1045, science, 233).
+courses(connollyb, bio222,1, mwf, 1100, 1150, science, 416).
+courses(connollyb, bio222,1, r, 0930, 1220, science, 318).
+courses(connollyb, bio380,10, null, null, tba, tba, tba).
+courses(connollyb, bio380,3, null, null, tba, tba, tba).
+courses(connollyb, bio380,5, null, null, tba, tba, tba).
+courses(connollyb, bio438,1, mwf, 1300, 1350, science, 416).
+courses(connollyb, bio438,1, r, 1400, 1650, science, 318).
+courses(connollyb, bio480,9, null, null, tba, tba, tba).
+courses(connollyb, bio490,7, null, null, tba, tba, tba).
+courses(cookk, edu412,1, t, 1600, 1845, webb, 215).
+courses(cordonl, psy409,1, tr, 0800, 0915, webb, 313).
+courses(cordonl, psy409,2, tr, 0930, 1045, webb, 313).
+courses(cordonl, psy419,1, tr, 1230, 1345, webb, 313).
+courses(cordonl, psy419,2, tr, 1400, 1515, webb, 313).
+courses(cordonl, psy480,7, null, null, tba, tba, tba).
+courses(cornicelloa, mus113,3, m, 1600, 1730, fine_arts, 108).
+courses(cornicelloa, mus205,1, mwf, 1100, 1150, fine_arts, 108).
+courses(cornicelloa, mus356,16, null, null, tba, tba, tba).
+courses(cornicelloa, mus372,1, mwf, 1300, 1350, fine_arts, 243).
+courses(cotea, hsc318,2, mwf, 1300, 1350, goddard, 208).
+courses(cotea, hsc318,3, mwf, 1400, 1450, goddard, 208).
+courses(cotea, nur372,1, mw, 0900, 1030, goddard, 117).
+courses(cotea, nur403,1, wf, 1100, 1230, science, 137).
+courses(cousinsa, psy227,1, mwf, 0800, 0910, webb, 314).
+courses(cousinsa, psy315,1, mwf, 1200, 1250, webb, 317).
+courses(cousinsa, psy319,1, mwf, 1300, 1350, webb, 317).
+courses(cousinsa, psy390,1, w, 1000, 1050, webb, 407).
+courses(cousinsa, psy490,11, null, null, tba, tba, tba).
+courses(cousinsa, psy491,12, null, null, tba, tba, tba).
+courses(cousinsa, wst315,1, mwf, 1200, 1250, webb, 317).
+courses(couturepalmerinop, ant201,25, null, null, tba, online, online).
+courses(couturepalmerinop, ant222,25, null, null, tba, online, online).
+courses(couturepalmerinop, cas201,25, null, null, tba, tba, tba).
+courses(couturepalmerinop, cas222,25, null, null, tba, online, online).
+courses(cowlese, bio301,1, t, 1600, 1845, science, 116).
+courses(cowlese, bio424,1, mwf, 1000, 1050, science, 416).
+courses(cowlese, bio424,1, t, 0930, 1220, science, 335).
+courses(cowlese, pbh301,1, t, 1600, 1845, science, 116).
+courses(coxp, hpe310,1, w, 1900, 2145, goddard, 208).
+courses(cruzd, edu696,4, null, null, tba, tba, tba).
+courses(cunninghamb, eco200,2, mwf, 1000, 1050, goddard, 203).
+courses(cunninghamb, eco325,1, mwf, 1200, 1250, communications, 201).
+courses(cunninghamb, eco325,2, mwf, 1100, 1150, communications, 201).
+courses(cunninghamw, ees104,1, tr, 0930, 1045, science, 236).
+courses(cunninghamw, ees271,1, null, null, tba, online, online).
+courses(cunninghamw, ees271,1, t, 1730, 1815, science, 232).
+courses(cunninghamw, ees330,1, t, 1230, 1520, science, 232).
+courses(cunninghamw, ees330,1, tr, 1100, 1215, science, 232).
+courses(cunninghamw, ees333,1, w, 1300, 1350, science, 232).
+courses(curtiss, com101,1, mwf, 1100, 1150, fine_arts, 115).
+courses(curtiss, com230,3, tr, 0930, 1045, communications, 108).
+courses(dahmanif, fre492,1, null, null, tba, tba, tba).
+courses(dahmanif, fre492,2, null, null, tba, tba, tba).
+courses(daled, hsc320,1, mwf, 1200, 1250, goddard, 117).
+courses(daled, hsc332,1, tr, 1100, 1215, goddard, 117).
+courses(daled, hsc342,1, tr, 0800, 0915, goddard, 200).
+courses(daled, hsc450,1, mwf, 1100, 1150, goddard, 117).
+courses(dalek, mat216,4, tr, 0800, 0915, science, 234).
+courses(daleoj, mus107,1, w, 1900, 2130, fine_arts, 108).
+courses(dancikg, csc314,1, tr, 1400, 1515, science, 138).
+courses(dancikg, csc450,1, tr, 0930, 1045, science, 138).
+courses(dancikg, csc490,1, null, null, tba, tba, tba).
+courses(dancikg, hon488,10, null, null, tba, tba, tba).
+courses(dancikg, hon488,9, null, null, tba, tba, tba).
+courses(davisb, his116,1, mwf, 0900, 0950, library, 436).
+courses(davisb, his116,2, mwf, 1300, 1350, library, 436).
+courses(davisb, his200,1, mwf, 1000, 1110, library, 266).
+courses(davisb, his373,1, mwf, 1400, 1450, webb, 212).
+courses(davisb, his480,1, null, null, tba, tba, tba).
+courses(davism, dsc501,25, null, null, tba, online, online).
+courses(davism, dsc504,25, null, null, tba, online, online).
+courses(dayb, cft401,1, m, 1400, 1450, communications, 226).
+courses(dayb, com220,4, tr, 1100, 1215, communications, 226).
+courses(dayb, com357,1, tr, 0930, 1045, communications, 226).
+courses(dayb, com380,1, tr, 1400, 1550, fine_arts, 115).
+courses(dayb, com490,5, null, null, tba, tba, tba).
+courses(dayb, flm220,4, tr, 1100, 1215, communications, 226).
+courses(dayb, flm380,1, tr, 1400, 1550, fine_arts, 115).
+courses(daysluketichp, fin350,1, t, 1600, 1845, communications, 218).
+courses(deckerg, bus436,1, t, 1900, 2145, communications, 109).
+courses(delaneye, mus113,8, r, 1230, 1345, fine_arts, 110).
+courses(delaneye, mus118,1, tr, 1400, 1515, fine_arts, 108).
+courses(delaneye, mus356,12, null, null, tba, tba, tba).
+courses(delaneye, mus395,3, null, null, tba, tba, tba).
+courses(delaneye, mus456,12, null, null, tba, tba, tba).
+courses(delimal, ees204,1, tr, 1230, 1345, science, 236).
+courses(delimal, ees204,2, tr, 1100, 1215, science, 236).
+courses(delrioj, eng241,1, mwf, 0900, 0950, webb, 213).
+courses(delrioj, eng241,2, mwf, 1000, 1050, webb, 213).
+courses(derosas, eng207,1, tr, 1400, 1515, webb, 115).
+courses(derosas, eng380,1, w, 1600, 1845, webb, 115).
+courses(derosas, eng493,4, null, null, tba, tba, tba).
+courses(derosas, eng494,3, null, null, tba, tba, tba).
+courses(derosas, eng499,5, null, null, tba, tba, tba).
+courses(desousad, art217,1, tr, 1600, 1845, fine_arts, 125).
+courses(dewildea, bus250,1, m, 1600, 1845, communications, 218).
+courses(dewildea, bus250,2, mwf, 1000, 1050, communications, 109).
+courses(dewildea, bus301,1, mwf, 0900, 0950, communications, 109).
+courses(dewildea, bus301,4, mwf, 1200, 1250, communications, 108).
+courses(dewildea, hpe117,1, mwf, 1400, 1450, goddard, 201).
+courses(dexterr, bis205,5, w, 1900, 2145, webb, 307).
+courses(dexterr, org696,2, null, null, tba, tba, tba).
+courses(difrancoa, hpe104,1, m, 1600, 1845, goddard, 201).
+courses(difrancoa, hpe201,1, w, 1600, 1845, goddard, 208).
+courses(difrancoa, hpe201,2, w, 1600, 1845, goddard, 208).
+courses(dillerj, lac200,1, mwf, 1100, 1150, goddard, 216).
+courses(dillerj, psy101,1, m, 0900, 0950, webb, 216).
+courses(dillerj, psy417,1, mwf, 0800, 0850, webb, 216).
+courses(dillerj, psy480,1, null, null, tba, tba, tba).
+courses(dillerj, psy491,4, null, null, tba, tba, tba).
+courses(donaghyd, eng238,1, tr, 1400, 1515, webb, 206).
+courses(donaghyd, eng302,1, tr, 1100, 1215, science, 134).
+courses(donaghyd, eng382,1, tr, 1230, 1345, science, 134).
+courses(donaghyd, eng480,1, null, null, tba, tba, tba).
+courses(donaghyd, eng493,3, null, null, tba, tba, tba).
+courses(donaghyd, eng495,1, null, null, tba, tba, tba).
+courses(donaghyd, eng495,3, null, null, tba, tba, tba).
+courses(donohuek, bis205,1, tr, 0800, 0915, webb, 307).
+courses(donohuek, bis365,1, tr, 0930, 1045, webb, 407).
+courses(donohuek, bis480,2, null, null, tba, tba, tba).
+courses(dotsont, nur205,1, tr, 1600, 1715, goddard, 117).
+courses(dotsont, nur205,2, tr, 1400, 1515, goddard, 117).
+courses(dowdelld, mgt502,25, null, null, tba, tba, tba).
+courses(dowdelld, mgt502,26, null, null, tba, online, online).
+courses(doylem, art401,1, wf, 1300, 1450, fine_arts, 305).
+courses(doylem, art480,11, null, null, tba, tba, tba).
+courses(doylem, art480,13, null, null, tba, tba, tba).
+courses(doylem, art480,6, null, null, tba, tba, tba).
+courses(doylem, art486,1, null, null, tba, tba, tba).
+courses(doylem, art490,3, null, null, tba, tba, tba).
+courses(doylem, lac200,1, mwf, 1100, 1150, goddard, 216).
+courses(drewryc, iip200,1, null, null, tba, tba, tba).
+courses(drewryc, iip300,1, null, null, tba, tba, tba).
+courses(drewryc, iip300,2, null, null, tba, tba, tba).
+courses(drewryc, isp300,1, null, null, tba, tba, tba).
+courses(drewryc, isp301,1, null, null, tba, tba, tba).
+courses(drewryc, nse300,1, null, null, tba, tba, tba).
+courses(drewryt, ece301,1, null, null, tba, tba, tba).
+courses(drewryt, edu301,1, null, null, tba, tba, tba).
+courses(drewryt, edu401,1, null, null, tba, tba, tba).
+courses(drewt, art342,1, tr, 0930, 1215, fine_arts, 330).
+courses(drewt, art480,24, null, null, tba, tba, tba).
+courses(drzewieckip, ees130,1, m, 1400, 1650, science, 216).
+courses(drzewieckip, ees130,1, mwf, 0900, 0950, science, 216).
+courses(drzewieckip, ees271,1, null, null, tba, online, online).
+courses(drzewieckip, ees271,1, t, 1730, 1815, science, 232).
+courses(drzewieckip, lac100,2, mwf, 1100, 1150, science, 216).
+courses(drzewieckip, lac101,2, w, 1200, 1250, science, 216).
+courses(dunnacks, ece445,1, mtwrf, 0800, 1530, tba, tba).
+courses(dunnacks, ece566,1, null, null, tba, tba, tba).
+courses(dziavitk, edu410,1, m, 1600, 1845, webb, 215).
+courses(dziavitk, edu510,1, m, 1600, 1845, webb, 215).
+courses(dzurecd, hsc425,1, m, 1400, 1650, science, 341).
+courses(dzurecd, hsc425,1, mwf, 0800, 0850, goddard, 200).
+courses(dzurecd, hsc491,1, null, null, tba, tba, tba).
+courses(dzurecl, hsc225,1, tr, 1230, 1345, goddard, 200).
+courses(dzurecl, hsc225,3, mwf, 1300, 1350, goddard, 216).
+courses(dzurecl, hsc225,4, mwf, 1100, 1150, goddard, 203).
+courses(eastonw, psc100,1, mwf, 0900, 0950, webb, 110).
+courses(eastonw, psc300,1, tr, 1230, 1345, webb, 112).
+courses(echolsc, mus250,1, tr, 1100, 1215, fine_arts, 243).
+courses(echolsc, mus250,2, tr, 1230, 1345, fine_arts, 243).
+courses(eckenrothg, eco201,6, tr, 1400, 1515, goddard, 203).
+courses(eckenrothg, fin490,1, r, 1600, 1715, communications, 218).
+courses(elfoulyr, csc360,1, tr, 1100, 1215, science, 135).
+courses(elfoulyr, csc360,4, tr, 1230, 1345, science, 138).
+courses(eliaa, art111,1, mw, 0900, 1145, fine_arts, 125).
+courses(eliaa, art235,3, m, 1200, 1445, fine_arts, 125).
+courses(eppk, bio319,1, t, 0900, 1050, science, 331).
+courses(eppk, bio320,1, null, null, tba, tba, tba).
+courses(eppk, bio380,6, null, null, tba, tba, tba).
+courses(eppk, bio466,1, m, 1400, 1650, science, 416).
+courses(eppk, bio466,2, w, 1400, 1650, science, 416).
+courses(eppk, bio480,4, null, null, tba, tba, tba).
+courses(eriksoussia, flm219,1, m, 1600, 1845, webb, 112).
+courses(eriksoussia, las219,1, m, 1600, 1845, webb, 112).
+courses(eriksoussia, spa219,1, m, 1600, 1845, webb, 112).
+courses(erwinc, bus201,2, tr, 0930, 1045, communications, 218).
+courses(erwinc, bus201,3, tr, 1100, 1215, communications, 218).
+courses(erwinc, bus331,1, t, 1900, 2145, communications, 108).
+courses(erwinc, bus431,3, tr, 1400, 1515, goddard, 201).
+courses(espinozaa, edu502,1, null, null, tba, tba, tba).
+courses(espinozaa, edu573,1, mtwrf, 0800, 1530, tba, tba).
+courses(evesk, eng100,6, tr, 1600, 1715, webb, 206).
+courses(fabrizim, edu425,2, m, 1900, 2145, communications, 108).
+courses(fabrizim, edu480,1, null, null, tba, tba, tba).
+courses(fabrizim, edu525,2, m, 1900, 2145, communications, 108).
+courses(fabrizim, edu696,6, null, null, tba, tba, tba).
+courses(ferrarol, bus333,1, m, 1600, 1845, communications, 201).
+courses(ferrarol, mgt505,25, null, null, tba, tba, tba).
+courses(ferrucis, eng190,1, tr, 0930, 1045, science, 134).
+courses(ferrucis, eng190,2, tr, 1100, 1215, webb, 213).
+courses(ferrucis, eng495,5, null, null, tba, tba, tba).
+courses(ferrucis, eng499,3, null, null, tba, tba, tba).
+courses(fisterk, mat099,3, mwf, 1400, 1450, webb, 314).
+courses(fisterk, mat135p,5, mw, 1600, 1750, science, 132).
+courses(floodr, cft205,1, mwf, 1000, 1110, communications, 226).
+courses(floodr, com480,4, null, null, tba, tba, tba).
+courses(floodr, com480,5, null, null, tba, tba, tba).
+courses(floodr, com490,2, null, null, tba, tba, tba).
+courses(floodr, eng255,1, mwf, 0900, 0950, communications, 218).
+courses(floodr, eng308,1, m, 1600, 1845, fine_arts, 115).
+courses(floodr, the308,1, m, 1600, 1845, fine_arts, 115).
+courses(floodr, the480,6, null, null, tba, tba, tba).
+courses(fortew, eco200,3, tr, 0930, 1045, goddard, 201).
+courses(fortew, eco200,4, tr, 1100, 1215, goddard, 201).
+courses(foyl, acc302,1, tr, 1100, 1215, science, 132).
+courses(foyl, acc416,1, tr, 1230, 1345, science, 132).
+courses(frainm, hpe210,1, w, 1600, 1845, goddard, 216).
+courses(frainm, hpe210,3, w, 1900, 2145, goddard, 216).
+courses(francob, art140,2, tr, 1230, 1345, fine_arts, 305).
+courses(francob, art212,2, tr, 1400, 1550, fine_arts, 305).
+courses(frescohawesc, hpe104,4, w, 1600, 1845, goddard, 201).
+courses(freunde, com230,1, t, 1600, 1845, communications, 109).
+courses(freunde, com230,2, w, 1600, 1845, communications, 218).
+courses(fryed, his230,1, tr, 1100, 1215, webb, 214).
+courses(fryed, his230,2, w, 1600, 1845, webb, 216).
+courses(fryed, his230,3, tr, 1600, 1715, webb, 214).
+courses(fryed, his267,1, w, 1900, 2145, webb, 317).
+courses(fryed, his365,2, tr, 1400, 1515, webb, 113).
+courses(fryed, his481,1, null, null, tba, tba, tba).
+courses(fryed, his491,4, null, null, tba, tba, tba).
+courses(fugerem, hon362,1, mwf, 1300, 1350, webb, 213).
+courses(fugerem, psy202,1, mwf, 0900, 0950, webb, 317).
+courses(fugerem, psy202,2, mwf, 1000, 1050, webb, 317).
+courses(fugerem, psy490,10, null, null, tba, tba, tba).
+courses(fugerem, psy491,13, null, null, tba, tba, tba).
+courses(fultons, psy206,3, tr, 1730, 1845, webb, 317).
+courses(gageoneam, mat135p,6, tr, 1400, 1550, science, 114).
+courses(gageoneam, mat135p,7, tr, 1600, 1750, science, 117).
+courses(galvezd, edu222,3, w, 1900, 2145, the_center_for_early_childhood_education, 167).
+courses(galvezd, edu505,25, null, null, tba, tba, tba).
+courses(galvezd, edu696,2, null, null, tba, tba, tba).
+courses(gaok, csc270,1, mwf, 1000, 1050, science, 138).
+courses(gaok, csc270,2, mwf, 1400, 1450, science, 138).
+courses(gaok, csc445,1, mwf, 1100, 1150, science, 138).
+courses(gaok, csc445,2, mw, 1600, 1715, science, 138).
+courses(gaok, hon488,1, null, null, tba, tba, tba).
+courses(garciam, psc211,1, mwf, 1100, 1150, science, 117).
+courses(garciam, psc350,1, tr, 1100, 1215, webb, 113).
+courses(geers, nur424,1, null, null, tba, tba, tba).
+courses(girasolia, psy247,2, mw, 1900, 2050, webb, 314).
+courses(golebiewskit, the276,1, tr, 1600, 1715, fine_arts, 118).
+courses(golebiewskit, the277,1, m, 1600, 1845, webb, 314).
+courses(golebiewskit, the480,10, null, null, tba, tba, tba).
+courses(golebiewskit, the480,5, null, null, tba, tba, tba).
+courses(golebiewskit, the481,1, null, null, tba, tba, tba).
+courses(goodmand, eco201,5, tr, 1100, 1215, goddard, 216).
+courses(goodmand, eco331,1, tr, 0930, 1045, communications, 107).
+courses(goyettel, nur424,1, null, null, tba, tba, tba).
+courses(grahamm, bio305,1, mwf, 1300, 1350, science, 104).
+courses(grahamm, bio336,1, mwf, 1200, 1250, science, 432).
+courses(grahamm, bio336,1, r, 1100, 1350, science, 333).
+courses(grahamm, bio380,4, null, null, tba, tba, tba).
+courses(grahamm, bio380,7, null, null, tba, tba, tba).
+courses(grahamm, bio480,3, null, null, tba, tba, tba).
+courses(grandhis, bus428,1, tr, 1230, 1345, science, 234).
+courses(grandhis, bus480,6, null, null, tba, tba, tba).
+courses(grandhis, bus492,2, null, null, tba, tba, tba).
+courses(grandhis, mgt508,25, null, null, tba, tba, tba).
+courses(greenb, acc412,1, m, 1600, 1845, webb, 315).
+courses(greener, art111,2, tr, 1200, 1445, fine_arts, 125).
+courses(greener, art235,1, f, 1200, 1445, fine_arts, 125).
+courses(greener, art315,1, tr, 1600, 1845, fine_arts, 122).
+courses(greener, art480,17, null, null, tba, tba, tba).
+courses(greener, art480,20, null, null, tba, tba, tba).
+courses(greener, art480,22, null, null, tba, tba, tba).
+courses(greener, art480,4, null, null, tba, tba, tba).
+courses(greener, art485,1, mw, 1600, 1845, fine_arts, 122).
+courses(greener, art485,1, mw, 1600, 1845, fine_arts, 247).
+courses(greener, art485,1, mw, 1600, 1845, fine_arts, 323).
+courses(greener, hon488,12, null, null, tba, tba, tba).
+courses(grosjeanb, bus225,6, tr, 1100, 1215, communications, 107).
+courses(grosjeanb, bus326,1, t, 1900, 2145, communications, 218).
+courses(grotha, bio210,1, mwf, 1000, 1050, science, 134).
+courses(grotha, bio230,1, m, 1400, 1650, science, 335).
+courses(grotha, bio230,1, mwf, 1100, 1150, science, 134).
+courses(grotha, bio380,2, null, null, tba, tba, tba).
+courses(grotha, bio490,3, null, null, tba, tba, tba).
+courses(grotha, hon488,6, null, null, tba, tba, tba).
+courses(guarinob, art110,1, mw, 0900, 1145, fine_arts, 328).
+courses(guildc, art202,3, tr, 0930, 1215, fine_arts, 331).
+courses(guom, acc201,2, tr, 0930, 1045, science, 137).
+courses(guom, acc201,3, tr, 1100, 1215, science, 137).
+courses(guom, acc301,1, tr, 1400, 1515, goddard, 216).
+courses(guom, acc303,1, w, 1600, 1845, webb, 315).
+courses(guom, hon488,4, null, null, tba, tba, tba).
+courses(gyurem, bio314,1, r, 0930, 1120, science, 331).
+courses(gyurem, bio314,2, r, 1230, 1420, science, 331).
+courses(gyurem, bio314,3, r, 1600, 1750, science, 331).
+courses(gyurem, bio490,8, null, null, tba, tba, tba).
+courses(hallm, psy100,3, tr, 1600, 1715, webb, 317).
+courses(halls, bus225,2, w, 1600, 1845, communications, 201).
+courses(heenehanm, hon488,14, null, null, tba, tba, tba).
+courses(heenehanm, lac200,2, mwf, 1300, 1350, science, 134).
+courses(heenehanm, mat230,1, mwf, 1000, 1050, science, 132).
+courses(heenehanm, mat320,1, mwf, 1200, 1250, science, 132).
+courses(hek, che211,1, mwf, 0900, 0950, science, 117).
+courses(hek, che211,2, mwf, 1000, 1050, science, 117).
+courses(hek, che211,3, mwf, 1300, 1350, science, 117).
+courses(hek, che480,2, null, null, tba, tba, tba).
+courses(hek, che480,3, null, null, tba, tba, tba).
+courses(henryj, hpe104,5, t, 1600, 1845, goddard, 200).
+courses(henryj, hpe104,8, m, 1600, 1845, goddard, 202).
+courses(hollandj, art332,1, wf, 1200, 1445, fine_arts, 330).
+courses(hollandj, lac100,3, mwf, 1000, 1050, fine_arts, 118).
+courses(hollandj, lac101,3, m, 0900, 0950, fine_arts, 118).
+courses(houldcroftt, the281,1, w, 1600, 1845, fine_arts, 243).
+courses(hulveyj, bio120,1, m, 1400, 1650, science, 331).
+courses(hulveyj, bio120,1, mwf, 1100, 1150, science, 231).
+courses(hulveyj, bio334,1, mwf, 0900, 0950, science, 231).
+courses(hulveyj, bio334,1, w, 1400, 1650, science, 341).
+courses(hulveyj, bio380,8, null, null, tba, tba, tba).
+courses(hulveyj, bio480,6, null, null, tba, tba, tba).
+courses(hulveyj, bio491,5, null, null, tba, tba, tba).
+courses(hwango, mus214,1, mwf, 0900, 0950, fine_arts, 212).
+courses(hwango, mus330,1, mwf, 1100, 1150, fine_arts, 307).
+courses(hwango, mus356,22, null, null, tba, tba, tba).
+courses(hwango, mus395,2, null, null, tba, tba, tba).
+courses(hwango, mus456,22, null, null, tba, tba, tba).
+courses(hyattd, ees224,1, t, 1400, 1650, science, 215).
+courses(hyattd, ees224,1, t, 1400, 1650, science, 219).
+courses(hyattd, ees224,1, tr, 0930, 1045, science, 215).
+courses(hyattd, ees224,1, w, 1400, 1650, science, 215).
+courses(hyattd, ees224,1, w, 1400, 1650, science, 219).
+courses(hyattd, ees392,1, null, null, tba, tba, tba).
+courses(hyattd, ees441,1, r, 1400, 1650, science, 219).
+courses(idjadij, bio280,2, null, null, tba, tba, tba).
+courses(idjadij, bio319,1, t, 0900, 1050, science, 331).
+courses(idjadij, bio320,1, null, null, tba, tba, tba).
+courses(idjadij, bio380,12, null, null, tba, tba, tba).
+courses(islams, che211,4, mw, 1600, 1715, science, 117).
+courses(islams, che211,5, mw, 1730, 1845, science, 117).
+courses(islams, che425,1, f, 1400, 1750, science, 434).
+courses(islams, che425,1, mwf, 1200, 1250, science, 231).
+courses(islams, che492,1, null, null, tba, tba, tba).
+courses(jacobsm, bio204,5, m, 1600, 1845, science, 320).
+courses(jacobsm, bio204,6, tr, 1730, 1845, science, 320).
+courses(jahani, csc202,1, tr, 1400, 1515, science, 135).
+courses(jahani, csc231,1, mwf, 1100, 1150, science, 139).
+courses(jaross, mat140,1, m, 1600, 1715, science, 238).
+courses(jaross, mat140,1, w, 1600, 1715, science, 137).
+courses(jendrewskir, spa111,3, mw, 1730, 1845, science, 134).
+courses(johnsond, bis447,1, t, 1900, 2145, webb, 407).
+courses(johnsonj, csc210,1, mwf, 0900, 0950, science, 138).
+courses(johnsonj, csc210,3, mwf, 1000, 1050, science, 139).
+courses(johnsonp, mat139p,2, tr, 1600, 1750, science, 132).
+courses(johnsonp, mat315,1, m, 1400, 1450, science, 238).
+courses(johnsonp, mat315,1, mwf, 1300, 1350, science, 238).
+courses(johnsonp, mat362,1, tr, 1900, 2015, science, 114).
+courses(johnsonp, mat480,3, null, null, tba, tba, tba).
+courses(johnsonp, mat480,4, null, null, tba, tba, tba).
+courses(johnsons, eng100,3, mwf, 1300, 1350, webb, 206).
+courses(johnsons, eng100p,6, mf, 1100, 1240, webb, 307).
+courses(johnsons, eng100p,6, w, 1100, 1150, webb, 307).
+courses(joinerk, hsc318,3, t, 1600, 1850, goddard, 127).
+courses(joinerk, hsc318,3, w, 0800, 1050, goddard, 127).
+courses(kaneg, bus342,1, mwf, 1200, 1250, communications, 107).
+courses(kaneg, bus342,2, mwf, 1000, 1050, communications, 201).
+courses(kaneg, bus411,1, mwf, 1300, 1350, communications, 107).
+courses(kaneg, bus480,5, null, null, tba, tba, tba).
+courses(kangm, bus327,1, tr, 1400, 1515, science, 234).
+courses(kangm, bus429,1, w, 1600, 1845, science, 234).
+courses(kangm, com480,2, null, null, tba, tba, tba).
+courses(kangm, com490,3, null, null, tba, tba, tba).
+courses(karrenbergj, eco100,2, mwf, 1300, 1350, communications, 201).
+courses(karrenbergj, eco100,3, mwf, 1400, 1450, communications, 201).
+courses(keaned, swk420,2, t, 1600, 1845, webb, 112).
+courses(kerrm, ast214,1, r, 1100, 1200, planetarium, planetarium).
+courses(kerrm, ast214,1, t, 1100, 1200, planetarium, planetarium).
+courses(kerrm, ast214,1, tr, 0930, 1045, planetarium, planetarium).
+courses(kerrm, phy205,1, r, 1400, 1550, science, 403).
+courses(keyesm, psy212,1, mwf, 1400, 1450, communications, 108).
+courses(keyesm, psy212,2, mwf, 1100, 1150, communications, 108).
+courses(keyesm, psy247,1, mwf, 1200, 1310, webb, 314).
+courses(keyesm, psy490,1, null, null, tba, tba, tba).
+courses(khadev, ees205,2, w, 1900, 2145, science, 114).
+courses(khowm, hpe141,1, tr, 0930, 1045, sports, 104).
+courses(khowm, hpe143,1, tr, 0800, 0915, sports, 104).
+courses(kims, art213,1, tr, 1600, 1845, fine_arts, 330).
+courses(kims, art436,1, tr, 1230, 1515, fine_arts, 330).
+courses(kims, art480,18, null, null, tba, tba, tba).
+courses(kims, art480,8, null, null, tba, tba, tba).
+courses(koleks, psy227,2, tr, 0800, 0950, webb, 314).
+courses(koleks, psy227,3, tr, 1100, 1250, webb, 314).
+courses(koleks, psy247,3, tr, 1400, 1550, webb, 314).
+courses(koleks, psy480,5, null, null, tba, tba, tba).
+courses(koleks, psy490,9, null, null, tba, tba, tba).
+courses(koleks, psy491,10, null, null, tba, tba, tba).
+courses(koleks, psy491,7, null, null, tba, tba, tba).
+courses(koleks, psy491,8, null, null, tba, tba, tba).
+courses(kozad, che213,8, m, 1900, 2150, science, 440).
+courses(kozad, che217,1, mwf, 1000, 1050, science, 104).
+courses(krassasn, phi480,3, null, null, tba, tba, tba).
+courses(krassasn, psc325,1, mwf, 1100, 1150, webb, 210).
+courses(krassasn, psc400,1, mwf, 1300, 1350, webb, 115).
+courses(krassasn, psc480,1, null, null, tba, tba, tba).
+courses(krassasn, psc495,1, null, null, tba, tba, tba).
+courses(krebsc, hon488,2, null, null, tba, tba, tba).
+courses(krebsc, psy101,2, r, 1230, 1320, science, 117).
+courses(krebsc, psy205,1, mwf, 0900, 0950, webb, 212).
+courses(krebsc, psy205,2, mwf, 1000, 1050, webb, 212).
+courses(krebsc, psy246,1, mwf, 1100, 1150, webb, 314).
+courses(krebsc, psy390,2, m, 1400, 1450, science, 115).
+courses(krebsc, psy407,1, mwf, 1300, 1350, webb, 216).
+courses(krebsc, psy490,8, null, null, tba, tba, tba).
+courses(krebsc, psy491,14, null, null, tba, tba, tba).
+courses(kunenen, bis205,4, tr, 0930, 1045, webb, 307).
+courses(kunenen, bis370,1, tr, 1730, 1845, webb, 307).
+courses(kunenen, bis370,2, tr, 1900, 2015, webb, 307).
+courses(kunenen, bis449,1, tr, 1230, 1345, webb, 407).
+courses(kunenen, bis449,2, tr, 1400, 1515, webb, 407).
+courses(kurtim, crm210,1, r, 1600, 1845, goddard, 223).
+courses(kurtim, crm480,2, null, null, tba, tba, tba).
+courses(kurtim, soc350,1, tr, 1400, 1550, goddard, 223).
+courses(kurtim, soc350,2, tr, 1100, 1250, webb, 114).
+courses(kwakuk, bio305,2, t, 1600, 1845, science, 104).
+courses(kyeii, fin245,1, mwf, 1100, 1150, goddard, 202).
+courses(kyeii, fin245,3, tr, 1100, 1215, goddard, 203).
+courses(kyeii, fin245,6, mwf, 1000, 1050, goddard, 202).
+courses(kyeii, fin335,1, m, 1600, 1845, goddard, 203).
+courses(kylek, hsc215,1, f, 0800, 1050, science, 237).
+courses(kylek, hsc215,1, t, 0800, 1050, science, 237).
+courses(kylek, hsc491,5, null, null, tba, tba, tba).
+courses(laddj, mat155p,1, mw, 1400, 1450, science, 132).
+courses(laddj, mat155p,1, mwf, 1300, 1350, science, 132).
+courses(lamarchel, edu501,1, null, null, tba, tba, tba).
+courses(lanaganleitzell, psy306,1, mwf, 1100, 1150, webb, 315).
+courses(lanaganleitzell, psy318,1, mwf, 1200, 1250, webb, 315).
+courses(lanaganleitzell, psy480,4, null, null, tba, tba, tba).
+courses(lanaganleitzell, psy491,6, null, null, tba, tba, tba).
+courses(laportek, ece405,1, m, 1600, 1845, the_center_for_early_childhood_education, 167).
+courses(laportek, ece506,1, m, 1600, 1845, the_center_for_early_childhood_education, 167).
+courses(laportek, edu465,2, t, 1900, 2145, webb, 213).
+courses(laportek, edu565,2, t, 1900, 2145, webb, 213).
+courses(larosec, mat216,1, mwf, 1400, 1450, science, 234).
+courses(larosec, mat216,2, mwf, 1300, 1350, science, 234).
+courses(larosec, mat217,1, mwf, 1000, 1050, science, 234).
+courses(larosec, mat343,1, mwf, 1100, 1150, science, 238).
+courses(lauxd, bio140,1, mwf, 0900, 0950, science, 104).
+courses(lauxd, bio140,1, w, 1400, 1650, science, 334).
+courses(lauxd, bio380,11, null, null, tba, tba, tba).
+courses(lauxd, bio462,1, m, 1400, 1650, science, 334).
+courses(lauxd, bio462,1, mwf, 1100, 1150, science, 432).
+courses(lauxd, bio480,8, null, null, tba, tba, tba).
+courses(lauxd, bio490,1, null, null, tba, tba, tba).
+courses(lavoiem, csc212,1, tr, 0930, 1045, science, 135).
+courses(leek, ece420,1, m, 1600, 1845, the_center_for_early_childhood_education, 175).
+courses(leek, ece505,1, m, 1600, 1845, the_center_for_early_childhood_education, 175).
+courses(leek, edu200,2, tr, 1400, 1515, the_center_for_early_childhood_education, 167).
+courses(leek, edu612,25, null, null, tba, tba, tba).
+courses(leep, psy302,1, tr, 1100, 1215, webb, 317).
+courses(leep, psy302,2, tr, 1230, 1345, webb, 317).
+courses(leep, psy410,1, tr, 1600, 1715, webb, 315).
+courses(leep, psy490,4, null, null, tba, tba, tba).
+courses(leep, psy491,11, null, null, tba, tba, tba).
+courses(leep, psy496,1, m, 1600, 1650, webb, 115).
+courses(leissa, ant125,1, tr, 1400, 1515, webb, 112).
+courses(leissa, ant221,25, null, null, tba, online, online).
+courses(leissa, ant365,1, tr, 1100, 1215, science, 432).
+courses(leissa, ant400,1, w, 1600, 1845, webb, 317).
+courses(leissa, ant490,1, null, null, tba, tba, tba).
+courses(leszczynskij, psy210,1, mwf, 1100, 1150, webb, 216).
+courses(leszczynskij, psy314,1, mwf, 0800, 0850, webb, 315).
+courses(leszczynskij, psy314,2, mwf, 0900, 0950, webb, 315).
+courses(leszczynskij, psy435,1, mwf, 1200, 1250, webb, 216).
+courses(leszczynskij, psy471,1, m, 1000, 1050, webb, 216).
+courses(leszczynskij, psy490,3, null, null, tba, tba, tba).
+courses(leszczynskij, psy491,1, null, null, tba, tba, tba).
+courses(leszczynskij, psy491,3, null, null, tba, tba, tba).
+courses(lewisj, swk450,2, t, 1230, 1515, goddard, 202).
+courses(liangl, fin445,1, tr, 1100, 1215, communications, 109).
+courses(liangl, fin445,2, tr, 0930, 1045, communications, 109).
+courses(liangl, fin446,1, tr, 1400, 1515, goddard, 200).
+courses(lil, art343,1, mw, 0900, 1145, fine_arts, 327).
+courses(lil, art480,12, null, null, tba, tba, tba).
+courses(lil, art480,19, null, null, tba, tba, tba).
+courses(lil, art480,2, null, null, tba, tba, tba).
+courses(lil, art480,21, null, null, tba, tba, tba).
+courses(lil, art480,3, null, null, tba, tba, tba).
+courses(lil, art485,1, mw, 1600, 1845, fine_arts, 122).
+courses(lil, art485,1, mw, 1600, 1845, fine_arts, 247).
+courses(lil, art485,1, mw, 1600, 1845, fine_arts, 323).
+courses(liuq, art202,1, tr, 1600, 1845, fine_arts, 331).
+courses(liuq, art205,1, tr, 1230, 1515, fine_arts, 331).
+courses(liuq, art219,1, m, 1200, 1445, fine_arts, 326).
+courses(liuq, art480,10, null, null, tba, tba, tba).
+courses(liuq, art490,4, null, null, tba, tba, tba).
+courses(liux, dsc503,25, null, null, tba, online, online).
+courses(liux, dsc503,26, null, null, tba, online, online).
+courses(liux, edu357,3, r, 1600, 1845, webb, 210).
+courses(liux, edu404,1, f, 1200, 1445, webb, 113).
+courses(longe, eng100,9, mwf, 1000, 1050, webb, 206).
+courses(lucink, bio204,1, tr, 1100, 1215, science, 320).
+courses(lucink, bio204,2, tr, 1230, 1345, science, 320).
+courses(lucink, bio280,1, null, null, tba, tba, tba).
+courses(lucink, bio350,1, m, 1400, 1650, science, 315).
+courses(lucink, bio350,1, mwf, 1000, 1050, science, 432).
+courses(lucink, bio380,1, null, null, tba, tba, tba).
+courses(lucink, bio480,1, null, null, tba, tba, tba).
+courses(lucink, bio480,5, null, null, tba, tba, tba).
+courses(lucink, bio490,5, null, null, tba, tba, tba).
+courses(lucink, bio491,4, null, null, tba, tba, tba).
+courses(lugow, crm450,1, w, 1600, 1845, webb, 313).
+courses(lugow, crm450,2, w, 1900, 2145, webb, 313).
+courses(lugow, crm480,3, null, null, tba, tba, tba).
+courses(lugow, soc480,3, null, null, tba, tba, tba).
+courses(lugow, soc480,5, null, null, tba, tba, tba).
+courses(luxenbergh, eng100,11, tr, 1100, 1215, science, 133).
+courses(luxenbergh, eng100p,3, m, 1400, 1540, webb, 316).
+courses(luxenbergh, eng100p,3, tr, 1400, 1515, webb, 316).
+courses(madenjianwybierackik, hpe140,1, mwf, 1100, 1150, fine_arts, 219).
+courses(madenjianwybierackik, hpe140,2, mwf, 1100, 1150, fine_arts, 219).
+courses(madenjianwybierackik, hpe140,3, mwf, 1200, 1250, fine_arts, 219).
+courses(madenjianwybierackik, hpe140,4, mwf, 1200, 1250, fine_arts, 219).
+courses(mamar, eng125,1, tr, 1600, 1715, webb, 216).
+courses(mamar, eng125,2, tr, 1400, 1515, webb, 210).
+courses(mamar, eng225,1, tr, 1730, 1845, webb, 216).
+courses(mamar, eng353,1, tr, 1230, 1345, science, 231).
+courses(manfredie, hpe210,2, tr, 1230, 1345, goddard, 216).
+courses(manfredie, hpe361,1, t, 0930, 1030, sports, 219).
+courses(manfredie, hpe361,1, t, 1030, 1215, sports, 201).
+courses(marrettc, ced300,1, null, null, tba, tba, tba).
+courses(matthewsarmsteade, swk320,2, t, 0800, 1045, webb, 215).
+courses(matthewsarmsteade, swk450,1, t, 1230, 1515, webb, 213).
+courses(mattinglyb, bio240,2, mwf, 1000, 1050, science, 231).
+courses(mattinglyb, bio240,2, t, 1100, 1350, science, 331).
+courses(mattinglyb, bio319,1, t, 0900, 1050, science, 331).
+courses(mattinglyb, bio320,1, null, null, tba, tba, tba).
+courses(mattinglyb, bio490,6, null, null, tba, tba, tba).
+courses(mccartyg, soc100,4, mwf, 0900, 0950, goddard, 216).
+courses(mccartyg, soc100,5, mwf, 1000, 1050, goddard, 216).
+courses(mckeem, art110,2, tr, 0930, 1215, fine_arts, 326).
+courses(mcneilk, eng100p,1, tr, 0930, 1045, webb, 316).
+courses(mcneilk, eng100p,1, w, 0900, 1040, webb, 316).
+courses(mcneilk, eng100p,2, tr, 1100, 1215, webb, 316).
+courses(mcneilk, eng100p,2, w, 1100, 1240, webb, 316).
+courses(mcneilk, eng215,1, tr, 1230, 1345, communications, 201).
+courses(mendozabotelhom, phi498,1, null, null, tba, tba, tba).
+courses(mendozabotelhom, psc208,1, tr, 0930, 1045, webb, 212).
+courses(mendozabotelhom, psc208,2, tr, 1400, 1515, science, 116).
+courses(mendozabotelhom, psc460,1, t, 1600, 1845, webb, 115).
+courses(mendozabotelhom, psc480,2, null, null, tba, tba, tba).
+courses(mendozabotelhom, psc498,1, null, null, tba, tba, tba).
+courses(metcalfm, ees300,1, mw, 1730, 1845, science, 215).
+courses(metcalfm, ees301,1, w, 1300, 1550, science, 233).
+courses(metcalfm, ees322,1, m, 1300, 1550, science, 202).
+courses(metcalfm, ees322,1, mw, 1600, 1715, science, 202).
+courses(metcalfm, ees480,1, null, null, tba, tba, tba).
+courses(metcalfm, ees480,2, null, null, tba, tba, tba).
+courses(metcalfm, ees480,3, null, null, tba, tba, tba).
+courses(metcalfm, hon488,15, null, null, tba, tba, tba).
+courses(michimia, geo100,1, mwf, 1000, 1050, goddard, 201).
+courses(michimia, geo332,1, mwf, 0900, 0950, goddard, 208).
+courses(misikoc, acc201,1, t, 1600, 1845, goddard, 223).
+courses(misikoc, acc202,1, m, 1600, 1845, webb, 216).
+courses(montemerloj, eco100,1, tr, 1230, 1345, communications, 108).
+courses(montemerloj, eco201,4, tr, 0930, 1045, goddard, 216).
+courses(mooneym, nur424,1, null, null, tba, tba, tba).
+courses(mooreheadt, edu480,2, null, null, tba, tba, tba).
+courses(mooreheadt, edu632,25, null, null, tba, tba, tba).
+courses(mooreheadt, edu680,25, null, null, tba, online, online).
+courses(moores, his231,1, mwf, 0900, 0950, fine_arts, 305).
+courses(moores, his337,1, mwf, 1300, 1350, webb, 315).
+courses(moores, his406,1, mwf, 1100, 1210, webb, 213).
+courses(moores, his480,2, null, null, tba, tba, tba).
+courses(moores, his480,3, null, null, tba, tba, tba).
+courses(moores, his491,1, null, null, tba, tba, tba).
+courses(moores, his491,2, null, null, tba, tba, tba).
+courses(moores, his491,3, null, null, tba, tba, tba).
+courses(moores, hon488,3, null, null, tba, tba, tba).
+courses(moranr, art202,2, mw, 0900, 1145, fine_arts, 331).
+courses(morgank, cft100,2, f, 1200, 1445, fine_arts, 118).
+courses(morgank, hon488,5, null, null, tba, tba, tba).
+courses(morgank, the227,2, null, null, tba, tba, tba).
+courses(morgank, the227,4, null, null, tba, tba, tba).
+courses(morgank, the392,2, null, null, tba, tba, tba).
+courses(morgank, the480,2, null, null, tba, tba, tba).
+courses(morgank, the480,4, null, null, tba, tba, tba).
+courses(morgank, the495,1, null, null, tba, tba, tba).
+courses(moylanw, bus321,1, mw, 1600, 1715, communications, 109).
+courses(moylanw, bus325,1, mw, 1730, 1845, communications, 109).
+courses(murdochb, bio140,1, r, 0930, 1220, science, 334).
+courses(murdochb, bio302,1, t, 0930, 1120, science, 341).
+courses(murdochb, bio302,2, t, 1230, 1420, science, 341).
+courses(murdochb, bio380,9, null, null, tba, tba, tba).
+courses(murdochb, bio480,7, null, null, tba, tba, tba).
+courses(murdochb, bio490,2, null, null, tba, tba, tba).
+courses(murdochb, bio490,4, null, null, tba, tba, tba).
+courses(murdochb, bio491,1, null, null, tba, tba, tba).
+courses(murdochb, bio491,2, null, null, tba, tba, tba).
+courses(murdochb, pbh302,1, t, 0930, 1120, science, 341).
+courses(murdochb, pbh302,2, t, 1230, 1420, science, 341).
+courses(murphyj, com100,2, mwf, 1000, 1050, communications, 107).
+courses(nadeauc, nur424,1, mw, 1600, 1715, goddard, 117).
+courses(nardellas, bus225,4, tr, 1230, 1345, communications, 107).
+courses(nardellas, bus225,5, tr, 1400, 1515, communications, 107).
+courses(nathans, ees200,2, mwf, 1100, 1150, science, 236).
+courses(nathans, ees205,1, mwf, 1000, 1050, science, 236).
+courses(nathans, ees402,1, mwf, 0900, 0950, science, 219).
+courses(nathans, ees402,1, mwf, 0900, 0950, science, 236).
+courses(ndiayem, eco200,1, mwf, 1100, 1150, communications, 109).
+courses(ndiayem, eco201,1, mwf, 1200, 1250, goddard, 203).
+courses(ndiayem, eco201,2, mwf, 1300, 1350, goddard, 203).
+courses(ndiayem, eco301,1, mwf, 0900, 0950, goddard, 223).
+courses(nicholss, ees323,1, w, 1600, 1845, science, 233).
+courses(nightingales, swk300,1, r, 1230, 1515, webb, 213).
+courses(nightingales, swk333,2, r, 0800, 1045, webb, 213).
+courses(nightingales, swk333,2, r, 1100, 1150, science, 234).
+courses(nightingales, swk420,1, t, 0800, 1045, webb, 213).
+courses(nightingales, swk480,1, null, null, tba, tba, tba).
+courses(nightingales, wst490,1, null, null, tba, tba, tba).
+courses(norvaln, bus201,5, t, 1600, 1845, goddard, 203).
+courses(norvaln, bus201,7, tr, 1400, 1515, communications, 218).
+courses(nsiahy, hsc404,1, mwf, 1100, 1150, goddard, 208).
+courses(oakleyb, ees104,2, tr, 1100, 1215, science, 215).
+courses(oakleyb, ees456,1, tr, 0930, 1045, science, 216).
+courses(oakleyb, ees480,4, null, null, tba, tba, tba).
+courses(oakleyb, ees491,1, null, null, tba, tba, tba).
+courses(obrienm, the280,1, tr, 0930, 1045, fine_arts, 117).
+courses(obrienm, the280,1, tr, 0930, 1045, fine_arts, 243).
+courses(ohn, bus431,1, tr, 1230, 1345, communications, 218).
+courses(ohn, bus431,2, tr, 0930, 1045, goddard, 202).
+courses(ohn, mgt506,25, null, null, tba, tba, tba).
+courses(ohn, org696,4, null, null, tba, tba, tba).
+courses(ohn, org696,5, null, null, tba, tba, tba).
+courses(onealf, lac200,3, mwf, 1300, 1350, fine_arts, 110).
+courses(onealf, mus113,6, m, 1500, 1550, fine_arts, 108).
+courses(onealf, mus160,1, mwf, 1400, 1450, fine_arts, 307).
+courses(onyey, csc205,1, tr, 1230, 1345, science, 133).
+courses(onyey, csc205,2, tr, 1400, 1515, science, 133).
+courses(opied, art122,1, tr, 1600, 1845, fine_arts, 327).
+courses(oseibonsuk, mat135,2, mwf, 1400, 1450, science, 114).
+courses(oseibonsuk, mat155,1, m, 1000, 1050, science, 116).
+courses(oseibonsuk, mat155,1, mwf, 0900, 0950, science, 116).
+courses(oseibonsuk, mat244,1, mwf, 1100, 1150, science, 132).
+courses(oseibonsuk, mat244,1, w, 1200, 1250, science, 116).
+courses(oseibonsuk, mat480,2, null, null, tba, tba, tba).
+courses(osterndorfw, com301,1, mwf, 1200, 1250, fine_arts, 115).
+courses(osterndorfw, com330,1, mwf, 0900, 0950, fine_arts, 307).
+courses(osterndorfw, com400,1, tr, 0930, 1045, fine_arts, 307).
+courses(osterndorfw, com403,1, tr, 1100, 1215, fine_arts, 307).
+courses(osterndorfw, com490,7, null, null, tba, tba, tba).
+courses(ostwaldj, his362,1, tr, 1600, 1715, goddard, 216).
+courses(ostwaldj, his386,1, tr, 1230, 1345, webb, 206).
+courses(oterom, eng100,1, tr, 0800, 0915, webb, 206).
+courses(oterom, eng100,2, tr, 0930, 1045, webb, 206).
+courses(oterom, eng338,1, tr, 1230, 1345, science, 416).
+courses(oterom, eng341,1, tr, 1400, 1515, science, 416).
+courses(oterom, eng494,2, null, null, tba, tba, tba).
+courses(pakdilf, bus410,1, w, 1600, 1845, webb, 314).
+courses(pakdilf, bus480,1, null, null, tba, tba, tba).
+courses(pakdilf, bus480,2, null, null, tba, tba, tba).
+courses(pakdilf, bus492,1, null, null, tba, tba, tba).
+courses(pakdilf, bus492,3, null, null, tba, tba, tba).
+courses(pakdilf, hon488,19, null, null, tba, tba, tba).
+courses(pakdilf, osc260,3, mwf, 0800, 0850, communications, 201).
+courses(parcinskia, che213,1, m, 1100, 1350, science, 440).
+courses(parcinskia, che213,2, m, 1400, 1650, science, 440).
+courses(pareram, spa111,2, mwf, 0900, 0950, science, 134).
+courses(pareram, spa311,1, mwf, 1200, 1250, goddard, 201).
+courses(parsonsn, soc311,1, tr, 0930, 1045, webb, 214).
+courses(parsonsn, soc351,1, tr, 1100, 1250, webb, 307).
+courses(parsonsn, soc351,2, tr, 1400, 1550, science, 115).
+courses(parsonsn, soc492,2, null, null, tba, tba, tba).
+courses(pasinij, bio204,3, tr, 0800, 0915, science, 320).
+courses(pasinij, bio204,4, tr, 0930, 1045, science, 320).
+courses(pazametaz, phs105,1, tr, 1400, 1515, science, 431).
+courses(pazametaz, phy205,1, m, 1400, 1550, science, 403).
+courses(pazametaz, phy205,1, tr, 1230, 1345, science, 431).
+courses(peacockj, ece565,1, mtwrf, 0800, 1530, tba, tba).
+courses(peacockj, edu471,1, mtwrf, 0800, 1530, tba, tba).
+courses(peacockj, edu521,1, null, null, tba, tba, tba).
+courses(pellegrinid, cft100,1, f, 1200, 1445, fine_arts, 117).
+courses(pellegrinid, lac101,4, m, 1600, 1650, fine_arts, 118).
+courses(pellegrinid, the228,1, null, null, tba, tba, tba).
+courses(pellegrinid, the265,1, tr, 1100, 1250, fine_arts, 115).
+courses(pellegrinid, the480,7, null, null, tba, tba, tba).
+courses(pellegrinid, the480,8, null, null, tba, tba, tba).
+courses(penaaliceag, spa404,1, tr, 1100, 1215, sports, 219).
+courses(perryk, bus201,1, mwf, 1000, 1050, communications, 218).
+courses(perryk, bus201,6, mwf, 1100, 1150, communications, 218).
+courses(pestar, crm320,1, mwf, 1100, 1150, webb, 313).
+courses(pestar, crm320,2, mwf, 1200, 1250, webb, 313).
+courses(pestar, crm410,1, mwf, 1000, 1050, webb, 313).
+courses(pestar, crm480,1, null, null, tba, tba, tba).
+courses(pestar, soc480,2, null, null, tba, tba, tba).
+courses(peterosr, eco479,2, w, 1600, 1845, communications, 108).
+courses(peterosr, fin462,2, w, 1600, 1845, communications, 108).
+courses(peterosr, fin480,1, null, null, tba, tba, tba).
+courses(petrikovskyh, art233,1, mw, 1300, 1450, fine_arts, 115).
+courses(petrikovskyh, art480,14, null, null, tba, tba, tba).
+courses(pimentalc, swk450,3, t, 1230, 1515, goddard, 204).
+courses(pinckneys, art140,1, tr, 0930, 1045, fine_arts, 305).
+courses(pinckneys, art313,1, tr, 1100, 1215, fine_arts, 305).
+courses(porebskab, hsc215,1, m, 1600, 1850, science, 237).
+courses(porebskab, hsc215,1, w, 0900, 1150, science, 237).
+courses(porebskab, hsc215,1, w, 1200, 1450, science, 237).
+courses(porebskab, hsc291,1, null, null, tba, tba, tba).
+courses(porebskab, hsc491,2, null, null, tba, tba, tba).
+courses(pozdnyakovaz, mat135p,1, m, 0900, 0950, goddard, 203).
+courses(pozdnyakovaz, mat135p,1, mwf, 0800, 0850, goddard, 203).
+courses(pozdnyakovaz, mat216,3, mwf, 1100, 1150, science, 234).
+courses(quickb, eng100p,4, tr, 1600, 1715, webb, 316).
+courses(quickb, eng100p,4, w, 1600, 1740, webb, 316).
+courses(rahmanifara, art215,1, mw, 0900, 1145, fine_arts, 323).
+courses(rahmanifara, art308,1, mw, 0900, 1145, fine_arts, 323).
+courses(rahmanifara, art352,1, mw, 1200, 1445, fine_arts, 331).
+courses(rahmanifara, art470,1, mw, 1200, 1445, fine_arts, 331).
+courses(rahmanifara, art480,15, null, null, tba, tba, tba).
+courses(rahmanifara, art485,1, mw, 1600, 1845, fine_arts, 122).
+courses(rahmanifara, art485,1, mw, 1600, 1845, fine_arts, 247).
+courses(rahmanifara, art485,1, mw, 1600, 1845, fine_arts, 323).
+courses(rahmanifara, art490,1, null, null, tba, tba, tba).
+courses(reays, bis205,2, mwf, 0800, 0850, webb, 307).
+courses(reays, bis205,3, mwf, 0900, 0950, webb, 307).
+courses(reynoldsj, eng100,7, mwf, 1200, 1250, webb, 206).
+courses(reynoldsj, eng100,8, mwf, 1100, 1150, science, 233).
+courses(rezain, ece410,1, w, 1600, 1845, the_center_for_early_childhood_education, 175).
+courses(rezain, ece501,1, w, 1600, 1845, the_center_for_early_childhood_education, 175).
+courses(richardss, edu417,1, m, 1200, 1445, webb, 113).
+courses(richardss, edu465,1, m, 1900, 2145, webb, 113).
+courses(richardss, edu480,3, null, null, tba, tba, tba).
+courses(richardss, edu480,4, null, null, tba, tba, tba).
+courses(richardss, edu516,1, w, 1600, 1845, webb, 113).
+courses(richardss, edu565,1, m, 1900, 2145, webb, 113).
+courses(richardss, edu696,7, null, null, tba, tba, tba).
+courses(riggse, mus113,4, r, 1730, 1845, fine_arts, 108).
+courses(riggse, mus356,33, null, null, tba, tba, tba).
+courses(riggse, mus395,1, null, null, tba, tba, tba).
+courses(riggse, mus456,34, null, null, tba, tba, tba).
+courses(riggse, mus480,4, null, null, tba, tba, tba).
+courses(rijsj, swk360,1, t, 1600, 1845, library, 436).
+courses(robertd, hpe104,6, tr, 0930, 1045, the_center_for_early_childhood_education, 167).
+courses(robertd, hpe104,7, tr, 1100, 1215, the_center_for_early_childhood_education, 167).
+courses(robertd, hpe475,1, mtwrf, 0800, 1530, tba, tba).
+courses(robertd, hpe476,1, r, 1600, 1845, the_center_for_early_childhood_education, 167).
+courses(robertd, hpe490,1, null, null, tba, tba, tba).
+courses(robertst, edu200,1, tr, 1100, 1215, science, 117).
+courses(robertst, edu582,1, null, null, tba, online, online).
+courses(robertst, edu582,1, r, 1600, 1845, webb, 215).
+courses(robinsonm, edu694,1, mtwrf, 0800, 1530, tba, tba).
+courses(robinsonm, edu694,2, mtwrf, 0800, 1530, tba, tba).
+courses(rochonr, eng260,3, mwf, 0900, 0950, webb, 113).
+courses(rochonr, wst260,3, mwf, 0900, 0950, webb, 113).
+courses(rodriguezd, swk312,2, t, 1230, 1515, science, 137).
+courses(rodriguezd, swk320,1, t, 0800, 1045, webb, 114).
+courses(rodriguezl, edu222,1, tr, 1100, 1215, the_center_for_early_childhood_education, 170).
+courses(rodriguezl, edu357,4, tr, 1400, 1515, communications, 108).
+courses(rodriguezl, edu425,1, t, 1600, 1845, science, 432).
+courses(rodriguezl, edu525,1, t, 1600, 1845, science, 432).
+courses(rodriguezl, edu696,1, null, null, tba, tba, tba).
+courses(rosienej, csc230,1, mwf, 1100, 1150, science, 135).
+courses(rosienej, csc335,1, mwf, 1000, 1050, science, 133).
+courses(rosienej, csc335,2, mwf, 0900, 0950, science, 139).
+courses(rosienej, csc340,1, mw, 1600, 1715, science, 139).
+courses(rosienej, csc480,1, null, null, tba, tba, tba).
+courses(rowettc, hpe327,1, t, 1600, 1845, the_center_for_early_childhood_education, 170).
+courses(rowettc, hpe340,1, t, 1900, 2145, the_center_for_early_childhood_education, 170).
+courses(rowettc, hpe480,1, null, null, tba, tba, tba).
+courses(ruddyj, edu490,1, null, null, tba, tba, tba).
+courses(rujoubm, acc311,1, tr, 0930, 1045, science, 115).
+courses(rujoubm, acc420,1, tr, 1100, 1215, science, 115).
+courses(rukgaberm, phi120,1, mwf, 1400, 1450, library, 436).
+courses(rukgaberm, phi330,1, tr, 1100, 1215, goddard, 202).
+courses(ryens, fin245,2, mwf, 1200, 1250, goddard, 202).
+courses(ryens, fin347,1, mwf, 1300, 1350, webb, 210).
+courses(saenzcambrac, his255,1, mwf, 1100, 1150, webb, 317).
+courses(salterspedneaultk, psy100,1, mwf, 1000, 1050, webb, 110).
+courses(salterspedneaultk, psy100,2, mwf, 1100, 1150, webb, 110).
+courses(salterspedneaultk, psy450,1, mwf, 1400, 1450, webb, 213).
+courses(salterspedneaultk, psy490,7, null, null, tba, tba, tba).
+courses(salterspedneaultk, psy491,5, null, null, tba, tba, tba).
+courses(salterspedneaultk, psy496,2, f, 0900, 0950, webb, 115).
+courses(sandeenj, ees200,1, t, 1600, 1845, science, 236).
+courses(sanfordl, hpe127,1, tr, 1900, 2015, sports, 104).
+courses(sanfordl, hpe140,5, tr, 1730, 1845, sports, 104).
+courses(sanfordl, hpe140,6, tr, 1730, 1845, sports, 104).
+courses(saponaroj, eco201,7, m, 1600, 1845, goddard, 208).
+courses(sarikhanikhoramim, mat243,2, m, 1300, 1350, science, 137).
+courses(sarikhanikhoramim, mat243,2, tr, 1100, 1215, science, 114).
+courses(sarikhanikhoramim, mat355,1, tr, 1230, 1345, science, 114).
+courses(sarikhanikhoramim, mat480,1, null, null, tba, tba, tba).
+courses(sarikhanikhoramim, mat490,1, null, null, tba, tba, tba).
+courses(schallerj, bis442,1, w, 1600, 1845, science, 115).
+courses(schallerj, osc260,1, tr, 1100, 1215, webb, 212).
+courses(schallerj, osc360,1, tr, 1400, 1515, webb, 307).
+courses(sciscoj, psy327,3, null, null, tba, tba, tba).
+courses(sciscoj, psy327,3, tr, 0930, 1045, science, 234).
+courses(sciscoj, psy418,1, tr, 1400, 1515, webb, 214).
+courses(sciscoj, psy460,1, tr, 1100, 1215, webb, 112).
+courses(sciscoj, psy490,2, null, null, tba, tba, tba).
+courses(sciscoj, psy491,2, null, null, tba, tba, tba).
+courses(sciscoj, psy491,9, null, null, tba, tba, tba).
+courses(serranom, pbh228,1, tr, 1230, 1345, goddard, 223).
+courses(serranom, pbh228,2, tr, 1600, 1715, goddard, 202).
+courses(severancet, crm475,1, m, 0800, 0850, webb, 215).
+courses(severancet, crm480,4, null, null, tba, tba, tba).
+courses(severancet, crm480,5, null, null, tba, tba, tba).
+courses(severancet, crm490,1, null, null, tba, tba, tba).
+courses(severancet, crm490,2, null, null, tba, tba, tba).
+courses(severancet, crm490,3, null, null, tba, tba, tba).
+courses(severancet, soc307,1, mwf, 0900, 0950, webb, 313).
+courses(shendec, csc360,2, mw, 1600, 1715, science, 133).
+courses(shepardtorresr, ant106,1, tr, 0930, 1045, webb, 110).
+courses(shepardtorresr, ant364,1, tr, 1100, 1215, science, 116).
+courses(sholesz, msc132,3, w, 1300, 1350, library, 266).
+courses(sholesz, msc146,2, w, 1400, 1600, library, 266).
+courses(simonn, soc100,1, tr, 1400, 1515, webb, 317).
+courses(simonn, soc201,1, w, 0900, 0950, webb, 216).
+courses(simonn, soc300,1, tr, 0930, 1045, webb, 210).
+courses(simonn, soc400,1, tr, 1100, 1250, webb, 210).
+courses(simonn, soc480,1, null, null, tba, tba, tba).
+courses(simonn, soc480,4, null, null, tba, tba, tba).
+courses(simonn, soc490,1, null, null, tba, tba, tba).
+courses(simonn, soc490,2, null, null, tba, tba, tba).
+courses(simonn, soc491,1, null, null, tba, tba, tba).
+courses(simonn, soc491,2, null, null, tba, tba, tba).
+courses(simonn, soc492,1, null, null, tba, tba, tba).
+courses(simonn, soc492,3, null, null, tba, tba, tba).
+courses(simonn, soc493,1, null, null, tba, tba, tba).
+courses(simonn, soc493,2, null, null, tba, tba, tba).
+courses(slutskyd, phi220,1, mw, 1600, 1715, goddard, 223).
+courses(smithe, hsc215,1, m, 1300, 1550, science, 237).
+courses(smithe, hsc215,1, tr, 1230, 1345, goddard, 117).
+courses(smithe, hsc215,2, mwf, 1200, 1250, goddard, 216).
+courses(smithe, hsc215,3, tr, 1100, 1215, communications, 108).
+courses(smithe, hsc291,2, null, null, tba, tba, tba).
+courses(smithe, hsc391,4, null, null, tba, tba, tba).
+courses(sokolovskayaa, com490,9, null, null, tba, tba, tba).
+courses(sokolovskayaa, the226,1, null, null, tba, tba, tba).
+courses(sokolovskayaa, the227,7, null, null, tba, tba, tba).
+courses(sokolovskayaa, the278,1, tr, 1600, 1715, fine_arts, 251).
+courses(sokolovskayaa, the279,1, tr, 1230, 1345, communications, 109).
+courses(sokolovskayaa, the475,1, null, null, tba, tba, tba).
+courses(sokolovskayaa, the480,9, null, null, tba, tba, tba).
+courses(soleymanpourr, csc360,3, tr, 1600, 1715, science, 135).
+courses(speichera, eng223,2, mwf, 1100, 1150, webb, 214).
+courses(speichera, eng328,1, mwf, 1300, 1350, webb, 215).
+courses(speichera, eng493,2, null, null, tba, tba, tba).
+courses(speichera, eng495,4, null, null, tba, tba, tba).
+courses(speichera, eng499,1, null, null, tba, tba, tba).
+courses(speichera, hon488,13, null, null, tba, tba, tba).
+courses(stantonm, swk300,2, t, 1230, 1515, webb, 215).
+courses(stantonm, swk312,1, r, 1230, 1515, webb, 215).
+courses(stantonm, swk333,1, r, 0800, 1045, webb, 215).
+courses(stantonm, swk333,1, r, 1100, 1150, webb, 206).
+courses(stantonm, swk480,2, null, null, tba, tba, tba).
+courses(stantonm, swk480,3, null, null, tba, tba, tba).
+courses(stantonm, swk480,4, null, null, tba, tba, tba).
+courses(stockerk, phi215,1, mwf, 0900, 0950, webb, 214).
+courses(stockerk, phi480,1, null, null, tba, tba, tba).
+courses(stockerk, phi480,2, null, null, tba, tba, tba).
+courses(stoloffd, edu357,2, w, 1600, 1845, webb, 210).
+courses(stoloffd, edu511,25, null, null, tba, online, online).
+courses(stoloffd, edu555,25, null, null, tba, online, online).
+courses(stoloffd, edu696,5, null, null, tba, tba, tba).
+courses(stoloffd, lac400,1, w, 1900, 2145, webb, 210).
+courses(swaminathans, ece330,1, t, 0930, 1215, the_center_for_early_childhood_education, 175).
+courses(swaminathans, ece401,1, null, null, tba, tba, tba).
+courses(swaminathans, ece696,1, null, null, tba, tba, tba).
+courses(swaminathans, edu697,25, null, null, tba, online, online).
+courses(swansons, che213,5, w, 1600, 1850, science, 440).
+courses(swansons, che213,9, w, 1900, 2150, science, 440).
+courses(swetzoffs, psc217,1, tr, 1230, 1345, library, 436).
+courses(swetzoffs, psc310,1, tr, 1400, 1515, science, 117).
+courses(swiftp, phi210,1, tr, 0930, 1045, fine_arts, 115).
+courses(swiftp, phi340,1, tr, 1400, 1515, library, 436).
+courses(switchenkod, hpe328,1, tr, 1600, 1715, sports, 221).
+courses(switchenkod, hpe329,1, tr, 0800, 0915, sports, 221).
+courses(switchenkok, hpe362,1, r, 0930, 1030, sports, 219).
+courses(switchenkok, hpe362,1, r, 1030, 1215, sports, 201).
+courses(synnottc, bus201,4, mwf, 0900, 0950, communications, 108).
+courses(szymkiewiczr, eng100,4, tr, 1100, 1215, science, 233).
+courses(szymkiewiczr, eng100p,5, tr, 1230, 1345, webb, 316).
+courses(szymkiewiczr, eng100p,5, w, 1300, 1440, webb, 316).
+courses(tackettm, hsc318,2, m, 0800, 1050, goddard, 127).
+courses(tackettm, hsc319,2, f, 0800, 1050, goddard, 127).
+courses(tarriconed, psy206,1, mw, 1730, 1845, webb, 214).
+courses(tasneems, csc180,1, tr, 1100, 1215, science, 138).
+courses(tasneems, csc440,1, tr, 1400, 1515, science, 139).
+courses(tasneems, csc440,2, r, 1600, 1845, science, 138).
+courses(tasneems, csc485,1, null, null, tba, tba, tba).
+courses(tasneems, hon488,16, null, null, tba, tba, tba).
+courses(taylorm, eng201,1, mwf, 1100, 1150, webb, 114).
+courses(taylorm, eng205,2, mwf, 0900, 0950, library, 266).
+courses(terryb, eng205,1, tr, 0800, 0915, webb, 112).
+courses(terryb, eng205,3, tr, 0930, 1045, webb, 112).
+courses(thapag, hsc319,2, f, 1400, 1650, goddard, 127).
+courses(thapag, hsc491,6, null, null, tba, tba, tba).
+courses(thomasj, mus356,24, null, null, tba, tba, tba).
+courses(thompsona, msc253,1, f, 1300, 1700, tba, tba).
+courses(thompsona, msc253,1, w, 1325, 1525, tba, tba).
+courses(toczylowskib, art230,1, wf, 1200, 1445, fine_arts, 247).
+courses(toedtj, che318,1, mwf, 1300, 1350, science, 432).
+courses(toedtj, che319,1, t, 1400, 1650, science, 434).
+courses(toedtj, che480,1, null, null, tba, tba, tba).
+courses(toedtj, che490,1, null, null, tba, tba, tba).
+courses(tomanellij, edu222,2, tr, 0800, 0915, webb, 317).
+courses(tonera, mus356,9, null, null, tba, tba, tba).
+courses(torockioc, eng301,1, tr, 1400, 1515, library, 266).
+courses(torockioc, eng372,1, w, 1600, 1845, webb, 112).
+courses(torockioc, eng462,1, t, 1600, 1845, webb, 213).
+courses(torockioc, eng493,1, null, null, tba, tba, tba).
+courses(torockioc, eng499,4, null, null, tba, tba, tba).
+courses(torockioc, hon488,11, null, null, tba, tba, tba).
+courses(tracyj, hpe326,1, r, 0800, 0915, fine_arts, 219).
+courses(tracyj, hpe326,1, t, 0800, 0915, sports, 219).
+courses(tranl, ees112,1, w, 1730, 1915, science, 236).
+courses(tranl, ees112,2, t, 1730, 1915, science, 215).
+courses(trubeyp, swk200,1, r, 1230, 1515, science, 137).
+courses(turgeonk, dsc508,25, null, null, tba, online, online).
+courses(utterbacka, com120,1, tr, 0930, 1045, communications, 114).
+courses(utterbacka, com120,1, tr, 0930, 1045, communications, 114).
+courses(utterbacka, com120,1, tr, 0930, 1045, communications, 114).
+courses(utterbacka, com290,1, null, null, tba, tba, tba).
+courses(utterbacka, com300,2, tr, 1230, 1345, fine_arts, 307).
+courses(utterbacka, com425,1, w, 1600, 1845, communications, 114).
+courses(utterbacka, com425,1, w, 1600, 1845, communications, 114).
+courses(utterbacka, com425,1, w, 1600, 1845, communications, 114).
+courses(utterbacka, com480,1, null, null, tba, tba, tba).
+courses(utterbacka, com480,3, null, null, tba, tba, tba).
+courses(utterbacka, com490,6, null, null, tba, tba, tba).
+courses(vailm, acc411,1, t, 1600, 1845, webb, 113).
+courses(vailm, acc520,25, null, null, tba, tba, tba).
+courses(vasquezobrient, hon488,17, null, null, tba, tba, tba).
+courses(vasquezobrient, psy206,2, tr, 0930, 1045, webb, 216).
+courses(vasquezobrient, psy327,2, null, null, tba, tba, tba).
+courses(vasquezobrient, psy327,2, tr, 1600, 1715, webb, 314).
+courses(vasquezobrient, psy434,1, tr, 1230, 1345, webb, 216).
+courses(vasquezobrient, psy471,1, m, 1000, 1050, webb, 216).
+courses(vasquezobrient, psy491,15, null, null, tba, tba, tba).
+courses(veerappanv, bio304,1, mwf, 0900, 0950, science, 137).
+courses(veerappanv, bio304,2, mwf, 1000, 1050, science, 137).
+courses(veerappanv, bio460,1, mwf, 1200, 1250, science, 416).
+courses(veerappanv, bio460,1, r, 0930, 1220, science, 335).
+courses(veerappanv, bio480,2, null, null, tba, tba, tba).
+courses(veerappanv, bio491,3, null, null, tba, tba, tba).
+courses(verrastron, phi120,2, mwf, 1100, 1150, library, 436).
+courses(verrastron, phi365,1, tr, 1600, 1715, goddard, 201).
+courses(verrastron, psc365,1, tr, 1600, 1715, goddard, 201).
+courses(vijayasekarj, edu696,3, null, null, tba, tba, tba).
+courses(vijayasekarj, spa111,1, mwf, 1100, 1150, webb, 112).
+courses(vijayasekarj, spa492,4, null, null, tba, tba, tba).
+courses(villanuevae, bus307,1, mwf, 1200, 1250, communications, 218).
+courses(villanuevae, bus450,1, mwf, 0800, 0850, communications, 218).
+courses(villanuevae, bus480,4, null, null, tba, tba, tba).
+courses(vob, org696,3, null, null, tba, tba, tba).
+courses(vogtd, hpe104,3, r, 1600, 1845, goddard, 200).
+courses(vogtd, hpe104,9, w, 1600, 1845, goddard, 203).
+courses(volkmanv, eco201,3, mwf, 0900, 0950, goddard, 201).
+courses(volkmanv, eco305,1, mwf, 1000, 1050, webb, 307).
+courses(wadeckij, the227,1, null, null, tba, tba, tba).
+courses(wadeckij, the227,5, null, null, tba, tba, tba).
+courses(wadeckij, the392,3, null, null, tba, tba, tba).
+courses(walterss, hsc380,1, null, null, tba, tba, tba).
+courses(walterss, hsc400,1, mwf, 1200, 1310, science, 115).
+courses(walterss, hsc480,7, null, null, tba, tba, tba).
+courses(walterss, hsc480,8, null, null, tba, tba, tba).
+courses(walterss, pbh206,1, mwf, 1100, 1150, goddard, 201).
+courses(walterss, pbh330,1, mwf, 1000, 1050, goddard, 208).
+courses(walterss, pbh494,4, null, null, tba, tba, tba).
+courses(wardk, lac200,2, mwf, 1300, 1350, science, 134).
+courses(wardk, mat341,1, mwf, 0900, 0950, science, 132).
+courses(washburns, mus356,31, null, null, tba, tba, tba).
+courses(washburns, mus356,32, null, null, tba, tba, tba).
+courses(wasielewskit, bio200,1, tr, 0930, 1045, science, 416).
+courses(wasielewskit, bio200,2, tr, 1100, 1215, science, 416).
+courses(watkinsk, mus107,1, w, 1900, 2130, fine_arts, 108).
+courses(weirl, eco215,1, tr, 1100, 1215, science, 238).
+courses(weirl, eco215,2, tr, 1230, 1345, science, 238).
+courses(wellesr, the227,3, null, null, tba, tba, tba).
+courses(wellesr, the227,6, null, null, tba, tba, tba).
+courses(weselcouchc, csc249,1, m, 1600, 1845, science, 135).
+courses(westberryb, soc310,1, m, 1900, 2145, science, 116).
+courses(westberryb, soc318,1, m, 1600, 1845, science, 116).
+courses(westberryb, wst310,1, m, 1900, 2145, science, 116).
+courses(whiteheadb, mat099,1, mwf, 0900, 0950, science, 234).
+courses(whiteheadb, mat135,1, mwf, 0800, 0850, science, 132).
+courses(whitej, edu357,1, t, 1600, 1845, webb, 210).
+courses(whitej, lap430,1, w, 1900, 2145, webb, 113).
+courses(williamsone, ant337,1, mwf, 0800, 0850, webb, 214).
+courses(williamsone, ant345,1, mwf, 0900, 0950, webb, 215).
+courses(wintnerj, art250,1, tr, 1730, 1845, fine_arts, 305).
+courses(woodmanseek, hpe104,2, w, 1600, 1845, goddard, 202).
+courses(wraym, osc260,2, t, 1600, 1845, communications, 201).
+courses(wus, mat099,2, tr, 1600, 1715, science, 234).
+courses(wus, mat135,3, tr, 0930, 1045, science, 132).
+courses(yankovc, mat243,1, mwf, 0900, 0950, science, 114).
+courses(yankovc, mat243,1, w, 0800, 0850, science, 114).
+courses(yankovc, mat243,3, mwf, 1100, 1150, science, 114).
+courses(yankovc, mat243,3, w, 1200, 1250, science, 114).
+courses(yankovc, mat421,1, mwf, 1000, 1050, science, 114).
+courses(youngbloodj, eng201,2, mwf, 1200, 1250, webb, 114).
+courses(youngbloodj, eng330,1, mf, 1400, 1515, webb, 114).
+courses(youngbloodj, hon361,2, mw, 1600, 1715, webb, 114).
+courses(zablonskim, edu405,1, r, 1600, 1845, webb, 212).
+courses(zatowskij, com245,1, t, 1600, 1845, communications, 226).
+courses(zatowskij, com291,1, null, null, tba, tba, tba).
+courses(zatowskij, com490,8, null, null, tba, tba, tba).
+courses(zimmittil, edu470,1, mtwrf, 0800, 1530, tba, tba).
 
 
 %Implication needed in this file
 %Tr to t and r
-courses(A, B, C, r, E, F, G) :- courses(A, B, C, tr, E, F, G).
-courses(A, B, C, t, E, F, G) :- courses(A, B, C, tr, E, F, G).
+courses(A, B, C, r, E, F, G, H) :- courses(A, B, C, tr, E, F, G, H).
+courses(A, B, C, t, E, F, G, H) :- courses(A, B, C, tr, E, F, G, H).
 %MWF
-courses(A, B, C, m, E, F, G) :- courses(A, B, C, mwf, E, F, G).
-courses(A, B, C, w, E, F, G) :- courses(A, B, C, mwf, E, F, G).
-courses(A, B, C, f, E, F, G) :- courses(A, B, C, mwf, E, F, G).
+courses(A, B, C, m, E, F, G, H) :- courses(A, B, C, mwf, E, F, G, H).
+courses(A, B, C, w, E, F, G, H) :- courses(A, B, C, mwf, E, F, G, H).
+courses(A, B, C, f, E, F, G, H) :- courses(A, B, C, mwf, E, F, G, H).
 %mw
-courses(A, B, C, m, E, F, G) :- courses(A, B, C, mw, E, F, G).
-courses(A, B, C, w, E, F, G) :- courses(A, B, C, mw, E, F, G).
+courses(A, B, C, m, E, F, G, H) :- courses(A, B, C, mw, E, F, G, H).
+courses(A, B, C, w, E, F, G, H) :- courses(A, B, C, mw, E, F, G, H).
 %mtwrf
-courses(A, B, C, m, E, F, G) :- courses(A, B, C, mtwrf, E, F, G).
-courses(A, B, C, t, E, F, G) :- courses(A, B, C, mtwrf, E, F, G).
-courses(A, B, C, w, E, F, G) :- courses(A, B, C, mtwrf, E, F, G).
-courses(A, B, C, r, E, F, G) :- courses(A, B, C, mtwrf, E, F, G).
-courses(A, B, C, f, E, F, G) :- courses(A, B, C, mtwrf, E, F, G).
+courses(A, B, C, m, E, F, G, H) :- courses(A, B, C, mtwrf, E, F, G, H).
+courses(A, B, C, t, E, F, G, H) :- courses(A, B, C, mtwrf, E, F, G, H).
+courses(A, B, C, w, E, F, G, H) :- courses(A, B, C, mtwrf, E, F, G, H).
+courses(A, B, C, r, E, F, G, H) :- courses(A, B, C, mtwrf, E, F, G, H).
+courses(A, B, C, f, E, F, G, H) :- courses(A, B, C, mtwrf, E, F, G, H).
 %mf
-courses(A, B, C, m, E, F, G) :- courses(A, B, C, mf, E, F, G).
-courses(A, B, C, f, E, F, G) :- courses(A, B, C, mf, E, F, G).
-
+courses(A, B, C, m, E, F, G, H) :- courses(A, B, C, mf, E, F, G, H).
+courses(A, B, C, f, E, F, G, H) :- courses(A, B, C, mf, E, F, G, H).

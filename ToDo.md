@@ -121,18 +121,25 @@ in_building_at(yankovc, science_162, f, 1100)
 
 #### Eastern Question:
 
-"context": "Dr. Wilde holds office hours either on Monday at 13:00 or on Tuesday at 11:00."
+"context": "Dancik or Anderson is in the science building at 2pm on tuesday"
 
-"question": "Dr. Wilde does not hold office hours on Monday at 13:00. Does that mean she holds office hours on Tuesday at 11:00?"
+"question": "Anderson is not in the science building at 2pm, does this mean Dancik is in the science building at 2pm on tuesday?"
 "answer": "yes".
 
 #### In Prolog:
-oh(wildea, _, communications_204, m, 1300, 1330).
-oh(wildea, _, communications_204, t, 1100, 1300).
+% Either one of the two professors is in the building at the given time
+either_in_building(Prof1, Prof2, Building, Day, Time) :-
+    in_building_at(Prof1, Building, Day, Time);
+    in_building_at(Prof2, Building, Day, Time).
 
-or
+% Disjunctive syllogism: If either P1 or P2 is in building and P1 is not, then P2 is.
+disjunctive_syllogism(P1, P2, Bldg, Day, Time) :-
+    either_in_building(P1, P2, Bldg, Day, Time),
+    \+ in_building_at(P1, Bldg, Day, Time),
+    in_building_at(P2, Bldg, Day, Time).
+%Test Query
+%disjunctive_syllogism(andersond, dancikg, science, t, 1400)
 
-oh(wildea, B, C, D, E, F, G).
 
 ### Hypothetical Syllogism:
 #### Logic Bench:
@@ -144,12 +151,43 @@ oh(wildea, B, C, D, E, F, G).
 
 #### Eastern Question:
 
-"context": "If a professor teaches a class in a building at a given time, then they are in that building at that time. If a professor is in a building at a given time, then they can be consulted by students at that time."
+"context": "If a professor has office hours at a given time, then they are in that building at that time. If a professor is in a building at a given time, then they are available for meetings. Therefore, if a professor has office hours, they are avalaible for meetings."
 
-"question": "Given Prof. Westberry teaches SOC310 in Science_116 on Monday at 19:00, can he be consulted at that time?",
+"question": "Given Dr. Dancik has office hours at 1pm in Science on tuesday, is he available for a meeting at that time?",
 "answer": "yes".
 
 #### In Prolog:
 
-courses(westberryb, soc310, 1, m, 1900, 2145, science_116),
-in_building_at(westberryb, science_116, m, 1900).
+available(Prof, Day, Time) :-
+    oh(Prof, _, _, _, Day, Start, End),
+    within_time(Time, Start, End).
+
+
+can_meet(Prof, Day, Time) :-
+    available(Prof, Day, Time).
+
+% If a professor is in the building at that time, they are available
+implies_in_building_then_available(Prof, Building, Day, Time) :-
+    in_building_at(Prof, Building, Day, Time) ->
+    available(Prof, Day, Time).
+
+% If a professor is available at a given time, you can meet them
+implies_available_then_meetable(Prof, Day, Time) :-
+    available(Prof, Day, Time) ->
+    can_meet(Prof, Day, Time).
+
+% Therefore, if a professor is in the building at that time, you can meet them
+hypothetical_syllogism(Prof, Building, Day, Time) :-
+    in_building_at(Prof, Building, Day, Time),
+    implies_in_building_then_available(Prof, Building, Day, Time),
+    implies_available_then_meetable(Prof, Day, Time),
+    can_meet(Prof, Day, Time).
+%Test query
+%?- hypothetical_syllogism(dancikg, science, t, 1300).
+
+## 4/23/2025
+Seperate out room and building
+
+Fix disjunctive and hypothetical syllogism eastern question prolog statements. Make them not recall
+
+couple(5-6) of eastern questions for each type mix of yes and no
