@@ -73,3 +73,10 @@ hypothetical_syllogism(Prof, Building, Day, Time) :-
     can_meet(Prof, Day, Time).
 %Test query
 %?- hypothetical_syllogism(dancikg, science, t, 1400).
+
+
+p2_must_be_true(Prof1, Prof2, Building, Day, Time) :- 
+    either_in_building(Prof1, Prof2, Building, Day, Time),
+    \+ in_building_at(Prof1, Building, Day, Time).
+%test case p2_must_be_true(andersond, dancikg, science, t, 1400): result true
+%test case p2_must_be_true(tasneems, dancikg, science, t, 1400): result false
