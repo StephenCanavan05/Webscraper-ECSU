@@ -1,0 +1,76 @@
+{
+    "type": "first_order_logic",
+    "axiom": "modus_tollens",
+    "samples": [
+        {
+            "id": 1,
+            "context": "If a student goes to Dr. Dancik's office hours, then they will get help with their project. However, in this situation, John did not get help with his project.",
+            "qa_pairs": [
+                {
+                    "question": "Does this imply that John didn't go to Dr. Dancik's office hours?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "Does this entail that John went to Dr. Dancik's office hours?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "If a student attends CSC 101 class, then they will learn programming basics. Unfortunately, Jack did not learn programming basics.",
+            "qa_pairs": [
+                {
+                    "question": "Does this imply that Jack didn't attend CSC 101?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "Does this imply that Jack attended CSC 101?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "If a student meets with Dr. Gao during office hours, then they will understand algorithms better. However, Judy did not understand algorithms better.",
+            "qa_pairs": [
+                {
+                    "question": "Does this imply that Judy didn't meet with Dr. Gao?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "Does this imply that Judy met with Dr. Gao?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "If a student regularly goes to the Math Lab, then they will improve their calculus skills. However, Mark did not improve his calculus skills.",
+            "qa_pairs": [
+                {
+                    "question": "Does this entail that Mark didn't go to the Math Lab?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "Does this imply that Mark went to the Math Lab?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "If a student attends the ECSU Honors meeting, then they will learn about research opportunities. In this case, Shelley did not learn about research opportunities.",
+            "qa_pairs": [
+                {
+                    "question": "Does this entail that Shelley didn't attend the Honors meeting?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "Does this mean that Shelley attended the Honors meeting?",
+                    "answer": "no"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "type": "first_order_logic",
+    "axiom": "modus_ponens",
+    "samples": [
+        {
+            "id": 1,
+            "context": "If a student attends Dr. Dancik's office hours, then they will receive help with their project. Today, Jack attends Dr. Dancik’s office hours.",
+            "qa_pairs": [
+                {
+                    "question": "Does this entail that he will get project help?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "Does this entail that he won't get project help?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "If a student attends CSC 101 lectures, then they will learn programming basics. In this situation, Sarah attends CSC 101.",
+            "qa_pairs": [
+                {
+                    "question": "Does this mean that she will learn programming basics?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "Does this mean that she won't learn programming basics?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "If a student meets with Dr. Gao during office hours, then they will understand algorithms better. In this case, Sara meets with Dr. Gao.",
+            "qa_pairs": [
+                {
+                    "question": "Does this entail that she will understand algorithms better?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "Does this entail that she won't understand algorithms better?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "If a student attends tutoring at the Math Lab, then they will improve in calculus. Kerry goes to the Math Lab for tutoring.",
+            "qa_pairs": [
+                {
+                    "question": "Does this imply that she will improve in calculus?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "Does this imply that she will not improve in calculus?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "If a student attends an ECSU Honors meeting, then they will learn about research opportunities. Earlier today, Reema attended the Honors meeting.",
+            "qa_pairs": [
+                {
+                    "question": "Does this imply that she will learn about research opportunities?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "Does this imply that she will not learn about research opportunities?",
+                    "answer": "no"
+                }
+            ]
+        }
+    ]
+}

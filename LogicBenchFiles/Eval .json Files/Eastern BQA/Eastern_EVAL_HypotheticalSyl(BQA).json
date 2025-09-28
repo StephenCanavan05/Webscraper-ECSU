@@ -1,0 +1,116 @@
+{
+    "type": "first_order_logic",
+    "axiom": "hypothetical_syllogism",
+    "samples": [
+        {
+            "id": 1,
+            "context": "If a student meets with Dr. Dancik during office hours, then they can get help on their project. Once the project help is received, the student will complete the assignment on time.",
+            "qa_pairs": [
+                {
+                    "question": "If Lily meets with Dr. Dancik, does this mean that she will finish the assignment on time?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "If Lily doesn't meet with Dr. Dancik, does this imply that she won't finish on time?",
+                    "answer": "no"
+                },
+                {
+                    "question": "If Lily meets with Dr. Dancik, does this entail that she won't finish on time?",
+                    "answer": "no"
+                },
+                {
+                    "question": "If Lily doesn't meet with Dr. Dancik, does this imply that she will finish on time?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "If a student attends CSC 101, then they will understand programming basics. Understanding programming basics will result in them passing the midterm exam.",
+            "qa_pairs": [
+                {
+                    "question": "If Adam attends CSC 101, does this mean that he will pass the midterm?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "If Adam doesn't attend CSC 101, does this entail that he won't pass the midterm?",
+                    "answer": "no"
+                },
+                {
+                    "question": "If Adam attends CSC 101, does this imply that he won't pass the midterm?",
+                    "answer": "no"
+                },
+                {
+                    "question": "If Adam doesn't attend CSC 101, does this imply that he will pass the midterm?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "If a student goes to Dr. Gao's office hours, then they can review the algorithms homework. Reviewing the homework will help them perform better on the next quiz.",
+            "qa_pairs": [
+                {
+                    "question": "If Kathy goes to Dr. Gao's office hours, does this mean that she will do well on the quiz?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "If Kathy doesn't go to Dr. Gao's office hours, does this entail that she won't do well on the quiz?",
+                    "answer": "no"
+                },
+                {
+                    "question": "If Kathy goes to Dr. Gao's office hours, does this mean that she won't do well on the quiz?",
+                    "answer": "no"
+                },
+                {
+                    "question": "If Kathy doesn't go to Dr. Gao's office hours, does this entail that she will do well on the quiz?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "If a student regularly attends the ECSU Math Lab, then they will improve their calculus skills. When calculus skills improve, the student will perform better in class.",
+            "qa_pairs": [
+                {
+                    "question": "If John goes to the Math Lab, does this imply that he will do better in class?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "If John doesn't go to the Math Lab, does this imply that he won't do better in class?",
+                    "answer": "no"
+                },
+                {
+                    "question": "If John goes to the Math Lab, does this entail that he won't do better in class?",
+                    "answer": "no"
+                },
+                {
+                    "question": "If John doesn't go to the Math Lab, does this entail that he will do better in class?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "If a student attends the ECSU Honors meeting, then they will hear about upcoming research opportunities. Learning about opportunities will result in being able to apply for them.",
+            "qa_pairs": [
+                {
+                    "question": "If Jill attends the Honors meeting, does this entail that she can apply for opportunities?",
+                    "answer": "yes"
+                },
+                {
+                    "question": "If Jill doesn't attend the Honors meeting, does this entail that she won't be able to apply?",
+                    "answer": "no"
+                },
+                {
+                    "question": "If Jill attends the Honors meeting, does this imply that she won't be able to apply?",
+                    "answer": "no"
+                },
+                {
+                    "question": "If Jill doesn't attend the Honors meeting, does this imply that she will be able to apply?",
+                    "answer": "no"
+                }
+            ]
+        }
+    ]
+}
