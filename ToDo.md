@@ -191,3 +191,39 @@ Seperate out room and building
 Fix disjunctive and hypothetical syllogism eastern question prolog statements. Make them not recall
 
 couple(5-6) of eastern questions for each type mix of yes and no
+
+## 10/6/2025
+Create 5 different Eastern based questions given the different webscraped files. Categories include Modus tollens, recall, and count
+
+### Modus Tollens( If P implies Q and Q is not true then P is not true(P->Q, not Q, then not P))
+1. Given the following dataset about EasternCT course times, we know if a class is labeled as online then it has no physical room. Look at BIS 205 and determine if the class is online?
+
+2. Given the following dataset about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours. Given it is 8:15am, determine if Dr. Dancik is available to meet?
+
+3. Given the following dataset about EasternCT faculty contact info, we know that if we email a professor at there email they will get back to us. Given the email aaidoo@easternct.edu will Anthony aidoo email us back?
+
+4. Looking at the following dataset below about EasternCT course times, we know if a class is listed to take place on "M" it will take place on monday. Looking at HON 361 sec 1, determine if the class will take place on monday.
+
+5. Looking at the following dataset below about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours. Given it is 9:00pm, determine if Dr. Connolly is avaiable to meet?   
+
+### Recall
+1. Given the following dataset about EasternCT course times, what time are all the days and times for all the sections of BIS 205?
+
+2. Given the following dataset about EasternCT faculty office hours, list all computer science professors that have office hours on monday.
+
+3. Given the following dataset about EasternCT faculty contact info, what is the email address of Johnathan atkinson?
+
+4. Looking at the following dataset below about EasternCT course times, what professor teaches HON 375 Sec 1?
+
+5. Looking at the following dataset below about EasternCT faculty office hours, name the computer science professors that have an office on the 200 level of the science building?
+
+### Count
+1. Given the following dataset about EasternCT course times, count the number of sections of BIS 205?
+
+2. Given the following dataset about EasternCT faculty office hours, count the number of Biology professors that have office hours on wednesday.
+
+3. Given the following dataset about EasternCT faculty contact info, count the number of lectures in that are in the computer science department.
+
+4. Looking at the following dataset below about EasternCT course times, count the number of professors that teach an HON course.
+
+5. Looking at the following dataset below about EasternCT faculty office hours, count the number of Mathematical Sciences professors that have an office on th 100 level of the science building?
