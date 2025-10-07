@@ -240,3 +240,6 @@ Create 5 different Eastern based questions given the different webscraped files.
 4. Looking at the following dataset below about EasternCT course times, count the number of professors that teach an HON course.
 
 5. Looking at the following dataset below about EasternCT faculty office hours, count the number of Mathematical Sciences professors that have an office in the science building?
+
+## 10/20/25
+### To: Do, Figures for logic bench questions. Prompting and results for Dataset questions + figures for those too. Start writing methods section refrence proposal but change to what you actually did. Good luck! :/ starting thinking about the results and how they will be formated. Methods sections wont be that long, describe everything you did in great detail!!!
