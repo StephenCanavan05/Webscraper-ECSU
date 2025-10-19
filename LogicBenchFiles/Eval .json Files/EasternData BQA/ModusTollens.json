@@ -1,0 +1,56 @@
+{
+    "type": "first_order_logic",
+    "axiom": "modus_tollens",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Given the following dataset about EasternCT course times, we know if a class is labeled as online then it has no physical room.",
+            "qa_pairs": [
+                {
+                    "question": "Look at BIS 205 and determine if the class is online?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "Given the following dataset about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours.",
+            "qa_pairs": [
+                {
+                    "question": "Given it is 8:15am on monday, determine if Dr. Dancik is available to meet?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "Given the following dataset about EasternCT faculty contact info, we know that if we email a professor at their email they will get back to us.",
+            "qa_pairs": [
+                {
+                    "question": "Given the email aaidoo@easternct.edu will Anthony aidoo email us back?",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "Looking at the following dataset below about EasternCT course times, we know if a class is listed to take place on 'M' it will take place on monday.",
+            "qa_pairs": [
+                {
+                    "question": "Looking at HON 361 sec 1, determine if the class will take place on monday.",
+                    "answer": "no"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "Looking at the following dataset below about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours.",
+            "qa_pairs": [
+                {
+                    "question": "Given it is 9:00pm on friday, determine if Dr. Connolly is avaiable to meet?",
+                    "answer": "no"
+                }
+            ]
+        }
+    ]
+}

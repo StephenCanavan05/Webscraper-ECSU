@@ -1,0 +1,56 @@
+{
+    "type": "first_order_logic",
+    "axiom": "recall",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Given the following dataset about EasternCT course times",
+            "qa_pairs": [
+                {
+                    "question": "what time are all the days and times for all the sections of BIS 205?",
+                    "answer": "Sec 1, tr, 8:00am to 9:15 am, Sec 2, mwf, 8:00am to 8:50, Sec 3, mwf, 9:00am to 9:50am, Sec 4, tr, 9:30am to 10:45am, Sec 5, 7:00pm to 9:45pm "
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "Given the following dataset about EasternCT faculty office hours",
+            "qa_pairs": [
+                {
+                    "question": "list all computer science professors that have office hours on monday.",
+                    "answer": "Atef Bondok, Garret M. Dancik, Kehan Gao, Joel Rosiene"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "Given the following dataset about EasternCT faculty contact info",
+            "qa_pairs": [
+                {
+                    "question": "what is the email address of Johnathan atkinson?",
+                    "answer": "atkinsonjo@easternct.edu"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "Looking at the following dataset below about EasternCT course times",
+            "qa_pairs": [
+                {
+                    "question": "what professor teaches HON 375 Sec 1?",
+                    "answer": "Cochrant"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "Looking at the following dataset below about EasternCT faculty office hours",
+            "qa_pairs": [
+                {
+                    "question": "name the computer science professors that have an office in the science building?",
+                    "answer": "Atef Bondok, Garret M. Dancik, Kehan Gao, Joel Rosiene, Sarah Tasneem"
+                }
+            ]
+        }
+    ]
+}

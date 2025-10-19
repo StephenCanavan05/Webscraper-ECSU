@@ -1,0 +1,56 @@
+{
+    "type": "first_order_logic",
+    "axiom": "count",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Given the following dataset about EasternCT course times",
+            "qa_pairs": [
+                {
+                    "question": "count the number of sections of BIS 205?",
+                    "answer": "5"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "Given the following dataset about EasternCT faculty office hours",
+            "qa_pairs": [
+                {
+                    "question": "count the number of Biology professors that have office hours on wednesday.",
+                    "answer": "11"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "Given the following dataset about EasternCT faculty contact info",
+            "qa_pairs": [
+                {
+                    "question": "count the number of lectures in that are in the computer science department.",
+                    "answer": "11"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "Looking at the following dataset below about EasternCT course times",
+            "qa_pairs": [
+                {
+                    "question": "count the number of professors that teach an HON course.",
+                    "answer": "22"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "Looking at the following dataset below about EasternCT faculty office hours",
+            "qa_pairs": [
+                {
+                    "question": "count the number of Mathematical Sciences professors that have an office in the science building?",
+                    "answer": "11"
+                }
+            ]
+        }
+    ]
+}

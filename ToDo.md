@@ -200,13 +200,13 @@ Create 5 different Eastern based questions given the different webscraped files.
 # adjust to make statements true
 1. Given the following dataset about EasternCT course times, we know if a class is labeled as online then it has no physical room. Look at DSC 505 and determine if the class is online?
 
-2. Given the following dataset about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours. Given it is 1am on monday, determine if Dr. Dancik is available to meet?
+2. Given the following dataset about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours. Given it is 3am on monday, determine if Dr. Dancik is available to meet?
 
-3. Given the following dataset about EasternCT faculty contact info, we know that if we email a professor at their email they will get back to us. Given the email aaidoo@easternct.edu will Anthony aidoo email us back?
+3. Given the following dataset about EasternCT faculty contact info, we know that if we email a professor at their email they will get back to us. Given the email aidooa@easternct.edu will Anthony aidoo email us back?
 
-4. Looking at the following dataset below about EasternCT course times, we know if a class is listed to take place on "M" it will take place on monday. Looking at HON 361 sec 1, determine if the class will take place on monday.
+4. Looking at the following dataset below about EasternCT course times, we know if a class is listed to take place on "M" it will take place on monday. Looking at ART 327 Sec 1, determine if the class will take place on monday.
 
-5. Looking at the following dataset below about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours. Given it is 9:00pm on friday, determine if Dr. Connolly is avaiable to meet?  
+5. Looking at the following dataset below about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours. Given it is 12:30pm on friday, determine if Dr. Connolly is avaiable to meet?  
 
 ### Modus Tollens( If P implies Q and Q is not true then P is not true(P->Q, not Q, then not P))
 1. Given the following dataset about EasternCT course times, we know if a class is labeled as online then it has no physical room. Look at BIS 205 and determine if the class is online?
