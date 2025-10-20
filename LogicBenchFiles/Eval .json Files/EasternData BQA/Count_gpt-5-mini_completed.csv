@@ -1,4 +1,4 @@
-Prompt,Context,Question,Dataset Used,Endprompt,Correct answer,ChatGPT answer
+Prompt,Context,Question,Dataset Used,Endprompt,Correct answer,ChatGPT answer,Correct,Count of Correct,Count of total,Percent Correct
 "Given the following dataset about EasternCT course times
 ' Data is inserted here' count the number of sections of BIS 205?
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -17,7 +17,7 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.",5,5
+Do not reorder, reformat, or add extra text of any kind.",5,5,TRUE,4,5,0.8
 "Given the following dataset about EasternCT faculty office hours
 ' Data is inserted here' count the number of Biology professors that have office hours on wednesday.
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -36,7 +36,7 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.",11,11
+Do not reorder, reformat, or add extra text of any kind.",11,11,TRUE,,,
 "Given the following dataset about EasternCT faculty contact info
 ' Data is inserted here' count the number of lectures in that are in the computer science department.
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -55,7 +55,7 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.",11,8
+Do not reorder, reformat, or add extra text of any kind.",11,8,FALSE,,,
 "Looking at the following dataset below about EasternCT course times
 ' Data is inserted here' count the number of professors that teach an HON course.
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -74,7 +74,7 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.",22,22
+Do not reorder, reformat, or add extra text of any kind.",22,22,TRUE,,,
 "Looking at the following dataset below about EasternCT faculty office hours
 ' Data is inserted here' count the number of Mathematical Sciences professors that have an office in the science building?
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -93,4 +93,4 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.",9,9
+Do not reorder, reformat, or add extra text of any kind.",9,9,TRUE,,,

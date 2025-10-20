@@ -1,4 +1,4 @@
-Prompt,Context,Question,Dataset Used,Endprompt,Correct answer,ChatGPT answer
+Prompt,Context,Question,Dataset Used,Endprompt,Correct answer,ChatGPT answer,Correct,Count of Correct,Count of total,Percent Correct
 "Given the following dataset about EasternCT course times
 ' Data is inserted here' what time are all the days and times for all the sections of BIS 205?
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -17,7 +17,7 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.","Sec 1, tr, 8:00am to 9:15 am, Sec 2, mwf, 8:00am to 8:50, Sec 3, mwf, 9:00am to 9:50am, Sec 4, tr, 9:30am to 10:45am, Sec 5, 7:00pm to 9:45pm ","sec 1, tr, 8:00am to 9:15am, sec 2, mwf, 8:00am to 8:50am, sec 3, mwf, 9:00am to 9:50am, sec 4, tr, 9:30am to 10:45am, sec 5, w, 7:00pm to 9:45pm"
+Do not reorder, reformat, or add extra text of any kind.","Sec 1, tr, 8:00am to 9:15 am, Sec 2, mwf, 8:00am to 8:50, Sec 3, mwf, 9:00am to 9:50am, Sec 4, tr, 9:30am to 10:45am, Sec 5, 7:00pm to 9:45pm ","sec 1, tr, 8:00am to 9:15am, sec 2, mwf, 8:00am to 8:50am, sec 3, mwf, 9:00am to 9:50am, sec 4, tr, 9:30am to 10:45am, sec 5, w, 7:00pm to 9:45pm",TRUE,5,5,1
 "Given the following dataset about EasternCT faculty office hours
 ' Data is inserted here' list all computer science professors that have office hours on monday.
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -36,7 +36,7 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.","Atef Bondok, Garret M. Dancik, Kehan Gao, Joel Rosiene","atef bondok, garrett m. dancik, kehan gao, joel rosiene"
+Do not reorder, reformat, or add extra text of any kind.","Atef Bondok, Garret M. Dancik, Kehan Gao, Joel Rosiene","atef bondok, garrett m. dancik, kehan gao, joel rosiene",TRUE,,,
 "Given the following dataset about EasternCT faculty contact info
 ' Data is inserted here' what is the email address of Johnathan atkinson?
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -55,7 +55,7 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.",atkinsonjo@easternct.edu,atkinsonjo@easternct.edu
+Do not reorder, reformat, or add extra text of any kind.",atkinsonjo@easternct.edu,atkinsonjo@easternct.edu,TRUE,,,
 "Looking at the following dataset below about EasternCT course times
 ' Data is inserted here' what professor teaches HON 375 Sec 1?
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -74,7 +74,7 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.",Cochrant,"cochran, t"
+Do not reorder, reformat, or add extra text of any kind.",Cochrant,"cochran, t",TRUE,,,
 "Looking at the following dataset below about EasternCT faculty office hours
 ' Data is inserted here' name the computer science professors that have an office in the science building?
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -93,4 +93,4 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.","Atef Bondok, Garret M. Dancik, Kehan Gao, Joel Rosiene, Sarah Tasneem","atef bondok, garrett m. dancik, kehan gao, joel rosiene, sarah tasneem"
+Do not reorder, reformat, or add extra text of any kind.","Atef Bondok, Garret M. Dancik, Kehan Gao, Joel Rosiene, Sarah Tasneem","atef bondok, garrett m. dancik, kehan gao, joel rosiene, sarah tasneem",TRUE,,,
