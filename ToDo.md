@@ -243,3 +243,7 @@ Create 5 different Eastern based questions given the different webscraped files.
 
 ## 10/20/25
 ### To: Do, Figures for logic bench questions. Prompting and results for Dataset questions + figures for those too. Start writing methods section refrence proposal but change to what you actually did. Good luck! :/ starting thinking about the results and how they will be formated. Methods sections wont be that long, describe everything you did in great detail!!!
+
+## 10/27/25
+
+### finish methods and start results and send them over. Plus run gpt-5 again and update result graphs gpt-4.1-mini

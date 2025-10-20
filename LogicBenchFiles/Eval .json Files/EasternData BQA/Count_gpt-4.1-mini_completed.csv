@@ -1,0 +1,96 @@
+Prompt,Context,Question,Dataset Used,Endprompt,Correct answer,ChatGPT answer
+"Given the following dataset about EasternCT course times
+ Data is inserted herecount the number of sections of BIS 205?
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",Given the following dataset about EasternCT course times,count the number of sections of BIS 205?,intermediateFiles/Test8Spring2025_Instructor_Course_Schedule_2025-05-07.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",5,5
+"Given the following dataset about EasternCT faculty office hours
+ Data is inserted herecount the number of Biology professors that have office hours on wednesday.
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",Given the following dataset about EasternCT faculty office hours,count the number of Biology professors that have office hours on wednesday.,intermediateFiles/6TestSpring2025_Exclusive_Hours_2025-05-07.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",11,8
+"Given the following dataset about EasternCT faculty contact info
+ Data is inserted herecount the number of lectures in that are in the computer science department.
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",Given the following dataset about EasternCT faculty contact info,count the number of lectures in that are in the computer science department.,intermediateFiles/test10Spring2025_contactinfo_2025-04-02.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",11,16
+"Looking at the following dataset below about EasternCT course times
+ Data is inserted herecount the number of professors that teach an HON course.
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",Looking at the following dataset below about EasternCT course times,count the number of professors that teach an HON course.,intermediateFiles/Test8Spring2025_Instructor_Course_Schedule_2025-05-07.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",22,13
+"Looking at the following dataset below about EasternCT faculty office hours
+ Data is inserted herecount the number of Mathematical Sciences professors that have an office in the science building?
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",Looking at the following dataset below about EasternCT faculty office hours,count the number of Mathematical Sciences professors that have an office in the science building?,intermediateFiles/6TestSpring2025_Exclusive_Hours_2025-05-07.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",9,14
