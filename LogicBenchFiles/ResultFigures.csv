@@ -1,0 +1,26 @@
+BQA		MCQA		EasternBQA		EasternDataBQA
+						
+Dysjunctive Syllogism		Dysjunctive Syllogism		Dysjunctive Syllogism		Dysjunctive Syllogism
+						
+GPT-5	70%	GPT-5	100%	GPT-5	80%	GPT-5
+GPT-4.1	87.50%	GPT-4.1	95%	GPT-4.1	100%	GPT-4.1
+o3	75%	o3	90%	o3	80%	o3
+						
+Hypothetical Syllogism		Hypothetical Syllogism		Hypothetical Syllogism		Hypothetical Syllogism
+						
+GPT-5	83.75%	GPT-5	80%	GPT-5	85%	GPT-5
+GPT-4.1	82.50%	GPT-4.1	85%	GPT-4.1	95%	GPT-4.1
+o3	83.75%	o3	80%	o3	95%	o3
+						
+Modus Ponens		Modus Ponens		Modus Ponens		Modus Ponens
+						
+GPT-5	65%	GPT-5	100%	GPT-5	90%	GPT-5
+GPT-4.1	80%	GPT-4.1	100%	GPT-4.1	100%	GPT-4.1
+o3	72.50%	o3	100%	o3	100%	o3
+						
+Modus Tollens		Modus Tollens		Modus Tollens		Modus Tollens
+						
+						
+GPT-5	72.50%	GPT-5	95%	GPT-5	90%	GPT-5
+GPT-4.1	72.50%	GPT-4.1	85%	GPT-4.1	100%	GPT-4.1
+o3	75%	o3	95%	o3	100%	o3

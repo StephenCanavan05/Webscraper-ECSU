@@ -18,7 +18,7 @@
             "qa_pairs": [
                 {
                     "question": "list all computer science professors that have office hours on monday.",
-                    "answer": "Atef Bondok, Garret M. Dancik, Kehan Gao, Joel Rosiene"
+                    "answer": "atef bondok, garret m. dancik, kehan gao, joel rosiene"
                 }
             ]
         },
@@ -38,7 +38,7 @@
             "qa_pairs": [
                 {
                     "question": "what professor teaches HON 375 Sec 1?",
-                    "answer": "Cochrant"
+                    "answer": "cochran, t"
                 }
             ]
         },
@@ -48,7 +48,7 @@
             "qa_pairs": [
                 {
                     "question": "name the computer science professors that have an office in the science building?",
-                    "answer": "Atef Bondok, Garret M. Dancik, Kehan Gao, Joel Rosiene, Sarah Tasneem"
+                    "answer": "atef bondok, garret m. dancik, kehan gao, joel rosiene, sarah tasneem"
                 }
             ]
         }

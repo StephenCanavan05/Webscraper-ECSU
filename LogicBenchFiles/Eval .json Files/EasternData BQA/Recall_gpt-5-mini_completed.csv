@@ -1,0 +1,96 @@
+Prompt,Context,Question,Dataset Used,Endprompt,Correct answer,ChatGPT answer
+"Given the following dataset about EasternCT course times
+' Data is inserted here' what time are all the days and times for all the sections of BIS 205?
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",Given the following dataset about EasternCT course times,what time are all the days and times for all the sections of BIS 205?,intermediateFiles/Test8Spring2025_Instructor_Course_Schedule_2025-05-07.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.","Sec 1, tr, 8:00am to 9:15 am, Sec 2, mwf, 8:00am to 8:50, Sec 3, mwf, 9:00am to 9:50am, Sec 4, tr, 9:30am to 10:45am, Sec 5, 7:00pm to 9:45pm ","sec 1, tr, 8:00am to 9:15am, sec 2, mwf, 8:00am to 8:50am, sec 3, mwf, 9:00am to 9:50am, sec 4, tr, 9:30am to 10:45am, sec 5, w, 7:00pm to 9:45pm"
+"Given the following dataset about EasternCT faculty office hours
+' Data is inserted here' list all computer science professors that have office hours on monday.
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",Given the following dataset about EasternCT faculty office hours,list all computer science professors that have office hours on monday.,intermediateFiles/6TestSpring2025_Exclusive_Hours_2025-05-07.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.","Atef Bondok, Garret M. Dancik, Kehan Gao, Joel Rosiene","atef bondok, garrett m. dancik, kehan gao, joel rosiene"
+"Given the following dataset about EasternCT faculty contact info
+' Data is inserted here' what is the email address of Johnathan atkinson?
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",Given the following dataset about EasternCT faculty contact info,what is the email address of Johnathan atkinson?,intermediateFiles/test10Spring2025_contactinfo_2025-04-02.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",atkinsonjo@easternct.edu,atkinsonjo@easternct.edu
+"Looking at the following dataset below about EasternCT course times
+' Data is inserted here' what professor teaches HON 375 Sec 1?
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",Looking at the following dataset below about EasternCT course times,what professor teaches HON 375 Sec 1?,intermediateFiles/Test8Spring2025_Instructor_Course_Schedule_2025-05-07.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",Cochrant,"cochran, t"
+"Looking at the following dataset below about EasternCT faculty office hours
+' Data is inserted here' name the computer science professors that have an office in the science building?
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",Looking at the following dataset below about EasternCT faculty office hours,name the computer science professors that have an office in the science building?,intermediateFiles/6TestSpring2025_Exclusive_Hours_2025-05-07.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.","Atef Bondok, Garret M. Dancik, Kehan Gao, Joel Rosiene, Sarah Tasneem","atef bondok, garrett m. dancik, kehan gao, joel rosiene, sarah tasneem"

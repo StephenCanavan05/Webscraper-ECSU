@@ -1,0 +1,96 @@
+Prompt,Context,Question,Dataset Used,Endprompt,Correct answer,ChatGPT answer
+"Given the following dataset about EasternCT course times, we know if a class is labeled as online then it has no physical room.
+' Data is inserted here' Look at DSC 505 and determine if the class is online?
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.","Given the following dataset about EasternCT course times, we know if a class is labeled as online then it has no physical room.",Look at DSC 505 and determine if the class is online?,intermediateFiles/Test8Spring2025_Instructor_Course_Schedule_2025-05-07.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",yes,yes
+"Given the following dataset about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours.
+' Data is inserted here' Given it is 3pm on monday, determine if Dr. Dancik is available to meet?
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.","Given the following dataset about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours.","Given it is 3pm on monday, determine if Dr. Dancik is available to meet?",intermediateFiles/6TestSpring2025_Exclusive_Hours_2025-05-07.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",yes,yes
+"Given the following dataset about EasternCT faculty contact info, we know that if we email a professor at their email they will get back to us.
+' Data is inserted here' Given the email aidooa@easternct.edu will Anthony aidoo email us back?
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.","Given the following dataset about EasternCT faculty contact info, we know that if we email a professor at their email they will get back to us.",Given the email aidooa@easternct.edu will Anthony aidoo email us back?,intermediateFiles/test10Spring2025_contactinfo_2025-04-02.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",yes,yes
+"Looking at the following dataset below about EasternCT course times, we know if a class is listed to take place on 'M' it will take place on monday.
+' Data is inserted here' Looking at ART 327 Sec 1, determine if the class will take place on monday.
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.","Looking at the following dataset below about EasternCT course times, we know if a class is listed to take place on 'M' it will take place on monday.","Looking at ART 327 Sec 1, determine if the class will take place on monday.",intermediateFiles/Test8Spring2025_Instructor_Course_Schedule_2025-05-07.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",yes,yes
+"Looking at the following dataset below about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours.
+' Data is inserted here' Given it is 12:30pm on friday, determine if Dr. Connolly is avaiable to meet?
+If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.","Looking at the following dataset below about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours.","Given it is 12:30pm on friday, determine if Dr. Connolly is avaiable to meet?",intermediateFiles/6TestSpring2025_Exclusive_Hours_2025-05-07.csv,"If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
+
+For recall questions that require listing course sections with times and days, format exactly like this:
+Sec 1, tr, 8:00am to 9:15am, Sec 2, mwf, 8:00am to 8:50am, Sec 3, mwf, 9:00am to 9:50am
+No extra punctuation, no 'and', no trailing periods.
+
+For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
+Jane Doe, Jack H. Ryan, Beth Stevens
+Do not reorder, reformat, or add extra text of any kind.",yes,yes
