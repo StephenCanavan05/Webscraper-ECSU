@@ -1,4 +1,4 @@
-Prompt,Context,Question,Dataset Used,Endprompt,Correct answer,ChatGPT answer
+Prompt,Context,Question,Dataset Used,Endprompt,Correct answer,ChatGPT answer,Correct,Count of Correct,Count of total,Percent Correct
 "Given the following dataset about EasternCT course times, we know if a class is labeled as online then it has no physical room.
  Data is inserted hereLook at BIS 205 and determine if the class is online?
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -17,7 +17,7 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.",no,no
+Do not reorder, reformat, or add extra text of any kind.",no,no,TRUE,3,5,0.6
 "Given the following dataset about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours.
  Data is inserted hereGiven it is 8:15am on monday, determine if Dr. Dancik is available to meet?
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -36,7 +36,7 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.",no,no
+Do not reorder, reformat, or add extra text of any kind.",no,no,TRUE,,,
 "Given the following dataset about EasternCT faculty contact info, we know that if we email a professor at their email they will get back to us.
  Data is inserted hereGiven the email aaidoo@easternct.edu will Anthony aidoo email us back?
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -55,7 +55,7 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.",no,yes
+Do not reorder, reformat, or add extra text of any kind.",no,yes,FALSE,,,
 "Looking at the following dataset below about EasternCT course times, we know if a class is listed to take place on 'M' it will take place on monday.
  Data is inserted hereLooking at HON 361 sec 1, determine if the class will take place on monday.
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -74,7 +74,7 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.",no,yes
+Do not reorder, reformat, or add extra text of any kind.",no,yes,FALSE,,,
 "Looking at the following dataset below about EasternCT faculty office hours, we know that a professor is available to meet if they have office hours.
  Data is inserted hereGiven it is 9:00pm on friday, determine if Dr. Connolly is avaiable to meet?
 If the question is a yes or no question, only answer 'yes' or 'no'. If it is a count or recall question, answer with only the exact number or the exact answer. Do not include any punctuation, explanations, or extra words — just the direct answer.
@@ -93,4 +93,4 @@ No extra punctuation, no 'and', no trailing periods.
 
 For recall questions that require listing names, use the professor's full name exactly as displayed in the dataset, in the same order they appear. Separate names with a comma and a space, like this:
 Jane Doe, Jack H. Ryan, Beth Stevens
-Do not reorder, reformat, or add extra text of any kind.",no,no
+Do not reorder, reformat, or add extra text of any kind.",no,no,TRUE,,,
