@@ -27,7 +27,7 @@
             "context": "Given the following dataset about EasternCT faculty contact info",
             "qa_pairs": [
                 {
-                    "question": "count the number of lectures in that are in the computer science department.",
+                    "question": "count the number of lectures that are in the computer science department.",
                     "answer": "11"
                 }
             ]

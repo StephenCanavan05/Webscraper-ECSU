@@ -26,13 +26,13 @@ in_building_at(Prof, Building, Day, Time) :-
     within_time(Time, Start, End).
 
 % How many profs are in this department?
-count_contacts(Count, X) :-
+count_contacts(Count, X, Y) :-
 
-    findall(_, contact(_, _, _, X, _, _), Results),
+    findall(_, contact(_, _, Y, X, _, _), Results),
 
     length(Results, Count).
 
-% count_contacts(Count,computer_science).
+% count_contacts(Count,computer_science, lecturer).
 
 % Either one of the two professors is in the building at the given time
 either_in_building(Prof1, Prof2, Building, Day, Time) :-
@@ -47,7 +47,6 @@ disjunctive_syllogism(P1, P2, Bldg, Day, Time) :-
 %Test Query
 %disjunctive_syllogism(andersond, dancikg, science, t, 1400)
 
-%Hypothetical sylogism
 available(Prof, Day, Time) :-
     oh(Prof, _, _, _, Day, Start, End),
     within_time(Time, Start, End).
@@ -55,13 +54,22 @@ available(Prof, Day, Time) :-
 
 can_meet(Prof, Day, Time) :-
     available(Prof, Day, Time).
-%Test query: can_meet(dancikg, t, 1350). Result: True
-%Test query: can_meet(gaok, m, 1250). Result: False
 
+% If a professor is in the building at that time, they are available
+implies_in_building_then_available(Prof, Building, Day, Time) :-
+    in_building_at(Prof, Building, Day, Time) ->
+    available(Prof, Day, Time).
 
+% If a professor is available at a given time, you can meet them
+implies_available_then_meetable(Prof, Day, Time) :-
+    available(Prof, Day, Time) ->
+    can_meet(Prof, Day, Time).
 
-p2_must_be_true(Prof1, Prof2, Building, Day, Time) :- 
-    either_in_building(Prof1, Prof2, Building, Day, Time),
-    \+ in_building_at(Prof1, Building, Day, Time).
-%test case p2_must_be_true(andersond, dancikg, science, t, 1400): result true
-%test case p2_must_be_true(tasneems, dancikg, science, t, 1400): result false
+% Therefore, if a professor is in the building at that time, you can meet them
+hypothetical_syllogism(Prof, Building, Day, Time) :-
+    in_building_at(Prof, Building, Day, Time),
+    implies_in_building_then_available(Prof, Building, Day, Time),
+    implies_available_then_meetable(Prof, Day, Time),
+    can_meet(Prof, Day, Time).
+%Test query
+%?- hypothetical_syllogism(dancikg, science, t, 1400).
